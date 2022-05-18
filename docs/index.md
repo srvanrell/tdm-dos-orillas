@@ -4,6 +4,22 @@ You can use the [editor on GitHub](https://github.com/srvanrell/tdm-dos-orillas/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Posts test html
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+### Posts test markdown
+
+{% for post in site.posts %}
+- [{{ post.url }}]({{ post.title }})
+{% endfor %}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
