@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Posts test markdown
 
 {% for post in site.posts %}
-- [{{ post.url }}]({{ post.title }})
+- [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 ### Markdown
