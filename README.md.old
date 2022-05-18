@@ -1,5 +1,0 @@
-# tdm-dos-orillas Web
-
-Source code of [tdm-dos-orillas web](https://srvanrell.github.io/tdm-dos-orillas), the table tennis rankings of the region.
-
-Ranking updates are computed with [rtt](https://github.com/srvanrell/ranking-table-tennis), a ranking engine for tennis table.
