@@ -1,5 +1,5 @@
-domain: srvanrell.github.io/tdm-dos-orillas      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https:///srvanrell.github.io/tdm-dos-orillas  # the base hostname and protocol for your site, e.g. http://example.com
+# domain: srvanrell.github.io/tdm-dos-orillas      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+# url: https:///srvanrell.github.io/tdm-dos-orillas  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /tdm-dos-orillas/docs/
 
 theme: jekyll-theme-minimal
