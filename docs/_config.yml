@@ -3,6 +3,3 @@ url: https:///srvanrell.github.io/tdm-dos-orillas  # the base hostname and proto
 baseurl: /tdm-dos-orillas/source
 
 theme: jekyll-theme-minimal
-
-plugins:
-  - jekyll-sitemap
