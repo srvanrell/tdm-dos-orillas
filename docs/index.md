@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Te damos la bienvenida
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Aquí podrás encontrar información y enlaces útiles para estar al tanto de la liga Dos Orillas y el tenis de mesa de la región.
 
-## Commands
+## Torneos
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Los torneos son organizados por las asociaciones de Paraná y Santa Fe. Estate atento a los avisos en redes sociales para saber cuando es el próximo.
 
-## Project layout
+## ¿Dónde puedo entrenar?
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Consultanos en las páginas de facebook por los días, lugares y horarios específicos para cada localidad.
+
+## Encontranos en facebook
+
+* [Asociación Paranaense de Tenis de Mesa (Aspatem)](https://www.facebook.com/Aspatem) [Paraná]
+* [Asociación de Tenis de Mesa del Litoral (ATeMeLi)](https://www.facebook.com/tenisdemesa.santafe) [Santa Fe]
+* [Club Atlético Tiro Federal (CATF) Tenis de Mesa](https://www.facebook.com/CATFTDM/) [Paraná]
