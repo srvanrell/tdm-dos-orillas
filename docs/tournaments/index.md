@@ -1,3 +1,3 @@
-# Otra pagina
+# Torneos
 
-Algo.
+Algo de los torneos.
