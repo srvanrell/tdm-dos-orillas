@@ -2,6 +2,7 @@ name: ci-site-publisher
 on:
   push:
     branches:
+      - master
       - test-mkdocs-material
 jobs:
   deploy:
