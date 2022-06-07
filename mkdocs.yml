@@ -16,6 +16,7 @@ theme:
   language: es
   icon:
     logo: material/table-tennis
+  favicon: assets/images/favicon.svg
 
 markdown_extensions:
   - attr_list
