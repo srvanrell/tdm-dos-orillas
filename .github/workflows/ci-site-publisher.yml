@@ -2,8 +2,7 @@ name: ci-site-publisher
 on:
   push:
     branches:
-      - master
-      - test-mkdocs-material
+      - 'test-mkdocs-material'
 jobs:
   deploy:
     runs-on: ubuntu-latest
