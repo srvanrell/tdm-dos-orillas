@@ -1,4 +1,4 @@
-# Te damos la bienvenida
+# Inicio
 
 Aquí podrás encontrar información y enlaces útiles para estar al tanto de la liga Dos Orillas y el tenis de mesa de la región.
 
@@ -8,7 +8,7 @@ Los torneos son organizados por las asociaciones de Paraná y Santa Fe. Estate a
 
 ## ¿Dónde puedo entrenar?
 
-Consultanos en las páginas de facebook por los días, lugares y horarios específicos para cada localidad.
+Consultanos en las redes sociales por los días, lugares y horarios específicos para cada localidad.
 
 ## Encontranos en facebook
 
