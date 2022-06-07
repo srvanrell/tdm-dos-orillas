@@ -17,6 +17,8 @@ theme:
   icon:
     logo: material/table-tennis
   favicon: assets/images/favicon.svg
+  features:
+    - navigation.tabs
 
 markdown_extensions:
   - attr_list
