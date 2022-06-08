@@ -22,6 +22,8 @@ theme:
     - toc.integrate
 
 markdown_extensions:
+  - meta
+  - tables
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
@@ -29,6 +31,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.snippets:
+      base_path: 'snippets'
 
 extra:
   analytics:
@@ -39,3 +43,8 @@ copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2022 &copy; Sebastián Vanrel
 
 repo_url: https://github.com/srvanrell/ranking-table-tennis
 repo_name: srvanrell/ranking-table-tennis
+
+# plugins:
+  # - search
+  # - macros:
+  #     include_dir: includes
