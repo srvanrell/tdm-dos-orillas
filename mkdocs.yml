@@ -19,7 +19,9 @@ theme:
   favicon: assets/images/favicon.svg
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - toc.integrate
+    - content.tabs.link
 
 markdown_extensions:
   - meta
@@ -43,6 +45,7 @@ copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2022 &copy; Sebastián Vanrel
 
 repo_url: https://github.com/srvanrell/ranking-table-tennis
 repo_name: srvanrell/ranking-table-tennis
+edit_uri: ""
 
 # plugins:
   # - search
