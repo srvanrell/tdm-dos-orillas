@@ -18,6 +18,8 @@ theme:
     logo: material/table-tennis
   favicon: assets/images/favicon.svg
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.top
     - navigation.tabs
     - navigation.tabs.sticky
@@ -52,5 +54,13 @@ edit_uri: ""
 plugins:
   - search
   - macros
-  # - macros:
-  #     include_dir: includes
+
+nav:
+    - Inicio: index.md
+    - Campeonato: season/2022/championship.md
+    - Nivel de Juego / Categorías: season/2022/rating.md
+    - season/2022/matches.md
+    - season/2022/historical.md
+    - season/2022/statistics.md
+    - season/2022/regulation.md
+    - Temporadas anteriores: season
