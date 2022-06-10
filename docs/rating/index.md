@@ -44,3 +44,7 @@ tournaments:
     --8<-- "{{ tournament.id }}/Log_Rating.md"
 
 {% endfor %}
+
+!!! note ""
+
+    Los scripts usados para realizar todos los cálculos están en [github]({{ config.repo_url }}).

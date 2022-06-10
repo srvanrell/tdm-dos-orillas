@@ -13,6 +13,11 @@ categories:
 
 # Campeonato
 
+!!! note ""
+
+    Aquí podés ver como viene el **campeonato** en cada una de las **categorías**. 
+    Los **primeros 8 jugadores** en cada categoría son quiénes clasificarán a la **copa de maestros** a fin de año.
+
 {% for category in categories %}
 ## {{ category }}
 
