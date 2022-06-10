@@ -19,6 +19,7 @@ categories:
     Los **primeros 8 jugadores** en cada categoría son quiénes clasificarán a la **copa de maestros** a fin de año.
 
 {% for category in categories %}
+
 ## {{ category }}
 
 {% for tournament in tournaments %}
@@ -29,7 +30,6 @@ categories:
     --8<-- "{{ tournament.id }}/Primera.md"
 
 {% endfor %}
-
 {% endfor %}
 
     <!-- [vista para imprimir](../../../../S2022T01/Primera_Torneo_01_2022.md) -->
