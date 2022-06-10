@@ -18,6 +18,7 @@ theme:
     logo: material/table-tennis
   favicon: assets/images/favicon.svg
   features:
+    - navigation.top
     - navigation.tabs
     - navigation.tabs.sticky
     - toc.integrate
@@ -27,6 +28,7 @@ markdown_extensions:
   - meta
   - tables
   - attr_list
+  - admonition
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -47,7 +49,8 @@ repo_url: https://github.com/srvanrell/ranking-table-tennis
 repo_name: srvanrell/ranking-table-tennis
 edit_uri: ""
 
-# plugins:
-  # - search
+plugins:
+  - search
+  - macros
   # - macros:
   #     include_dir: includes

@@ -1,44 +1,30 @@
+---
+tournaments:
+  - id: S2022T02
+    name: Torneo 02
+  - id: S2022T01
+    name: Torneo 01
+
+categories:
+  - Primera
+  - Segunda
+  - Tercera
+---
+
 # Campeonato
 
+{% for category in categories %}
+## {{ category }}
 
-## Información del torneo
+{% for tournament in tournaments %}
+=== "{{ tournament.name }}"
 
-=== "Torneo 2"
+    --8<-- "{{ tournament.id }}/Metadata.md"
 
-    metadata2
+    --8<-- "{{ tournament.id }}/Primera.md"
 
-=== "Torneo 1"
+{% endfor %}
 
-    metadata1
-
-## Primera
-
-=== "Torneo 2"
-
-    --8<-- "S2022T02/Primera_Torneo_02_2022.md"
-
-=== "Torneo 1"
-
-    --8<-- "S2022T01/Primera_Torneo_01_2022.md"
+{% endfor %}
 
     <!-- [vista para imprimir](../../../../S2022T01/Primera_Torneo_01_2022.md) -->
-
-## Segunda
-
-=== "Torneo 2"
-
-    --8<-- "S2022T02/Segunda_Torneo_02_2022.md"
-
-=== "Torneo 1"
-
---8<-- "S2022T01/Segunda_Torneo_01_2022.md"
-
-## Tercera
-
-=== "Torneo 2"
-
-    --8<-- "S2022T02/Tercera_Torneo_02_2022.md"
-
-=== "Torneo 1"
-
-    --8<-- "S2022T01/Tercera_Torneo_01_2022.md"
