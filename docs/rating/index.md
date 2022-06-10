@@ -28,3 +28,19 @@ tournaments:
 === "Inicial"
 
     --8<-- "{{ tournaments[0].id }}/Nivel_de_Juego_Inicial.md"
+
+## Detalles de la asignación de puntos
+
+!!! note ""
+
+    Aquí podes ver el detalle de asignación de puntos de nivel de juego, torneo a torneo. 
+    En el [reglamento](../reglamento.md) se explican las consideraciones para asignar puntos de campeonato y los cálculos de nivel de juego.
+
+{% for tournament in tournaments %}
+=== "{{ tournament.name }}"
+
+    --8<-- "{{ tournament.id }}/Metadata.md"
+
+    --8<-- "{{ tournament.id }}/Log_Rating.md"
+
+{% endfor %}
