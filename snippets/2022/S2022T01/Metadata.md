@@ -1,3 +1,3 @@
-| Nombre del torneo | Fecha | Lugar |
-|:-----------------:|:-----:|:---------:|
-| Torneo 1 2022     | 2022 01 01 | Paraná |
+|      Nombre del torneo       |   Fecha    |  Lugar   |
+|:----------------------------:|:----------:|:--------:|
+| Torneo 01 - Liga Dos Orillas | 2022 02 27 | Santa Fe |

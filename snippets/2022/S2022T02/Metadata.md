@@ -1,3 +1,3 @@
-| Nombre del torneo | Fecha | Lugar |
-|:-----------------:|:-----:|:---------:|
-| Torneo 2 2022     | 2022 02 01 | Santa Fe |
+|      Nombre del torneo       |   Fecha    |         Lugar         |
+|:----------------------------:|:----------:|:---------------------:|
+| Torneo 02 - Liga Dos Orillas | 2022 03 27 | Tiro Federal - Parana |
