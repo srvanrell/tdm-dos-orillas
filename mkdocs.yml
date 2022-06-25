@@ -1,0 +1,73 @@
+site_name: Tenis de Mesa - Liga Dos Orillas
+site_url: https://srvanrell.github.io/tdm-dos-orillas
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Cambiar a modo oscuro 
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Cambiar a modo claro
+  language: es
+  icon:
+    logo: material/table-tennis
+  favicon: assets/images/favicon.svg
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - content.tabs.link
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - meta
+  - tables
+  - attr_list
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      base_path: 'snippets'
+
+repo_url: https://github.com/srvanrell/ranking-table-tennis
+repo_name: srvanrell/ranking-table-tennis
+edit_uri: ""
+
+plugins:
+  - search
+  - macros:
+      include_dir: snippets
+      on_error_fail: true
+      include_yaml:
+          - seasons.yaml
+
+extra:
+  analytics:
+    provider: google
+    property: G-268156801
+
+nav:
+    - Inicio: index.md
+    - Campeonato: season/current/championship.md
+    - Nivel de Juego / Categorías: season/current/rating.md
+    - Partidos: season/current/matches.md
+    - Historial por Jugador: season/current/historical.md
+    - Estadísticas: season/current/statistics.md
+    - Reglamento: season/current/regulation.md
+    - Temporadas anteriores: season/index.md
+
+copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2022 &copy; Sebastián Vanrell
