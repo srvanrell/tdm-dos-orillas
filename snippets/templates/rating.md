@@ -13,15 +13,15 @@
   {% for tournament in season.tournaments %}
 === "{{ tournament.name }}"
 
-    --8<-- "{{ tournament.id }}/Metadata.md"
+    --8<-- "{{ season.name }}/{{ tournament.id }}/Metadata.md"
 
-    --8<-- "{{ tournament.id }}/Nivel_de_Juego.md"
+    --8<-- "{{ season.name }}/{{ tournament.id }}/Nivel_de_Juego.md"
 
   {% endfor %}
 
 === "Inicial"
 
-    --8<-- "{{ season.tournaments[0].id }}/Nivel_de_Juego_Inicial.md"
+    --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_Inicial.md"
 
 ## Detalles de la asignación de puntos
 
@@ -33,9 +33,9 @@
   {% for tournament in season.tournaments %}
 === "{{ tournament.name }}"
 
-    --8<-- "{{ tournament.id }}/Metadata.md"
+    --8<-- "{{ season.name }}/{{ tournament.id }}/Metadata.md"
 
-    --8<-- "{{ tournament.id }}/Log_Rating.md"
+    --8<-- "{{ season.name }}/{{ tournament.id }}/Log_Rating.md"
 
   {% endfor %}
 

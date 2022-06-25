@@ -52,30 +52,13 @@ plugins:
   - macros:
       include_dir: snippets
       on_error_fail: true
+      include_yaml:
+          - seasons.yaml
 
 extra:
   analytics:
     provider: google
     property: G-268156801
-  seasons:
-    - name: 2022
-      tournaments:
-        - id: S2022T02
-          name: Torneo 02
-        - id: S2022T01
-          name: Torneo 01
-      categories:
-        - Primera
-        - Segunda
-        - Tercera
-    - name: 2021
-      tournaments:
-        - id: S2021T01
-          name: Torneo 01
-      categories:
-        - Primera
-        - Segunda
-        - Tercera
 
 nav:
     - Inicio: index.md

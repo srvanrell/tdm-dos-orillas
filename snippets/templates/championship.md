@@ -14,9 +14,9 @@
    {% for tournament in season.tournaments %}
 === "{{ tournament.name }}"
 
-    --8<-- "{{ tournament.id }}/Metadata.md"
+    --8<-- "{{ season.name }}/{{ tournament.id }}/Metadata.md"
 
-    --8<-- "{{ tournament.id }}/Primera.md"
+    --8<-- "{{ season.name }}/{{ tournament.id }}/Primera.md"
 
    {% endfor %}
   {% endfor %}
