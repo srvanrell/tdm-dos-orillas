@@ -1,4 +1,5 @@
 site_name: Tenis de Mesa - Liga Dos Orillas
+site_url: https://srvanrell.github.io/tdm-dos-orillas
 
 theme:
   name: material
@@ -27,6 +28,8 @@ theme:
     - content.tabs.link
 
 markdown_extensions:
+  - toc:
+      permalink: true
   - meta
   - tables
   - attr_list
@@ -40,27 +43,48 @@ markdown_extensions:
   - pymdownx.snippets:
       base_path: 'snippets'
 
-extra:
-  analytics:
-    provider: google
-    property: G-268156801
-
-copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2022 &copy; Sebastián Vanrell
-
 repo_url: https://github.com/srvanrell/ranking-table-tennis
 repo_name: srvanrell/ranking-table-tennis
 edit_uri: ""
 
 plugins:
   - search
-  - macros
+  - macros:
+      include_dir: snippets
+      on_error_fail: true
+
+extra:
+  analytics:
+    provider: google
+    property: G-268156801
+  seasons:
+    - name: 2022
+      tournaments:
+        - id: S2022T02
+          name: Torneo 02
+        - id: S2022T01
+          name: Torneo 01
+      categories:
+        - Primera
+        - Segunda
+        - Tercera
+    - name: 2021
+      tournaments:
+        - id: S2021T01
+          name: Torneo 01
+      categories:
+        - Primera
+        - Segunda
+        - Tercera
 
 nav:
     - Inicio: index.md
-    - Campeonato: season/2022/championship.md
-    - Nivel de Juego / Categorías: season/2022/rating.md
-    - season/2022/matches.md
-    - season/2022/historical.md
-    - season/2022/statistics.md
-    - season/2022/regulation.md
-    - Temporadas anteriores: season
+    - Campeonato: season/current/championship.md
+    - Nivel de Juego / Categorías: season/current/rating.md
+    - Partidos: season/current/matches.md
+    - Historial por Jugador: season/current/historical.md
+    - Estadísticas: season/current/statistics.md
+    - Reglamento: season/current/regulation.md
+    - Temporadas anteriores: season/index.md
+
+copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2022 &copy; Sebastián Vanrell
