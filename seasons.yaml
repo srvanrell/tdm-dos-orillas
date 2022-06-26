@@ -13,11 +13,11 @@ seasons:
       - Primera
       - Segunda
       - Tercera
-  - name: 2021
-    tournaments:
-      - id: S2021T01
-        name: Torneo 01
-    categories:
-      - Primera
-      - Segunda
-      - Tercera
+  # - name: 2021
+  #   tournaments:
+  #     - id: S2021T01
+  #       name: Torneo 01
+  #   categories:
+  #     - Primera
+  #     - Segunda
+  #     - Tercera

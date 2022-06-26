@@ -6,7 +6,7 @@
 
     Aquí podes ver el nivel de juego y la categoría de cada jugador luego de cada torneo. 
     El cambio respecto del torneo anterior se indica entre paréntesis. 
-    Aquellos jugadores que no han participado durante el año pueden verificar si tienen un nivel de juego asignado en la hoja Inicial 2022.
+    Aquellos jugadores que no han participado durante el año pueden verificar si tienen un nivel de juego asignado en la hoja Inicial.
 
 {% for season in seasons %}
  {% if season.name == season_name %}
