@@ -12,17 +12,17 @@
 |   segunda   |    1352 (-7)     |   Fontana, Fausto    |   Parana    |   Aspatem    |
 |   segunda   |     1347 (=)     |      Soto, Luis      |   Parana    | Tiro Federal |
 |   segunda   |    1341 (-45)    |  Fernandez, Carlos   |   Parana    | Tiro Federal |
-|   segunda   |    1304 (+64)    |    Figueroa, Axel    |   Parana    |   Aspatem    |
 |   segunda   |    1278 (-11)    |   Gatti, Sebastian   |   Parana    |              |
 |   segunda   |    1278 (+15)    |     Maili, Elias     |   Parana    |   Aspatem    |
+|   segunda   |    1254 (+14)    |    Figueroa, Axel    |   Parana    |   Aspatem    |
 |   segunda   |     1170 (=)     |  Ferretti, Gustavo   |  Santa Fe   |   Atemeli    |
 |   segunda   |    1059 (+53)    |   Bonelli, Marcos    |   Parana    |   Aspatem    |
+|   segunda   |    984 (+33)     |     Levin, Raul      |   Parana    |              |
 |   segunda   |     977 (=)      |   Escudero, Martin   |  Santa Fe   |   Atemeli    |
 |   segunda   |     960 (=)      |     Goy, Gerardo     | Reconquista |    ATMAR     |
 |   segunda   |     951 (=)      |  Palamedi, Cristian  |  Santa Fe   |   Atemeli    |
 |   segunda   |    950 (-50)     |   Mendieta, Elias    |  Santa Fe   |              |
 |   tercera   |    945 (+66)     |   Vigouroux, Jorge   |  San Justo  | Tiro Federal |
-|   tercera   |    934 (-17)     |     Levin, Raul      |   Parana    |              |
 |   tercera   |     916 (=)      |    Godano, Franco    |  Santa Fe   |   ATEMELI    |
 |   tercera   |    904 (-20)     |  Alvarez, Sebastian  |  Santa Fe   |   Atemeli    |
 |   tercera   |     896 (=)      |   Gandolfo, Carlos   |   Parana    | Tiro Federal |

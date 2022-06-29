@@ -58,13 +58,13 @@
 |  Bonelli, Marcos (1006)   |   Ledesma, Jonas (422)    |     584      |        2         |        -2         |    zona     |   segunda   |    1     |
 |    Maili, Elias (1263)    |  Gatti, Sebastian (1289)  |     -26      |        22        |        -22        |   cuartos   |   segunda   |    1     |
 |    Maili, Elias (1263)    |   Figueroa, Axel (1240)   |      23      |        18        |        -18        |  semifinal  |   segunda   |    1     |
+|     Levin, Raul (951)     |   Figueroa, Axel (1240)   |     -289     |        42        |        -42        |    zona     |   segunda   |    1     |
 |  Perot, Alejandro (1674)  |   Figueroa, Axel (1240)   |     434      |        2         |        -2         |    zona     |   primera   |   0.5    |
 |   Nohara, Andres (1428)   |   Figueroa, Axel (1240)   |     188      |        5         |        -5         |    zona     |   primera   |   0.5    |
 |    Maili, Elias (1263)    |  Bonelli, Marcos (1006)   |     257      |        8         |        -8         |    final    |   segunda   |    1     |
 |  Gatti, Sebastian (1289)  |  Bonelli, Marcos (1006)   |     283      |        8         |        -8         |    zona     |   segunda   |    1     |
-|   Figueroa, Axel (1240)   |     Levin, Raul (951)     |     289      |        8         |        -8         |    zona     |   segunda   |    1     |
-|  Bonelli, Marcos (1006)   |     Levin, Raul (951)     |      55      |        14        |        -14        |   cuartos   |   segunda   |    1     |
 |   Figueroa, Axel (1240)   |  Fontana, Fausto (1359)   |     -119     |        30        |        -30        |   cuartos   |   segunda   |    1     |
 |   Figueroa, Axel (1240)   |  Fontana, Fausto (1359)   |     -119     |        30        |        -30        |    zona     |   primera   |    1     |
 |  Perot, Alejandro (1674)  |  Fontana, Fausto (1359)   |     315      |        3         |        -3         |    zona     |   primera   |   0.5    |
+|  Bonelli, Marcos (1006)   |     Levin, Raul (951)     |      55      |        14        |        -14        |   cuartos   |   segunda   |    1     |
 |  Bonelli, Marcos (1006)   | Fernandez, Carlos (1386)  |     -380     |        48        |        -48        |  semifinal  |   segunda   |    1     |
