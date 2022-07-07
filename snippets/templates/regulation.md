@@ -1,3 +1,3 @@
 # Reglamento {{ season_name }}
 
-A ser completado.
+Accesible en el [antiguo sitio web](https://sites.google.com/site/tdmdosorillas/).

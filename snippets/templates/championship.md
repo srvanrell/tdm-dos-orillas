@@ -16,7 +16,7 @@
 
     --8<-- "{{ season.name }}/{{ tournament.id }}/Metadata.md"
 
-    --8<-- "{{ season.name }}/{{ tournament.id }}/Primera.md"
+    --8<-- "{{ season.name }}/{{ tournament.id }}/{{ category }}.md"
 
    {% endfor %}
   {% endfor %}

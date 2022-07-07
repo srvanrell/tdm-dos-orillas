@@ -1,6 +1,8 @@
 # Temporadas anteriores
 
-{% for season in seasons %}
+Accesibles en el [antiguo sitio web](https://sites.google.com/site/tdmdosorillas/).
+
+{% for season in seasons[1:] %}
 
 ## {{ season.name }}
 

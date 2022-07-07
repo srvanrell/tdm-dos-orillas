@@ -10,7 +10,7 @@ Los torneos son organizados por las asociaciones de Paraná y Santa Fe. Estate a
 
 Consultanos en las redes sociales por los días, lugares y horarios específicos para cada localidad.
 
-## Encontranos en facebook
+## Encontranos en redes sociales
 
 * [Asociación Paranaense de Tenis de Mesa (Aspatem)](https://www.facebook.com/Aspatem) [Paraná]
 * [Asociación de Tenis de Mesa del Litoral (ATeMeLi)](https://www.facebook.com/tenisdemesa.santafe) [Santa Fe]
