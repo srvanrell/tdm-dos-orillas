@@ -28,7 +28,7 @@
 !!! note ""
 
     Aquí podes ver el detalle de asignación de puntos de nivel de juego, torneo a torneo. 
-    En el [reglamento](./regulation.md) se explican las consideraciones para asignar puntos de campeonato y los cálculos de nivel de juego.
+    En el [reglamento](./rules.md) se explican las consideraciones para asignar puntos de campeonato y los cálculos de nivel de juego.
 
   {% for tournament in season.tournaments %}
 === "{{ tournament.name }}"
