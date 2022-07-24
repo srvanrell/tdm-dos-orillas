@@ -43,15 +43,39 @@ A lo largo del año los jugadores acumularán **puntos para el campeonato** de a
 
 **Tabla 1.** Puntos de campeonato de acuerdo a la mejor ubicación alcanzada por categoría.
 
-| <br> **Ubicación**        | <<< <br> **Primera**     | **Categoría** <br> **Segunda**     | >>> <br> **Tercera**     |
-|:--------------------:|:---------------:|:---------------:|:---------------:|
-| Primero | 1000 | 500 | 250 |
-| Segundo | 750 | 375 | 190 |
-| Tercero | 500 | 250 | 125 |
-| Cuartos de final | 250 | 125 | 65 |
-| Octavos de final | 150 | 75 | 40 |
-| 16avos de final | 120 | 60 | 30 |
-| Zona | 100 | 50 | 25 |
+<table>
+  <tr>
+   <td></td>
+   <td colspan="3" ><strong>Categoría</strong></td>
+  </tr>
+  <tr>
+   <td><strong>Ubicación</strong></td>
+   <td><strong>Primera</strong></td>
+   <td><strong>Segunda</strong></td>
+   <td><strong>Tercera</strong></td>
+  </tr>
+  <tr>
+   <td>Primero</td><td>1000</td><td>500</td><td>250</td>
+  </tr>
+  <tr>
+   <td>Segundo</td><td>750</td><td>375</td><td>190</td>
+  </tr>
+  <tr>
+   <td>Tercero</td><td>500</td><td>250</td><td>125</td>
+  </tr>
+  <tr>
+   <td>Cuartos de final</td><td>250</td><td>125</td><td>65</td>
+  </tr>
+  <tr>
+   <td>Octavos de final</td><td>150</td><td>75</td><td>40</td>
+  </tr>
+  <tr>
+   <td>16avos de final</td><td>120</td><td>60</td><td>30</td>
+  </tr>
+  <tr>
+   <td>Zona</td><td>100</td><td>50</td><td>25</td>
+  </tr>
+</table>
 
 ## Categorías
 
