@@ -81,9 +81,17 @@ A lo largo del año los jugadores acumularán **puntos para el campeonato** de a
 
 Los **jugadores** serán ordenados por su **nivel de juego** y divididos en **categorías** de la siguiente manera:
 
+### Desde el 01/01/2022 hasta el 24/07/2022
+
 * **Primera:** los jugadores con un puntaje mayor o igual a 1400 en el nivel de juego,
 * **Segunda:** los jugadores con un puntaje entre 950 y 1399 en el nivel de juego,
 * **Tercera:** los jugadores con un puntaje entre 0 y 949 en el nivel de juego.
+
+### Desde el 25/07/2022 hasta el 31/12/2022
+
+* **Primera:** los jugadores con un puntaje mayor o igual a 1300 en el nivel de juego,
+* **Segunda:** los jugadores con un puntaje entre 700 y 1299 en el nivel de juego,
+* **Tercera:** los jugadores con un puntaje entre 0 y 699 en el nivel de juego.
 
 El **ascenso y descenso** de los jugadores será automático y resultará del nivel de juego que obtengan luego de cada torneo.
 

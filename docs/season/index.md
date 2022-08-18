@@ -1,6 +1,6 @@
 # Temporadas anteriores
 
-Accesibles en el [antiguo sitio web](https://sites.google.com/site/tdmdosorillas/).
+Accesibles en el [viejo sitio web](https://sites.google.com/site/tdmdosorillas/).
 
 {% for season in seasons[1:] %}
 
