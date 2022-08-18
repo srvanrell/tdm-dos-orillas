@@ -1,6 +1,8 @@
 seasons:
   - name: 2022
     tournaments:
+      - id: S2022T06
+        name: Torneo 06
       - id: S2022T05
         name: Torneo 05
       - id: S2022T04

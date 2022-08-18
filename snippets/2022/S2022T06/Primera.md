@@ -1,0 +1,20 @@
+|  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |      Jugador       |   Ciudad    |  Afiliación  |                             Puntos sumados                              |
+|:----------:|:----------------------:|:-----------------:|:------------------:|:-----------:|:------------:|:-----------------------------------------------------------------------:|
+|     1      |      3850 (+1000)      |         6         |  Perot, Alejandro  |  Santa Fe   |   Atemeli    | 1000 (T04) + 1000 (T06) + 750 (T02) + 500 (T03) + 500 (T01) + 100 (T05) |
+|     2      |        3100 (=)        |         4         |    Perot, David    |  Santa Fe   |   Atemeli    |            1000 (T01) + 1000 (T03) + 1000 (T02) + 100 (T05)             |
+|     3      |      2100 (+750)       |         5         | Velazquez, Marcelo |  Santa Fe   |   AteMeLi    |        750 (T06) + 500 (T02) + 500 (T01) + 250 (T03) + 100 (T05)        |
+|     4      |      1750 (+500)       |         4         |   Nohara, Andres   |   Parana    |              |              500 (T06) + 500 (T04) + 500 (T02) + 250 (T03)              |
+|     5      |        1500 (=)        |         2         |  Schenquer, Diego  |  Santa Fe   |   Atemeli    |                          750 (T03) + 750 (T01)                          |
+|     6      |       900 (+500)       |         3         | Palamedi, Cristian |  Santa Fe   |   Atemeli    |                    500 (T06) + 250 (T02) + 150 (T03)                    |
+|     7      |        750 (=)         |         1         |  Fontana, Fausto   |   Parana    |   Aspatem    |                                750 (T04)                                |
+|     8      |        600 (=)         |         3         | Lofeudo, Juan Jose |  Santa Fe   |   Atemeli    |                    250 (T03) + 250 (T01) + 100 (T05)                    |
+|            |        600 (=)         |         3         |   Mendez, Carlos   |  Santa Fe   |   Atemeli    |                    250 (T03) + 250 (T02) + 100 (T05)                    |
+|     10     |        500 (=)         |         1         | Heredia, Santiago  |  Santa Fe   |   Atemeli    |                                500 (T03)                                |
+|            |        500 (=)         |         1         |   Figueroa, Axel   |   Parana    |   Aspatem    |                                500 (T04)                                |
+|     12     |        250 (=)         |         1         |  Migoni, Nicolas   |   Parana    |   Aspatem    |                                250 (T02)                                |
+|            |        250 (=)         |         1         |    Maili, Elias    |   Parana    |   Aspatem    |                                250 (T04)                                |
+|            |        250 (=)         |         1         | Ferretti, Gustavo  |  Santa Fe   |   Atemeli    |                                250 (T01)                                |
+|            |        250 (=)         |         1         |    Goy, Gerardo    | Reconquista |    ATMAR     |                                250 (T02)                                |
+|     16     |        150 (=)         |         1         |  Bonelli, Marcos   |   Parana    |   Aspatem    |                                150 (T02)                                |
+|     17     |        100 (=)         |         1         | Blanco, Francisco  |  Santa Fe   |   Atemeli    |                                100 (T05)                                |
+|            |       100 (+100)       |         1         |  Milesi, Leandro   |             |              |                                100 (T06)                                |
