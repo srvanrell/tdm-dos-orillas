@@ -18,7 +18,7 @@
 |                      |   tercera   |    octavos    | S2022T02 |
 |                      |             |    octavos    | S2022T04 |
 |  Blanco, Francisco   |             |               |          |
-|                      |   primera   |     zona      | S2022T05 |
+|                      |   primera   |    tercero    | S2022T05 |
 |    Boetti, Genaro    |             |               |          |
 |                      |   tercera   |    octavos    | S2022T03 |
 |                      |             |   semifinal   | S2022T04 |
@@ -111,14 +111,14 @@
 |  Lofeudo, Juan Jose  |             |               |          |
 |                      |   primera   |    cuartos    | S2022T01 |
 |                      |             |    cuartos    | S2022T03 |
-|                      |             |     zona      | S2022T05 |
+|                      |             |    segundo    | S2022T05 |
 |     Maili, Elias     |             |               |          |
 |                      |   segunda   |    primero    | S2022T04 |
 |                      |   primera   |    cuartos    | S2022T04 |
 |    Mendez, Carlos    |             |               |          |
 |                      |   primera   |    cuartos    | S2022T02 |
 |                      |             |    cuartos    | S2022T03 |
-|                      |             |     zona      | S2022T05 |
+|                      |             |    cuartos    | S2022T05 |
 |   Mendieta, Elias    |             |               |          |
 |                      |   tercera   |    cuartos    | S2022T04 |
 |                      |   segunda   |    octavos    | S2022T05 |
@@ -156,12 +156,12 @@
 |                      |             |    segundo    | S2022T02 |
 |                      |             |   semifinal   | S2022T03 |
 |                      |             |    primero    | S2022T04 |
-|                      |             |     zona      | S2022T05 |
+|                      |             |    tercero    | S2022T05 |
 |     Perot, David     |             |               |          |
 |                      |   primera   |    primero    | S2022T01 |
 |                      |             |    primero    | S2022T02 |
 |                      |             |    primero    | S2022T03 |
-|                      |             |     zona      | S2022T05 |
+|                      |             |    primero    | S2022T05 |
 |     Pilotti, Paz     |             |               |          |
 |                      |   tercera   |    octavos    | S2022T03 |
 |    Prettis, Juan     |             |               |          |
@@ -196,7 +196,7 @@
 |                      |   primera   |   semifinal   | S2022T01 |
 |                      |             |   semifinal   | S2022T02 |
 |                      |             |    cuartos    | S2022T03 |
-|                      |             |     zona      | S2022T05 |
+|                      |             |    cuartos    | S2022T05 |
 |    Vetrano, Luca     |             |               |          |
 |                      |   tercera   |    octavos    | S2022T03 |
 |                      |             |    octavos    | S2022T04 |

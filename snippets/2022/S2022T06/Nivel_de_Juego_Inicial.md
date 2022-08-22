@@ -149,8 +149,8 @@
 |       807        |        Uziel, Yuri         |        Parana         | Tiro Federal |
 |       800        |       Vetrano, Luca        |                       |              |
 |       791        |      Heinzen, Gonzalo      |                       |              |
-|       779        |       Fucks, Alyssa        | Libertador San Martin |     CRL      |
 |       779        |       Godoy, Franco        |       Esperanza       |     ATME     |
+|       779        |       Fucks, Alyssa        | Libertador San Martin |     CRL      |
 |       778        |        Pitana, Enzo        |                       |              |
 |       772        |     Welschen, Nicolas      |        Parana         |   Aspatem    |
 |       772        |        Migoni, Alan        |        Parana         |   Aspatem    |

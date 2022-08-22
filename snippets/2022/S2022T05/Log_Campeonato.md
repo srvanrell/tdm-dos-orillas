@@ -1,11 +1,11 @@
 |      Jugador       |  Categoría  |  Mejor Ronda  |  Puntos de Campeonato  |
 |:------------------:|:-----------:|:-------------:|:----------------------:|
-|    Perot, David    |   primera   |     zona      |          100           |
-|   Mendez, Carlos   |   primera   |     zona      |          100           |
-| Lofeudo, Juan Jose |   primera   |     zona      |          100           |
-| Velazquez, Marcelo |   primera   |     zona      |          100           |
-|  Perot, Alejandro  |   primera   |     zona      |          100           |
-| Blanco, Francisco  |   primera   |     zona      |          100           |
+|    Perot, David    |   primera   |    primero    |          1000          |
+|   Mendez, Carlos   |   primera   |    cuartos    |          250           |
+| Velazquez, Marcelo |   primera   |    cuartos    |          250           |
+| Lofeudo, Juan Jose |   primera   |    segundo    |          750           |
+|  Perot, Alejandro  |   primera   |    tercero    |          500           |
+| Blanco, Francisco  |   primera   |    tercero    |          500           |
 |    Levin, Raul     |   segunda   |    segundo    |          375           |
 | Palamedi, Cristian |   segunda   |   semifinal   |          250           |
 |  Bonelli, Marcos   |   segunda   |   semifinal   |          250           |
