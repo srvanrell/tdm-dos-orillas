@@ -13,6 +13,7 @@
 |  Perot, Alejandro (1681)  | Velazquez, Marcelo (1415) |     266      |        8         |        -8         |    zona     |   primera   |    1     |
 | Velazquez, Marcelo (1415) | Palamedi, Cristian (976)  |     439      |        2         |        -2         |    zona     |   primera   |   0.5    |
 | Velazquez, Marcelo (1415) |   Milesi, Leandro (989)   |     426      |        2         |        -2         |    zona     |   primera   |   0.5    |
+|                           |                           |              |                  |                   |             |             |          |
 |  Escudero, Martin (977)   |   Milesi, Leandro (989)   |     -12      |        18        |        -18        |   cuartos   |   segunda   |    1     |
 |  Gatti, Sebastian (1278)  |  Vigouroux, Manuel (423)  |     855      |        1         |        -1         |   cuartos   |   segunda   |   0.5    |
 | Palamedi, Cristian (976)  |  Vigouroux, Jorge (946)   |      30      |        8         |        -8         |   cuartos   |   segunda   |   0.5    |
@@ -45,6 +46,7 @@
 |  Vigouroux, Jorge (946)   | Alvarez, Sebastian (904)  |      42      |        16        |        -16        |    zona     |   segunda   |    1     |
 |  Vigouroux, Jorge (946)   |   Cordoba, Jose (1388)    |     -442     |        84        |        -84        |    zona     |   segunda   |   1.5    |
 |  Vigouroux, Manuel (423)  |  Colavini, Daniel (751)   |     -328     |        48        |        -48        |    zona     |   segunda   |    1     |
+|                           |                           |              |                  |                   |             |             |          |
 |   Acosta, Gaston (598)    |   Boetti, Genaro (649)    |     -51      |        26        |        -26        |   cuartos   |   tercera   |    1     |
 |   Jaime, Gerardo (791)    |  Colavini, Daniel (751)   |      40      |        16        |        -16        |   cuartos   |   tercera   |    1     |
 |  Vigouroux, Jorge (946)   |   Acuna, Santiago (750)   |     196      |        10        |        -10        |   cuartos   |   tercera   |    1     |

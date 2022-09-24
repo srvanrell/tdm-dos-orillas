@@ -26,6 +26,7 @@
 |  Perot, Alejandro (1708)  |    Schiker, Omar (1290)    |     418      |        2         |        -2         |    zona     |   primera   |   0.5    |
 |    Perot, David (2044)    | Velazquez, Marcelo (1403)  |     641      |        2         |        -2         |    zona     |   primera   |    1     |
 |    Perot, David (2044)    |  Heredia, Santiago (1589)  |     455      |        4         |        -4         |    zona     |   primera   |    1     |
+|                           |                            |              |                  |                   |             |             |          |
 |   Boetti, Genaro (619)    |  Vigouroux, Manuel (586)   |      33      |        16        |        -16        |   cuartos   |   segunda   |    1     |
 |  Escudero, Martin (990)   |    Prettis, Juan (813)     |     177      |        10        |        -10        |   cuartos   |   segunda   |    1     |
 |     Levin, Raul (920)     |   Bonelli, Marcos (1040)   |     -120     |        30        |        -30        |   cuartos   |   segunda   |    1     |
@@ -61,6 +62,7 @@
 |  Vigouroux, Jorge (1082)  |   Colavini, Daniel (690)   |     392      |        3         |        -3         |    zona     |   segunda   |   0.5    |
 |  Vigouroux, Manuel (586)  |     Uziel, Yuri (865)      |     -279     |        63        |        -63        |    zona     |   segunda   |   1.5    |
 |  Vigouroux, Manuel (586)  |    Vetrano, Luca (640)     |     -54      |        26        |        -26        |    zona     |   segunda   |    1     |
+|                           |                            |              |                  |                   |             |             |          |
 |   Boetti, Genaro (619)    |    Acosta, Gaston (616)    |      3       |        18        |        -18        |   cuartos   |   tercera   |    1     |
 |   Suarez, Milton (694)    |   Savino, Leandro (698)    |      -4      |        18        |        -18        |   cuartos   |   tercera   |    1     |
 |    Vetrano, Luca (640)    |    Palamedi, Uma (416)     |     224      |        8         |        -8         |   cuartos   |   tercera   |    1     |

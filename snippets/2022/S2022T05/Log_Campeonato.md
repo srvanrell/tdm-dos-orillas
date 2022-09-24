@@ -6,6 +6,7 @@
 | Lofeudo, Juan Jose |   primera   |    segundo    |          750           |
 |  Perot, Alejandro  |   primera   |    tercero    |          500           |
 | Blanco, Francisco  |   primera   |    tercero    |          500           |
+|                    |             |               |                        |
 |    Levin, Raul     |   segunda   |    segundo    |          375           |
 | Palamedi, Cristian |   segunda   |   semifinal   |          250           |
 |  Bonelli, Marcos   |   segunda   |   semifinal   |          250           |
@@ -18,6 +19,7 @@
 |   Acosta, Gaston   |   segunda   |    octavos    |           75           |
 |   Boetti, Genaro   |   segunda   |    octavos    |           75           |
 |   Nohara, Andres   |   segunda   |    primero    |          500           |
+|                    |             |               |                        |
 |  Colavini, Daniel  |   tercera   |    octavos    |           40           |
 | Vigouroux, Manuel  |   tercera   |    octavos    |           40           |
 |  Costanza, Roque   |   tercera   |    octavos    |           40           |

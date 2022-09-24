@@ -13,6 +13,7 @@
 |   primera   |     1352 (=)     |   Fontana, Fausto    |   Parana    |   Aspatem    |
 |   primera   |    1343 (-4)     |      Soto, Luis      |   Parana    | Tiro Federal |
 |   primera   |     1341 (=)     |  Fernandez, Carlos   |   Parana    | Tiro Federal |
+|             |                  |                      |             |              |
 |   segunda   |   1287 (-101)    |    Cordoba, Jose     |             |              |
 |   segunda   |     1278 (=)     |     Maili, Elias     |   Parana    |   Aspatem    |
 |   segunda   |    1273 (-5)     |   Gatti, Sebastian   |   Parana    |              |
@@ -38,6 +39,7 @@
 |   segunda   |     764 (=)      |    Reniero, Gian     |             |              |
 |   segunda   |    764 (+14)     |   Acuna, Santiago    |             |              |
 |   segunda   |     748 (=)      |   Costanza, Roque    |             |              |
+|             |                  |                      |             |              |
 |   tercera   |     698 (=)      |   Savino, Leandro    |  Santa Fe   |   Atemeli    |
 |   tercera   |     694 (=)      |    Suarez, Milton    |  Santa Fe   |              |
 |   tercera   |    690 (-61)     |   Colavini, Daniel   | Santo Tome  |   Atemeli    |
@@ -59,8 +61,8 @@
 |   tercera   |    482 (-26)     |    Gomez, Gabriel    |   Parana    | Tiro Federal |
 |   tercera   |     478 (+4)     | Vigouroux, Santiago  |  San Justo  | Tiro Federal |
 |   tercera   |    432 (+58)     |    Almada, Pablo     |             |              |
-|   tercera   |     416 (=)      |    Ledesma, Jonas    |             |              |
 |   tercera   |     416 (-6)     |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |
+|   tercera   |     416 (=)      |    Ledesma, Jonas    |             |              |
 |   tercera   |     408 (=)      |    Benicio, Oscar    |   Parana    |   Aspatem    |
 |   tercera   |     374 (=)      |    Diaz, Benjamin    |             |              |
 |   tercera   |     342 (=)      |  Vivanco, Cristian   |             |              |

@@ -8,6 +8,7 @@
 |   primera   |     1492 (=)     |   Migoni, Nicolas    |   Parana    |   Aspatem    |
 |   primera   |     1476 (=)     |    Mendez, Carlos    |  Santa Fe   |   Atemeli    |
 |   primera   |     1471 (=)     |  Velazquez, Marcelo  |  Santa Fe   |   AteMeLi    |
+|             |                  |                      |             |              |
 |   segunda   |    1391 (-37)    |    Nohara, Andres    |   Parana    |              |
 |   segunda   |    1352 (-7)     |   Fontana, Fausto    |   Parana    |   Aspatem    |
 |   segunda   |     1347 (=)     |      Soto, Luis      |   Parana    | Tiro Federal |
@@ -22,6 +23,7 @@
 |   segunda   |     960 (=)      |     Goy, Gerardo     | Reconquista |    ATMAR     |
 |   segunda   |     951 (=)      |  Palamedi, Cristian  |  Santa Fe   |   Atemeli    |
 |   segunda   |    950 (-50)     |   Mendieta, Elias    |  Santa Fe   |              |
+|             |                  |                      |             |              |
 |   tercera   |    945 (+66)     |   Vigouroux, Jorge   |  San Justo  | Tiro Federal |
 |   tercera   |     916 (=)      |    Godano, Franco    |  Santa Fe   |   ATEMELI    |
 |   tercera   |    904 (-20)     |  Alvarez, Sebastian  |  Santa Fe   |   Atemeli    |

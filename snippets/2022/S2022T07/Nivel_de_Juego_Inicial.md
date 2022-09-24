@@ -85,8 +85,8 @@
 |       1067       |       Banfi, Franco        |        Parana         |   Aspatem    |
 |       1065       |        Chiara, Joel        |        Parana         |   Aspatem    |
 |       1063       |      Escudero, Martin      |       Santa Fe        |   Atemeli    |
-|       1056       |      Mazzola, Hernan       |       Santa Fe        |              |
 |       1056       |      Montenegro, Ana       |      Avellaneda       |    ATMAR     |
+|       1056       |      Mazzola, Hernan       |       Santa Fe        |              |
 |       1054       |      Welschen, Pablo       |        Parana         |   Aspatem    |
 |       1048       |        Utz, Andrea         | Libertador San Martin |     CRL      |
 |       1040       |      Vigouroux, Jorge      |       San Justo       | Tiro Federal |
@@ -100,12 +100,12 @@
 |       1008       |     Botta, Maximiliano     |      Reconquista      |    ATMAR     |
 |       1003       |       Barcelo, Mateo       |                       |    ATMAR     |
 |       1001       |      Franco, Emiliano      |        Parana         |   Aspatem    |
-|       1000       |      Mendieta, Elias       |       Santa Fe        |              |
-|       1000       |       Badano, Pablo        |        Parana         |   Aspatem    |
-|       1000       |      Asenie, Santiago      | Libertador San Martin |              |
+|       1000       |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |
 |       1000       |        Hagge, Pilar        |       Santa Fe        |   Atemeli    |
 |       1000       |        Presel, Raul        |        Parana         |   Aspatem    |
-|       1000       |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |
+|       1000       |       Badano, Pablo        |        Parana         |   Aspatem    |
+|       1000       |      Asenie, Santiago      | Libertador San Martin |              |
+|       1000       |      Mendieta, Elias       |       Santa Fe        |              |
 |       998        |      Fernandez, Dario      |                       |              |
 |       994        |       Perot, Martin        |       Santa Fe        |   Atemeli    |
 |       990        |      Bernal, Facundo       |       Santa Fe        |   Atemeli    |
@@ -217,17 +217,17 @@
 |       611        |      Aguirre, Sandra       |        Parana         |   Aspatem    |
 |       609        |      Gambino, Sergio       |        Parana         |   Aspatem    |
 |       603        |       Jaime, Gerardo       |        Parana         |   Aspatem    |
-|       600        |        Pilotti, Paz        |                       |              |
 |       600        |      Morello, Manuel       |                       |              |
+|       600        |        Pilotti, Paz        |                       |              |
 |       596        |      Rios, Sebastian       |                       |              |
 |       592        |      Cabrera, Carlos       |                       |              |
 |       588        |      Bracco, Fernando      |                       |              |
 |       588        |    Dallinger, Humberto     |        Parana         | Tiro Federal |
 |       586        |       Erbetta, Pablo       |        Parana         | Tiro Federal |
 |       584        |     Ferreyra, Enrique      |       Santa Fe        |              |
-|       570        |      Ranzani, Esteban      |                       |              |
-|       570        |       Barrios, Tomas       |                       |              |
 |       570        |    Bernard, Maximiliano    |                       |              |
+|       570        |       Barrios, Tomas       |                       |              |
+|       570        |      Ranzani, Esteban      |                       |              |
 |       568        |       Prettis, Juan        |                       |              |
 |       550        |     Escalante, Samuel      |                       |              |
 |       550        |    Musuruana, Francisco    |                       |              |

@@ -20,8 +20,8 @@
 |     18     |         40 (=)         |         1         |    Migoni, Anibal    |   Parana    |   Aspatem    |             40 (T02)             |
 |            |        40 (+40)        |         1         |   Depaoli, Luciano   |  Santa Fe   |   Atemeli    |             40 (T03)             |
 |            |        40 (+40)        |         1         |    Vetrano, Luca     |             |              |             40 (T03)             |
-|            |        40 (+40)        |         1         |   Morello, Manuel    |             |              |             40 (T03)             |
 |            |        40 (+40)        |         1         |     Pilotti, Paz     |             |              |             40 (T03)             |
+|            |        40 (+40)        |         1         |   Morello, Manuel    |             |              |             40 (T03)             |
 |            |        40 (+40)        |         1         | Musuruana, Francisco |             |              |             40 (T03)             |
 |            |         40 (=)         |         1         |    Gomez, Gabriel    |   Parana    | Tiro Federal |             40 (T02)             |
 |            |        40 (+40)        |         1         |  Vigouroux, Manuel   |  San Justo  | Tiro Federal |             40 (T03)             |

@@ -13,6 +13,7 @@
 |    Blanco, Daniel    |   primera   |    cuartos    |          250           |
 |   Perot, Alejandro   |   primera   |    segundo    |          750           |
 |   Vigouroux, Jorge   |   primera   |     zona      |          100           |
+|                      |             |               |                        |
 |   Escudero, Martin   |   segunda   |   semifinal   |          250           |
 |    Boetti, Genaro    |   segunda   |   semifinal   |          250           |
 |     Levin, Raul      |   segunda   |    primero    |          500           |
@@ -29,6 +30,7 @@
 |  Vigouroux, Manuel   |   segunda   |    cuartos    |          125           |
 |   Bonelli, Marcos    |   segunda   |    cuartos    |          125           |
 |    Prettis, Juan     |   segunda   |    cuartos    |          125           |
+|                      |             |               |                        |
 |   Colavini, Daniel   |   tercera   |    octavos    |           40           |
 |    Barrios, Tomas    |   tercera   |    octavos    |           40           |
 | Bernard, Maximiliano |   tercera   |    octavos    |           40           |

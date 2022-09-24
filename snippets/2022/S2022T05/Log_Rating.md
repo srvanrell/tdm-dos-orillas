@@ -15,6 +15,7 @@
 |    Perot, David (2026)    |   Mendez, Carlos (1476)   |     550      |        2         |        -2         |    zona     |   primera   |    1     |
 |    Perot, David (2026)    | Blanco, Francisco (1545)  |     481      |        4         |        -4         |    zona     |   primera   |    1     |
 |    Perot, David (2026)    | Lofeudo, Juan Jose (1550) |     476      |        4         |        -4         |    zona     |   primera   |    1     |
+|                           |                           |              |                  |                   |             |             |          |
 |  Bonelli, Marcos (1059)   |    Vetrano, Luca (711)    |     348      |        3         |        -3         |   cuartos   |   segunda   |   0.5    |
 |     Levin, Raul (984)     |  Vigouroux, Jorge (945)   |      39      |        8         |        -8         |   cuartos   |   segunda   |   0.5    |
 |   Nohara, Andres (1391)   |    Reniero, Gian (714)    |     677      |        1         |        -1         |   cuartos   |   segunda   |   0.5    |
@@ -38,6 +39,7 @@
 |    Reniero, Gian (714)    |  Vigouroux, Manuel (455)  |     259      |        8         |        -8         |    zona     |   segunda   |    1     |
 |    Vetrano, Luca (711)    |   Boetti, Genaro (678)    |      33      |        16        |        -16        |    zona     |   segunda   |    1     |
 |  Vigouroux, Jorge (945)   |  Colavini, Daniel (704)   |     241      |        8         |        -8         |    zona     |   segunda   |    1     |
+|                           |                           |              |                  |                   |             |             |          |
 |   Acosta, Gaston (565)    |   Savino, Leandro (704)   |     -139     |        30        |        -30        |   cuartos   |   tercera   |    1     |
 |   Milesi, Leandro (945)   |   Boetti, Genaro (678)    |     267      |        8         |        -8         |   cuartos   |   tercera   |    1     |
 |    Reniero, Gian (714)    |    Palamedi, Uma (368)    |     346      |        6         |        -6         |   cuartos   |   tercera   |    1     |

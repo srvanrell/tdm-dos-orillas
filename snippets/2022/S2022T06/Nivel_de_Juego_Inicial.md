@@ -31,7 +31,6 @@
 |       1410       |       Botta, Adrian        |      Reconquista      |    ATMAR     |
 |       1406       |     Feresin, Ezequiel      |      Reconquista      |              |
 |       1405       |      Allendez, Tiago       | Libertador San Martin |     CRL      |
-|       1405       |       Schiker, Omar        |        Rosario        |   Asateme    |
 |       1392       |       Albano, Javier       |       Santa Fe        |   Atemeli    |
 |       1390       |       Mendez, Diego        |       Santa Fe        |   Atemeli    |
 |       1388       |       Cordoba, Jose        |                       |              |
@@ -47,6 +46,7 @@
 |       1298       |      Palacios, Arturo      |      Corrientes       |     FCTM     |
 |       1292       |       Blanco, German       |       Santa Fe        |   Atemeli    |
 |       1291       |      Fontana, Fausto       |        Parana         |   Aspatem    |
+|       1290       |       Schiker, Omar        |        Rosario        |   Asateme    |
 |       1289       |      Gatti, Sebastian      |        Parana         |              |
 |       1263       |        Maili, Elias        |        Parana         |   Aspatem    |
 |       1240       |       Figueroa, Axel       |        Parana         |   Aspatem    |
@@ -85,8 +85,8 @@
 |       1067       |       Banfi, Franco        |        Parana         |   Aspatem    |
 |       1065       |        Chiara, Joel        |        Parana         |   Aspatem    |
 |       1063       |      Escudero, Martin      |       Santa Fe        |   Atemeli    |
-|       1056       |      Mazzola, Hernan       |       Santa Fe        |              |
 |       1056       |      Montenegro, Ana       |      Avellaneda       |    ATMAR     |
+|       1056       |      Mazzola, Hernan       |       Santa Fe        |              |
 |       1054       |      Welschen, Pablo       |        Parana         |   Aspatem    |
 |       1048       |        Utz, Andrea         | Libertador San Martin |     CRL      |
 |       1040       |      Vigouroux, Jorge      |       San Justo       | Tiro Federal |
@@ -100,12 +100,12 @@
 |       1008       |     Botta, Maximiliano     |      Reconquista      |    ATMAR     |
 |       1003       |       Barcelo, Mateo       |                       |    ATMAR     |
 |       1001       |      Franco, Emiliano      |        Parana         |   Aspatem    |
-|       1000       |      Mendieta, Elias       |       Santa Fe        |              |
-|       1000       |       Badano, Pablo        |        Parana         |   Aspatem    |
-|       1000       |      Asenie, Santiago      | Libertador San Martin |              |
+|       1000       |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |
 |       1000       |        Hagge, Pilar        |       Santa Fe        |   Atemeli    |
 |       1000       |        Presel, Raul        |        Parana         |   Aspatem    |
-|       1000       |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |
+|       1000       |       Badano, Pablo        |        Parana         |   Aspatem    |
+|       1000       |      Asenie, Santiago      | Libertador San Martin |              |
+|       1000       |      Mendieta, Elias       |       Santa Fe        |              |
 |       998        |      Fernandez, Dario      |                       |              |
 |       994        |       Perot, Martin        |       Santa Fe        |   Atemeli    |
 |       990        |      Bernal, Facundo       |       Santa Fe        |   Atemeli    |
@@ -149,8 +149,8 @@
 |       807        |        Uziel, Yuri         |        Parana         | Tiro Federal |
 |       800        |       Vetrano, Luca        |                       |              |
 |       791        |      Heinzen, Gonzalo      |                       |              |
-|       779        |       Godoy, Franco        |       Esperanza       |     ATME     |
 |       779        |       Fucks, Alyssa        | Libertador San Martin |     CRL      |
+|       779        |       Godoy, Franco        |       Esperanza       |     ATME     |
 |       778        |        Pitana, Enzo        |                       |              |
 |       772        |     Welschen, Nicolas      |        Parana         |   Aspatem    |
 |       772        |        Migoni, Alan        |        Parana         |   Aspatem    |
@@ -225,9 +225,12 @@
 |       588        |    Dallinger, Humberto     |        Parana         | Tiro Federal |
 |       586        |       Erbetta, Pablo       |        Parana         | Tiro Federal |
 |       584        |     Ferreyra, Enrique      |       Santa Fe        |              |
+|       570        |    Bernard, Maximiliano    |                       |              |
+|       570        |       Barrios, Tomas       |                       |              |
+|       570        |      Ranzani, Esteban      |                       |              |
 |       568        |       Prettis, Juan        |                       |              |
-|       550        |    Musuruana, Francisco    |                       |              |
 |       550        |     Escalante, Samuel      |                       |              |
+|       550        |    Musuruana, Francisco    |                       |              |
 |       548        |       Gomez, Gabriel       |        Parana         | Tiro Federal |
 |       530        |        Moreno, Aixa        |        Parana         |   Aspatem    |
 |       528        |     Scheggia, Ignacio      |       Santa Fe        |   Atemeli    |
@@ -261,6 +264,7 @@
 |       408        |     Benitez, Benjamin      |                       |              |
 |       402        |     Troncoso, Mauricio     |                       |              |
 |       400        |       Diaz, Benjamin       |                       |              |
+|       400        |      Micocci, Matias       |                       |              |
 |       386        |       Almada, Pablo        |                       |              |
 |       368        |     Vivanco, Cristian      |                       |              |
 |       366        |     Barrientos, Norma      |        Parana         | Tiro Federal |

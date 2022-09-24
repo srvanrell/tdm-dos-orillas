@@ -5,6 +5,7 @@
 | Velazquez, Marcelo  |   primera   |    segundo    |          750           |
 |  Perot, Alejandro   |   primera   |    primero    |          1000          |
 |   Milesi, Leandro   |   primera   |     zona      |          100           |
+|                     |             |               |                        |
 |  Escudero, Martin   |   segunda   |   semifinal   |          250           |
 |  Gatti, Sebastian   |   segunda   |   semifinal   |          250           |
 |     Soto, Luis      |   segunda   |    segundo    |          375           |
@@ -20,6 +21,7 @@
 |  Vigouroux, Manuel  |   segunda   |    cuartos    |          125           |
 |    Cordoba, Jose    |   segunda   |    cuartos    |          125           |
 |   Milesi, Leandro   |   segunda   |    cuartos    |          125           |
+|                     |             |               |                        |
 |  Colavini, Daniel   |   tercera   |    cuartos    |           65           |
 | Vigouroux, Santiago |   tercera   |    cuartos    |           65           |
 |   Boetti, Genaro    |   tercera   |    cuartos    |           65           |

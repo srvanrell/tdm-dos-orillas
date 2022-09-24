@@ -35,10 +35,10 @@
 |            |         40 (=)         |         1         |   Depaoli, Luciano   |  Santa Fe   |   Atemeli    |                             40 (T03)                             |
 |            |         40 (=)         |         1         |   Costanza, Roque    |             |              |                             40 (T05)                             |
 |            |         40 (=)         |         1         |    Comas, Javier     |   Parana    |   Aspatem    |                             40 (T06)                             |
-|            |         40 (=)         |         1         |   Morello, Manuel    |             |              |                             40 (T03)                             |
 |            |         40 (=)         |         1         |     Pilotti, Paz     |             |              |                             40 (T03)                             |
-|            |        40 (+40)        |         1         | Bernard, Maximiliano |             |              |                             40 (T07)                             |
+|            |         40 (=)         |         1         |   Morello, Manuel    |             |              |                             40 (T03)                             |
 |            |        40 (+40)        |         1         |    Barrios, Tomas    |             |              |                             40 (T07)                             |
+|            |        40 (+40)        |         1         | Bernard, Maximiliano |             |              |                             40 (T07)                             |
 |            |         40 (=)         |         1         | Musuruana, Francisco |             |              |                             40 (T03)                             |
 |            |        40 (+40)        |         1         |   Micocci, Matias    |             |              |                             40 (T07)                             |
 |            |         40 (=)         |         1         |  Vivanco, Cristian   |             |              |                             40 (T05)                             |
