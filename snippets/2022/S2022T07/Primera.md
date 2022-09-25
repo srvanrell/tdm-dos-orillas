@@ -8,20 +8,20 @@
 |     6      |        1500 (=)        |         2         |  Schenquer, Diego  |  Santa Fe   |   Atemeli    |                                750 (T01) + 750 (T03)                                |
 |     7      |        900 (=)         |         3         | Palamedi, Cristian |  Santa Fe   |   Atemeli    |                          500 (T06) + 250 (T02) + 150 (T03)                          |
 |     8      |        750 (=)         |         1         |  Fontana, Fausto   |   Parana    |   Aspatem    |                                      750 (T04)                                      |
-|     9      |       750 (+250)       |         2         | Heredia, Santiago  |  Santa Fe   |   Atemeli    |                                500 (T03) + 250 (T07)                                |
-|            |       750 (+250)       |         2         | Blanco, Francisco  |  Santa Fe   |   Atemeli    |                                500 (T05) + 250 (T07)                                |
+|     9      |       750 (+250)       |         2         | Blanco, Francisco  |  Santa Fe   |   Atemeli    |                                500 (T05) + 250 (T07)                                |
+|            |       750 (+250)       |         2         | Heredia, Santiago  |  Santa Fe   |   Atemeli    |                                500 (T03) + 250 (T07)                                |
 |     11     |        750 (=)         |         3         |   Mendez, Carlos   |  Santa Fe   |   Atemeli    |                          250 (T03) + 250 (T05) + 250 (T02)                          |
-|     12     |       500 (+500)       |         1         |   Perna, Claudio   |   Rosario   |   Asateme    |                                      500 (T07)                                      |
-|            |        500 (=)         |         1         |   Figueroa, Axel   |   Parana    |   Aspatem    |                                      500 (T04)                                      |
+|     12     |        500 (=)         |         1         |   Figueroa, Axel   |   Parana    |   Aspatem    |                                      500 (T04)                                      |
+|            |       500 (+500)       |         1         |   Perna, Claudio   |   Rosario   |   Asateme    |                                      500 (T07)                                      |
 |     14     |       250 (+250)       |         1         |   Blanco, Daniel   |  Santa Fe   |   Atemeli    |                                      250 (T07)                                      |
-|            |        250 (=)         |         1         |  Migoni, Nicolas   |   Parana    |   Aspatem    |                                      250 (T02)                                      |
-|            |       250 (+250)       |         1         |  Mendoza, Daniel   |  Santa Fe   |   Atemeli    |                                      250 (T07)                                      |
-|            |        250 (=)         |         1         |    Maili, Elias    |   Parana    |   Aspatem    |                                      250 (T04)                                      |
 |            |        250 (=)         |         1         | Ferretti, Gustavo  |  Santa Fe   |   Atemeli    |                                      250 (T01)                                      |
 |            |        250 (=)         |         1         |    Goy, Gerardo    | Reconquista |    ATMAR     |                                      250 (T02)                                      |
-|     20     |       150 (+150)       |         1         |   Cordoba, Jose    |             |              |                                      150 (T07)                                      |
-|            |       150 (+150)       |         1         |     Soto, Luis     |   Parana    | Tiro Federal |                                      150 (T07)                                      |
+|            |        250 (=)         |         1         |    Maili, Elias    |   Parana    |   Aspatem    |                                      250 (T04)                                      |
+|            |       250 (+250)       |         1         |  Mendoza, Daniel   |  Santa Fe   |   Atemeli    |                                      250 (T07)                                      |
+|            |        250 (=)         |         1         |  Migoni, Nicolas   |   Parana    |   Aspatem    |                                      250 (T02)                                      |
+|     20     |        150 (=)         |         1         |  Bonelli, Marcos   |   Parana    |   Aspatem    |                                      150 (T02)                                      |
+|            |       150 (+150)       |         1         |   Cordoba, Jose    |             |              |                                      150 (T07)                                      |
 |            |       150 (+150)       |         1         |   Schiker, Omar    |   Rosario   |   Asateme    |                                      150 (T07)                                      |
-|            |        150 (=)         |         1         |  Bonelli, Marcos   |   Parana    |   Aspatem    |                                      150 (T02)                                      |
-|     24     |       100 (+100)       |         1         |  Vigouroux, Jorge  |  San Justo  | Tiro Federal |                                      100 (T07)                                      |
-|            |        100 (=)         |         1         |  Milesi, Leandro   |             |              |                                      100 (T06)                                      |
+|            |       150 (+150)       |         1         |     Soto, Luis     |   Parana    | Tiro Federal |                                      150 (T07)                                      |
+|     24     |        100 (=)         |         1         |  Milesi, Leandro   |             |              |                                      100 (T06)                                      |
+|            |       100 (+100)       |         1         |  Vigouroux, Jorge  |  San Justo  | Tiro Federal |                                      100 (T07)                                      |

@@ -46,8 +46,8 @@
 |   tercera   |     636 (=)      | Dallinger, Humberto  |   Parana    | Tiro Federal |
 |   tercera   |     611 (=)      |    Larrosa, Jorge    |   Parana    | Tiro Federal |
 |   tercera   |     602 (=)      |    Godano, Lucas     |             |              |
-|   tercera   |     598 (=)      |     Pilotti, Paz     |             |              |
 |   tercera   |    598 (+33)     |    Acosta, Gaston    |             |              |
+|   tercera   |     598 (=)      |     Pilotti, Paz     |             |              |
 |   tercera   |     577 (=)      |   Canhoto, Carlos    |  Santa Fe   |   Atemeli    |
 |   tercera   |     568 (=)      |   Morello, Manuel    |             |              |
 |   tercera   |     510 (=)      | Musuruana, Francisco |             |              |
@@ -59,6 +59,6 @@
 |   tercera   |    422 (+54)     |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |
 |   tercera   |     416 (=)      |    Ledesma, Jonas    |             |              |
 |   tercera   |     408 (=)      |    Benicio, Oscar    |   Parana    |   Aspatem    |
-|   tercera   |     374 (=)      |    Diaz, Benjamin    |             |              |
 |   tercera   |     374 (=)      |    Almada, Pablo     |             |              |
+|   tercera   |     374 (=)      |    Diaz, Benjamin    |             |              |
 |   tercera   |    342 (-26)     |  Vivanco, Cristian   |             |              |

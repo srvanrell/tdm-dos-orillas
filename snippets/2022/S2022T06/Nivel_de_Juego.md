@@ -36,8 +36,8 @@
 |   segunda   |     833 (=)      |   Mendieta, Elias    |  Santa Fe   |              |
 |   segunda   |    813 (+44)     |    Prettis, Juan     |             |              |
 |   segunda   |     787 (=)      |  Garcia, Francisco   |  Santa Fe   |   Atemeli    |
-|   segunda   |     764 (=)      |    Reniero, Gian     |             |              |
 |   segunda   |    764 (+14)     |   Acuna, Santiago    |             |              |
+|   segunda   |     764 (=)      |    Reniero, Gian     |             |              |
 |   segunda   |     748 (=)      |   Costanza, Roque    |             |              |
 |             |                  |                      |             |              |
 |   tercera   |     698 (=)      |   Savino, Leandro    |  Santa Fe   |   Atemeli    |
@@ -61,8 +61,8 @@
 |   tercera   |    482 (-26)     |    Gomez, Gabriel    |   Parana    | Tiro Federal |
 |   tercera   |     478 (+4)     | Vigouroux, Santiago  |  San Justo  | Tiro Federal |
 |   tercera   |    432 (+58)     |    Almada, Pablo     |             |              |
-|   tercera   |     416 (-6)     |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |
 |   tercera   |     416 (=)      |    Ledesma, Jonas    |             |              |
+|   tercera   |     416 (-6)     |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |
 |   tercera   |     408 (=)      |    Benicio, Oscar    |   Parana    |   Aspatem    |
 |   tercera   |     374 (=)      |    Diaz, Benjamin    |             |              |
 |   tercera   |     342 (=)      |  Vivanco, Cristian   |             |              |

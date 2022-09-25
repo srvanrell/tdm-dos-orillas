@@ -15,17 +15,18 @@
 |    Blanco, Daniel    |      Soto, Luis      |    3     |    0     |    zona     |   primera   |
 |    Cordoba, Jose     |  Blanco, Francisco   |    0     |    3     |    zona     |   primera   |
 |    Cordoba, Jose     |   Vigouroux, Jorge   |    3     |    0     |    zona     |   primera   |
-|  Lofeudo, Juan Jose  |   Vigouroux, Jorge   |    3     |    0     |    zona     |   primera   |
-|  Lofeudo, Juan Jose  |    Cordoba, Jose     |    3     |    0     |    zona     |   primera   |
 |  Lofeudo, Juan Jose  |  Blanco, Francisco   |    3     |    0     |    zona     |   primera   |
+|  Lofeudo, Juan Jose  |    Cordoba, Jose     |    3     |    0     |    zona     |   primera   |
+|  Lofeudo, Juan Jose  |   Vigouroux, Jorge   |    3     |    0     |    zona     |   primera   |
 |    Perna, Claudio    |      Soto, Luis      |    3     |    0     |    zona     |   primera   |
-|   Perot, Alejandro   |    Schiker, Omar     |    3     |    0     |    zona     |   primera   |
 |   Perot, Alejandro   |   Mendoza, Daniel    |    3     |    0     |    zona     |   primera   |
-|     Perot, David     |  Velazquez, Marcelo  |    3     |    0     |    zona     |   primera   |
+|   Perot, Alejandro   |    Schiker, Omar     |    3     |    0     |    zona     |   primera   |
 |     Perot, David     |  Heredia, Santiago   |    3     |    0     |    zona     |   primera   |
+|     Perot, David     |  Velazquez, Marcelo  |    3     |    0     |    zona     |   primera   |
 |    Schiker, Omar     |   Mendoza, Daniel    |    0     |    3     |    zona     |   primera   |
 |  Velazquez, Marcelo  |  Heredia, Santiago   |    0     |    3     |    zona     |   primera   |
 |   Vigouroux, Jorge   |  Blanco, Francisco   |    0     |    3     |    zona     |   primera   |
+|                      |                      |          |          |             |             |
 |    Boetti, Genaro    |  Vigouroux, Manuel   |    3     |    0     |   cuartos   |   segunda   |
 |   Escudero, Martin   |    Prettis, Juan     |    3     |    0     |   cuartos   |   segunda   |
 |     Levin, Raul      |   Bonelli, Marcos    |    3     |    0     |   cuartos   |   segunda   |
@@ -39,19 +40,19 @@
 |   Escudero, Martin   |  Palamedi, Cristian  |    0     |    3     |  semifinal  |   segunda   |
 |    Acosta, Gaston    |    Schiker, Omar     |    3     |    0     |    zona     |   segunda   |
 |    Boetti, Genaro    |     Levin, Raul      |    3     |    0     |    zona     |   segunda   |
+|   Bonelli, Marcos    |  Alvarez, Sebastian  |    3     |    0     |    zona     |   segunda   |
 |   Bonelli, Marcos    |    Palamedi, Uma     |    3     |    0     |    zona     |   segunda   |
 |   Bonelli, Marcos    |    Prettis, Juan     |    3     |    0     |    zona     |   segunda   |
-|   Bonelli, Marcos    |  Alvarez, Sebastian  |    3     |    0     |    zona     |   segunda   |
-|   Colavini, Daniel   |     Levin, Raul      |    0     |    3     |    zona     |   segunda   |
 |   Colavini, Daniel   |    Boetti, Genaro    |    0     |    3     |    zona     |   segunda   |
+|   Colavini, Daniel   |     Levin, Raul      |    0     |    3     |    zona     |   segunda   |
 |   Escudero, Martin   |    Acosta, Gaston    |    3     |    0     |    zona     |   segunda   |
 |   Escudero, Martin   |    Jaime, Gerardo    |    3     |    0     |    zona     |   segunda   |
 |   Escudero, Martin   |    Schiker, Omar     |    3     |    0     |    zona     |   segunda   |
-|    Jaime, Gerardo    |    Schiker, Omar     |    0     |    3     |    zona     |   segunda   |
 |    Jaime, Gerardo    |    Acosta, Gaston    |    3     |    0     |    zona     |   segunda   |
-|  Palamedi, Cristian  |  Vigouroux, Manuel   |    3     |    0     |    zona     |   segunda   |
-|  Palamedi, Cristian  |    Vetrano, Luca     |    0     |    3     |    zona     |   segunda   |
+|    Jaime, Gerardo    |    Schiker, Omar     |    0     |    3     |    zona     |   segunda   |
 |  Palamedi, Cristian  |     Uziel, Yuri      |    3     |    0     |    zona     |   segunda   |
+|  Palamedi, Cristian  |    Vetrano, Luca     |    0     |    3     |    zona     |   segunda   |
+|  Palamedi, Cristian  |  Vigouroux, Manuel   |    3     |    0     |    zona     |   segunda   |
 |    Palamedi, Uma     |  Alvarez, Sebastian  |    0     |    3     |    zona     |   segunda   |
 |    Prettis, Juan     |  Alvarez, Sebastian  |    3     |    0     |    zona     |   segunda   |
 |    Prettis, Juan     |    Palamedi, Uma     |    3     |    0     |    zona     |   segunda   |
@@ -61,6 +62,7 @@
 |   Vigouroux, Jorge   |   Colavini, Daniel   |    3     |    0     |    zona     |   segunda   |
 |   Vigouroux, Jorge   |     Levin, Raul      |    3     |    0     |    zona     |   segunda   |
 |  Vigouroux, Manuel   |     Uziel, Yuri      |    3     |    0     |    zona     |   segunda   |
+|                      |                      |          |          |             |             |
 |    Boetti, Genaro    |    Acosta, Gaston    |    3     |    0     |   cuartos   |   tercera   |
 |    Larrosa, Jorge    |  Vigouroux, Manuel   |    0     |    3     |   cuartos   |   tercera   |
 |   Savino, Leandro    |    Suarez, Milton    |    0     |    3     |   cuartos   |   tercera   |
@@ -78,12 +80,12 @@
 |   Colavini, Daniel   |  Vigouroux, Manuel   |    0     |    3     |    zona     |   tercera   |
 |   Micocci, Matias    |    Acosta, Gaston    |    0     |    3     |    zona     |   tercera   |
 |    Palamedi, Uma     |  Vigouroux, Manuel   |    0     |    3     |    zona     |   tercera   |
-|   Ranzani, Esteban   |    Larrosa, Jorge    |    0     |    3     |    zona     |   tercera   |
 |   Ranzani, Esteban   |    Barrios, Tomas    |    0     |    3     |    zona     |   tercera   |
+|   Ranzani, Esteban   |    Larrosa, Jorge    |    0     |    3     |    zona     |   tercera   |
 |   Savino, Leandro    | Bernard, Maximiliano |    3     |    0     |    zona     |   tercera   |
 |   Savino, Leandro    |    Boetti, Genaro    |    3     |    0     |    zona     |   tercera   |
-|    Suarez, Milton    |   Micocci, Matias    |    3     |    0     |    zona     |   tercera   |
 |    Suarez, Milton    |    Acosta, Gaston    |    0     |    3     |    zona     |   tercera   |
+|    Suarez, Milton    |   Micocci, Matias    |    3     |    0     |    zona     |   tercera   |
 |    Vetrano, Luca     |    Barrios, Tomas    |    3     |    0     |    zona     |   tercera   |
-|    Vetrano, Luca     |   Ranzani, Esteban   |    3     |    0     |    zona     |   tercera   |
 |    Vetrano, Luca     |    Larrosa, Jorge    |    3     |    0     |    zona     |   tercera   |
+|    Vetrano, Luca     |   Ranzani, Esteban   |    3     |    0     |    zona     |   tercera   |

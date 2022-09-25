@@ -12,23 +12,23 @@
 |     10     |       400 (+75)        |         4         |    Vetrano, Luca    |             |              |             125 (T05) + 125 (T03) + 75 (T04) + 75 (T06)              |
 |     11     |       375 (+250)       |         2         |  Gatti, Sebastian   |   Parana    |              |                        250 (T06) + 125 (T04)                         |
 |            |        375 (=)         |         2         |    Reniero, Gian    |             |              |                        250 (T03) + 125 (T05)                         |
-|     13     |       350 (+125)       |         4         |  Vigouroux, Manuel  |  San Justo  | Tiro Federal |              125 (T06) + 75 (T03) + 75 (T05) + 75 (T04)              |
-|            |       350 (+75)        |         4         |   Acosta, Gaston    |             |              |              125 (T02) + 75 (T06) + 75 (T05) + 75 (T04)              |
+|     13     |       350 (+75)        |         4         |   Acosta, Gaston    |             |              |              125 (T02) + 75 (T06) + 75 (T05) + 75 (T04)              |
+|            |       350 (+125)       |         4         |  Vigouroux, Manuel  |  San Justo  | Tiro Federal |              125 (T06) + 75 (T03) + 75 (T05) + 75 (T04)              |
 |     15     |        250 (=)         |         1         |  Fernandez, Carlos  |   Parana    | Tiro Federal |                              250 (T04)                               |
-|            |        250 (=)         |         1         |   Figueroa, Axel    |   Parana    |   Aspatem    |                              250 (T04)                               |
 |            |        250 (=)         |         1         |  Ferretti, Gustavo  |  Santa Fe   |   Atemeli    |                              250 (T01)                               |
+|            |        250 (=)         |         1         |   Figueroa, Axel    |   Parana    |   Aspatem    |                              250 (T04)                               |
 |     18     |        250 (=)         |         2         |    Goy, Gerardo     | Reconquista |    ATMAR     |                        125 (T01) + 125 (T02)                         |
 |     19     |       250 (+50)        |         3         |  Colavini, Daniel   | Santo Tome  |   Atemeli    |                   125 (T05) + 75 (T03) + 50 (T06)                    |
 |            |       250 (+50)        |         3         |    Prettis, Juan    |             |              |                   125 (T01) + 75 (T04) + 50 (T06)                    |
 |     21     |        225 (=)         |         3         |   Boetti, Genaro    |             |              |                    75 (T03) + 75 (T05) + 75 (T04)                    |
 |     22     |       125 (+125)       |         1         |    Cordoba, Jose    |             |              |                              125 (T06)                               |
-|            |       125 (+125)       |         1         |   Milesi, Leandro   |             |              |                              125 (T06)                               |
 |            |        125 (=)         |         1         |   Godano, Franco    |  Santa Fe   |   ATEMELI    |                              125 (T01)                               |
 |            |        125 (=)         |         1         |   Jaime, Gerardo    |   Parana    |   Aspatem    |                              125 (T03)                               |
-|     26     |         75 (=)         |         1         |   Mendieta, Elias   |  Santa Fe   |              |                               75 (T05)                               |
+|            |       125 (+125)       |         1         |   Milesi, Leandro   |             |              |                              125 (T06)                               |
+|     26     |        75 (+75)        |         1         | Alvarez, Sebastian  |  Santa Fe   |   Atemeli    |                               75 (T06)                               |
 |            |         75 (=)         |         1         |  Garcia, Francisco  |  Santa Fe   |   Atemeli    |                               75 (T03)                               |
-|            |        75 (+75)        |         1         | Alvarez, Sebastian  |  Santa Fe   |   Atemeli    |                               75 (T06)                               |
-|            |         75 (=)         |         1         | Vigouroux, Santiago |  San Justo  | Tiro Federal |                               75 (T04)                               |
 |            |         75 (=)         |         1         |   Ledesma, Jonas    |             |              |                               75 (T04)                               |
+|            |         75 (=)         |         1         |   Mendieta, Elias   |  Santa Fe   |              |                               75 (T05)                               |
+|            |         75 (=)         |         1         | Vigouroux, Santiago |  San Justo  | Tiro Federal |                               75 (T04)                               |
 |     31     |         50 (=)         |         1         |   Larrosa, Jorge    |   Parana    | Tiro Federal |                               50 (T01)                               |
 |            |        50 (+50)        |         1         |    Palamedi, Uma    |  Santa Fe   |   Atemeli    |                               50 (T06)                               |

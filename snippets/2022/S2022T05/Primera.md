@@ -8,12 +8,12 @@
 |            |        1250 (=)        |         3         |   Nohara, Andres   |   Parana    |              |             500 (T04) + 500 (T02) + 250 (T03)              |
 |     7      |        750 (=)         |         1         |  Fontana, Fausto   |   Parana    |   Aspatem    |                         750 (T04)                          |
 |     8      |       750 (+250)       |         3         |   Mendez, Carlos   |  Santa Fe   |   Atemeli    |             250 (T05) + 250 (T02) + 250 (T03)              |
-|     9      |        500 (=)         |         1         | Heredia, Santiago  |  Santa Fe   |   Atemeli    |                         500 (T03)                          |
-|            |       500 (+500)       |         1         | Blanco, Francisco  |  Santa Fe   |   Atemeli    |                         500 (T05)                          |
+|     9      |       500 (+500)       |         1         | Blanco, Francisco  |  Santa Fe   |   Atemeli    |                         500 (T05)                          |
 |            |        500 (=)         |         1         |   Figueroa, Axel   |   Parana    |   Aspatem    |                         500 (T04)                          |
+|            |        500 (=)         |         1         | Heredia, Santiago  |  Santa Fe   |   Atemeli    |                         500 (T03)                          |
 |     12     |        400 (=)         |         2         | Palamedi, Cristian |  Santa Fe   |   Atemeli    |                   250 (T02) + 150 (T03)                    |
-|     13     |        250 (=)         |         1         |  Migoni, Nicolas   |   Parana    |   Aspatem    |                         250 (T02)                          |
-|            |        250 (=)         |         1         |    Maili, Elias    |   Parana    |   Aspatem    |                         250 (T04)                          |
-|            |        250 (=)         |         1         | Ferretti, Gustavo  |  Santa Fe   |   Atemeli    |                         250 (T01)                          |
+|     13     |        250 (=)         |         1         | Ferretti, Gustavo  |  Santa Fe   |   Atemeli    |                         250 (T01)                          |
 |            |        250 (=)         |         1         |    Goy, Gerardo    | Reconquista |    ATMAR     |                         250 (T02)                          |
+|            |        250 (=)         |         1         |    Maili, Elias    |   Parana    |   Aspatem    |                         250 (T04)                          |
+|            |        250 (=)         |         1         |  Migoni, Nicolas   |   Parana    |   Aspatem    |                         250 (T02)                          |
 |     17     |        150 (=)         |         1         |  Bonelli, Marcos   |   Parana    |   Aspatem    |                         150 (T02)                          |

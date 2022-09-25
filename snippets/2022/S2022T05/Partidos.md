@@ -4,23 +4,24 @@
 | Agrega Puntos Campeonato | Velazquez, Marcelo |    -1    |    -1    |   cuartos   |   primera   |
 | Agrega Puntos Campeonato |    Perot, David    |    -1    |    -1    |   primero   |   primera   |
 | Agrega Puntos Campeonato | Lofeudo, Juan Jose |    -1    |    -1    |   segundo   |   primera   |
-| Agrega Puntos Campeonato |  Perot, Alejandro  |    -1    |    -1    |   tercero   |   primera   |
 | Agrega Puntos Campeonato | Blanco, Francisco  |    -1    |    -1    |   tercero   |   primera   |
+| Agrega Puntos Campeonato |  Perot, Alejandro  |    -1    |    -1    |   tercero   |   primera   |
 |    Blanco, Francisco     | Lofeudo, Juan Jose |    0     |    3     |    zona     |   primera   |
-|    Blanco, Francisco     | Velazquez, Marcelo |    3     |    0     |    zona     |   primera   |
-|    Blanco, Francisco     |  Perot, Alejandro  |    0     |    3     |    zona     |   primera   |
 |    Blanco, Francisco     |   Mendez, Carlos   |    3     |    0     |    zona     |   primera   |
+|    Blanco, Francisco     |  Perot, Alejandro  |    0     |    3     |    zona     |   primera   |
+|    Blanco, Francisco     | Velazquez, Marcelo |    3     |    0     |    zona     |   primera   |
 |      Mendez, Carlos      | Lofeudo, Juan Jose |    0     |    3     |    zona     |   primera   |
 |     Perot, Alejandro     | Lofeudo, Juan Jose |    0     |    3     |    zona     |   primera   |
 |     Perot, Alejandro     |   Mendez, Carlos   |    3     |    0     |    zona     |   primera   |
 |     Perot, Alejandro     | Velazquez, Marcelo |    3     |    0     |    zona     |   primera   |
-|       Perot, David       | Velazquez, Marcelo |    3     |    0     |    zona     |   primera   |
-|       Perot, David       |  Perot, Alejandro  |    3     |    0     |    zona     |   primera   |
-|       Perot, David       |   Mendez, Carlos   |    3     |    0     |    zona     |   primera   |
 |       Perot, David       | Blanco, Francisco  |    3     |    0     |    zona     |   primera   |
 |       Perot, David       | Lofeudo, Juan Jose |    3     |    0     |    zona     |   primera   |
+|       Perot, David       |   Mendez, Carlos   |    3     |    0     |    zona     |   primera   |
+|       Perot, David       |  Perot, Alejandro  |    3     |    0     |    zona     |   primera   |
+|       Perot, David       | Velazquez, Marcelo |    3     |    0     |    zona     |   primera   |
 |    Velazquez, Marcelo    | Lofeudo, Juan Jose |    0     |    3     |    zona     |   primera   |
 |    Velazquez, Marcelo    |   Mendez, Carlos   |    0     |    3     |    zona     |   primera   |
+|                          |                    |          |          |             |             |
 |     Colavini, Daniel     | Palamedi, Cristian |    0     |    3     |   cuartos   |   segunda   |
 |      Nohara, Andres      |   Reniero, Gian    |    3     |    0     |   cuartos   |   segunda   |
 |      Vetrano, Luca       |  Bonelli, Marcos   |    0     |    3     |   cuartos   |   segunda   |
@@ -34,8 +35,8 @@
 |      Nohara, Andres      | Palamedi, Cristian |    3     |    0     |  semifinal  |   segunda   |
 |      Acosta, Gaston      |    Levin, Raul     |    0     |    3     |    zona     |   segunda   |
 |      Boetti, Genaro      |   Vetrano, Luca    |    0     |    3     |    zona     |   segunda   |
-|     Bonelli, Marcos      | Vigouroux, Manuel  |    3     |    0     |    zona     |   segunda   |
 |     Bonelli, Marcos      |   Reniero, Gian    |    3     |    0     |    zona     |   segunda   |
+|     Bonelli, Marcos      | Vigouroux, Manuel  |    3     |    0     |    zona     |   segunda   |
 |     Colavini, Daniel     |  Vigouroux, Jorge  |    0     |    3     |    zona     |   segunda   |
 |     Mendieta, Elias      |  Colavini, Daniel  |    0     |    3     |    zona     |   segunda   |
 |     Mendieta, Elias      |  Vigouroux, Jorge  |    3     |    0     |    zona     |   segunda   |
@@ -44,6 +45,7 @@
 |    Palamedi, Cristian    |   Acosta, Gaston   |    3     |    0     |    zona     |   segunda   |
 |    Palamedi, Cristian    |    Levin, Raul     |    3     |    0     |    zona     |   segunda   |
 |    Vigouroux, Manuel     |   Reniero, Gian    |    0     |    3     |    zona     |   segunda   |
+|                          |                    |          |          |             |             |
 |      Acosta, Gaston      |  Savino, Leandro   |    3     |    0     |   cuartos   |   tercera   |
 |      Boetti, Genaro      |  Milesi, Leandro   |    0     |    3     |   cuartos   |   tercera   |
 |      Reniero, Gian       |   Palamedi, Uma    |    3     |    0     |   cuartos   |   tercera   |
@@ -56,11 +58,11 @@
 |      Reniero, Gian       |  Milesi, Leandro   |    0     |    3     |  semifinal  |   tercera   |
 |     Vigouroux, Jorge     |   Acosta, Gaston   |    3     |    0     |  semifinal  |   tercera   |
 |      Acosta, Gaston      |   Boetti, Genaro   |    0     |    3     |    zona     |   tercera   |
-|     Milesi, Leandro      | Vivanco, Cristian  |    3     |    0     |    zona     |   tercera   |
 |     Milesi, Leandro      |  Colavini, Daniel  |    3     |    0     |    zona     |   tercera   |
+|     Milesi, Leandro      | Vivanco, Cristian  |    3     |    0     |    zona     |   tercera   |
 |      Palamedi, Uma       |  Savino, Leandro   |    0     |    3     |    zona     |   tercera   |
-|      Reniero, Gian       | Vigouroux, Manuel  |    3     |    0     |    zona     |   tercera   |
 |      Reniero, Gian       |  Costanza, Roque   |    3     |    0     |    zona     |   tercera   |
+|      Reniero, Gian       | Vigouroux, Manuel  |    3     |    0     |    zona     |   tercera   |
 |      Vetrano, Luca       |   Palamedi, Uma    |    0     |    3     |    zona     |   tercera   |
 |      Vetrano, Luca       |  Savino, Leandro   |    0     |    3     |    zona     |   tercera   |
 |     Vigouroux, Jorge     |   Acosta, Gaston   |    3     |    0     |    zona     |   tercera   |

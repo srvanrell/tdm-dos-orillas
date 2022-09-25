@@ -20,13 +20,13 @@
 |       1535       |      Migoni, Nicolas       |        Parana         |   Aspatem    |
 |       1521       |       Amore, Enrique       |        Parana         |   Aspatem    |
 |       1505       |     Sharretta, Gaston      |      San Lorenzo      |              |
-|       1488       |      Nowotny, Martin       | Libertador San Martin |              |
 |       1488       |     Dupertuis, Gaston      |        Parana         |   Aspatem    |
+|       1488       |      Nowotny, Martin       | Libertador San Martin |              |
 |       1474       |     Molendick, Daniel      | Libertador San Martin |     CRL      |
 |       1462       |      Mendoza, Daniel       |       Santa Fe        |   Atemeli    |
 |       1460       |     Velazquez, Marcelo     |       Santa Fe        |   AteMeLi    |
-|       1420       |      La Barba, Pablo       |        Parana         |   Aspatem    |
 |       1420       |      Aguirre, German       |        Parana         |   Aspatem    |
+|       1420       |      La Barba, Pablo       |        Parana         |   Aspatem    |
 |       1413       |   Stringhini, Alejandro    |       Santa Fe        |   Atemeli    |
 |       1410       |       Botta, Adrian        |      Reconquista      |    ATMAR     |
 |       1406       |     Feresin, Ezequiel      |      Reconquista      |              |
@@ -60,8 +60,8 @@
 |       1208       |     Vanrell, Sebastian     |       Santa Fe        |   AteMeLi    |
 |       1206       |        Tumino, Juan        |                       |              |
 |       1184       |       Salcedo, David       | Libertador San Martin |     CRL      |
-|       1182       |       Sueldo, Pablo        |                       |              |
 |       1182       |       Sartor, Yemel        |      Avellaneda       |    ATMAR     |
+|       1182       |       Sueldo, Pablo        |                       |              |
 |       1176       |    Sartor, Maximiliano     |      Reconquista      |    ATMAR     |
 |       1165       |     Ferretti, Gustavo      |       Santa Fe        |   Atemeli    |
 |       1165       |       Lopez, Agustin       |       Santa Fe        |   Atemeli    |
@@ -74,19 +74,19 @@
 |       1109       |       Barba, Rodrigo       |        Parana         |   Aspatem    |
 |       1109       |      Fernandez, Axel       |                       |              |
 |       1106       |       Tenca, Gustavo       |       Santa Fe        |              |
-|       1104       |       Maerker, Shion       | Libertador San Martin |     CRL      |
 |       1104       |      Becker, Fernando      |        Parana         |   Aspatem    |
+|       1104       |       Maerker, Shion       | Libertador San Martin |     CRL      |
 |       1100       |      Sartor, Lautaro       |      Avellaneda       |              |
 |       1095       |      Wernli, Federico      |        Parana         |   Aspatem    |
-|       1093       |       Chiara, Lucio        |        Parana         |   Aspatem    |
 |       1093       |       Campos, Dario        |       Santa Fe        |   Atemeli    |
-|       1068       |     Lerch, Juan Carlos     |        Parana         | Tiro Federal |
+|       1093       |       Chiara, Lucio        |        Parana         |   Aspatem    |
 |       1068       |      Gimenez, Maximo       |        Parana         |   Aspatem    |
+|       1068       |     Lerch, Juan Carlos     |        Parana         | Tiro Federal |
 |       1067       |       Banfi, Franco        |        Parana         |   Aspatem    |
 |       1065       |        Chiara, Joel        |        Parana         |   Aspatem    |
 |       1063       |      Escudero, Martin      |       Santa Fe        |   Atemeli    |
-|       1056       |      Montenegro, Ana       |      Avellaneda       |    ATMAR     |
 |       1056       |      Mazzola, Hernan       |       Santa Fe        |              |
+|       1056       |      Montenegro, Ana       |      Avellaneda       |    ATMAR     |
 |       1054       |      Welschen, Pablo       |        Parana         |   Aspatem    |
 |       1048       |        Utz, Andrea         | Libertador San Martin |     CRL      |
 |       1040       |      Vigouroux, Jorge      |       San Justo       | Tiro Federal |
@@ -101,11 +101,11 @@
 |       1003       |       Barcelo, Mateo       |                       |    ATMAR     |
 |       1001       |      Franco, Emiliano      |        Parana         |   Aspatem    |
 |       1000       |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |
-|       1000       |        Hagge, Pilar        |       Santa Fe        |   Atemeli    |
-|       1000       |        Presel, Raul        |        Parana         |   Aspatem    |
-|       1000       |       Badano, Pablo        |        Parana         |   Aspatem    |
 |       1000       |      Asenie, Santiago      | Libertador San Martin |              |
+|       1000       |       Badano, Pablo        |        Parana         |   Aspatem    |
+|       1000       |        Hagge, Pilar        |       Santa Fe        |   Atemeli    |
 |       1000       |      Mendieta, Elias       |       Santa Fe        |              |
+|       1000       |        Presel, Raul        |        Parana         |   Aspatem    |
 |       998        |      Fernandez, Dario      |                       |              |
 |       994        |       Perot, Martin        |       Santa Fe        |   Atemeli    |
 |       990        |      Bernal, Facundo       |       Santa Fe        |   Atemeli    |
@@ -138,8 +138,8 @@
 |       901        |       Longhi, Mauro        |       Santa Fe        |   Atemeli    |
 |       900        |       Godano, Franco       |       Santa Fe        |   ATEMELI    |
 |       867        |     Guckert, Emiliano      |       Santa Fe        |              |
-|       866        |       Tenca, Javier        |        Parana         |   Aspatem    |
 |       866        |       Miner, Alberto       |        Parana         |   Aspatem    |
+|       866        |       Tenca, Javier        |        Parana         |   Aspatem    |
 |       864        |        Claria, Ivan        |        Parana         |   Aspatem    |
 |       848        |        Goy, Gerardo        |      Reconquista      |    ATMAR     |
 |       840        |      Colavini, Daniel      |      Santo Tome       |   Atemeli    |
@@ -152,8 +152,8 @@
 |       779        |       Fucks, Alyssa        | Libertador San Martin |     CRL      |
 |       779        |       Godoy, Franco        |       Esperanza       |     ATME     |
 |       778        |        Pitana, Enzo        |                       |              |
-|       772        |     Welschen, Nicolas      |        Parana         |   Aspatem    |
 |       772        |        Migoni, Alan        |        Parana         |   Aspatem    |
+|       772        |     Welschen, Nicolas      |        Parana         |   Aspatem    |
 |       768        |       Brian, Martin        | Libertador San Martin |     CRL      |
 |       768        |      Cossi, Francisco      |        Parana         |   Aspatem    |
 |       768        |      Rodriguez, Jorge      |                       |              |
@@ -175,13 +175,13 @@
 |       723        |      Martinez, Lowell      | Libertador San Martin |              |
 |       721        |      Bishop, Michelle      | Libertador San Martin |     CRL      |
 |       719        |       Gomez, Matias        |        Parana         |   Aspatem    |
-|       717        |      Werner, Graciela      |        Parana         |   Aspatem    |
 |       717        | Rodriguez Alarcon Emiliano |                       |              |
-|       715        |         Mir, Tomas         |                       |              |
-|       715        |     Makhoul, Alejandro     |                       |              |
+|       717        |      Werner, Graciela      |        Parana         |   Aspatem    |
 |       715        |        Javita, Luis        | Libertador San Martin |     CRL      |
-|       713        |        Rios, Alexis        |                       |              |
+|       715        |     Makhoul, Alejandro     |                       |              |
+|       715        |         Mir, Tomas         |                       |              |
 |       713        |      Almeira, Melania      |        Parana         |   Aspatem    |
+|       713        |        Rios, Alexis        |                       |              |
 |       711        |       Rios, Benjamin       | Libertador San Martin |     CRL      |
 |       708        |       Bustos, Ariel        |                       |              |
 |       706        |       Muller, Lucas        |                       |              |
@@ -189,21 +189,21 @@
 |       699        |     Pallotti, Fabrizio     |                       |              |
 |       697        |        Zavala, Jose        |                       |              |
 |       694        |   Beneventano, Romanela    | Libertador San Martin |              |
-|       693        |      Michea, Ignacio       |                       |              |
 |       693        |            Jose            | Libertador San Martin |     CRL      |
+|       693        |      Michea, Ignacio       |                       |              |
 |       691        |     Atkinson, Santiago     |                       |              |
 |       686        |       Suarez, Milton       |       Santa Fe        |              |
 |       681        |        Porta, Juan         |                       |              |
-|       680        |      Portillo, Lucas       |       Esperanza       |     ATME     |
-|       680        |       Delgado, Pablo       | Libertador San Martin |              |
 |       680        |      Arrieta, Matias       | Libertador San Martin |     CRL      |
+|       680        |       Delgado, Pablo       | Libertador San Martin |              |
 |       680        |       Muller, Tomas        |                       |              |
+|       680        |      Portillo, Lucas       |       Esperanza       |     ATME     |
 |       677        |      Janko, Cristian       | Libertador San Martin |     CRL      |
 |       676        |      Kranczuk, German      |                       |              |
 |       673        |      Duraschi, Lemuel      |                       |              |
 |       672        |    Barreto, Maximiliano    |                       |              |
-|       671        |     Pillac, Juan Pablo     | Libertador San Martin |     CRL      |
 |       671        |       Comas, Javier        |        Parana         |   Aspatem    |
+|       671        |     Pillac, Juan Pablo     | Libertador San Martin |     CRL      |
 |       670        |      Amaral, Gustavo       |                       |              |
 |       664        |      Varisco, Silvina      |        Parana         |   Aspatem    |
 |       656        |     Flores, Francisco      |       San Justo       | Tiro Federal |
@@ -212,8 +212,8 @@
 |       640        |      Almada, Claudio       |                       |              |
 |       628        |       Sanchez, Lucas       |                       |              |
 |       624        |      Savino, Leandro       |       Santa Fe        |   Atemeli    |
-|       612        |      Vergara, Gustavo      |        Parana         | Tiro Federal |
 |       612        |       Godano, Lucas        |                       |              |
+|       612        |      Vergara, Gustavo      |        Parana         | Tiro Federal |
 |       611        |      Aguirre, Sandra       |        Parana         |   Aspatem    |
 |       609        |      Gambino, Sergio       |        Parana         |   Aspatem    |
 |       603        |       Jaime, Gerardo       |        Parana         |   Aspatem    |
@@ -225,8 +225,8 @@
 |       588        |    Dallinger, Humberto     |        Parana         | Tiro Federal |
 |       586        |       Erbetta, Pablo       |        Parana         | Tiro Federal |
 |       584        |     Ferreyra, Enrique      |       Santa Fe        |              |
-|       570        |    Bernard, Maximiliano    |                       |              |
 |       570        |       Barrios, Tomas       |                       |              |
+|       570        |    Bernard, Maximiliano    |                       |              |
 |       570        |      Ranzani, Esteban      |                       |              |
 |       568        |       Prettis, Juan        |                       |              |
 |       550        |     Escalante, Samuel      |                       |              |
@@ -247,18 +247,18 @@
 |       480        |       Antunez, Pablo       |                       |              |
 |       480        |     Ferrero, Alejandro     |                       |              |
 |       478        |       Acosta, Gaston       |                       |              |
-|       470        |      Velazquez, Pedro      |                       |              |
 |       470        |       Lell, Claudia        |        Parana         | Tiro Federal |
+|       470        |      Velazquez, Pedro      |                       |              |
 |       464        |       Benicio, Oscar       |        Parana         |   Aspatem    |
 |       463        |      Cuello, Nicolas       |                       |              |
 |       452        |    Canhoto, Juan Pablo     |       Santa Fe        |   Atemeli    |
 |       445        |       Uranga, Fermin       |                       |              |
 |       430        |     Velazquez, Fatima      |                       |              |
 |       422        |       Ledesma, Jonas       |                       |              |
-|       416        |    Bertoli, Maximiliano    |                       |              |
 |       416        |      Bertoli, Julian       |                       |              |
-|       414        |        Seib, Silvia        |        Parana         |   Aspatem    |
+|       416        |    Bertoli, Maximiliano    |                       |              |
 |       414        |        Macor, Mateo        |                       |              |
+|       414        |        Seib, Silvia        |        Parana         |   Aspatem    |
 |       412        |         Neto, Leon         |                       |              |
 |       410        |       Palamedi, Uma        |       Santa Fe        |   Atemeli    |
 |       408        |     Benitez, Benjamin      |                       |              |

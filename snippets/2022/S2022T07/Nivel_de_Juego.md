@@ -32,10 +32,10 @@
 |   segunda   |    959 (+39)     |     Levin, Raul      |   Parana    |              |
 |   segunda   |     916 (=)      |    Godano, Franco    |  Santa Fe   |   ATEMELI    |
 |   segunda   |     896 (=)      |   Gandolfo, Carlos   |   Parana    | Tiro Federal |
-|   segunda   |    850 (+37)     |    Prettis, Juan     |             |              |
 |   segunda   |     850 (=)      |   Depaoli, Luciano   |  Santa Fe   |   Atemeli    |
-|   segunda   |    834 (+248)    |  Vigouroux, Manuel   |  San Justo  | Tiro Federal |
+|   segunda   |    850 (+37)     |    Prettis, Juan     |             |              |
 |   segunda   |     834 (=)      |    Migoni, Anibal    |   Parana    |   Aspatem    |
+|   segunda   |    834 (+248)    |  Vigouroux, Manuel   |  San Justo  | Tiro Federal |
 |   segunda   |     833 (=)      |   Mendieta, Elias    |  Santa Fe   |              |
 |   segunda   |    829 (-10)     |    Jaime, Gerardo    |   Parana    |   Aspatem    |
 |   segunda   |    828 (+209)    |    Boetti, Genaro    |             |              |

@@ -36,8 +36,8 @@
 |   tercera   |     769 (-7)     |    Prettis, Juan     |             |              |
 |   tercera   |     714 (=)      |    Reniero, Gian     |             |              |
 |   tercera   |    711 (-110)    |    Vetrano, Luca     |             |              |
-|   tercera   |     704 (=)      |   Savino, Leandro    |  Santa Fe   |   Atemeli    |
 |   tercera   |     704 (=)      |   Colavini, Daniel   | Santo Tome  |   Atemeli    |
+|   tercera   |     704 (=)      |   Savino, Leandro    |  Santa Fe   |   Atemeli    |
 |   tercera   |     694 (=)      |    Suarez, Milton    |  Santa Fe   |              |
 |   tercera   |    678 (+80)     |    Boetti, Genaro    |             |              |
 |   tercera   |    636 (+48)     | Dallinger, Humberto  |   Parana    | Tiro Federal |
@@ -55,6 +55,6 @@
 |   tercera   |    455 (-38)     |  Vigouroux, Manuel   |  San Justo  | Tiro Federal |
 |   tercera   |     416 (-6)     |    Ledesma, Jonas    |             |              |
 |   tercera   |    408 (-36)     |    Benicio, Oscar    |   Parana    |   Aspatem    |
-|   tercera   |    374 (-26)     |    Diaz, Benjamin    |             |              |
 |   tercera   |     374 (=)      |    Almada, Pablo     |             |              |
+|   tercera   |    374 (-26)     |    Diaz, Benjamin    |             |              |
 |   tercera   |     368 (=)      |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |
