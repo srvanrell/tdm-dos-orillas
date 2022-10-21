@@ -1,4 +1,5 @@
 # TODO run rtt publish to get latest version of publishing files
+# Use zsh to run this script
 
 # Commands to bring latest results from rtt execution
 rsync -avz ../ranking-table-tennis/data_rtt/S2022T* ./snippets/2022/
