@@ -7,7 +7,6 @@
 
 Cantidad de jugadores que participaron en cada torneo.
 Si un jugador jugó dos categorías se cuenta dos veces (una vez en cada categoría).
-!!! note ""
 
 ![Por TOrneo](../../assets/images/{{ season_name }}/Estadisticas_Por_Torneo.png)
 

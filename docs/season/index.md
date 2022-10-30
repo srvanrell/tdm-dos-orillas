@@ -1,6 +1,6 @@
 # Temporadas anteriores
 
-Accesibles en el [viejo sitio web](https://sites.google.com/site/tdmdosorillas/).
+Temporadas 2017 a 2021 accesibles en el [viejo sitio web](https://sites.google.com/site/tdmdosorillas/).
 
 {% for season in seasons[1:] %}
 
