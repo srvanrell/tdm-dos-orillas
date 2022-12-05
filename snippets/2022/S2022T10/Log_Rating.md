@@ -1,0 +1,115 @@
+|          Ganador          |         Perdedor          |  Diferencia  |  Puntos Ganador  |  Puntos Perdedor  |  Instancia  |  Categoría  |  Factor  |
+|:-------------------------:|:-------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
+| Gonzalez, Juan A. (1654)  | Palamedi, Cristian (1055) |     599      |        1         |        -1         |   cuartos   |   primera   |   0.5    |
+|  Milesi, Leandro (1025)   |  Bonelli, Marcos (1029)   |      -4      |        18        |        -18        |   cuartos   |   primera   |    1     |
+|   Nohara, Andres (1418)   |   Boetti, Genaro (867)    |     551      |        1         |        -1         |   cuartos   |   primera   |   0.5    |
+| Velazquez, Marcelo (1373) |   Jaime, Gerardo (823)    |     550      |        1         |        -1         |   cuartos   |   primera   |   0.5    |
+| Gonzalez, Juan A. (1654)  |   Nohara, Andres (1418)   |     236      |        8         |        -8         |    final    |   primera   |    1     |
+|   Boetti, Genaro (867)    |  Candioti, Lionel (730)   |     137      |        12        |        -12        |   octavos   |   primera   |    1     |
+|  Bonelli, Marcos (1029)   |  Vigouroux, Manuel (734)  |     295      |        8         |        -8         |   octavos   |   primera   |    1     |
+| Gonzalez, Juan A. (1654)  |    Vetrano, Luca (667)    |     987      |        2         |        -2         |   octavos   |   primera   |    1     |
+|   Jaime, Gerardo (823)    |  Vigouroux, Jorge (1102)  |     -279     |        42        |        -42        |   octavos   |   primera   |    1     |
+|  Milesi, Leandro (1025)   | Alvarez, Sebastian (769)  |     256      |        8         |        -8         |   octavos   |   primera   |    1     |
+| Palamedi, Cristian (1055) |   Mendieta, Elias (866)   |     189      |        10        |        -10        |   octavos   |   primera   |    1     |
+| Velazquez, Marcelo (1373) |   Mastrizo, Lucio (850)   |     523      |        1         |        -1         |   octavos   |   primera   |   0.5    |
+| Gonzalez, Juan A. (1654)  | Velazquez, Marcelo (1373) |     281      |        8         |        -8         |  semifinal  |   primera   |    1     |
+|   Nohara, Andres (1418)   |  Milesi, Leandro (1025)   |     393      |        3         |        -3         |  semifinal  |   primera   |   0.5    |
+|   Boetti, Genaro (867)    |   Mastrizo, Lucio (850)   |      17      |        18        |        -18        |    zona     |   primera   |    1     |
+|  Bonelli, Marcos (1029)   |  Mazuquin, Giovani (750)  |     279      |        8         |        -8         |    zona     |   primera   |    1     |
+|  Bonelli, Marcos (1029)   |    Vetrano, Luca (667)    |     362      |        6         |        -6         |    zona     |   primera   |    1     |
+| Gonzalez, Juan A. (1654)  |   Boetti, Genaro (867)    |     787      |        1         |        -1         |    zona     |   primera   |   0.5    |
+| Gonzalez, Juan A. (1654)  |   Mastrizo, Lucio (850)   |     804      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|   Jaime, Gerardo (823)    | Alvarez, Sebastian (769)  |      54      |        14        |        -14        |    zona     |   primera   |    1     |
+|  Mazuquin, Giovani (750)  |    Vetrano, Luca (667)    |      83      |        14        |        -14        |    zona     |   primera   |    1     |
+|  Milesi, Leandro (1025)   |  Candioti, Lionel (730)   |     295      |        8         |        -8         |    zona     |   primera   |    1     |
+|  Milesi, Leandro (1025)   |  Vigouroux, Jorge (1102)  |     -77      |        26        |        -26        |    zona     |   primera   |    1     |
+|   Nohara, Andres (1418)   | Alvarez, Sebastian (769)  |     649      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|   Nohara, Andres (1418)   |   Jaime, Gerardo (823)    |     595      |        1         |        -1         |    zona     |   primera   |   0.5    |
+| Palamedi, Cristian (1055) |  Bonelli, Marcos (1029)   |      26      |        16        |        -16        |    zona     |   primera   |    1     |
+| Palamedi, Cristian (1055) |  Mazuquin, Giovani (750)  |     305      |        6         |        -6         |    zona     |   primera   |    1     |
+| Velazquez, Marcelo (1373) |   Mendieta, Elias (866)   |     507      |        1         |        -1         |    zona     |   primera   |   0.5    |
+| Velazquez, Marcelo (1373) |  Vigouroux, Manuel (734)  |     639      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|    Vetrano, Luca (667)    | Palamedi, Cristian (1055) |     -388     |        48        |        -48        |    zona     |   primera   |    1     |
+|  Vigouroux, Jorge (1102)  |  Candioti, Lionel (730)   |     372      |        6         |        -6         |    zona     |   primera   |    1     |
+|  Vigouroux, Manuel (734)  |   Mendieta, Elias (866)   |     -132     |        30        |        -30        |    zona     |   primera   |    1     |
+|                           |                           |              |                  |                   |             |             |          |
+|    Vetrano, Luca (667)    |  Rodriguez, Guido (450)   |     217      |        8         |        -8         |    16vos    |   segunda   |    1     |
+| Vigouroux, Santiago (484) |  Colavini, Daniel (567)   |     -83      |        26        |        -26        |    16vos    |   segunda   |    1     |
+|  Milesi, Leandro (1025)   |  Escudero, Martin (999)   |      26      |        16        |        -16        |   cuartos   |   segunda   |    1     |
+| Palamedi, Cristian (1055) |   Jaime, Gerardo (823)    |     232      |        8         |        -8         |   cuartos   |   segunda   |    1     |
+|     Soto, Luis (1231)     |   Boetti, Genaro (867)    |     364      |        6         |        -6         |   cuartos   |   segunda   |    1     |
+|  Vigouroux, Jorge (1102)  |   Mastrizo, Lucio (850)   |     252      |        8         |        -8         |   cuartos   |   segunda   |    1     |
+|     Soto, Luis (1231)     |  Milesi, Leandro (1025)   |     206      |        8         |        -8         |    final    |   segunda   |    1     |
+|   Boetti, Genaro (867)    |   Mendieta, Elias (866)   |      1       |        18        |        -18        |   octavos   |   segunda   |    1     |
+|  Escudero, Martin (999)   |  Vigouroux, Manuel (734)  |     265      |        8         |        -8         |   octavos   |   segunda   |    1     |
+|   Jaime, Gerardo (823)    |    Vetrano, Luca (667)    |     156      |        10        |        -10        |   octavos   |   segunda   |    1     |
+|   Mastrizo, Lucio (850)   |   Acosta, Gaston (779)    |      71      |        14        |        -14        |   octavos   |   segunda   |    1     |
+|  Milesi, Leandro (1025)   | Vigouroux, Santiago (484) |     541      |        1         |        -1         |   octavos   |   segunda   |   0.5    |
+| Palamedi, Cristian (1055) | Alvarez, Sebastian (769)  |     286      |        8         |        -8         |   octavos   |   segunda   |    1     |
+|     Soto, Luis (1231)     |  Bonelli, Marcos (1029)   |     202      |        8         |        -8         |   octavos   |   segunda   |    1     |
+|  Vigouroux, Jorge (1102)  |  Mazuquin, Giovani (750)  |     352      |        6         |        -6         |   octavos   |   segunda   |    1     |
+|  Milesi, Leandro (1025)   |  Vigouroux, Jorge (1102)  |     -77      |        26        |        -26        |  semifinal  |   segunda   |    1     |
+|     Soto, Luis (1231)     | Palamedi, Cristian (1055) |     176      |        10        |        -10        |  semifinal  |   segunda   |    1     |
+|   Acosta, Gaston (779)    | Vigouroux, Santiago (484) |     295      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+|   Acosta, Gaston (779)    |   Zancada, Maximo (430)   |     349      |        6         |        -6         |    zona     |   segunda   |    1     |
+| Alvarez, Sebastian (769)  |  Colavini, Daniel (567)   |     202      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+| Alvarez, Sebastian (769)  |   Orzan, Joaquin (420)    |     349      |        3         |        -3         |    zona     |   segunda   |   0.5    |
+|   Boetti, Genaro (867)    |  Rodriguez, Guido (450)   |     417      |        2         |        -2         |    zona     |   segunda   |   0.5    |
+|  Bonelli, Marcos (1029)   |   Mastrizo, Lucio (850)   |     179      |        10        |        -10        |    zona     |   segunda   |    1     |
+|  Bonelli, Marcos (1029)   |    Tourn, Bruno (500)     |     529      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+|  Colavini, Daniel (567)   |   Orzan, Joaquin (420)    |     147      |        12        |        -12        |    zona     |   segunda   |    1     |
+|  Escudero, Martin (999)   |   Boetti, Genaro (867)    |     132      |        12        |        -12        |    zona     |   segunda   |    1     |
+|  Escudero, Martin (999)   |  Rodriguez, Guido (450)   |     549      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+|   Jaime, Gerardo (823)    |  Bonelli, Marcos (1029)   |     -206     |        42        |        -42        |    zona     |   segunda   |    1     |
+|   Jaime, Gerardo (823)    |    Tourn, Bruno (500)     |     323      |        3         |        -3         |    zona     |   segunda   |   0.5    |
+|   Mastrizo, Lucio (850)   |   Jaime, Gerardo (823)    |      27      |        16        |        -16        |    zona     |   segunda   |    1     |
+|   Mastrizo, Lucio (850)   |    Tourn, Bruno (500)     |     350      |        3         |        -3         |    zona     |   segunda   |   0.5    |
+|  Mazuquin, Giovani (750)  |  Candioti, Lionel (730)   |      20      |        18        |        -18        |    zona     |   segunda   |    1     |
+|   Mendieta, Elias (866)   |  Candioti, Lionel (730)   |     136      |        12        |        -12        |    zona     |   segunda   |    1     |
+|   Mendieta, Elias (866)   |  Mazuquin, Giovani (750)  |     116      |        12        |        -12        |    zona     |   segunda   |    1     |
+|  Milesi, Leandro (1025)   |  Candioti, Lionel (730)   |     295      |        8         |        -8         |    zona     |   segunda   |    1     |
+|  Milesi, Leandro (1025)   |  Mazuquin, Giovani (750)  |     275      |        8         |        -8         |    zona     |   segunda   |    1     |
+|  Milesi, Leandro (1025)   |   Mendieta, Elias (866)   |     159      |        10        |        -10        |    zona     |   segunda   |    1     |
+| Palamedi, Cristian (1055) |   Acosta, Gaston (779)    |     276      |        8         |        -8         |    zona     |   segunda   |    1     |
+| Palamedi, Cristian (1055) | Vigouroux, Santiago (484) |     571      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+| Palamedi, Cristian (1055) |   Zancada, Maximo (430)   |     625      |        2         |        -2         |    zona     |   segunda   |    1     |
+|     Soto, Luis (1231)     |   Orzan, Valentin (480)   |     751      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+|     Soto, Luis (1231)     |    Vetrano, Luca (667)    |     564      |        2         |        -2         |    zona     |   segunda   |    1     |
+|     Soto, Luis (1231)     |  Vigouroux, Manuel (734)  |     497      |        4         |        -4         |    zona     |   segunda   |    1     |
+|    Vetrano, Luca (667)    |   Orzan, Valentin (480)   |     187      |        10        |        -10        |    zona     |   segunda   |    1     |
+|  Vigouroux, Jorge (1102)  | Alvarez, Sebastian (769)  |     333      |        6         |        -6         |    zona     |   segunda   |    1     |
+|  Vigouroux, Jorge (1102)  |  Colavini, Daniel (567)   |     535      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+|  Vigouroux, Jorge (1102)  |   Orzan, Joaquin (420)    |     682      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+|  Vigouroux, Manuel (734)  |   Orzan, Valentin (480)   |     254      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+|  Vigouroux, Manuel (734)  |    Vetrano, Luca (667)    |      67      |        14        |        -14        |    zona     |   segunda   |    1     |
+| Vigouroux, Santiago (484) |   Zancada, Maximo (430)   |      54      |        14        |        -14        |    zona     |   segunda   |    1     |
+|                           |                           |              |                  |                   |             |             |          |
+|  Colavini, Daniel (567)   |    Almada, Pablo (586)    |     -19      |        18        |        -18        |   cuartos   |   tercera   |    1     |
+|   Gomez, Gabriel (444)    |   Larrosa, Jorge (557)    |     -113     |        30        |        -30        |   cuartos   |   tercera   |    1     |
+|   Sancada, Maximo (500)   |  Rodriguez, Guido (450)   |      50      |        14        |        -14        |   cuartos   |   tercera   |    1     |
+| Vigouroux, Santiago (484) |  Agustini, Sergio (420)   |      64      |        14        |        -14        |   cuartos   |   tercera   |    1     |
+| Vigouroux, Santiago (484) |  Colavini, Daniel (567)   |     -83      |        26        |        -26        |    final    |   tercera   |    1     |
+|  Agustini, Sergio (420)   |   Orzan, Valentin (480)   |     -60      |        26        |        -26        |   octavos   |   tercera   |    1     |
+|    Almada, Pablo (586)    |   Valcar, Daniel (450)    |     136      |        12        |        -12        |   octavos   |   tercera   |    1     |
+|  Colavini, Daniel (567)   |  Gabiout, Alfonso (450)   |     117      |        12        |        -12        |   octavos   |   tercera   |    1     |
+|   Gomez, Gabriel (444)    |    Tourn, Bruno (500)     |     -56      |        26        |        -26        |   octavos   |   tercera   |    1     |
+|   Larrosa, Jorge (557)    |   Frank, Benjamin (390)   |     167      |        10        |        -10        |   octavos   |   tercera   |    1     |
+|  Rodriguez, Guido (450)   |  Ranzani, Esteban (502)   |     -52      |        26        |        -26        |   octavos   |   tercera   |    1     |
+| Vigouroux, Santiago (484) |   Orzan, Joaquin (420)    |      64      |        14        |        -14        |   octavos   |   tercera   |    1     |
+|  Colavini, Daniel (567)   |   Gomez, Gabriel (444)    |     123      |        12        |        -12        |  semifinal  |   tercera   |    1     |
+| Vigouroux, Santiago (484) |   Sancada, Maximo (500)   |     -16      |        18        |        -18        |  semifinal  |   tercera   |    1     |
+|  Agustini, Sergio (420)   |   Frank, Benjamin (390)   |      30      |        16        |        -16        |    zona     |   tercera   |    1     |
+|    Almada, Pablo (586)    |   Orzan, Joaquin (420)    |     166      |        10        |        -10        |    zona     |   tercera   |    1     |
+|  Colavini, Daniel (567)   |   Orzan, Valentin (480)   |      87      |        14        |        -14        |    zona     |   tercera   |    1     |
+|  Colavini, Daniel (567)   |    Tourn, Bruno (500)     |      67      |        14        |        -14        |    zona     |   tercera   |    1     |
+|   Gomez, Gabriel (444)    |  Agustini, Sergio (420)   |      24      |        16        |        -16        |    zona     |   tercera   |    1     |
+|   Gomez, Gabriel (444)    |   Frank, Benjamin (390)   |      54      |        14        |        -14        |    zona     |   tercera   |    1     |
+|   Larrosa, Jorge (557)    |  Gabiout, Alfonso (450)   |     107      |        12        |        -12        |    zona     |   tercera   |    1     |
+|   Larrosa, Jorge (557)    |  Ranzani, Esteban (502)   |      55      |        14        |        -14        |    zona     |   tercera   |    1     |
+|   Orzan, Joaquin (420)    |   Sancada, Maximo (500)   |     -80      |        26        |        -26        |    zona     |   tercera   |    1     |
+|   Orzan, Valentin (480)   |    Tourn, Bruno (500)     |     -20      |        18        |        -18        |    zona     |   tercera   |    1     |
+|  Ranzani, Esteban (502)   |  Gabiout, Alfonso (450)   |      52      |        14        |        -14        |    zona     |   tercera   |    1     |
+|   Sancada, Maximo (500)   |    Almada, Pablo (586)    |     -86      |        26        |        -26        |    zona     |   tercera   |    1     |
+|   Valcar, Daniel (450)    |  Rodriguez, Guido (450)   |      0       |        18        |        -18        |    zona     |   tercera   |    1     |
+| Vigouroux, Santiago (484) |  Rodriguez, Guido (450)   |      34      |        16        |        -16        |    zona     |   tercera   |    1     |
+| Vigouroux, Santiago (484) |   Valcar, Daniel (450)    |      34      |        16        |        -16        |    zona     |   tercera   |    1     |
