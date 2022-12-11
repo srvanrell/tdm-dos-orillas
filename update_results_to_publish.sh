@@ -8,6 +8,7 @@ YEAR=${1:-2022}
 rsync -avz ../ranking-table-tennis/data_rtt/S${YEAR}T* ./snippets/${YEAR}/
 
 # Move statistics to images corresponding folder
+mkdir "docs/assets/images/${YEAR}"
 folders=(`ls -d1X snippets/${YEAR}/S${YEAR}T*/`)
 for folder in "${folders[@]}"
 do
@@ -16,4 +17,6 @@ do
     mv -v "${folder}Estadisticas_Por_Torneo.png" "docs/assets/images/${YEAR}/Estadisticas_Por_Torneo.png"
 done
 
+# Update seasons.yaml and docs folders
 ./update_season_yaml.py --year ${YEAR}
+rsync -avz ./docs/season/2022/ ./docs/season/${YEAR}
