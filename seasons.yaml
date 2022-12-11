@@ -1,27 +1,49 @@
 seasons:
-  - name: 2022
+-   name: 2022
     tournaments:
-      - id: S2022T10
+    -   id: S2022T10
         name: Torneo 10
-      - id: S2022T09
+    -   id: S2022T09
         name: Torneo 09
-      - id: S2022T08
+    -   id: S2022T08
         name: Torneo 08
-      - id: S2022T07
+    -   id: S2022T07
         name: Torneo 07
-      - id: S2022T06
+    -   id: S2022T06
         name: Torneo 06
-      - id: S2022T05
+    -   id: S2022T05
         name: Torneo 05
-      - id: S2022T04
+    -   id: S2022T04
         name: Torneo 04
-      - id: S2022T03
+    -   id: S2022T03
         name: Torneo 03
-      - id: S2022T02
+    -   id: S2022T02
         name: Torneo 02
-      - id: S2022T01
+    -   id: S2022T01
         name: Torneo 01
     categories:
-      - Primera
-      - Segunda
-      - Tercera
+    - Primera
+    - Segunda
+    - Tercera
+-   name: 2021
+    tournaments:
+    -   id: S2021T08
+        name: Torneo 08
+    -   id: S2021T07
+        name: Torneo 07
+    -   id: S2021T06
+        name: Torneo 06
+    -   id: S2021T05
+        name: Torneo 05
+    -   id: S2021T04
+        name: Torneo 04
+    -   id: S2021T03
+        name: Torneo 03
+    -   id: S2021T02
+        name: Torneo 02
+    -   id: S2021T01
+        name: Torneo 01
+    categories:
+    - Primera
+    - Segunda
+    - Tercera
