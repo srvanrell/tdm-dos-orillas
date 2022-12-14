@@ -72,6 +72,22 @@ nav:
     - Historial por Jugador: season/current/historical.md
     - Estadísticas: season/current/statistics.md
     - Reglamento: season/current/rules.md
-    - Temporadas anteriores: season/index.md
+    - Todas las temporadas:
+        - 2022:
+          - Campeonato: season/2022/championship.md
+          - Nivel de Juego / Categorías: season/2022/rating.md
+          - Partidos: season/2022/matches.md
+          - Historial por Jugador: season/2022/historical.md
+          - Estadísticas: season/2022/statistics.md
+          - Reglamento: season/2022/rules.md
+        - 2021:
+          - Campeonato: season/2021/championship.md
+          - Nivel de Juego / Categorías: season/2021/rating.md
+          - Partidos: season/2021/matches.md
+          - Historial por Jugador: season/2021/historical.md
+          - Estadísticas: season/2021/statistics.md
+          - Reglamento: season/2021/rules.md
+        - Temporadas anteriores: season/old_seasons.md
+
 
 copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2022 &copy; Sebastián Vanrell
