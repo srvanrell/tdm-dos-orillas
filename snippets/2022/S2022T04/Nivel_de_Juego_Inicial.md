@@ -141,6 +141,7 @@
 |       866        |       Miner, Alberto       |        Parana         |   Aspatem    |
 |       866        |       Tenca, Javier        |        Parana         |   Aspatem    |
 |       864        |        Claria, Ivan        |        Parana         |   Aspatem    |
+|       850        |      Mastrizo, Lucio       |                       |              |
 |       848        |        Goy, Gerardo        |      Reconquista      |    ATMAR     |
 |       840        |      Colavini, Daniel      |      Santo Tome       |   Atemeli    |
 |       836        |         Lamy, Blas         |                       |              |
@@ -162,6 +163,7 @@
 |       754        |       Flores, Tomas        | Libertador San Martin |              |
 |       752        |      Gomez, Santiago       |                       |              |
 |       750        |      Acuna, Santiago       |                       |              |
+|       750        |     Mazuquin, Giovani      |                       |              |
 |       750        |     Pradella, Nicolas      |                       |              |
 |       745        |         Diaz, Gino         | Libertador San Martin |     CRL      |
 |       744        |        Vega, Sergio        | Libertador San Martin |     CRL      |
@@ -169,6 +171,7 @@
 |       741        |    Bonino, Maximiliano     |  San Jeronimo Norte   |              |
 |       735        |        Bishop, Alan        | Libertador San Martin |     CRL      |
 |       732        |    Guckert, Juan Pablo     |                       |              |
+|       730        |      Candioti, Lionel      |                       |              |
 |       726        |      Aguirre, Gabriel      |        Parana         |   Aspatem    |
 |       726        |      Martinez, Dylan       |                       |              |
 |       725        |      Noriega, Martin       |       Santa Fe        |              |
@@ -227,10 +230,10 @@
 |       584        |     Ferreyra, Enrique      |       Santa Fe        |              |
 |       570        |       Barrios, Tomas       |                       |              |
 |       570        |    Bernard, Maximiliano    |                       |              |
-|       570        |      Ranzani, Esteban      |                       |              |
 |       568        |       Prettis, Juan        |                       |              |
 |       550        |     Escalante, Samuel      |                       |              |
 |       550        |    Musuruana, Francisco    |                       |              |
+|       550        |      Ranzani, Esteban      |                       |              |
 |       548        |       Gomez, Gabriel       |        Parana         | Tiro Federal |
 |       530        |        Moreno, Aixa        |        Parana         |   Aspatem    |
 |       528        |     Scheggia, Ignacio      |       Santa Fe        |   Atemeli    |
@@ -242,19 +245,33 @@
 |       511        |    Vigouroux, Santiago     |       San Justo       | Tiro Federal |
 |       509        |      Canhoto, Carlos       |       Santa Fe        |   Atemeli    |
 |       503        |     Oliveras, Leonardo     |                       |              |
+|       500        |      Sancada, Maximo       |                       |              |
+|       500        |        Tourn, Bruno        |                       |              |
 |       498        |       Zeitune, Angel       |                       |              |
 |       497        |        Sigal, Eliel        |                       |              |
 |       480        |       Antunez, Pablo       |                       |              |
 |       480        |     Ferrero, Alejandro     |                       |              |
+|       480        |      Orzan, Valentin       |                       |              |
 |       478        |       Acosta, Gaston       |                       |              |
 |       470        |       Lell, Claudia        |        Parana         | Tiro Federal |
 |       470        |      Velazquez, Pedro      |                       |              |
 |       464        |       Benicio, Oscar       |        Parana         |   Aspatem    |
 |       463        |      Cuello, Nicolas       |                       |              |
 |       452        |    Canhoto, Juan Pablo     |       Santa Fe        |   Atemeli    |
+|       450        |     Allegrini, Tiziano     |                       |              |
+|       450        |     Calabrese, Alfredo     |                       |              |
+|       450        |      Gabiout, Alfonso      |                       |              |
+|       450        |       Portillo, Ana        |                       |              |
+|       450        |      Rodriguez, Guido      |                       |              |
+|       450        |     Scotta, Francisco      |                       |              |
+|       450        |      Torres, Lautaro       |                       |              |
+|       450        |       Valcar, Daniel       |                       |              |
 |       445        |       Uranga, Fermin       |                       |              |
 |       430        |     Velazquez, Fatima      |                       |              |
+|       430        |      Zancada, Maximo       |                       |              |
 |       422        |       Ledesma, Jonas       |                       |              |
+|       420        |      Agustini, Sergio      |                       |              |
+|       420        |       Orzan, Joaquin       |                       |              |
 |       416        |      Bertoli, Julian       |                       |              |
 |       416        |    Bertoli, Maximiliano    |                       |              |
 |       414        |        Macor, Mateo        |                       |              |
@@ -265,6 +282,7 @@
 |       402        |     Troncoso, Mauricio     |                       |              |
 |       400        |       Diaz, Benjamin       |                       |              |
 |       400        |      Micocci, Matias       |                       |              |
+|       390        |      Frank, Benjamin       |                       |              |
 |       386        |       Almada, Pablo        |                       |              |
 |       368        |     Vivanco, Cristian      |                       |              |
 |       366        |     Barrientos, Norma      |        Parana         | Tiro Federal |

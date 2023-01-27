@@ -52,7 +52,7 @@
 |   tercera   |    682 (-12)     |    Suarez, Milton    |  Santa Fe   |              |
 |   tercera   |     636 (=)      | Dallinger, Humberto  |   Parana    | Tiro Federal |
 |   tercera   |     613 (=)      |    Comas, Javier     |   Parana    |   Aspatem    |
-|   tercera   |    613 (+22)     |    Larrosa, Jorge    |   Parana    | Tiro Federal |
+|   tercera   |    611 (+20)     |    Larrosa, Jorge    |   Parana    | Tiro Federal |
 |   tercera   |     602 (=)      |    Godano, Lucas     |             |              |
 |   tercera   |     598 (=)      |     Pilotti, Paz     |             |              |
 |   tercera   |     577 (=)      |   Canhoto, Carlos    |  Santa Fe   |   Atemeli    |
@@ -60,9 +60,9 @@
 |   tercera   |    567 (-123)    |   Colavini, Daniel   | Santo Tome  |   Atemeli    |
 |   tercera   |    542 (-28)     |    Barrios, Tomas    |             |              |
 |   tercera   |    526 (-44)     | Bernard, Maximiliano |             |              |
-|   tercera   |    520 (-50)     |   Ranzani, Esteban   |             |              |
 |   tercera   |     510 (=)      | Musuruana, Francisco |             |              |
 |   tercera   |     506 (=)      |   Rios, Sebastian    |             |              |
+|   tercera   |    502 (-48)     |   Ranzani, Esteban   |             |              |
 |   tercera   |     500 (=)      |      Neto, Leon      |             |              |
 |   tercera   |     488 (=)      |  Escalante, Samuel   |             |              |
 |   tercera   |     482 (=)      |    Gomez, Gabriel    |   Parana    | Tiro Federal |

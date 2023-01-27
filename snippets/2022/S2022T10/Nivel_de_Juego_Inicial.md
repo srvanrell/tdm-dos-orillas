@@ -258,8 +258,13 @@
 |       464        |       Benicio, Oscar       |        Parana         |   Aspatem    |
 |       463        |      Cuello, Nicolas       |                       |              |
 |       452        |    Canhoto, Juan Pablo     |       Santa Fe        |   Atemeli    |
+|       450        |     Allegrini, Tiziano     |                       |              |
+|       450        |     Calabrese, Alfredo     |                       |              |
 |       450        |      Gabiout, Alfonso      |                       |              |
+|       450        |       Portillo, Ana        |                       |              |
 |       450        |      Rodriguez, Guido      |                       |              |
+|       450        |     Scotta, Francisco      |                       |              |
+|       450        |      Torres, Lautaro       |                       |              |
 |       450        |       Valcar, Daniel       |                       |              |
 |       445        |       Uranga, Fermin       |                       |              |
 |       430        |     Velazquez, Fatima      |                       |              |

@@ -62,13 +62,13 @@
 |   tercera   |     577 (=)      |   Canhoto, Carlos    |  Santa Fe   |   Atemeli    |
 |   tercera   |     568 (=)      |   Morello, Manuel    |             |              |
 |   tercera   |     567 (=)      |   Colavini, Daniel   | Santo Tome  |   Atemeli    |
-|   tercera   |    559 (-54)     |    Larrosa, Jorge    |   Parana    | Tiro Federal |
+|   tercera   |    557 (-54)     |    Larrosa, Jorge    |   Parana    | Tiro Federal |
 |   tercera   |     542 (=)      |    Barrios, Tomas    |             |              |
 |   tercera   |    542 (-70)     |   Vergara, Gustavo   |   Parana    | Tiro Federal |
 |   tercera   |     526 (=)      | Bernard, Maximiliano |             |              |
-|   tercera   |     520 (=)      |   Ranzani, Esteban   |             |              |
 |   tercera   |     510 (=)      | Musuruana, Francisco |             |              |
 |   tercera   |     506 (=)      |   Rios, Sebastian    |             |              |
+|   tercera   |     502 (=)      |   Ranzani, Esteban   |             |              |
 |   tercera   |     500 (=)      |      Neto, Leon      |             |              |
 |   tercera   |     488 (=)      |  Escalante, Samuel   |             |              |
 |   tercera   |     484 (+6)     | Vigouroux, Santiago  |  San Justo  | Tiro Federal |

@@ -59,18 +59,18 @@
 |                             |                             |              |                  |                   |             |             |          |
 |     Almada, Pablo (432)     |    Gomez, Gabriel (482)     |     -50      |        26        |        -26        |   cuartos   |   tercera   |    1     |
 |  Dallinger, Humberto (636)  |   Vergara, Gustavo (612)    |      24      |        16        |        -16        |   cuartos   |   tercera   |    1     |
-|     Palamedi, Uma (452)     |    Larrosa, Jorge (613)     |     -161     |        36        |        -36        |   cuartos   |   tercera   |    1     |
+|     Palamedi, Uma (452)     |    Larrosa, Jorge (611)     |     -159     |        36        |        -36        |   cuartos   |   tercera   |    1     |
 |   Welschen, Pablo (1054)    |    Benicio, Oscar (408)     |     646      |        2         |        -2         |   cuartos   |   tercera   |    1     |
 |  Dallinger, Humberto (636)  |     Almada, Pablo (432)     |     204      |        8         |        -8         |    final    |   tercera   |    1     |
 |    Gomez, Gabriel (482)     |   Vivanco, Cristian (342)   |     140      |        12        |        -12        |   octavos   |   tercera   |    1     |
 |     Almada, Pablo (432)     |   Welschen, Pablo (1054)    |     -622     |        64        |        -64        |  semifinal  |   tercera   |    1     |
 |  Dallinger, Humberto (636)  |     Palamedi, Uma (452)     |     184      |        10        |        -10        |  semifinal  |   tercera   |    1     |
-|     Almada, Pablo (432)     |    Larrosa, Jorge (613)     |     -181     |        36        |        -36        |    zona     |   tercera   |    1     |
+|     Almada, Pablo (432)     |    Larrosa, Jorge (611)     |     -179     |        36        |        -36        |    zona     |   tercera   |    1     |
 |     Almada, Pablo (432)     |   Vergara, Gustavo (612)    |     -180     |        36        |        -36        |    zona     |   tercera   |    1     |
 |    Benicio, Oscar (408)     |   Vivanco, Cristian (342)   |      66      |        14        |        -14        |    zona     |   tercera   |    1     |
 |  Dallinger, Humberto (636)  |    Benicio, Oscar (408)     |     228      |        8         |        -8         |    zona     |   tercera   |    1     |
 |  Dallinger, Humberto (636)  |   Vivanco, Cristian (342)   |     294      |        8         |        -8         |    zona     |   tercera   |    1     |
-|    Larrosa, Jorge (613)     |   Vergara, Gustavo (612)    |      1       |        18        |        -18        |    zona     |   tercera   |    1     |
+|    Larrosa, Jorge (611)     |   Vergara, Gustavo (612)    |      -1      |        18        |        -18        |    zona     |   tercera   |    1     |
 |     Palamedi, Uma (452)     |    Gomez, Gabriel (482)     |     -30      |        22        |        -22        |    zona     |   tercera   |    1     |
 |   Welschen, Pablo (1054)    |    Gomez, Gabriel (482)     |     572      |        2         |        -2         |    zona     |   tercera   |    1     |
 |   Welschen, Pablo (1054)    |     Palamedi, Uma (452)     |     602      |        2         |        -2         |    zona     |   tercera   |    1     |
