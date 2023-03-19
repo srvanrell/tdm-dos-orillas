@@ -1,0 +1,51 @@
+|          Ganador          |         Perdedor          |  Diferencia  |  Puntos Ganador  |  Puntos Perdedor  |  Instancia  |  Categoría  |  Factor  |
+|:-------------------------:|:-------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
+| Heredia, Santiago (1591)  |   Mendez, Carlos (1456)   |     135      |        12        |        -12        |   cuartos   |   primera   |    1     |
+|   Nohara, Andres (1399)   |  Milesi, Leandro (1143)   |     256      |        4         |        -4         |   cuartos   |   primera   |   0.5    |
+| Palamedi, Cristian (1055) |  Bonelli, Marcos (1003)   |      52      |        14        |        -14        |   cuartos   |   primera   |    1     |
+|  Perot, Alejandro (1760)  | Alvarez, Sebastian (739)  |     1021     |        0         |         0         |   cuartos   |   primera   |   0.5    |
+| Heredia, Santiago (1591)  | Palamedi, Cristian (1055) |     536      |        1         |        -1         |    final    |   primera   |   0.5    |
+| Heredia, Santiago (1591)  |  Perot, Alejandro (1760)  |     -169     |        36        |        -36        |  semifinal  |   primera   |    1     |
+| Palamedi, Cristian (1055) |   Nohara, Andres (1399)   |     -344     |        72        |        -72        |  semifinal  |   primera   |   1.5    |
+|  Bonelli, Marcos (1003)   | Heredia, Santiago (1591)  |     -588     |        96        |        -96        |    zona     |   primera   |   1.5    |
+| Heredia, Santiago (1591)  |  Milesi, Leandro (1143)   |     448      |        2         |        -2         |    zona     |   primera   |   0.5    |
+|   Mendez, Carlos (1456)   | Alvarez, Sebastian (739)  |     717      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|   Mendez, Carlos (1456)   | Palamedi, Cristian (1055) |     401      |        2         |        -2         |    zona     |   primera   |   0.5    |
+|  Milesi, Leandro (1143)   |  Bonelli, Marcos (1003)   |     140      |        12        |        -12        |    zona     |   primera   |    1     |
+|   Nohara, Andres (1399)   | Alvarez, Sebastian (739)  |     660      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|   Nohara, Andres (1399)   |   Mendez, Carlos (1456)   |     -57      |        26        |        -26        |    zona     |   primera   |    1     |
+|   Nohara, Andres (1399)   | Palamedi, Cristian (1055) |     344      |        3         |        -3         |    zona     |   primera   |   0.5    |
+| Palamedi, Cristian (1055) | Alvarez, Sebastian (739)  |     316      |        6         |        -6         |    zona     |   primera   |    1     |
+|  Perot, Alejandro (1760)  |  Bonelli, Marcos (1003)   |     757      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|  Perot, Alejandro (1760)  | Heredia, Santiago (1591)  |     169      |        10        |        -10        |    zona     |   primera   |    1     |
+|  Perot, Alejandro (1760)  |  Milesi, Leandro (1143)   |     617      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|                           |                           |              |                  |                   |             |             |          |
+|  Escudero, Martin (1002)  | Palamedi, Cristian (1055) |     -53      |        26        |        -26        |   cuartos   |   segunda   |    1     |
+|     Levin, Raul (902)     |  Bonelli, Marcos (1003)   |     -101     |        30        |        -30        |   cuartos   |   segunda   |    1     |
+|    Palamedi, Uma (480)    |   Savino, Leandro (850)   |     -370     |        72        |        -72        |   cuartos   |   segunda   |   1.5    |
+|     Soto, Luis (1270)     |  Milesi, Leandro (1143)   |     127      |        12        |        -12        |   cuartos   |   segunda   |    1     |
+|     Soto, Luis (1270)     |    Palamedi, Uma (480)    |     790      |        1         |        -1         |    final    |   segunda   |   0.5    |
+|    Palamedi, Uma (480)    | Alvarez, Sebastian (739)  |     -259     |        63        |        -63        |   octavos   |   segunda   |   1.5    |
+|    Palamedi, Uma (480)    |     Levin, Raul (902)     |     -422     |        84        |        -84        |  semifinal  |   segunda   |   1.5    |
+|     Soto, Luis (1270)     |  Escudero, Martin (1002)  |     268      |        8         |        -8         |  semifinal  |   segunda   |    1     |
+|  Bonelli, Marcos (1003)   | Alvarez, Sebastian (739)  |     264      |        8         |        -8         |    zona     |   segunda   |    1     |
+|  Bonelli, Marcos (1003)   | Palamedi, Cristian (1055) |     -52      |        26        |        -26        |    zona     |   segunda   |    1     |
+|  Escudero, Martin (1002)  |     Soto, Luis (1270)     |     -268     |        42        |        -42        |    zona     |   segunda   |    1     |
+|     Levin, Raul (902)     |    Palamedi, Uma (480)    |     422      |        2         |        -2         |    zona     |   segunda   |   0.5    |
+|  Milesi, Leandro (1143)   |     Levin, Raul (902)     |     241      |        8         |        -8         |    zona     |   segunda   |    1     |
+|  Milesi, Leandro (1143)   |    Palamedi, Uma (480)    |     663      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+| Palamedi, Cristian (1055) | Alvarez, Sebastian (739)  |     316      |        6         |        -6         |    zona     |   segunda   |    1     |
+|   Savino, Leandro (850)   |  Escudero, Martin (1002)  |     -152     |        36        |        -36        |    zona     |   segunda   |    1     |
+|   Savino, Leandro (850)   |     Soto, Luis (1270)     |     -420     |        56        |        -56        |    zona     |   segunda   |    1     |
+|                           |                           |              |                  |                   |             |             |          |
+|   Larrosa, Jorge (569)    |   Micocci, Matias (386)   |     183      |        10        |        -10        |   cuartos   |   tercera   |    1     |
+|   Suarez, Milton (654)    |   Canhoto, Carlos (577)   |      77      |        14        |        -14        |   cuartos   |   tercera   |    1     |
+|    Palamedi, Uma (480)    |   Gomez, Gabriel (517)    |     -37      |        22        |        -22        |    final    |   tercera   |    1     |
+|   Gomez, Gabriel (517)    |   Larrosa, Jorge (569)    |     -52      |        26        |        -26        |  semifinal  |   tercera   |    1     |
+|    Palamedi, Uma (480)    |   Suarez, Milton (654)    |     -174     |        36        |        -36        |  semifinal  |   tercera   |    1     |
+|   Gomez, Gabriel (517)    |   Micocci, Matias (386)   |     131      |        12        |        -12        |    zona     |   tercera   |    1     |
+|   Gomez, Gabriel (517)    |   Suarez, Milton (654)    |     -137     |        30        |        -30        |    zona     |   tercera   |    1     |
+|   Larrosa, Jorge (569)    |   Canhoto, Carlos (577)   |      -8      |        18        |        -18        |    zona     |   tercera   |    1     |
+|    Palamedi, Uma (480)    |   Canhoto, Carlos (577)   |     -97      |        26        |        -26        |    zona     |   tercera   |    1     |
+|    Palamedi, Uma (480)    |   Larrosa, Jorge (569)    |     -89      |        26        |        -26        |    zona     |   tercera   |    1     |
+|   Suarez, Milton (654)    |   Micocci, Matias (386)   |     268      |        8         |        -8         |    zona     |   tercera   |    1     |

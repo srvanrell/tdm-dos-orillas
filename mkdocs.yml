@@ -73,6 +73,13 @@ nav:
     - Estadísticas: season/current/statistics.md
     - Reglamento: season/current/rules.md
     - Todas las temporadas:
+        - 2023:
+          - Campeonato: season/2023/championship.md
+          - Nivel de Juego / Categorías: season/2023/rating.md
+          - Partidos: season/2023/matches.md
+          - Historial por Jugador: season/2023/historical.md
+          - Estadísticas: season/2023/statistics.md
+          - Reglamento: season/2023/rules.md
         - 2022:
           - Campeonato: season/2022/championship.md
           - Nivel de Juego / Categorías: season/2022/rating.md
@@ -90,4 +97,4 @@ nav:
         - Temporadas anteriores: season/old_seasons.md
 
 
-copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2022 &copy; Sebastián Vanrell
+copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2023 &copy; Sebastián Vanrell

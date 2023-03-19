@@ -1,0 +1,51 @@
+|     Jugador A      |     Jugador B      |  Sets A  |  Sets B  |  Instancia  |  Categoría  |
+|:------------------:|:------------------:|:--------:|:--------:|:-----------:|:-----------:|
+|   Mendez, Carlos   | Heredia, Santiago  |    0     |    3     |   cuartos   |   primera   |
+|   Nohara, Andres   |  Milesi, Leandro   |    3     |    0     |   cuartos   |   primera   |
+| Palamedi, Cristian |  Bonelli, Marcos   |    3     |    0     |   cuartos   |   primera   |
+|  Perot, Alejandro  | Alvarez, Sebastian |    3     |    0     |   cuartos   |   primera   |
+| Palamedi, Cristian | Heredia, Santiago  |    0     |    3     |    final    |   primera   |
+|   Nohara, Andres   | Palamedi, Cristian |    0     |    3     |  semifinal  |   primera   |
+|  Perot, Alejandro  | Heredia, Santiago  |    0     |    3     |  semifinal  |   primera   |
+| Alvarez, Sebastian |   Nohara, Andres   |    0     |    3     |    zona     |   primera   |
+|  Bonelli, Marcos   | Heredia, Santiago  |    3     |    0     |    zona     |   primera   |
+|  Bonelli, Marcos   |  Milesi, Leandro   |    0     |    3     |    zona     |   primera   |
+| Heredia, Santiago  |  Milesi, Leandro   |    3     |    0     |    zona     |   primera   |
+|   Mendez, Carlos   | Alvarez, Sebastian |    3     |    0     |    zona     |   primera   |
+|   Mendez, Carlos   |   Nohara, Andres   |    0     |    3     |    zona     |   primera   |
+|   Mendez, Carlos   | Palamedi, Cristian |    3     |    0     |    zona     |   primera   |
+| Palamedi, Cristian | Alvarez, Sebastian |    3     |    0     |    zona     |   primera   |
+| Palamedi, Cristian |   Nohara, Andres   |    0     |    3     |    zona     |   primera   |
+|  Perot, Alejandro  |  Bonelli, Marcos   |    3     |    0     |    zona     |   primera   |
+|  Perot, Alejandro  | Heredia, Santiago  |    3     |    0     |    zona     |   primera   |
+|  Perot, Alejandro  |  Milesi, Leandro   |    3     |    0     |    zona     |   primera   |
+|                    |                    |          |          |             |             |
+|  Bonelli, Marcos   |    Levin, Raul     |    0     |    3     |   cuartos   |   segunda   |
+|  Milesi, Leandro   |     Soto, Luis     |    0     |    3     |   cuartos   |   segunda   |
+| Palamedi, Cristian |  Escudero, Martin  |    0     |    3     |   cuartos   |   segunda   |
+|   Palamedi, Uma    |  Savino, Leandro   |    3     |    0     |   cuartos   |   segunda   |
+|     Soto, Luis     |   Palamedi, Uma    |    3     |    0     |    final    |   segunda   |
+| Alvarez, Sebastian |   Palamedi, Uma    |    0     |    3     |   octavos   |   segunda   |
+|    Levin, Raul     |   Palamedi, Uma    |    0     |    3     |  semifinal  |   segunda   |
+|     Soto, Luis     |  Escudero, Martin  |    3     |    0     |  semifinal  |   segunda   |
+| Alvarez, Sebastian |  Bonelli, Marcos   |    0     |    3     |    zona     |   segunda   |
+|  Milesi, Leandro   |    Levin, Raul     |    3     |    0     |    zona     |   segunda   |
+|  Milesi, Leandro   |   Palamedi, Uma    |    3     |    0     |    zona     |   segunda   |
+| Palamedi, Cristian | Alvarez, Sebastian |    3     |    0     |    zona     |   segunda   |
+| Palamedi, Cristian |  Bonelli, Marcos   |    0     |    3     |    zona     |   segunda   |
+|   Palamedi, Uma    |    Levin, Raul     |    0     |    3     |    zona     |   segunda   |
+|  Savino, Leandro   |  Escudero, Martin  |    3     |    0     |    zona     |   segunda   |
+|     Soto, Luis     |  Escudero, Martin  |    0     |    3     |    zona     |   segunda   |
+|     Soto, Luis     |  Savino, Leandro   |    0     |    3     |    zona     |   segunda   |
+|                    |                    |          |          |             |             |
+|  Micocci, Matias   |   Larrosa, Jorge   |    0     |    3     |   cuartos   |   tercera   |
+|   Suarez, Milton   |  Canhoto, Carlos   |    3     |    0     |   cuartos   |   tercera   |
+|   Palamedi, Uma    |   Gomez, Gabriel   |    3     |    0     |    final    |   tercera   |
+|   Gomez, Gabriel   |   Larrosa, Jorge   |    3     |    0     |  semifinal  |   tercera   |
+|   Suarez, Milton   |   Palamedi, Uma    |    0     |    3     |  semifinal  |   tercera   |
+|  Canhoto, Carlos   |   Larrosa, Jorge   |    0     |    3     |    zona     |   tercera   |
+|  Canhoto, Carlos   |   Palamedi, Uma    |    0     |    3     |    zona     |   tercera   |
+|  Micocci, Matias   |   Gomez, Gabriel   |    0     |    3     |    zona     |   tercera   |
+|   Palamedi, Uma    |   Larrosa, Jorge   |    3     |    0     |    zona     |   tercera   |
+|   Suarez, Milton   |   Gomez, Gabriel   |    0     |    3     |    zona     |   tercera   |
+|   Suarez, Milton   |  Micocci, Matias   |    3     |    0     |    zona     |   tercera   |
