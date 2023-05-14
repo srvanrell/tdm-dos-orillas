@@ -2,7 +2,8 @@
 #
 # TODO run rtt publish to get latest version of publishing files
 
-YEAR=${1:-2022}
+CURRENT_YEAR=`date +'%Y'`
+YEAR=${1:-${CURRENT_YEAR}}
 
 # Commands to bring latest results from rtt execution
 rsync -avz ../ranking-table-tennis/data_rtt/S${YEAR}T* ./snippets/${YEAR}/
