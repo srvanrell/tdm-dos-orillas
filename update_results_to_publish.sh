@@ -6,7 +6,7 @@ CURRENT_YEAR=`date +'%Y'`
 YEAR=${1:-${CURRENT_YEAR}}
 
 # Commands to bring latest results from rtt execution
-rsync -avz ../ranking-table-tennis/data_rtt/S${YEAR}T* ./snippets/${YEAR}/
+rsync -avz ../ranking-table-tennis/data_rtt/S${YEAR}T* ./snippets/${YEAR}/ || exit 1
 
 # Move statistics to images corresponding folder
 mkdir "docs/assets/images/${YEAR}"
@@ -20,4 +20,6 @@ done
 
 # Update seasons.yaml and docs folders
 ./update_season_yaml.py --year ${YEAR}
-rsync -avz ./docs/season/2022/ ./docs/season/${YEAR}
+rsync -avz ./docs/season/2023/ ./docs/season/${YEAR}/
+# Make sure that this year season is hide from navigation
+sed -i 's/hide: false/hide: true/g' ./docs/season/${CURRENT_YEAR}/.pages

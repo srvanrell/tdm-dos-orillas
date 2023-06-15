@@ -19,12 +19,17 @@ def main():
     # Get current seasons.yaml to modify it
     with open(seasons_filename, "r") as stream:
         seasons = yaml.safe_load(stream)
-        print("Original seasons.yaml")
-        pprint.pprint(seasons)
+        print("Original seasons.yaml loaded")
+        # pprint.pprint(seasons)
 
     # List existing folders in snippets/YEAR
     listed_folders = glob.glob(f"snippets/{args.year}/S*T*")
     tids = sorted([os.path.split(folder)[1] for folder in listed_folders], reverse=True)
+
+    # No modifications should be done if there are no tournaments
+    if not tids:
+        print(f"WARNING: Indicated year ({args.year}) has no tournaments available")
+        return
 
     # Fill seasons.yaml
     season_search = [season["name"] == args.year for season in seasons["seasons"]]
