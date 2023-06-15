@@ -1,0 +1,9 @@
+nav:
+    - Inicio: index.md
+    - Campeonato: season/current/championship
+    - Nivel de Juego / Categorías: season/current/rating
+    - Partidos: season/current/matches
+    - Historial por Jugador: season/current/historical
+    - Estadísticas: season/current/statistics
+    - Reglamento: season/current/rules
+    - ...

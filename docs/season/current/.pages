@@ -1,0 +1,8 @@
+title: Temporada Actual
+nav:
+  - Campeonato: championship.md
+  - Nivel de Juego / Categorías: rating.md
+  - Partidos: matches.md
+  - Historial por Jugador: historical.md
+  - Estadísticas: statistics.md
+  - Reglamento: rules.md
