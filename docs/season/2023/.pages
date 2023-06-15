@@ -1,4 +1,4 @@
-hide: false
+hide: true
 nav:
   - Campeonato: championship.md
   - Nivel de Juego / Categorías: rating.md
