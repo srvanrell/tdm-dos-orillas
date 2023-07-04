@@ -1,6 +1,8 @@
 seasons:
 -   name: 2023
     tournaments:
+    -   id: S2023T04
+        name: Torneo 04
     -   id: S2023T03
         name: Torneo 03
     -   id: S2023T02
