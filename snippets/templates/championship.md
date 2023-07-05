@@ -11,6 +11,8 @@
 
 ## {{ category }}
 
+--8<-- "{{ season.name }}/championship{{ season_name }}{{ category }}.html"
+
    {% for tournament in season.tournaments %}
 === "{{ tournament.name }}"
 
