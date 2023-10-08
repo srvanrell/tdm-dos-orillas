@@ -7,6 +7,7 @@ YEAR=${1:-${CURRENT_YEAR}}
 
 # Commands to bring latest results from rtt execution
 rsync -avz ../ranking-table-tennis/data_rtt/S${YEAR}T* ./snippets/${YEAR}/ || exit 1
+rsync -avz ../ranking-table-tennis/data_rtt/*${YEAR}*.html ./snippets/${YEAR}/ || exit 1
 
 # Move statistics to images corresponding folder
 mkdir "docs/assets/images/${YEAR}"
