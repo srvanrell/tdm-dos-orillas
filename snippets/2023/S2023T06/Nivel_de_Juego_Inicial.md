@@ -269,6 +269,7 @@
 |       452        |    Canhoto, Juan Pablo     |       Santa Fe        |   Atemeli    |
 |       450        |       Barrios, Julio       |                       |              |
 |       450        |      Escobar, Gadiel       |                       |              |
+|       450        |    Stivanello, Santiago    |                       |              |
 |       450        |     Taffarel, Claudio      |                       |              |
 |       445        |       Uranga, Fermin       |                       |              |
 |       444        |       Portillo, Ana        |                       |              |
@@ -296,6 +297,7 @@
 |       400        |     Barchiesi, Matias      |                       |              |
 |       400        |      Getting, Brenda       |                       |              |
 |       400        |      Toranza, Ricardo      |                       |              |
+|       400        |       Zapata, Lucas        |                       |              |
 |       397        |     Scotta, Francisco      |                       |              |
 |       386        |      Micocci, Matias       |                       |              |
 |       380        |      Rojas, Agustina       |                       |              |

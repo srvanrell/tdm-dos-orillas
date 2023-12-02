@@ -1,0 +1,48 @@
+|  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |       Jugador        |   Ciudad    |  Afiliación  |                                  Puntos sumados                                   |
+|:----------:|:----------------------:|:-----------------:|:--------------------:|:-----------:|:------------:|:---------------------------------------------------------------------------------:|
+|     1      |        2375 (=)        |         7         |  Palamedi, Cristian  |  Santa Fe   |   Atemeli    | 500 (T04) + 500 (T03) + 375 (T07) + 375 (T05) + 250 (T06) + 250 (T02) + 125 (T01) |
+|     2      |        1900 (=)        |         7         |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |  500 (T02) + 500 (T05) + 375 (T01) + 250 (T07) + 125 (T03) + 75 (T06) + 75 (T04)  |
+|     3      |        950 (=)         |         5         |   Bonelli, Marcos    |   Parana    |   Aspatem    |             375 (T06) + 250 (T05) + 125 (T02) + 125 (T01) + 75 (T04)              |
+|     4      |        900 (=)         |         6         |   Savino, Leandro    |  Santa Fe   |   Atemeli    |        375 (T03) + 125 (T07) + 125 (T05) + 125 (T01) + 75 (T06) + 75 (T02)        |
+|     5      |        875 (=)         |         3         |   Milesi, Leandro    |             |              |                         500 (T06) + 250 (T04) + 125 (T01)                         |
+|     6      |        825 (=)         |         6         |    Prettis, Juan     |             |              |       250 (T05) + 125 (T07) + 125 (T03) + 125 (T02) + 125 (T04) + 75 (T06)        |
+|     7      |       750 (+500)       |         3         |   Velazquez, Irupe   |  Santa Fe   |   Atemeli    |                         500 (T08) + 125 (T07) + 125 (T06)                         |
+|     8      |       710 (+250)       |         7         |  Allegrini, Tiziano  |             |              |   250 (T08) + 125 (T05) + 75 (T07) + 75 (T06) + 75 (T03) + 60 (T04) + 50 (T02)    |
+|     9      |        700 (=)         |         4         |   Escudero, Martin   |  Santa Fe   |   Atemeli    |                   250 (T07) + 250 (T01) + 125 (T05) + 75 (T04)                    |
+|     10     |        625 (=)         |         2         |      Soto, Luis      |   Parana    | Tiro Federal |                               500 (T01) + 125 (T02)                               |
+|            |        625 (=)         |         2         |   Welschen, Pablo    |   Parana    |   Aspatem    |                               375 (T02) + 250 (T04)                               |
+|     12     |       625 (+250)       |         3         |   Gatti, Sebastian   |   Parana    |              |                         250 (T08) + 250 (T02) + 125 (T04)                         |
+|            |       625 (+125)       |         3         |   Vigouroux, Jorge   |  San Justo  | Tiro Federal |                         375 (T04) + 125 (T08) + 125 (T06)                         |
+|     14     |        500 (=)         |         1         |    Mendez, Carlos    |  Santa Fe   |   Atemeli    |                                     500 (T07)                                     |
+|     15     |       470 (+75)        |         6         |   Colavini, Daniel   | Santo Tome  |   Atemeli    |         125 (T03) + 75 (T08) + 75 (T05) + 75 (T02) + 60 (T04) + 60 (T06)          |
+|     16     |       450 (+125)       |         4         |   Zapata, Joaquin    |             |              |                   125 (T07) + 125 (T05) + 125 (T08) + 75 (T06)                    |
+|     17     |       435 (+375)       |         2         |   Peduzzi, Mariano   |   Parana    | Tiro Federal |                               375 (T08) + 60 (T04)                                |
+|     18     |        375 (=)         |         2         |     Levin, Raul      |   Parana    |              |                               250 (T01) + 125 (T06)                               |
+|     19     |        325 (=)         |         2         |    Figueroa, Axel    |   Parana    |   Aspatem    |                               250 (T06) + 75 (T04)                                |
+|     20     |       325 (+125)       |         3         |    Boetti, Genaro    |             |              |                         125 (T06) + 125 (T08) + 75 (T04)                          |
+|     21     |       320 (+50)        |         5         |  Barchiesi, Matias   |             |              |               75 (T07) + 75 (T05) + 60 (T04) + 60 (T06) + 50 (T08)                |
+|     22     |        300 (=)         |         4         |  Alvarez, Sebastian  |  Santa Fe   |   Atemeli    |                     75 (T01) + 75 (T04) + 75 (T05) + 75 (T02)                     |
+|     23     |        260 (=)         |         3         |    Acosta, Gaston    |             |              |                          125 (T04) + 75 (T02) + 60 (T06)                          |
+|     24     |        260 (=)         |         4         |   Micocci, Matias    |             |              |                     75 (T06) + 75 (T07) + 60 (T04) + 50 (T05)                     |
+|     25     |        250 (=)         |         1         |     Goy, Gerardo     | Reconquista |    ATMAR     |                                     250 (T03)                                     |
+|            |        250 (=)         |         1         |   Morello, Manuel    |             |              |                                     250 (T03)                                     |
+|     27     |        250 (=)         |         2         |    Jaime, Gerardo    |   Parana    |   Aspatem    |                               125 (T02) + 125 (T04)                               |
+|     28     |       245 (+75)        |         4         |    Portillo, Ana     |             |              |                     75 (T08) + 60 (T04) + 60 (T06) + 50 (T02)                     |
+|     29     |       210 (+75)        |         3         |    Gomez, Gabriel    |   Parana    | Tiro Federal |                          75 (T08) + 75 (T02) + 60 (T06)                           |
+|            |       210 (+75)        |         3         | Vigouroux, Santiago  |  San Justo  | Tiro Federal |                          75 (T08) + 75 (T04) + 60 (T06)                           |
+|     31     |       200 (+125)       |         2         |   Gandolfo, Carlos   |   Parana    | Tiro Federal |                               125 (T08) + 75 (T02)                                |
+|     32     |        185 (=)         |         3         |    Budino, Mijail    |             |              |                          75 (T06) + 60 (T04) + 50 (T05)                           |
+|     33     |       150 (+75)        |         2         |  Vigouroux, Manuel   |  San Justo  | Tiro Federal |                                75 (T08) + 75 (T04)                                |
+|     34     |        125 (=)         |         1         | Dallinger, Humberto  |   Parana    | Tiro Federal |                                     125 (T03)                                     |
+|     35     |         75 (=)         |         1         |   Aguirre, Gabriel   |   Parana    |   Aspatem    |                                     75 (T02)                                      |
+|            |         75 (=)         |         1         |    Banfi, Franco     |   Parana    |   Aspatem    |                                     75 (T06)                                      |
+|            |         75 (=)         |         1         |   Canhoto, Carlos    |  Santa Fe   |   Atemeli    |                                     75 (T05)                                      |
+|            |        75 (+75)        |         1         |   Costanza, Roque    |             |              |                                     75 (T08)                                      |
+|            |        75 (+75)        |         1         |     Pilotti, Paz     |             |              |                                     75 (T08)                                      |
+|     40     |         60 (=)         |         1         | Ramos Muzio, Gonzalo |   Parana    |   Aspatem    |                                     60 (T06)                                      |
+|            |         60 (=)         |         1         |     Uziel, Yuri      |   Parana    | Tiro Federal |                                     60 (T04)                                      |
+|            |         60 (=)         |         1         |  Welschen, Benjamin  |             |              |                                     60 (T06)                                      |
+|     43     |         50 (=)         |         1         |   Landra, Augusto    |             |              |                                     50 (T04)                                      |
+|            |         50 (=)         |         1         |     Rosa, Pablo      |             |              |                                     50 (T06)                                      |
+|            |         50 (=)         |         1         |   Vergara, Gustavo   |   Parana    | Tiro Federal |                                     50 (T03)                                      |
+|            |         50 (=)         |         1         | Vigouroux, Patricio  |             |              |                                     50 (T06)                                      |

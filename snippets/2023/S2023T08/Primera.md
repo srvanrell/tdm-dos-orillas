@@ -1,0 +1,32 @@
+|  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |       Jugador        |   Ciudad    |  Afiliación  |                                   Puntos sumados                                   |
+|:----------:|:----------------------:|:-----------------:|:--------------------:|:-----------:|:------------:|:----------------------------------------------------------------------------------:|
+|     1      |      3500 (+750)       |         7         |   Perot, Alejandro   |  Santa Fe   |   Atemeli    | 1000 (T07) + 750 (T08) + 500 (T01) + 500 (T06) + 250 (T03) + 250 (T05) + 250 (T04) |
+|     2      |      3250 (+500)       |         6         |    Nohara, Andres    |   Parana    |              |       1000 (T02) + 750 (T05) + 500 (T08) + 500 (T01) + 250 (T06) + 250 (T04)       |
+|     3      |        3000 (=)        |         4         |  Blanco, Francisco   |  Santa Fe   |   Atemeli    |                   1000 (T06) + 750 (T03) + 750 (T04) + 500 (T05)                   |
+|     4      |        2900 (=)        |         7         |  Palamedi, Cristian  |  Santa Fe   |   Atemeli    | 750 (T01) + 750 (T02) + 500 (T07) + 250 (T05) + 250 (T06) + 250 (T03) + 150 (T04)  |
+|     5      |        2750 (=)        |         4         |  Lofeudo, Juan Jose  |  Santa Fe   |   Atemeli    |                   1000 (T05) + 750 (T06) + 500 (T04) + 500 (T03)                   |
+|     6      |      2650 (+1000)      |         5         |   Aguirre, German    |   Parana    |   Aspatem    |             1000 (T08) + 500 (T05) + 500 (T06) + 500 (T02) + 150 (T04)             |
+|     7      |        2000 (=)        |         2         |     Perot, David     |  Santa Fe   |   Atemeli    |                              1000 (T04) + 1000 (T03)                               |
+|     8      |        1900 (=)        |         4         |  Heredia, Santiago   |  Santa Fe   |   Atemeli    |                   1000 (T01) + 500 (T03) + 250 (T05) + 150 (T04)                   |
+|     9      |        1420 (=)        |         5         |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |             750 (T07) + 250 (T02) + 150 (T06) + 150 (T05) + 120 (T04)              |
+|     10     |        1400 (=)        |         5         |    Mendez, Carlos    |  Santa Fe   |   Atemeli    |             500 (T07) + 250 (T05) + 250 (T01) + 250 (T03) + 150 (T06)              |
+|     11     |      1150 (+250)       |         5         |    Prettis, Juan     |             |              |             500 (T02) + 250 (T08) + 150 (T03) + 150 (T04) + 100 (T05)              |
+|     12     |      1150 (+250)       |         6         |   Bonelli, Marcos    |   Parana    |   Aspatem    |       250 (T02) + 250 (T01) + 250 (T08) + 150 (T06) + 150 (T04) + 100 (T05)        |
+|     13     |        750 (=)         |         3         |   Milesi, Leandro    |             |              |                         250 (T01) + 250 (T04) + 250 (T06)                          |
+|     14     |       550 (+250)       |         3         |   Vigouroux, Jorge   |  San Justo  | Tiro Federal |                         250 (T08) + 150 (T06) + 150 (T04)                          |
+|     15     |       500 (+500)       |         1         |  Allegrini, Tiziano  |             |              |                                     500 (T08)                                      |
+|            |        500 (=)         |         1         |  Dupertuis, Gaston   |   Parana    |   Aspatem    |                                     500 (T04)                                      |
+|     17     |       420 (+150)       |         3         |    Boetti, Genaro    |             |              |                         150 (T06) + 150 (T08) + 120 (T04)                          |
+|     18     |        400 (=)         |         2         |    Jaime, Gerardo    |   Parana    |   Aspatem    |                               250 (T02) + 150 (T04)                                |
+|            |        400 (=)         |         2         |   Welschen, Pablo    |   Parana    |   Aspatem    |                               250 (T02) + 150 (T04)                                |
+|     20     |       370 (+250)       |         2         |  Vigouroux, Manuel   |  San Justo  | Tiro Federal |                               250 (T08) + 120 (T04)                                |
+|     21     |        370 (=)         |         3         |    Acosta, Gaston    |             |              |                         150 (T02) + 120 (T04) + 100 (T06)                          |
+|     22     |        250 (=)         |         1         |    Albano, Javier    |  Santa Fe   |   Atemeli    |                                     250 (T03)                                      |
+|            |        250 (=)         |         1         |  Alvarez, Sebastian  |  Santa Fe   |   Atemeli    |                                     250 (T01)                                      |
+|            |        250 (=)         |         1         |    Blanco, Daniel    |  Santa Fe   |   Atemeli    |                                     250 (T04)                                      |
+|            |        250 (=)         |         1         |   Fontana, Fausto    |   Parana    |   Aspatem    |                                     250 (T06)                                      |
+|     26     |        150 (=)         |         1         |    Banfi, Franco     |   Parana    |   Aspatem    |                                     150 (T06)                                      |
+|            |        150 (=)         |         1         | Ramos Muzio, Gonzalo |   Parana    |   Aspatem    |                                     150 (T06)                                      |
+|     28     |        120 (=)         |         1         |   Colavini, Daniel   | Santo Tome  |   Atemeli    |                                     120 (T04)                                      |
+|     29     |        100 (=)         |         1         |     Goy, Gerardo     | Reconquista |    ATMAR     |                                     100 (T03)                                      |
+|            |        100 (=)         |         1         |   Velazquez, Irupe   |  Santa Fe   |   Atemeli    |                                     100 (T07)                                      |

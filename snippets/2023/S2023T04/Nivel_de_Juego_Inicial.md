@@ -201,6 +201,7 @@
 |       693        |      Michea, Ignacio       |                       |              |
 |       691        |     Atkinson, Santiago     |                       |              |
 |       690        |      Landra, Augusto       |                       |              |
+|       690        |      Luzardo, Andres       |                       |              |
 |       685        |       Vetrano, Luca        |                       |              |
 |       681        |        Porta, Juan         |                       |              |
 |       680        |      Arrieta, Matias       | Libertador San Martin |     CRL      |
@@ -252,6 +253,7 @@
 |       500        |         Neto, Leon         |                       |              |
 |       500        |      Previale, Jesica      |                       |              |
 |       500        |      Velazquez, Irupe      |       Santa Fe        |   Atemeli    |
+|       500        |    Vigouroux, Patricio     |                       |              |
 |       498        |       Zeitune, Angel       |                       |              |
 |       497        |        Sigal, Eliel        |                       |              |
 |       496        |      Sancada, Maximo       |                       |              |
@@ -266,6 +268,9 @@
 |       463        |      Cuello, Nicolas       |                       |              |
 |       452        |    Canhoto, Juan Pablo     |       Santa Fe        |   Atemeli    |
 |       450        |       Barrios, Julio       |                       |              |
+|       450        |      Escobar, Gadiel       |                       |              |
+|       450        |    Stivanello, Santiago    |                       |              |
+|       450        |     Taffarel, Claudio      |                       |              |
 |       445        |       Uranga, Fermin       |                       |              |
 |       444        |       Portillo, Ana        |                       |              |
 |       443        |      Orzan, Valentin       |                       |              |
@@ -292,13 +297,16 @@
 |       400        |     Barchiesi, Matias      |                       |              |
 |       400        |      Getting, Brenda       |                       |              |
 |       400        |      Toranza, Ricardo      |                       |              |
+|       400        |       Zapata, Lucas        |                       |              |
 |       397        |     Scotta, Francisco      |                       |              |
 |       386        |      Micocci, Matias       |                       |              |
+|       380        |      Rojas, Agustina       |                       |              |
 |       380        |        Rosa, Pablo         |                       |              |
 |       374        |       Diaz, Benjamin       |                       |              |
 |       370        |       Budino, Mijail       |                       |              |
 |       366        |     Barrientos, Norma      |        Parana         | Tiro Federal |
 |       360        |       Cabrol, Elian        |                       |              |
+|       360        |       Rubio, Julian        |                       |              |
 |       360        |       Salva, Manuel        |                       |              |
 |       350        |      Frank, Benjamin       |                       |              |
 |       350        |        Garau, Jano         |                       |              |
