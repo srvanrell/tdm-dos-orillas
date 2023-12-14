@@ -11,7 +11,7 @@ rsync -avz ../ranking-table-tennis/data_rtt/*${YEAR}*.html ./snippets/${YEAR}/ |
 
 # Move statistics to images corresponding folder
 mkdir "docs/assets/images/${YEAR}"
-folders=(`ls -d1X snippets/${YEAR}/S${YEAR}T*/`)
+folders=(`ls -d1 snippets/${YEAR}/S${YEAR}T*/`)
 for folder in "${folders[@]}"
 do
     echo "'$folder'"
