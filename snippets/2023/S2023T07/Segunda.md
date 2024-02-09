@@ -1,24 +1,24 @@
 |  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |       Jugador        |   Ciudad    |  Afiliación  |                                  Puntos sumados                                   |
 |:----------:|:----------------------:|:-----------------:|:--------------------:|:-----------:|:------------:|:---------------------------------------------------------------------------------:|
-|     1      |      2375 (+375)       |         7         |  Palamedi, Cristian  |  Santa Fe   |   Atemeli    | 500 (T04) + 500 (T03) + 375 (T07) + 375 (T05) + 250 (T06) + 250 (T02) + 125 (T01) |
+|     1      |      2375 (+375)       |         7         |  Palamedi, Cristian  |  Santa Fe   |   Atemeli    | 500 (T04) + 500 (T03) + 375 (T05) + 375 (T07) + 250 (T02) + 250 (T06) + 125 (T01) |
 |     2      |      1900 (+250)       |         7         |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |  500 (T02) + 500 (T05) + 375 (T01) + 250 (T07) + 125 (T03) + 75 (T06) + 75 (T04)  |
-|     3      |        950 (=)         |         5         |   Bonelli, Marcos    |   Parana    |   Aspatem    |             375 (T06) + 250 (T05) + 125 (T02) + 125 (T01) + 75 (T04)              |
-|     4      |       900 (+125)       |         6         |   Savino, Leandro    |  Santa Fe   |   Atemeli    |        375 (T03) + 125 (T05) + 125 (T07) + 125 (T01) + 75 (T06) + 75 (T02)        |
+|     3      |        950 (=)         |         5         |   Bonelli, Marcos    |   Parana    |   Aspatem    |             375 (T06) + 250 (T05) + 125 (T01) + 125 (T02) + 75 (T04)              |
+|     4      |       900 (+125)       |         6         |   Savino, Leandro    |  Santa Fe   |   Atemeli    |        375 (T03) + 125 (T07) + 125 (T01) + 125 (T05) + 75 (T06) + 75 (T02)        |
 |     5      |        875 (=)         |         3         |   Milesi, Leandro    |             |              |                         500 (T06) + 250 (T04) + 125 (T01)                         |
 |     6      |       825 (+125)       |         6         |    Prettis, Juan     |             |              |       250 (T05) + 125 (T04) + 125 (T02) + 125 (T07) + 125 (T03) + 75 (T06)        |
-|     7      |       700 (+250)       |         4         |   Escudero, Martin   |  Santa Fe   |   Atemeli    |                   250 (T07) + 250 (T01) + 125 (T05) + 75 (T04)                    |
+|     7      |       700 (+250)       |         4         |   Escudero, Martin   |  Santa Fe   |   Atemeli    |                   250 (T01) + 250 (T07) + 125 (T05) + 75 (T04)                    |
 |     8      |        625 (=)         |         2         |      Soto, Luis      |   Parana    | Tiro Federal |                               500 (T01) + 125 (T02)                               |
 |            |        625 (=)         |         2         |   Welschen, Pablo    |   Parana    |   Aspatem    |                               375 (T02) + 250 (T04)                               |
 |     10     |       500 (+500)       |         1         |    Mendez, Carlos    |  Santa Fe   |   Atemeli    |                                     500 (T07)                                     |
 |     11     |        500 (=)         |         2         |   Vigouroux, Jorge   |  San Justo  | Tiro Federal |                               375 (T04) + 125 (T06)                               |
-|     12     |       460 (+75)        |         6         |  Allegrini, Tiziano  |             |              |         125 (T05) + 75 (T06) + 75 (T07) + 75 (T03) + 60 (T04) + 50 (T02)          |
+|     12     |       460 (+75)        |         6         |  Allegrini, Tiziano  |             |              |         125 (T05) + 75 (T07) + 75 (T06) + 75 (T03) + 60 (T04) + 50 (T02)          |
 |     13     |        395 (=)         |         5         |   Colavini, Daniel   | Santo Tome  |   Atemeli    |               125 (T03) + 75 (T05) + 75 (T02) + 60 (T04) + 60 (T06)               |
 |     14     |        375 (=)         |         2         |   Gatti, Sebastian   |   Parana    |              |                               250 (T02) + 125 (T04)                               |
 |            |        375 (=)         |         2         |     Levin, Raul      |   Parana    |              |                               250 (T01) + 125 (T06)                               |
 |     16     |        325 (=)         |         2         |    Figueroa, Axel    |   Parana    |   Aspatem    |                               250 (T06) + 75 (T04)                                |
 |     17     |       325 (+125)       |         3         |   Zapata, Joaquin    |             |              |                         125 (T05) + 125 (T07) + 75 (T06)                          |
 |     18     |        300 (=)         |         4         |  Alvarez, Sebastian  |  Santa Fe   |   Atemeli    |                     75 (T05) + 75 (T04) + 75 (T02) + 75 (T01)                     |
-|     19     |       270 (+75)        |         4         |  Barchiesi, Matias   |             |              |                     75 (T07) + 75 (T05) + 60 (T06) + 60 (T04)                     |
+|     19     |       270 (+75)        |         4         |  Barchiesi, Matias   |             |              |                     75 (T05) + 75 (T07) + 60 (T06) + 60 (T04)                     |
 |     20     |        260 (=)         |         3         |    Acosta, Gaston    |             |              |                          125 (T04) + 75 (T02) + 60 (T06)                          |
 |     21     |       260 (+75)        |         4         |   Micocci, Matias    |             |              |                     75 (T06) + 75 (T07) + 60 (T04) + 50 (T05)                     |
 |     22     |        250 (=)         |         1         |     Goy, Gerardo     | Reconquista |    ATMAR     |                                     250 (T03)                                     |

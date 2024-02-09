@@ -3,7 +3,7 @@
 |     1      |        2375 (=)        |         7         |  Palamedi, Cristian  |  Santa Fe   |   Atemeli    | 500 (T04) + 500 (T03) + 375 (T07) + 375 (T05) + 250 (T06) + 250 (T02) + 125 (T01) |
 |     2      |        1900 (=)        |         7         |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |  500 (T02) + 500 (T05) + 375 (T01) + 250 (T07) + 125 (T03) + 75 (T06) + 75 (T04)  |
 |     3      |        950 (=)         |         5         |   Bonelli, Marcos    |   Parana    |   Aspatem    |             375 (T06) + 250 (T05) + 125 (T02) + 125 (T01) + 75 (T04)              |
-|     4      |        900 (=)         |         6         |   Savino, Leandro    |  Santa Fe   |   Atemeli    |        375 (T03) + 125 (T07) + 125 (T05) + 125 (T01) + 75 (T06) + 75 (T02)        |
+|     4      |        900 (=)         |         6         |   Savino, Leandro    |  Santa Fe   |   Atemeli    |        375 (T03) + 125 (T01) + 125 (T07) + 125 (T05) + 75 (T06) + 75 (T02)        |
 |     5      |        875 (=)         |         3         |   Milesi, Leandro    |             |              |                         500 (T06) + 250 (T04) + 125 (T01)                         |
 |     6      |        825 (=)         |         6         |    Prettis, Juan     |             |              |       250 (T05) + 125 (T07) + 125 (T03) + 125 (T02) + 125 (T04) + 75 (T06)        |
 |     7      |       750 (+500)       |         3         |   Velazquez, Irupe   |  Santa Fe   |   Atemeli    |                         500 (T08) + 125 (T07) + 125 (T06)                         |
@@ -15,7 +15,7 @@
 |            |       625 (+125)       |         3         |   Vigouroux, Jorge   |  San Justo  | Tiro Federal |                         375 (T04) + 125 (T08) + 125 (T06)                         |
 |     14     |        500 (=)         |         1         |    Mendez, Carlos    |  Santa Fe   |   Atemeli    |                                     500 (T07)                                     |
 |     15     |       470 (+75)        |         6         |   Colavini, Daniel   | Santo Tome  |   Atemeli    |         125 (T03) + 75 (T08) + 75 (T05) + 75 (T02) + 60 (T04) + 60 (T06)          |
-|     16     |       450 (+125)       |         4         |   Zapata, Joaquin    |             |              |                   125 (T07) + 125 (T05) + 125 (T08) + 75 (T06)                    |
+|     16     |       450 (+125)       |         4         |   Zapata, Joaquin    |             |              |                   125 (T05) + 125 (T07) + 125 (T08) + 75 (T06)                    |
 |     17     |       435 (+375)       |         2         |   Peduzzi, Mariano   |   Parana    | Tiro Federal |                               375 (T08) + 60 (T04)                                |
 |     18     |        375 (=)         |         2         |     Levin, Raul      |   Parana    |              |                               250 (T01) + 125 (T06)                               |
 |     19     |        325 (=)         |         2         |    Figueroa, Axel    |   Parana    |   Aspatem    |                               250 (T06) + 75 (T04)                                |

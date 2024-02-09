@@ -14,7 +14,7 @@
 |            |        250 (=)         |         1         |   Landra, Augusto   |            |              |                             250 (T04)                             |
 |            |        250 (=)         |         1         |   Luzardo, Andres   |            |              |                             250 (T06)                             |
 |            |        250 (=)         |         1         |    Palamedi, Uma    |  Santa Fe  |   Atemeli    |                             250 (T01)                             |
-|     15     |       250 (+40)        |         5         |  Barchiesi, Matias  |            |              |       65 (T06) + 65 (T05) + 40 (T04) + 40 (T03) + 40 (T07)        |
+|     15     |       250 (+40)        |         5         |  Barchiesi, Matias  |            |              |       65 (T06) + 65 (T05) + 40 (T03) + 40 (T04) + 40 (T07)        |
 |     16     |        190 (=)         |         1         |   Acuna, Santiago   |            |              |                             190 (T03)                             |
 |            |        190 (=)         |         1         |  Welschen, Nicolas  |   Parana   |   Aspatem    |                             190 (T04)                             |
 |     18     |       190 (+65)        |         2         |   Morello, Manuel   |            |              |                       125 (T05) + 65 (T07)                        |

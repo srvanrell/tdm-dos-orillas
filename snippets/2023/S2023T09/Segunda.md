@@ -1,7 +1,7 @@
 |  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |       Jugador        |   Ciudad    |  Afiliación  |                                        Puntos sumados                                         |
 |:----------:|:----------------------:|:-----------------:|:--------------------:|:-----------:|:------------:|:---------------------------------------------------------------------------------------------:|
 |     1      |      2500 (+125)       |         8         |  Palamedi, Cristian  |  Santa Fe   |   Atemeli    | 500 (T03) + 500 (T04) + 375 (T05) + 375 (T07) + 250 (T06) + 250 (T02) + 125 (T09) + 125 (T01) |
-|     2      |      2400 (+500)       |         8         |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |  500 (T09) + 500 (T02) + 500 (T05) + 375 (T01) + 250 (T07) + 125 (T03) + 75 (T06) + 75 (T04)  |
+|     2      |      2400 (+500)       |         8         |    Palamedi, Uma     |  Santa Fe   |   Atemeli    |  500 (T09) + 500 (T02) + 500 (T05) + 375 (T01) + 250 (T07) + 125 (T03) + 75 (T04) + 75 (T06)  |
 |     3      |      1200 (+250)       |         6         |   Bonelli, Marcos    |   Parana    |   Aspatem    |             375 (T06) + 250 (T05) + 250 (T09) + 125 (T01) + 125 (T02) + 75 (T04)              |
 |     4      |      1150 (+250)       |         7         |   Savino, Leandro    |  Santa Fe   |   Atemeli    |        375 (T03) + 250 (T09) + 125 (T05) + 125 (T07) + 125 (T01) + 75 (T02) + 75 (T06)        |
 |     5      |      1085 (+375)       |         8         |  Allegrini, Tiziano  |             |              |   375 (T09) + 250 (T08) + 125 (T05) + 75 (T03) + 75 (T07) + 75 (T06) + 60 (T04) + 50 (T02)    |
@@ -15,13 +15,13 @@
 |            |        625 (=)         |         3         |   Vigouroux, Jorge   |  San Justo  | Tiro Federal |                               375 (T04) + 125 (T06) + 125 (T08)                               |
 |     14     |        500 (=)         |         1         |    Mendez, Carlos    |  Santa Fe   |   Atemeli    |                                           500 (T07)                                           |
 |     15     |        470 (=)         |         6         |   Colavini, Daniel   | Santo Tome  |   Atemeli    |               125 (T03) + 75 (T02) + 75 (T08) + 75 (T05) + 60 (T04) + 60 (T06)                |
-|     16     |        450 (=)         |         4         |   Zapata, Joaquin    |             |              |                         125 (T05) + 125 (T08) + 125 (T07) + 75 (T06)                          |
+|     16     |        450 (=)         |         4         |   Zapata, Joaquin    |             |              |                         125 (T05) + 125 (T07) + 125 (T08) + 75 (T06)                          |
 |     17     |        435 (=)         |         2         |   Peduzzi, Mariano   |   Parana    | Tiro Federal |                                     375 (T08) + 60 (T04)                                      |
 |     18     |        375 (=)         |         2         |     Levin, Raul      |   Parana    |              |                                     250 (T01) + 125 (T06)                                     |
 |     19     |       335 (+75)        |         5         |   Micocci, Matias    |             |              |                     75 (T07) + 75 (T06) + 75 (T09) + 60 (T04) + 50 (T05)                      |
 |     20     |        325 (=)         |         2         |    Figueroa, Axel    |   Parana    |   Aspatem    |                                     250 (T06) + 75 (T04)                                      |
 |            |       325 (+75)        |         2         |     Goy, Gerardo     | Reconquista |    ATMAR     |                                     250 (T03) + 75 (T09)                                      |
-|     22     |        325 (=)         |         3         |    Boetti, Genaro    |             |              |                               125 (T06) + 125 (T08) + 75 (T04)                                |
+|     22     |        325 (=)         |         3         |    Boetti, Genaro    |             |              |                               125 (T08) + 125 (T06) + 75 (T04)                                |
 |     23     |        320 (=)         |         5         |  Barchiesi, Matias   |             |              |                     75 (T07) + 75 (T05) + 60 (T06) + 60 (T04) + 50 (T08)                      |
 |     24     |        300 (=)         |         4         |  Alvarez, Sebastian  |  Santa Fe   |   Atemeli    |                           75 (T01) + 75 (T02) + 75 (T05) + 75 (T04)                           |
 |     25     |        260 (=)         |         3         |    Acosta, Gaston    |             |              |                                125 (T04) + 75 (T02) + 60 (T06)                                |
