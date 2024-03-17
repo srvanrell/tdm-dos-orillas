@@ -1,4 +1,12 @@
 seasons:
+-   name: 2024
+    tournaments:
+    -   id: S2024T01
+        name: Torneo 01
+    categories:
+    - Primera
+    - Segunda
+    - Tercera
 -   name: 2023
     tournaments:
     -   id: S2023T10

@@ -7,7 +7,6 @@ YEAR=${1:-${CURRENT_YEAR}}
 
 # Commands to bring latest results from rtt execution
 rsync -avz ../ranking-table-tennis/data_rtt/S${YEAR}T* ./snippets/${YEAR}/ || exit 1
-rsync -avz ../ranking-table-tennis/data_rtt/*${YEAR}*.html ./snippets/${YEAR}/ || exit 1
 
 # Move statistics to images corresponding folder
 mkdir "docs/assets/images/${YEAR}"
@@ -17,6 +16,7 @@ do
     echo "'$folder'"
     mv -v "${folder}Estadisticas_Acumulado.png" "docs/assets/images/${YEAR}/Estadisticas_Acumulado.png"
     mv -v "${folder}Estadisticas_Por_Torneo.png" "docs/assets/images/${YEAR}/Estadisticas_Por_Torneo.png"
+    mv -v ${folder}*.html "${folder}/.."
 done
 
 # Update seasons.yaml and docs folders
