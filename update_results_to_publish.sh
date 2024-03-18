@@ -23,6 +23,7 @@ done
 ./update_season_yaml.py --year ${YEAR}
 rsync -avz ./docs/season/2023/ ./docs/season/${YEAR}/
 # Make sure that this year season is hide from navigation
+sed -i 's/hide: true/hide: false/g' ./docs/season/*/.pages
 sed -i 's/hide: false/hide: true/g' ./docs/season/${CURRENT_YEAR}/.pages
 # By default rules will be taken from season 2023
 rsync -avz --update ./snippets/2023/rules.md ./snippets/${YEAR}/ 
