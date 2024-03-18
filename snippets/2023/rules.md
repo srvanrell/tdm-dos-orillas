@@ -23,7 +23,7 @@ En este reglamento se definen las particularidades de los torneos y de la liga D
 
 ## Publicación de resultados
 
-La publicación detallada de los resultados se realizará en el sitio web: [www.tdmdosorillas.tk](https://www.tdmdosorillas.tk)
+La publicación detallada de los resultados se realizará en [este sitio web](../../index.md)
 
 ## Campeonato anual
 
