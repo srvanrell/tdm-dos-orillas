@@ -40,7 +40,7 @@
 |  Gatti, Sebastian  |  Bidegain, Rafael  |    0     |    3     |   cuartos   |   segunda   |
 |   Jaime, Gerardo   |  Montoya, Nahuel   |    0     |    3     |   cuartos   |   segunda   |
 | Welschen, Benjamin |  Welschen, Pablo   |    3     |    0     |   cuartos   |   segunda   |
-|  Montoya, Nahuel   |  Bidegain, Rafael  |    0     |    9     |    final    |   segunda   |
+|  Montoya, Nahuel   |  Bidegain, Rafael  |    0     |    3     |    final    |   segunda   |
 | Allegrini, Tiziano |  Micocci, Matias   |    0     |    3     |   octavos   |   segunda   |
 |  Bidegain, Rafael  | Cabrejos, Gabriel  |    3     |    0     |   octavos   |   segunda   |
 |  Bonelli, Marcos   |    Rosa, Pablo     |    3     |    0     |   octavos   |   segunda   |
