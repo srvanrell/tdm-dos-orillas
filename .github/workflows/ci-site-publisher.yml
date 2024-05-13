@@ -27,5 +27,7 @@ jobs:
       - run: pip install \
                mkdocs-material \
                mkdocs-macros-plugin \
-               mkdocs-awesome-pages-plugin
+               mkdocs-awesome-pages-plugin \
+               ranking-table-tennis
+      - run: rtt preprocess
       - run: mkdocs gh-deploy --force
