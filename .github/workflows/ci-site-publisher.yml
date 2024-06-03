@@ -28,7 +28,7 @@ jobs:
                mkdocs-material \
                mkdocs-macros-plugin \
                mkdocs-awesome-pages-plugin
-      - run: pip install -i https://test.pypi.org/simple/ ranking-table-tennis
+      - run: pip install git+https://github.com/srvanrell/ranking-table-tennis@master
       - run: rtt preprocess
       - run: rtt compute
       - run: rtt publish --last
