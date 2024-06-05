@@ -28,8 +28,8 @@ jobs:
                mkdocs-material \
                mkdocs-macros-plugin \
                mkdocs-awesome-pages-plugin
-      - run: pip install git+https://github.com/srvanrell/ranking-table-tennis@master
-      - run: rtt preprocess
-      - run: rtt compute
-      - run: rtt publish --last
+      # - run: pip install git+https://github.com/srvanrell/ranking-table-tennis@master
+      # - run: rtt preprocess
+      # - run: rtt compute
+      # - run: rtt publish --last
       - run: mkdocs gh-deploy --force
