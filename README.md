@@ -15,10 +15,11 @@ make install
 ## Update tournaments and rankings data
 
 ```bash
-make update
+make update-results
 ```
 
 Tournaments and rankings data can be updated to:
+
 1. Serve the web locally
 2. or to update published results (by pushing to master)
 
@@ -31,5 +32,5 @@ To update results of a year different from current:
 ## Serve the web locally
 
 ```bash
-make run
+make serve
 ```
