@@ -11,7 +11,9 @@
 
 ## {{ category }}
 
---8<-- "{{ season.name }}/championship{{ season_name }}{{ category }}.html"
+!!! note ""
+
+    Para ver gráficamente la evolución por torneo de los puntos de campeonato [entrá acá](./statistics.md)
 
    {% for tournament in season.tournaments %}
 === "{{ tournament.name }}"

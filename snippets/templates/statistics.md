@@ -3,6 +3,24 @@
 {% for season in seasons %}
  {% if season.name == season_name %}
 
+## Nivel de Juego: torneo a torneo
+
+Evolución del nivel de juego a medida que avanza el campeonato.
+
+--8<-- "{{ season.name }}/rating{{ season_name }}.html"
+
+## Campeonato: torneo a torneo
+
+  {% for category in season.categories %}
+
+### {{ category }}
+
+Evolución de los puntos de campeonato a medida que avanza el año.
+
+--8<-- "{{ season.name }}/championship{{ season_name }}{{ category }}.html"
+
+  {% endfor %}
+
 ## Participación por torneo
 
 Cantidad de jugadores que participaron en cada torneo.

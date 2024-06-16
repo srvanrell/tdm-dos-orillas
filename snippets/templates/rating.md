@@ -5,13 +5,13 @@
 {% for season in seasons %}
  {% if season.name == season_name %}
 
---8<-- "{{ season.name }}/rating{{ season_name }}.html"
-
 !!! note ""
 
     Aquí podes ver el nivel de juego y la categoría de cada jugador luego de cada torneo. 
     El cambio respecto del torneo anterior se indica entre paréntesis. 
     Aquellos jugadores que no han participado durante el año pueden verificar si tienen un nivel de juego asignado en la hoja Inicial.
+
+    Para ver gráficamente la evolución del nivel de juego por torneo [entrá acá](./statistics.md)
 
   {% for tournament in season.tournaments %}
 === "{{ tournament.name }}"
