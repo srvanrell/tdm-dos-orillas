@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env bash
 #
 # ./update_results_to_publish.sh ../ranking-table-tennis/ 2024
 # TODO run rtt publish to get latest version of publishing files
