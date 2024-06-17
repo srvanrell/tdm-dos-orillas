@@ -1,0 +1,39 @@
+name: mkdocs-ci-site-publisher
+on:
+  schedule:
+    - cron: '0 5 * * *'  # Runs at night (05:00 UTC) every Day
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 123456+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.9
+      # - run: pip install ranking-table-tennis
+      - run: pip install git+https://github.com/srvanrell/ranking-table-tennis.git@feature/gspread-revision
+      - name: rtt preprocess and upload updates
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+        run: rtt preprocess --unattended
+      - run: rtt compute
+      - run: rtt publish --last
+      - run: ./update_results_to_publish.sh
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install \
+               mkdocs-material \
+               mkdocs-macros-plugin \
+               mkdocs-awesome-pages-plugin
+      - run: mkdocs gh-deploy --force
