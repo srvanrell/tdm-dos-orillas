@@ -1,4 +1,4 @@
-name: mkdocs-ci-site-publisher
+name: mkdocs-ci-site-publisher-on-merge
 on:
   push:
     branches:

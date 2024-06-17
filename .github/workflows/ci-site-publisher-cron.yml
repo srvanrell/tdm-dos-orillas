@@ -1,4 +1,4 @@
-name: mkdocs-ci-site-publisher
+name: mkdocs-ci-site-publisher-cron
 on:
   schedule:
     - cron: '0 5 * * *'  # Runs at night (05:00 UTC) every Day
