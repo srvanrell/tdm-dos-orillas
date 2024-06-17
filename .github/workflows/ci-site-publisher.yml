@@ -20,8 +20,11 @@ jobs:
         with:
           python-version: 3.9
       # - run: pip install ranking-table-tennis
-      - run: pip install git+https://github.com/srvanrell/ranking-table-tennis.git@gspread-revision
-      - run: rtt preprocess --assume-yes
+      - run: pip install git+https://github.com/srvanrell/ranking-table-tennis.git@feature/gspread-revision
+      - name: rtt preprocess and upload updates
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+        run: rtt preprocess --assume-yes
       - run: rtt compute
       - run: rtt publish --last
       - run: ./update_results_to_publish.sh
