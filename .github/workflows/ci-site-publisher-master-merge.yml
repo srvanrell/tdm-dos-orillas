@@ -17,24 +17,31 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.9
-      # - run: pip install ranking-table-tennis
-      - run: pip install git+https://github.com/srvanrell/ranking-table-tennis.git@feature/gspread-revision
-      - name: rtt preprocess and upload updates
+      - run: pip install ranking-table-tennis
+      # - run: pip install git+https://github.com/srvanrell/ranking-table-tennis.git@branch-name
+      - id: rtt-preprocess
         env:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
         run: rtt preprocess --assume-yes
-      - run: rtt compute
-      - run: rtt publish --last
-      - run: ./update_results_to_publish.sh
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v4
+      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
+        run: rtt compute
+      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
+        run: rtt publish --last
+      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
+        run: ./update_results_to_publish.sh
+      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
+        uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install \
+      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
+        run: pip install \
                mkdocs-material \
                mkdocs-macros-plugin \
                mkdocs-awesome-pages-plugin
-      - run: mkdocs gh-deploy --force
+      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
+        run: mkdocs gh-deploy --force
