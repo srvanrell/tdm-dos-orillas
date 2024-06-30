@@ -9,7 +9,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.9
+    #   - id: step-out
+    #     run: echo "stop_workflow=true" >> "$GITHUB_OUTPUT"
       - id: step-out
-        run: echo "stop_workflow=true" >> "$GITHUB_OUTPUT"
+        run: python testsetenv.py
       - if: ${{ steps.step-out.outputs.stop_workflow != 'true' }}
         run: echo "message that should be skipped"
