@@ -10,6 +10,6 @@ jobs:
         with:
           python-version: 3.9
       - id: step-out
-        run: echo "stop_workflow=false" >> "$GITHUB_OUTPUT"
+        run: echo "stop_workflow=true" >> "$GITHUB_OUTPUT"
       - if: ${{ steps.step-out.outputs.stop_workflow != 'true' }}
         run: echo "message that should be skipped"
