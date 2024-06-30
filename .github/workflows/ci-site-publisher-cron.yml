@@ -23,39 +23,39 @@ jobs:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
         run: rtt preprocess --unattended
       # Computing ratings so suggestions to new players can be given and assigned
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+      - if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         run: rtt compute
       # preprocessing twice to assign as much as possible
       - id: rtt-preprocess-2
-        if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+        if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         env:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
         run: rtt preprocess --unattended --dont-download
       # New players that played only with new players might not be resolved in rtt-preprocess-2
       - id: rtt-preprocess-3
-        if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+        if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         env:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
         run: rtt preprocess --unattended --dont-download
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+      - if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         run: rtt compute
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+      - if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         run: rtt publish --last
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+      - if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         run: ./update_results_to_publish.sh
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+      - if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+      - if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+      - if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         run: pip install \
                mkdocs-material \
                mkdocs-macros-plugin \
                mkdocs-awesome-pages-plugin
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow }}
+      - if: ${{ ! steps.rtt-preprocess.outputs.stop_workflow }}
         run: mkdocs gh-deploy --force
