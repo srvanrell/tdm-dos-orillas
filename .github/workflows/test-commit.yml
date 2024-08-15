@@ -1,0 +1,19 @@
+name: test-commit-to-master
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  somejob:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.9
+      - id: create-a-file
+        run: echo "some string in a file" >> "somefile"
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: Committed from cron workflow
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
