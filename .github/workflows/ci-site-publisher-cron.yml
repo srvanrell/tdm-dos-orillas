@@ -17,7 +17,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.9
-          cache: pip
       - run: pip install ranking-table-tennis
       # - run: pip install git+https://github.com/srvanrell/ranking-table-tennis.git@branch-name
       # Combines preprocess, compute and publish to automatically resolve
