@@ -1,0 +1,64 @@
+|       Jugador        |  Categoría  |  Mejor Ronda  |  Puntos de Campeonato  |
+|:--------------------:|:-----------:|:-------------:|:----------------------:|
+|  Lofeudo, Juan Jose  |   primera   |    primero    |          1000          |
+|  Blanco, Francisco   |   primera   |    segundo    |          750           |
+|    Nohara, Andres    |   primera   |   semifinal   |          500           |
+|    Palamedi, Uma     |   primera   |   semifinal   |          500           |
+|   Aguirre, German    |   primera   |    cuartos    |          250           |
+|   Gatti, Sebastian   |   primera   |    cuartos    |          250           |
+|     Goy, Gerardo     |   primera   |    cuartos    |          250           |
+|  Grippo, Francisco   |   primera   |    cuartos    |          250           |
+|  Allegrini, Tiziano  |   primera   |    octavos    |          150           |
+|  Palamedi, Cristian  |   primera   |    octavos    |          150           |
+|    Prettis, Juan     |   primera   |    octavos    |          150           |
+|    Rubio, Julian     |   primera   |    octavos    |          150           |
+|  Dalinger, Humberto  |   primera   |     zona      |          100           |
+|                      |             |               |                        |
+|    Palamedi, Uma     |   segunda   |    primero    |          500           |
+|   Velazquez, Irupe   |   segunda   |    segundo    |          375           |
+|   Escobar, Gadiel    |   segunda   |   semifinal   |          250           |
+|  Palamedi, Cristian  |   segunda   |   semifinal   |          250           |
+|  Allegrini, Tiziano  |   segunda   |    cuartos    |          125           |
+|  Dalinger, Humberto  |   segunda   |    cuartos    |          125           |
+|   Gandolfo, Carlos   |   segunda   |    cuartos    |          125           |
+|     Pilotti, Paz     |   segunda   |    cuartos    |          125           |
+|   Colavini, Daniel   |   segunda   |    octavos    |           75           |
+|     Goy, Gerardo     |   segunda   |    octavos    |           75           |
+|  Grippo, Francisco   |   segunda   |    octavos    |           75           |
+|   Luzardo, Andres    |   segunda   |    octavos    |           75           |
+|   Micocci, Matias    |   segunda   |    octavos    |           75           |
+|  Pettinatti, Cesar   |   segunda   |    octavos    |           75           |
+|    Prettis, Juan     |   segunda   |    octavos    |           75           |
+|    Rubio, Julian     |   segunda   |    octavos    |           75           |
+|    Bulacios, Juan    |   segunda   |    16avos     |           60           |
+|  Oliveras, Leonardo  |   segunda   |    16avos     |           60           |
+|    Bracco, Victor    |   segunda   |     zona      |           50           |
+|   Corbalan, Martin   |   segunda   |     zona      |           50           |
+|     Duarte, Juan     |   segunda   |     zona      |           50           |
+|    Portillo, Ana     |   segunda   |     zona      |           50           |
+|   Vergara, Gustavo   |   segunda   |     zona      |           50           |
+|   Zapata, Joaquin    |   segunda   |     zona      |           50           |
+|                      |             |               |                        |
+|   Luzardo, Andres    |   tercera   |    primero    |          250           |
+|   Escobar, Gadiel    |   tercera   |    segundo    |          190           |
+|    Bulacios, Juan    |   tercera   |   semifinal   |          125           |
+|    Gomez, Gabriel    |   tercera   |   semifinal   |          125           |
+|   Colavini, Daniel   |   tercera   |    cuartos    |           65           |
+|  Oliveras, Leonardo  |   tercera   |    cuartos    |           65           |
+|     Pilotti, Paz     |   tercera   |    cuartos    |           65           |
+|     Rosa, Pablo      |   tercera   |    cuartos    |           65           |
+|   Albano, Gabriela   |   tercera   |    octavos    |           40           |
+|    Baztan, Pablo     |   tercera   |    octavos    |           40           |
+|    Bracco, Victor    |   tercera   |    octavos    |           40           |
+|   Corbalan, Martin   |   tercera   |    octavos    |           40           |
+|   Grippo, Agustin    |   tercera   |    octavos    |           40           |
+|   Luzardo, Nicolas   |   tercera   |    octavos    |           40           |
+|  Pettinatti, Cesar   |   tercera   |    octavos    |           40           |
+| Stivanello, Santiago |   tercera   |    octavos    |           40           |
+|    Barrios, Julio    |   tercera   |    16avos     |           30           |
+|     Duarte, Juan     |   tercera   |    16avos     |           30           |
+|    Diaz, Joaquin     |   tercera   |     zona      |           25           |
+|    Lell, Claudia     |   tercera   |     zona      |           25           |
+|   Luzardo, Daniel    |   tercera   |     zona      |           25           |
+|    Portillo, Ana     |   tercera   |     zona      |           25           |
+|  Taffarel, Claudio   |   tercera   |     zona      |           25           |
