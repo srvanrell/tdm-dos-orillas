@@ -1,0 +1,10 @@
+tr,td {
+    text-align: center;
+}
+table {
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: var(--md-accent-fg-color--transparent);
+} 
