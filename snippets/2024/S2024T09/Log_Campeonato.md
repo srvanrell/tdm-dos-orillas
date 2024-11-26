@@ -1,0 +1,63 @@
+|      Jugador       |  Categoría  |  Mejor Ronda  |  Puntos de Campeonato  |
+|:------------------:|:-----------:|:-------------:|:----------------------:|
+| Lofeudo, Juan Jose |   primera   |    primero    |          1000          |
+|  Perot, Alejandro  |   primera   |    segundo    |          750           |
+|   Nohara, Andres   |   primera   |   semifinal   |          500           |
+| Palamedi, Cristian |   primera   |   semifinal   |          500           |
+|  Bonelli, Marcos   |   primera   |    cuartos    |          250           |
+| Grippo, Francisco  |   primera   |    cuartos    |          250           |
+|   Palamedi, Uma    |   primera   |    cuartos    |          250           |
+| Velazquez, Marcelo |   primera   |    cuartos    |          250           |
+| Allegrini, Tiziano |   primera   |    octavos    |          150           |
+|   Almada, Pablo    |   primera   |    octavos    |          150           |
+| Dalinger, Humberto |   primera   |    octavos    |          150           |
+|  Gatti, Sebastian  |   primera   |    octavos    |          150           |
+|   Prettis, Juan    |   primera   |    octavos    |          150           |
+|  Vigouroux, Jorge  |   primera   |    octavos    |          150           |
+| Vigouroux, Manuel  |   primera   |    octavos    |          150           |
+|                    |             |               |                        |
+| Grippo, Francisco  |   segunda   |    primero    |          500           |
+| Palamedi, Cristian |   segunda   |    segundo    |          375           |
+|  Bonelli, Marcos   |   segunda   |   semifinal   |          250           |
+|  Gatti, Sebastian  |   segunda   |   semifinal   |          250           |
+| Allegrini, Tiziano |   segunda   |    cuartos    |          125           |
+| Dalinger, Humberto |   segunda   |    cuartos    |          125           |
+|   Prettis, Juan    |   segunda   |    cuartos    |          125           |
+|  Vigouroux, Jorge  |   segunda   |    cuartos    |          125           |
+|   Almada, Pablo    |   segunda   |    octavos    |           75           |
+|   Baztan, Pablo    |   segunda   |    octavos    |           75           |
+|  Corbalan, Martin  |   segunda   |    octavos    |           75           |
+|   Gomez, Gabriel   |   segunda   |    octavos    |           75           |
+|  Micocci, Matias   |   segunda   |    octavos    |           75           |
+|   Palamedi, Uma    |   segunda   |    octavos    |           75           |
+|    Rosa, Pablo     |   segunda   |    octavos    |           75           |
+|  Velazquez, Irupe  |   segunda   |    octavos    |           75           |
+|   Barrios, Julio   |   segunda   |    16avos     |           60           |
+|  Colavini, Daniel  |   segunda   |    16avos     |           60           |
+|  Grippo, Agustin   |   segunda   |    16avos     |           60           |
+| Pettinatti, Cesar  |   segunda   |    16avos     |           60           |
+|    Pilotti, Paz    |   segunda   |    16avos     |           60           |
+| Taffarel, Claudio  |   segunda   |    16avos     |           60           |
+| Vigouroux, Manuel  |   segunda   |    16avos     |           60           |
+|   Portillo, Ana    |   segunda   |     zona      |           50           |
+|                    |             |               |                        |
+|  Corbalan, Martin  |   tercera   |    primero    |          250           |
+|  Costanza, Roque   |   tercera   |    segundo    |          190           |
+|   Baztan, Pablo    |   tercera   |   semifinal   |          125           |
+|    Rosa, Pablo     |   tercera   |   semifinal   |          125           |
+|   Barrios, Julio   |   tercera   |    cuartos    |           65           |
+|  Colavini, Daniel  |   tercera   |    cuartos    |           65           |
+| Pettinatti, Cesar  |   tercera   |    cuartos    |           65           |
+| Taffarel, Claudio  |   tercera   |    cuartos    |           65           |
+| Calabrese, Alfredo |   tercera   |    octavos    |           40           |
+|   Diaz, Joaquin    |   tercera   |    octavos    |           40           |
+|   Diez, Gabriel    |   tercera   |    octavos    |           40           |
+|   Gomez, Gabriel   |   tercera   |    octavos    |           40           |
+|  Grippo, Agustin   |   tercera   |    octavos    |           40           |
+|  Mardon, Emiliano  |   tercera   |    octavos    |           40           |
+|    Pilotti, Paz    |   tercera   |    octavos    |           40           |
+|  Schiavi, Marcelo  |   tercera   |    octavos    |           40           |
+|   Bracco, Victor   |   tercera   |    16avos     |           30           |
+|   Candia, Matias   |   tercera   |    16avos     |           30           |
+|   Portillo, Ana    |   tercera   |    16avos     |           30           |
+|   Ramos, Matias    |   tercera   |    16avos     |           30           |
