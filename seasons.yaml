@@ -1,6 +1,8 @@
 seasons:
 -   name: 2024
     tournaments:
+    -   id: S2024T10
+        name: Torneo 10
     -   id: S2024T09
         name: Torneo 09
     -   id: S2024T08
