@@ -1,5 +1,5 @@
 update-results:
-	rtt preprocess --download-only
+	rtt preprocess --offline
 	rtt compute
 	rtt publish --last
 	./update_results_to_publish.sh
