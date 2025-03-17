@@ -18,7 +18,7 @@ copy_directories() {
     find "${src_dir}" -maxdepth 1 -type d -name "S${year}T*" | while read -r dir; do
         dest_subdir="${dest_dir}/$(basename "${dir}")"
         mkdir -p "${dest_subdir}"
-        cp -rav "${dir}/" "${dest_subdir}/"
+        cp -rav "${dir}/." "${dest_subdir}/"
     done
 }
 
