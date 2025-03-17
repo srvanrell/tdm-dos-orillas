@@ -53,27 +53,31 @@ A lo largo del año los jugadores acumularán **puntos para el campeonato** de a
    <td><strong>Primera</strong></td>
    <td><strong>Segunda</strong></td>
    <td><strong>Tercera</strong></td>
+   <td><strong>Cuarta</strong></td>
   </tr>
   <tr>
-   <td>Primero</td><td>1000</td><td>500</td><td>250</td>
+   <td>Primero</td><td>1000</td><td>500</td><td>250</td><td>100</td>
   </tr>
   <tr>
-   <td>Segundo</td><td>750</td><td>375</td><td>190</td>
+   <td>Segundo</td><td>750</td><td>375</td><td>190</td><td>75</td>
   </tr>
   <tr>
-   <td>Tercero</td><td>500</td><td>250</td><td>125</td>
+   <td>Tercero</td><td>500</td><td>250</td><td>125</td><td>50</td>
   </tr>
   <tr>
-   <td>Cuartos de final</td><td>250</td><td>125</td><td>65</td>
+   <td>Cuarto</td><td>350</td><td>175</td><td>90</td><td>35</td>
   </tr>
   <tr>
-   <td>Octavos de final</td><td>150</td><td>75</td><td>40</td>
+   <td>Cuartos de final</td><td>250</td><td>125</td><td>65</td><td>25</td>
   </tr>
   <tr>
-   <td>16avos de final</td><td>120</td><td>60</td><td>30</td>
+   <td>Octavos de final</td><td>150</td><td>75</td><td>40</td><td>15</td>
   </tr>
   <tr>
-   <td>Zona</td><td>100</td><td>50</td><td>25</td>
+   <td>16avos de final</td><td>120</td><td>60</td><td>30</td><td>12</td>
+  </tr>
+  <tr>
+   <td>Zona</td><td>100</td><td>50</td><td>25</td><td>10</td>
   </tr>
 </table>
 
@@ -83,7 +87,8 @@ Los **jugadores** serán ordenados por su **nivel de juego** y divididos en **ca
 
 * **Primera:** los jugadores con un puntaje mayor o igual a 1300 en el nivel de juego,
 * **Segunda:** los jugadores con un puntaje entre 700 y 1299 en el nivel de juego,
-* **Tercera:** los jugadores con un puntaje entre 0 y 699 en el nivel de juego.
+* **Tercera:** los jugadores con un puntaje entre 400 y 699 en el nivel de juego.
+* **Cuarta:** los jugadores con un puntaje entre 0 y 399 en el nivel de juego.
 
 El **ascenso y descenso** de los jugadores será automático y resultará del nivel de juego que obtengan luego de cada torneo.
 
