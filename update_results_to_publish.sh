@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
+# Previous to this script you must run rtt publish to get latest version of publishing files
 # ./update_results_to_publish.sh ../ranking-table-tennis/ 2024
-# TODO run rtt publish to get latest version of publishing files
 
 DATA_RTT_FOLDER=${1:-'./'}
 
@@ -9,10 +9,24 @@ CURRENT_YEAR=`date +'%Y'`
 YEAR=${2:-${CURRENT_YEAR}}
 
 # Commands to bring latest results from rtt execution
-find "${DATA_RTT_FOLDER}data_rtt/" -maxdepth 1 -type d -name "S${YEAR}T*" -exec cp -rav {} "./snippets/${YEAR}/" \; || exit 1
+# Function to copy directories while maintaining structure
+copy_directories() {
+    local src_dir=$1
+    local dest_dir=$2
+    local year=$3
 
-# # Move statistics to images and dynamic figures to corresponding folders
-mkdir "docs/assets/images/${YEAR}"
+    find "${src_dir}" -maxdepth 1 -type d -name "S${year}T*" | while read -r dir; do
+        dest_subdir="${dest_dir}/$(basename "${dir}")"
+        mkdir -p "${dest_subdir}"
+        cp -rav "${dir}/" "${dest_subdir}/"
+    done
+}
+
+# Commands to bring latest results from rtt execution
+copy_directories "${DATA_RTT_FOLDER}data_rtt/" "./snippets/${YEAR}" "${YEAR}" || exit 1
+
+# Move statistics to images and dynamic figures to corresponding folders
+mkdir -p "docs/assets/images/${YEAR}"
 folders=(`ls -d1 snippets/${YEAR}/S${YEAR}T*/`)
 for folder in "${folders[@]}"
 do
