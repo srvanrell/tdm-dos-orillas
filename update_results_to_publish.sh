@@ -38,6 +38,7 @@ done
 
 # Update seasons.yaml and docs folders (imitate 2023)
 ./update_season_yaml.py --year ${YEAR}
+mkdir -p "./docs/season/${YEAR}/"
 cp -av ./docs/season/2023/* ./docs/season/${YEAR}/
 # Make sure that this year season is hide from navigation
 sed -i 's/hide: true/hide: false/g' ./docs/season/*/.pages
