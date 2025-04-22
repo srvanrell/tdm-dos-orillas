@@ -1,0 +1,112 @@
+|          Ganador          |         Perdedor          |  Diferencia  |  Puntos Ganador  |  Puntos Perdedor  |  Instancia  |  Categoría  |  Factor  |
+|:-------------------------:|:-------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
+|   Escobar, Gadiel (839)   | Oliveras, Leonardo (750)  |      89      |        14        |        -14        |   16avos    |   primera   |    1     |
+|     Gomez, Luis (971)     | Ferretti, Gustavo (1060)  |     -89      |        26        |        -26        |   16avos    |   primera   |    1     |
+|   Luzardo, Andres (962)   |  Bonelli, Marcos (1025)   |     -63      |        26        |        -26        |   16avos    |   primera   |    1     |
+|   Nohara, Andres (1310)   | Bernhardt, Leandro (860)  |     450      |        2         |        -2         |   16avos    |   primera   |   0.5    |
+|  Sartor, Lautaro (1100)   |   Micocci, Matias (767)   |     333      |        6         |        -6         |   16avos    |   primera   |    1     |
+|     Gomez, Luis (971)     | Grippo, Francisco (1046)  |     -75      |        26        |        -26        |   cuartos   |   primera   |    1     |
+|   Gonzalez, Oscar (842)   |  Aguirre, German (1304)   |     -462     |        56        |        -56        |   cuartos   |   primera   |    1     |
+| Lofeudo, Juan Jose (1820) | Velazquez, Marcelo (1237) |     583      |        2         |        -2         |   cuartos   |   primera   |    1     |
+|  Perot, Alejandro (1586)  |   Palamedi, Uma (1384)    |     202      |        8         |        -8         |   cuartos   |   primera   |    1     |
+| Lofeudo, Juan Jose (1820) |   Gonzalez, Oscar (842)   |     978      |        2         |        -2         |    final    |   primera   |    1     |
+|  Aguirre, German (1304)   |   Mendez, Carlos (1173)   |     131      |        12        |        -12        |   octavos   |   primera   |    1     |
+|     Gomez, Luis (971)     |  Girolami, Sergio (1055)  |     -84      |        26        |        -26        |   octavos   |   primera   |    1     |
+|   Gonzalez, Oscar (842)   |   Luzardo, Andres (962)   |     -120     |        30        |        -30        |   octavos   |   primera   |    1     |
+| Grippo, Francisco (1046)  | Palamedi, Cristian (1059) |     -13      |        18        |        -18        |   octavos   |   primera   |    1     |
+| Lofeudo, Juan Jose (1820) |  Sartor, Lautaro (1100)   |     720      |        1         |        -1         |   octavos   |   primera   |   0.5    |
+|   Palamedi, Uma (1384)    |   Nohara, Andres (1310)   |      74      |        14        |        -14        |   octavos   |   primera   |    1     |
+|  Perot, Alejandro (1586)  |   Escobar, Gadiel (839)   |     747      |        1         |        -1         |   octavos   |   primera   |   0.5    |
+| Velazquez, Marcelo (1237) |   Albano, Javier (1109)   |     128      |        12        |        -12        |   octavos   |   primera   |    1     |
+|   Gonzalez, Oscar (842)   |     Gomez, Luis (971)     |     -129     |        30        |        -30        |  semifinal  |   primera   |    1     |
+| Lofeudo, Juan Jose (1820) |  Perot, Alejandro (1586)  |     234      |        8         |        -8         |  semifinal  |   primera   |    1     |
+|  Aguirre, German (1304)   |   Albano, Javier (1109)   |     195      |        5         |        -5         |    zona     |   primera   |   0.5    |
+|  Aguirre, German (1304)   | Bernhardt, Leandro (860)  |     444      |        2         |        -2         |    zona     |   primera   |   0.5    |
+|   Albano, Javier (1109)   | Bernhardt, Leandro (860)  |     249      |        8         |        -8         |    zona     |   primera   |    1     |
+|   Escobar, Gadiel (839)   |  Bonelli, Marcos (1025)   |     -186     |        36        |        -36        |    zona     |   primera   |    1     |
+|  Girolami, Sergio (1055)  |  Bonelli, Marcos (1025)   |      30      |        16        |        -16        |    zona     |   primera   |    1     |
+|  Girolami, Sergio (1055)  |   Escobar, Gadiel (839)   |     216      |        8         |        -8         |    zona     |   primera   |    1     |
+|     Gomez, Luis (971)     |  Sartor, Lautaro (1100)   |     -129     |        30        |        -30        |    zona     |   primera   |    1     |
+|   Gonzalez, Oscar (842)   | Ferretti, Gustavo (1060)  |     -218     |        42        |        -42        |    zona     |   primera   |    1     |
+|   Gonzalez, Oscar (842)   |   Nohara, Andres (1310)   |     -468     |        56        |        -56        |    zona     |   primera   |    1     |
+| Grippo, Francisco (1046)  |   Micocci, Matias (767)   |     279      |        8         |        -8         |    zona     |   primera   |    1     |
+| Lofeudo, Juan Jose (1820) |   Mendez, Carlos (1173)   |     647      |        2         |        -2         |    zona     |   primera   |    1     |
+| Lofeudo, Juan Jose (1820) | Oliveras, Leonardo (750)  |     1070     |        0         |         0         |    zona     |   primera   |   0.5    |
+|   Mendez, Carlos (1173)   | Oliveras, Leonardo (750)  |     423      |        4         |        -4         |    zona     |   primera   |    1     |
+|   Nohara, Andres (1310)   | Ferretti, Gustavo (1060)  |     250      |        8         |        -8         |    zona     |   primera   |    1     |
+| Palamedi, Cristian (1059) |   Luzardo, Andres (962)   |      97      |        14        |        -14        |    zona     |   primera   |    1     |
+|   Palamedi, Uma (1384)    | Grippo, Francisco (1046)  |     338      |        3         |        -3         |    zona     |   primera   |   0.5    |
+|   Palamedi, Uma (1384)    |   Micocci, Matias (767)   |     617      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|  Perot, Alejandro (1586)  |   Luzardo, Andres (962)   |     624      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|  Perot, Alejandro (1586)  | Palamedi, Cristian (1059) |     527      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|  Sartor, Lautaro (1100)   | Velazquez, Marcelo (1237) |     -137     |        30        |        -30        |    zona     |   primera   |    1     |
+| Velazquez, Marcelo (1237) |     Gomez, Luis (971)     |     266      |        8         |        -8         |    zona     |   primera   |    1     |
+|                           |                           |              |                  |                   |             |             |          |
+|   Budino, Mijail (867)    |  Barchiesi, Matias (683)  |     184      |        5         |        -5         |   16avos    |   segunda   |   0.5    |
+|  Colavini, Daniel (529)   |  Pettinatti, Cesar (497)  |      32      |        16        |        -16        |   16avos    |   segunda   |    1     |
+|  Corbalan, Martin (643)   |    Pilotti, Paz (648)     |      -5      |        18        |        -18        |   16avos    |   segunda   |    1     |
+|   Costanza, Roque (684)   |   Albano, Javier (1109)   |     -425     |        56        |        -56        |   16avos    |   segunda   |    1     |
+|    Rubio, Julian (740)    |   Bulacios, Juan (501)    |     239      |        4         |        -4         |   16avos    |   segunda   |   0.5    |
+|   Escobar, Gadiel (839)   |  Velazquez, Irupe (800)   |      39      |        16        |        -16        |   cuartos   |   segunda   |    1     |
+|   Luzardo, Andres (962)   | Allegrini, Tiziano (931)  |      31      |        16        |        -16        |   cuartos   |   segunda   |    1     |
+|   Micocci, Matias (767)   |    Rubio, Julian (740)    |      27      |        16        |        -16        |   cuartos   |   segunda   |    1     |
+|  Sartor, Lautaro (1100)   | Grippo, Francisco (1046)  |      54      |        14        |        -14        |   cuartos   |   segunda   |    1     |
+|   Luzardo, Andres (962)   |   Micocci, Matias (767)   |     195      |        10        |        -10        |    final    |   segunda   |    1     |
+| Allegrini, Tiziano (931)  | Palamedi, Cristian (1059) |     -128     |        30        |        -30        |   octavos   |   segunda   |    1     |
+|   Escobar, Gadiel (839)   | Oliveras, Leonardo (750)  |      89      |        14        |        -14        |   octavos   |   segunda   |    1     |
+| Grippo, Francisco (1046)  |   Costanza, Roque (684)   |     362      |        6         |        -6         |   octavos   |   segunda   |    1     |
+|   Luzardo, Andres (962)   |  Colavini, Daniel (529)   |     433      |        2         |        -2         |   octavos   |   segunda   |   0.5    |
+|   Micocci, Matias (767)   | Bernhardt, Leandro (860)  |     -93      |        26        |        -26        |   octavos   |   segunda   |    1     |
+|    Rubio, Julian (740)    |    Almada, Pablo (588)    |     152      |        5         |        -5         |   octavos   |   segunda   |   0.5    |
+|  Sartor, Lautaro (1100)   |  Corbalan, Martin (643)   |     457      |        2         |        -2         |   octavos   |   segunda   |   0.5    |
+|  Velazquez, Irupe (800)   |   Budino, Mijail (867)    |     -67      |        26        |        -26        |   octavos   |   segunda   |    1     |
+|   Luzardo, Andres (962)   |   Escobar, Gadiel (839)   |     123      |        12        |        -12        |  semifinal  |   segunda   |    1     |
+|   Micocci, Matias (767)   |  Sartor, Lautaro (1100)   |     -333     |        48        |        -48        |  semifinal  |   segunda   |    1     |
+|   Albano, Javier (1109)   |  Colavini, Daniel (529)   |     580      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+| Allegrini, Tiziano (931)  | Bernhardt, Leandro (860)  |      71      |        14        |        -14        |    zona     |   segunda   |    1     |
+| Allegrini, Tiziano (931)  |  Corbalan, Martin (643)   |     288      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+|    Almada, Pablo (588)    |   Costanza, Roque (684)   |     -96      |        26        |        -26        |    zona     |   segunda   |    1     |
+|    Almada, Pablo (588)    | Palamedi, Cristian (1059) |     -471     |        84        |        -84        |    zona     |   segunda   |   1.5    |
+| Bernhardt, Leandro (860)  |  Corbalan, Martin (643)   |     217      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+|   Budino, Mijail (867)    |    Avila, Marcos (467)    |     400      |        2         |        -2         |    zona     |   segunda   |   0.5    |
+|   Escobar, Gadiel (839)   |  Pettinatti, Cesar (497)  |     342      |        3         |        -3         |    zona     |   segunda   |   0.5    |
+| Grippo, Francisco (1046)  |   Escobar, Gadiel (839)   |     207      |        8         |        -8         |    zona     |   segunda   |    1     |
+| Grippo, Francisco (1046)  |  Pettinatti, Cesar (497)  |     549      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+|   Luzardo, Andres (962)   |  Barchiesi, Matias (683)  |     279      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+|   Luzardo, Andres (962)   |    Pilotti, Paz (648)     |     314      |        3         |        -3         |    zona     |   segunda   |   0.5    |
+|   Micocci, Matias (767)   |    Avila, Marcos (467)    |     300      |        3         |        -3         |    zona     |   segunda   |   0.5    |
+|   Micocci, Matias (767)   |   Budino, Mijail (867)    |     -100     |        30        |        -30        |    zona     |   segunda   |    1     |
+|   Micocci, Matias (767)   |    Rubio, Julian (740)    |      27      |        16        |        -16        |    zona     |   segunda   |    1     |
+| Oliveras, Leonardo (750)  |   Bulacios, Juan (501)    |     249      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+| Palamedi, Cristian (1059) |   Costanza, Roque (684)   |     375      |        6         |        -6         |    zona     |   segunda   |    1     |
+|    Pilotti, Paz (648)     |  Barchiesi, Matias (683)  |     -35      |        22        |        -22        |    zona     |   segunda   |    1     |
+|    Rubio, Julian (740)    |    Avila, Marcos (467)    |     273      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+|    Rubio, Julian (740)    |   Budino, Mijail (867)    |     -127     |        30        |        -30        |    zona     |   segunda   |    1     |
+|  Sartor, Lautaro (1100)   |   Bulacios, Juan (501)    |     599      |        1         |        -1         |    zona     |   segunda   |   0.5    |
+|  Sartor, Lautaro (1100)   | Oliveras, Leonardo (750)  |     350      |        6         |        -6         |    zona     |   segunda   |    1     |
+|  Velazquez, Irupe (800)   |   Albano, Javier (1109)   |     -309     |        48        |        -48        |    zona     |   segunda   |    1     |
+|  Velazquez, Irupe (800)   |  Colavini, Daniel (529)   |     271      |        4         |        -4         |    zona     |   segunda   |   0.5    |
+|                           |                           |              |                  |                   |             |             |          |
+|    Almada, Pablo (588)    |  Pettinatti, Cesar (497)  |      91      |        14        |        -14        |   cuartos   |   tercera   |    1     |
+|  Colavini, Daniel (529)   |   Bulacios, Juan (501)    |      28      |        16        |        -16        |   cuartos   |   tercera   |    1     |
+|    Pilotti, Paz (648)     |  Barchiesi, Matias (683)  |     -35      |        22        |        -22        |   cuartos   |   tercera   |    1     |
+|   Suarez, Milton (630)    |  Corbalan, Martin (643)   |     -13      |        18        |        -18        |   cuartos   |   tercera   |    1     |
+|    Almada, Pablo (588)    |  Colavini, Daniel (529)   |      59      |        14        |        -14        |    final    |   tercera   |    1     |
+|  Colavini, Daniel (529)   |    Avila, Marcos (467)    |      62      |        14        |        -14        |   octavos   |   tercera   |    1     |
+|  Pettinatti, Cesar (497)  |  Trevignani, Lucas (467)  |      30      |        16        |        -16        |   octavos   |   tercera   |    1     |
+|    Pilotti, Paz (648)     |    Diez, Gabriel (280)    |     368      |        6         |        -6         |   octavos   |   tercera   |    1     |
+|   Suarez, Milton (630)    |   Grippo, Daniel (471)    |     159      |        10        |        -10        |   octavos   |   tercera   |    1     |
+|    Almada, Pablo (588)    |    Pilotti, Paz (648)     |     -60      |        26        |        -26        |  semifinal  |   tercera   |    1     |
+|  Colavini, Daniel (529)   |   Suarez, Milton (630)    |     -101     |        30        |        -30        |  semifinal  |   tercera   |    1     |
+|    Almada, Pablo (588)    |    Diez, Gabriel (280)    |     308      |        6         |        -6         |    zona     |   tercera   |    1     |
+|    Almada, Pablo (588)    |   Suarez, Milton (630)    |     -42      |        22        |        -22        |    zona     |   tercera   |    1     |
+|  Barchiesi, Matias (683)  |  Colavini, Daniel (529)   |     154      |        10        |        -10        |    zona     |   tercera   |    1     |
+|  Barchiesi, Matias (683)  |  Trevignani, Lucas (467)  |     216      |        8         |        -8         |    zona     |   tercera   |    1     |
+|   Bulacios, Juan (501)    |   Grippo, Daniel (471)    |      30      |        16        |        -16        |    zona     |   tercera   |    1     |
+|   Bulacios, Juan (501)    |    Pilotti, Paz (648)     |     -147     |        30        |        -30        |    zona     |   tercera   |    1     |
+|  Colavini, Daniel (529)   |  Trevignani, Lucas (467)  |      62      |        14        |        -14        |    zona     |   tercera   |    1     |
+|  Corbalan, Martin (643)   |    Avila, Marcos (467)    |     176      |        10        |        -10        |    zona     |   tercera   |    1     |
+|  Corbalan, Martin (643)   |  Pettinatti, Cesar (497)  |     146      |        12        |        -12        |    zona     |   tercera   |    1     |
+|  Pettinatti, Cesar (497)  |    Avila, Marcos (467)    |      30      |        16        |        -16        |    zona     |   tercera   |    1     |
+|    Pilotti, Paz (648)     |   Grippo, Daniel (471)    |     177      |        10        |        -10        |    zona     |   tercera   |    1     |
+|   Suarez, Milton (630)    |    Diez, Gabriel (280)    |     350      |        6         |        -6         |    zona     |   tercera   |    1     |

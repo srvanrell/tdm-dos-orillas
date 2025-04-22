@@ -1,0 +1,59 @@
+|      Jugador       |  Categoría  |  Mejor Ronda  |  Puntos de Campeonato  |
+|:------------------:|:-----------:|:-------------:|:----------------------:|
+| Lofeudo, Juan Jose |   primera   |    primero    |          1000          |
+|  Gonzalez, Oscar   |   primera   |    segundo    |          750           |
+|    Gomez, Luis     |   primera   |   semifinal   |          500           |
+|  Perot, Alejandro  |   primera   |   semifinal   |          500           |
+|  Aguirre, German   |   primera   |    cuartos    |          250           |
+| Grippo, Francisco  |   primera   |    cuartos    |          250           |
+|   Palamedi, Uma    |   primera   |    cuartos    |          250           |
+| Velazquez, Marcelo |   primera   |    cuartos    |          250           |
+|   Albano, Javier   |   primera   |    octavos    |          150           |
+|  Escobar, Gadiel   |   primera   |    octavos    |          150           |
+|  Girolami, Sergio  |   primera   |    octavos    |          150           |
+|  Luzardo, Andres   |   primera   |    octavos    |          150           |
+|   Mendez, Carlos   |   primera   |    octavos    |          150           |
+|   Nohara, Andres   |   primera   |    octavos    |          150           |
+| Palamedi, Cristian |   primera   |    octavos    |          150           |
+|  Sartor, Lautaro   |   primera   |    octavos    |          150           |
+| Bernhardt, Leandro |   primera   |    16avos     |          120           |
+|  Bonelli, Marcos   |   primera   |    16avos     |          120           |
+| Ferretti, Gustavo  |   primera   |    16avos     |          120           |
+|  Micocci, Matias   |   primera   |    16avos     |          120           |
+| Oliveras, Leonardo |   primera   |    16avos     |          120           |
+|                    |             |               |                        |
+|  Luzardo, Andres   |   segunda   |    primero    |          500           |
+|  Micocci, Matias   |   segunda   |    segundo    |          375           |
+|  Escobar, Gadiel   |   segunda   |   semifinal   |          250           |
+|  Sartor, Lautaro   |   segunda   |   semifinal   |          250           |
+| Allegrini, Tiziano |   segunda   |    cuartos    |          125           |
+| Grippo, Francisco  |   segunda   |    cuartos    |          125           |
+|   Rubio, Julian    |   segunda   |    cuartos    |          125           |
+|  Velazquez, Irupe  |   segunda   |    cuartos    |          125           |
+|   Almada, Pablo    |   segunda   |    octavos    |           75           |
+| Bernhardt, Leandro |   segunda   |    octavos    |           75           |
+|   Budino, Mijail   |   segunda   |    octavos    |           75           |
+|  Colavini, Daniel  |   segunda   |    octavos    |           75           |
+|  Corbalan, Martin  |   segunda   |    octavos    |           75           |
+|  Costanza, Roque   |   segunda   |    octavos    |           75           |
+| Oliveras, Leonardo |   segunda   |    octavos    |           75           |
+| Palamedi, Cristian |   segunda   |    octavos    |           75           |
+|   Albano, Javier   |   segunda   |    16avos     |           60           |
+| Barchiesi, Matias  |   segunda   |    16avos     |           60           |
+|   Bulacios, Juan   |   segunda   |    16avos     |           60           |
+| Pettinatti, Cesar  |   segunda   |    16avos     |           60           |
+|    Pilotti, Paz    |   segunda   |    16avos     |           60           |
+|   Avila, Marcos    |   segunda   |     zona      |           50           |
+|                    |             |               |                        |
+|   Almada, Pablo    |   tercera   |    primero    |          250           |
+|  Colavini, Daniel  |   tercera   |    segundo    |          190           |
+|    Pilotti, Paz    |   tercera   |   semifinal   |          125           |
+|   Suarez, Milton   |   tercera   |   semifinal   |          125           |
+| Barchiesi, Matias  |   tercera   |    cuartos    |           65           |
+|   Bulacios, Juan   |   tercera   |    cuartos    |           65           |
+|  Corbalan, Martin  |   tercera   |    cuartos    |           65           |
+| Pettinatti, Cesar  |   tercera   |    cuartos    |           65           |
+|   Avila, Marcos    |   tercera   |    octavos    |           40           |
+|   Diez, Gabriel    |   tercera   |    octavos    |           40           |
+|   Grippo, Daniel   |   tercera   |    octavos    |           40           |
+| Trevignani, Lucas  |   tercera   |    octavos    |           40           |

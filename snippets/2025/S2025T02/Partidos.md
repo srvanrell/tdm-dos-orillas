@@ -1,0 +1,112 @@
+|     Jugador A      |     Jugador B      |  Sets A  |  Sets B  |  Instancia  |  Categoría  |
+|:------------------:|:------------------:|:--------:|:--------:|:-----------:|:-----------:|
+| Bernhardt, Leandro |   Nohara, Andres   |    0     |    3     |   16avos    |   primera   |
+|  Bonelli, Marcos   |  Luzardo, Andres   |    0     |    3     |   16avos    |   primera   |
+|  Escobar, Gadiel   | Oliveras, Leonardo |    3     |    0     |   16avos    |   primera   |
+| Ferretti, Gustavo  |    Gomez, Luis     |    0     |    3     |   16avos    |   primera   |
+|  Micocci, Matias   |  Sartor, Lautaro   |    0     |    3     |   16avos    |   primera   |
+|  Gonzalez, Oscar   |  Aguirre, German   |    3     |    0     |   cuartos   |   primera   |
+| Grippo, Francisco  |    Gomez, Luis     |    0     |    3     |   cuartos   |   primera   |
+| Lofeudo, Juan Jose | Velazquez, Marcelo |    3     |    0     |   cuartos   |   primera   |
+|  Perot, Alejandro  |   Palamedi, Uma    |    3     |    0     |   cuartos   |   primera   |
+| Lofeudo, Juan Jose |  Gonzalez, Oscar   |    3     |    0     |    final    |   primera   |
+|   Albano, Javier   | Velazquez, Marcelo |    0     |    3     |   octavos   |   primera   |
+|    Gomez, Luis     |  Girolami, Sergio  |    3     |    0     |   octavos   |   primera   |
+|  Gonzalez, Oscar   |  Luzardo, Andres   |    3     |    0     |   octavos   |   primera   |
+| Lofeudo, Juan Jose |  Sartor, Lautaro   |    3     |    0     |   octavos   |   primera   |
+|   Mendez, Carlos   |  Aguirre, German   |    0     |    3     |   octavos   |   primera   |
+|   Nohara, Andres   |   Palamedi, Uma    |    0     |    3     |   octavos   |   primera   |
+| Palamedi, Cristian | Grippo, Francisco  |    0     |    3     |   octavos   |   primera   |
+|  Perot, Alejandro  |  Escobar, Gadiel   |    3     |    0     |   octavos   |   primera   |
+|  Gonzalez, Oscar   |    Gomez, Luis     |    3     |    0     |  semifinal  |   primera   |
+| Lofeudo, Juan Jose |  Perot, Alejandro  |    3     |    0     |  semifinal  |   primera   |
+|  Aguirre, German   |   Albano, Javier   |    3     |    0     |    zona     |   primera   |
+|  Aguirre, German   | Bernhardt, Leandro |    3     |    0     |    zona     |   primera   |
+|   Albano, Javier   | Bernhardt, Leandro |    3     |    2     |    zona     |   primera   |
+|  Bonelli, Marcos   |  Escobar, Gadiel   |    1     |    3     |    zona     |   primera   |
+|  Girolami, Sergio  |  Bonelli, Marcos   |    3     |    0     |    zona     |   primera   |
+|  Girolami, Sergio  |  Escobar, Gadiel   |    3     |    1     |    zona     |   primera   |
+|  Gonzalez, Oscar   | Ferretti, Gustavo  |    3     |    0     |    zona     |   primera   |
+| Grippo, Francisco  |  Micocci, Matias   |    3     |    2     |    zona     |   primera   |
+| Lofeudo, Juan Jose |   Mendez, Carlos   |    3     |    0     |    zona     |   primera   |
+| Lofeudo, Juan Jose | Oliveras, Leonardo |    3     |    0     |    zona     |   primera   |
+|   Mendez, Carlos   | Oliveras, Leonardo |    3     |    0     |    zona     |   primera   |
+|   Nohara, Andres   | Ferretti, Gustavo  |    3     |    0     |    zona     |   primera   |
+|   Nohara, Andres   |  Gonzalez, Oscar   |    0     |    3     |    zona     |   primera   |
+| Palamedi, Cristian |  Luzardo, Andres   |    3     |    1     |    zona     |   primera   |
+|   Palamedi, Uma    | Grippo, Francisco  |    3     |    2     |    zona     |   primera   |
+|   Palamedi, Uma    |  Micocci, Matias   |    3     |    0     |    zona     |   primera   |
+|  Perot, Alejandro  |  Luzardo, Andres   |    3     |    1     |    zona     |   primera   |
+|  Perot, Alejandro  | Palamedi, Cristian |    3     |    1     |    zona     |   primera   |
+|  Sartor, Lautaro   |    Gomez, Luis     |    2     |    3     |    zona     |   primera   |
+| Velazquez, Marcelo |    Gomez, Luis     |    3     |    1     |    zona     |   primera   |
+| Velazquez, Marcelo |  Sartor, Lautaro   |    2     |    3     |    zona     |   primera   |
+|                    |                    |          |          |             |             |
+|   Albano, Javier   |  Costanza, Roque   |    0     |    3     |   16avos    |   segunda   |
+| Barchiesi, Matias  |   Budino, Mijail   |    0     |    3     |   16avos    |   segunda   |
+|   Bulacios, Juan   |   Rubio, Julian    |    0     |    3     |   16avos    |   segunda   |
+|  Colavini, Daniel  | Pettinatti, Cesar  |    3     |    0     |   16avos    |   segunda   |
+|  Corbalan, Martin  |    Pilotti, Paz    |    3     |    0     |   16avos    |   segunda   |
+|  Escobar, Gadiel   |  Velazquez, Irupe  |    3     |    0     |   cuartos   |   segunda   |
+| Grippo, Francisco  |  Sartor, Lautaro   |    0     |    3     |   cuartos   |   segunda   |
+|  Luzardo, Andres   | Allegrini, Tiziano |    3     |    0     |   cuartos   |   segunda   |
+|   Rubio, Julian    |  Micocci, Matias   |    0     |    3     |   cuartos   |   segunda   |
+|  Micocci, Matias   |  Luzardo, Andres   |    0     |    3     |    final    |   segunda   |
+|   Almada, Pablo    |   Rubio, Julian    |    0     |    3     |   octavos   |   segunda   |
+| Bernhardt, Leandro |  Micocci, Matias   |    0     |    3     |   octavos   |   segunda   |
+|   Budino, Mijail   |  Velazquez, Irupe  |    0     |    3     |   octavos   |   segunda   |
+|  Corbalan, Martin  |  Sartor, Lautaro   |    0     |    3     |   octavos   |   segunda   |
+|  Escobar, Gadiel   | Oliveras, Leonardo |    3     |    0     |   octavos   |   segunda   |
+| Grippo, Francisco  |  Costanza, Roque   |    3     |    0     |   octavos   |   segunda   |
+|  Luzardo, Andres   |  Colavini, Daniel  |    3     |    0     |   octavos   |   segunda   |
+| Palamedi, Cristian | Allegrini, Tiziano |    0     |    3     |   octavos   |   segunda   |
+|  Luzardo, Andres   |  Escobar, Gadiel   |    3     |    0     |  semifinal  |   segunda   |
+|  Micocci, Matias   |  Sartor, Lautaro   |    3     |    0     |  semifinal  |   segunda   |
+|   Albano, Javier   |  Colavini, Daniel  |    3     |    0     |    zona     |   segunda   |
+|   Albano, Javier   |  Velazquez, Irupe  |    1     |    3     |    zona     |   segunda   |
+| Allegrini, Tiziano | Bernhardt, Leandro |    3     |    1     |    zona     |   segunda   |
+| Allegrini, Tiziano |  Corbalan, Martin  |    3     |    0     |    zona     |   segunda   |
+|   Avila, Marcos    |   Rubio, Julian    |    0     |    3     |    zona     |   segunda   |
+| Barchiesi, Matias  |    Pilotti, Paz    |    2     |    3     |    zona     |   segunda   |
+| Bernhardt, Leandro |  Corbalan, Martin  |    3     |    0     |    zona     |   segunda   |
+|   Budino, Mijail   |   Avila, Marcos    |    3     |    2     |    zona     |   segunda   |
+|   Budino, Mijail   |  Micocci, Matias   |    2     |    3     |    zona     |   segunda   |
+|   Budino, Mijail   |   Rubio, Julian    |    0     |    3     |    zona     |   segunda   |
+|  Costanza, Roque   |   Almada, Pablo    |    0     |    3     |    zona     |   segunda   |
+|  Escobar, Gadiel   | Pettinatti, Cesar  |    3     |    0     |    zona     |   segunda   |
+| Grippo, Francisco  |  Escobar, Gadiel   |    3     |    2     |    zona     |   segunda   |
+| Grippo, Francisco  | Pettinatti, Cesar  |    3     |    0     |    zona     |   segunda   |
+|  Luzardo, Andres   | Barchiesi, Matias  |    3     |    0     |    zona     |   segunda   |
+|  Luzardo, Andres   |    Pilotti, Paz    |    3     |    0     |    zona     |   segunda   |
+|  Micocci, Matias   |   Avila, Marcos    |    3     |    0     |    zona     |   segunda   |
+|  Micocci, Matias   |   Rubio, Julian    |    3     |    1     |    zona     |   segunda   |
+| Oliveras, Leonardo |   Bulacios, Juan   |    3     |    0     |    zona     |   segunda   |
+| Palamedi, Cristian |   Almada, Pablo    |    1     |    3     |    zona     |   segunda   |
+| Palamedi, Cristian |  Costanza, Roque   |    3     |    0     |    zona     |   segunda   |
+|  Sartor, Lautaro   |   Bulacios, Juan   |    3     |    0     |    zona     |   segunda   |
+|  Sartor, Lautaro   | Oliveras, Leonardo |    3     |    0     |    zona     |   segunda   |
+|  Velazquez, Irupe  |  Colavini, Daniel  |    3     |    0     |    zona     |   segunda   |
+|                    |                    |          |          |             |             |
+| Barchiesi, Matias  |    Pilotti, Paz    |    0     |    3     |   cuartos   |   tercera   |
+|  Colavini, Daniel  |   Bulacios, Juan   |    3     |    0     |   cuartos   |   tercera   |
+|  Corbalan, Martin  |   Suarez, Milton   |    0     |    3     |   cuartos   |   tercera   |
+| Pettinatti, Cesar  |   Almada, Pablo    |    0     |    3     |   cuartos   |   tercera   |
+|   Almada, Pablo    |  Colavini, Daniel  |    3     |    0     |    final    |   tercera   |
+|  Colavini, Daniel  |   Avila, Marcos    |    3     |    0     |   octavos   |   tercera   |
+|   Diez, Gabriel    |    Pilotti, Paz    |    0     |    3     |   octavos   |   tercera   |
+|   Grippo, Daniel   |   Suarez, Milton   |    0     |    3     |   octavos   |   tercera   |
+| Pettinatti, Cesar  | Trevignani, Lucas  |    3     |    0     |   octavos   |   tercera   |
+|    Pilotti, Paz    |   Almada, Pablo    |    0     |    3     |  semifinal  |   tercera   |
+|   Suarez, Milton   |  Colavini, Daniel  |    0     |    3     |  semifinal  |   tercera   |
+|   Almada, Pablo    |   Diez, Gabriel    |    3     |    0     |    zona     |   tercera   |
+| Barchiesi, Matias  |  Colavini, Daniel  |    3     |    2     |    zona     |   tercera   |
+| Barchiesi, Matias  | Trevignani, Lucas  |    3     |    2     |    zona     |   tercera   |
+|   Bulacios, Juan   |   Grippo, Daniel   |    3     |    0     |    zona     |   tercera   |
+|  Colavini, Daniel  | Trevignani, Lucas  |    3     |    0     |    zona     |   tercera   |
+|  Corbalan, Martin  |   Avila, Marcos    |    3     |    1     |    zona     |   tercera   |
+|  Corbalan, Martin  | Pettinatti, Cesar  |    3     |    0     |    zona     |   tercera   |
+| Pettinatti, Cesar  |   Avila, Marcos    |    3     |    1     |    zona     |   tercera   |
+|    Pilotti, Paz    |   Bulacios, Juan   |    1     |    3     |    zona     |   tercera   |
+|    Pilotti, Paz    |   Grippo, Daniel   |    3     |    0     |    zona     |   tercera   |
+|   Suarez, Milton   |   Almada, Pablo    |    1     |    3     |    zona     |   tercera   |
+|   Suarez, Milton   |   Diez, Gabriel    |    3     |    0     |    zona     |   tercera   |
