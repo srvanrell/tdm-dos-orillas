@@ -338,6 +338,7 @@
 |       358        |      Rodriguez, Nora       |                       |              |
 |       356        |       Zapata, Lucas        |                       |              |
 |       354        |       Diez, Gabriel        |                       |              |
+|       354        |       Rodelli, Tiago       |                       |              |
 |       353        |       Diaz, Joaquin        |                       |              |
 |      352.25      |       Jove, Alberto        |                       |              |
 |       350        |      Frank, Benjamin       |                       |              |
@@ -356,7 +357,9 @@
 |       308        |     Vivanco, Cristian      |                       |              |
 |       303        |        Seib, Silvia        |        Parana         |   Aspatem    |
 |       302        |    Bernhardt, Alejandro    |                       |              |
+|      300.5       |      Quinones, German      |                       |              |
 |       296        |       Lell, Claudia        |        Parana         | Tiro Federal |
+|      288.5       |   Marchitelli, Ezequiel    |                       |              |
 |       286        |       Candia, Matias       |                       |              |
 |       285        |    Bernhardt, Sebastian    |                       |              |
 |       285        |     Lanzotti, Lautaro      |                       |              |
@@ -364,7 +367,10 @@
 |       272        |        Gatti, Pedro        |                       |              |
 |       268        |       Salva, Emanuel       |                       |              |
 |       266        |      Zelayeta, Carlos      |                       |              |
+|       256        |      Rodriguez, Dora       |                       |              |
 |       255        |       Diaz, Claudino       |                       |              |
 |       254        |     Bordeira, Gabriel      |                       |              |
 |       242        |        Monzon, Mari        |                       |              |
+|       232        |      Pintos, Viviana       |                       |              |
+|       216        |        Vidal, Belen        |                       |              |
 |       183        |       Portillo, Ana        |                       |              |
