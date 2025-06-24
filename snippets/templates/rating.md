@@ -29,6 +29,12 @@
 
     --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_ampliado.md"
 
+=== "Inicial"
+
+    El torneo inicial tiene el nivel de juego con el que inicio cada jugador.
+
+    --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_Inicial.md"
+
 ## Detalles de la asignación de puntos
 
 !!! note ""
