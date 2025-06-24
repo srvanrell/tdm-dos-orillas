@@ -27,7 +27,7 @@
     El torneo ampliado tiene el nivel de juego de todos los jugadores que han participado
     en la historia de la liga.
 
-    --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_ampliado.md"
+    --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_Ampliado.md"
 
 === "Inicial"
 
