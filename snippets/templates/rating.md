@@ -9,7 +9,7 @@
 
     Aquí podes ver el nivel de juego y la categoría de cada jugador luego de cada torneo. 
     El cambio respecto del torneo anterior se indica entre paréntesis. 
-    Aquellos jugadores que no han participado durante el año pueden verificar si tienen un nivel de juego asignado en la hoja Inicial.
+    Aquellos jugadores que no han participado durante el año pueden verificar si tienen un nivel de juego asignado en el listado ampliado del último torneo.
 
     Para ver gráficamente la evolución del nivel de juego por torneo [entrá acá](./statistics.md)
 
@@ -22,9 +22,12 @@
 
   {% endfor %}
 
-=== "Inicial"
+=== "{{ season.tournaments[0].name }} ampliado"
 
-    --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_Inicial.md"
+    El torneo ampliado tiene el nivel de juego de todos los jugadores que han participado 
+    en la historia de la liga.
+
+    --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_ampliado.md"
 
 ## Detalles de la asignación de puntos
 
