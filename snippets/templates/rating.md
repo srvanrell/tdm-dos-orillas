@@ -24,14 +24,14 @@
 
 === "{{ season.tournaments[0].name }} ampliado"
 
-    El torneo ampliado tiene el nivel de juego de todos los jugadores que han participado 
+    El torneo ampliado tiene el nivel de juego de todos los jugadores que han participado
     en la historia de la liga.
 
     --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_ampliado.md"
 
 === "Inicial"
 
-    El torneo inicial tiene el nivel de juego con el que inicio cada jugador.
+    El torneo inicial tiene el nivel de juego con el que inició cada jugador.
 
     --8<-- "{{ season.name }}/{{ season.tournaments[0].id }}/Nivel_de_Juego_Inicial.md"
 
