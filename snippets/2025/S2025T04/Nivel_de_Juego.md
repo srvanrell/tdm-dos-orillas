@@ -5,19 +5,19 @@
 |   primera   |     1402 (=)     |     Palamedi, Uma     |  Santa Fe  |   Atemeli    |
 |   primera   |     1388 (=)     |    Mustillo, Juan     |            |              |
 |   primera   |    1306 (-40)    |   Bidegain, Rafael    |            |              |
+|   primera   |    1240 (+10)    |    Fontana, Fausto    |   Parana   |   Aspatem    |
+|   primera   |   1235 (+107)    |   Grippo, Francisco   |            |              |
+|   primera   |     1229 (=)     |  Velazquez, Marcelo   |  Santa Fe  |   AteMeLi    |
+|   primera   |    1223 (+4)     |    Nohara, Andres     |   Parana   |              |
+|   primera   |   1173 (+108)    |    Aguirre, German    |   Parana   |   Aspatem    |
+|   primera   |     1103 (=)     |    Boetti, Genaro     |            |              |
+|   primera   |    1102 (-73)    |   Gatti, Sebastian    |   Parana   |              |
+|   primera   |    1090 (+10)    |    Sartor, Lautaro    | Avellaneda |              |
+|   primera   |     1068 (=)     |    Mendez, Carlos     |  Santa Fe  |   Atemeli    |
+|   primera   |     1058 (=)     |  Allegrini, Tiziano   |            |              |
+|   primera   |     1054 (=)     |    Gonzalez, Oscar    |            |              |
+|   primera   |     1053 (=)     |   Girolami, Sergio    |            |              |
 |             |                  |                       |            |              |
-|   segunda   |    1240 (+10)    |    Fontana, Fausto    |   Parana   |   Aspatem    |
-|   segunda   |   1235 (+107)    |   Grippo, Francisco   |            |              |
-|   segunda   |     1229 (=)     |  Velazquez, Marcelo   |  Santa Fe  |   AteMeLi    |
-|   segunda   |    1223 (+4)     |    Nohara, Andres     |   Parana   |              |
-|   segunda   |   1173 (+108)    |    Aguirre, German    |   Parana   |   Aspatem    |
-|   segunda   |     1103 (=)     |    Boetti, Genaro     |            |              |
-|   segunda   |    1102 (-73)    |   Gatti, Sebastian    |   Parana   |              |
-|   segunda   |    1090 (+10)    |    Sartor, Lautaro    | Avellaneda |              |
-|   segunda   |     1068 (=)     |    Mendez, Carlos     |  Santa Fe  |   Atemeli    |
-|   segunda   |     1058 (=)     |  Allegrini, Tiziano   |            |              |
-|   segunda   |     1054 (=)     |    Gonzalez, Oscar    |            |              |
-|   segunda   |     1053 (=)     |   Girolami, Sergio    |            |              |
 |   segunda   |     1041 (=)     |      Gomez, Luis      |            |              |
 |   segunda   |     1032 (=)     |    Luzardo, Andres    |            |              |
 |   segunda   |     984 (=)      |   Ferretti, Gustavo   |  Santa Fe  |   Atemeli    |
