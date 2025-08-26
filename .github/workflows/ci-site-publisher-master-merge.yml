@@ -16,7 +16,7 @@ jobs:
           git config user.email 123456+github-actions[bot]@users.noreply.github.com
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.9
+          python-version: "3.12"
       - run: pip install ranking-table-tennis
       # - run: pip install git+https://github.com/srvanrell/ranking-table-tennis.git@branch-name
       - id: rtt-preprocess
