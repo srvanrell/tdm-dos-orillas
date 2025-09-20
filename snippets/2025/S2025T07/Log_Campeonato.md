@@ -1,0 +1,83 @@
+|       Jugador        |  Categoría  |  Mejor Ronda  |  Puntos de Campeonato  |
+|:--------------------:|:-----------:|:-------------:|:----------------------:|
+| Samaniego, Francisco |   cuarta    |    primero    |          100           |
+|  Taffarel, Claudio   |   cuarta    |    segundo    |           75           |
+|   Hanrri, Facundo    |   cuarta    |   semifinal   |           50           |
+|  Retamal, Santiago   |   cuarta    |   semifinal   |           50           |
+|  Albrecht, Ignacio   |   cuarta    |    cuartos    |           25           |
+|   Ranzani, Esteban   |   cuarta    |    cuartos    |           25           |
+|   Yenerich, Fabio    |   cuarta    |    cuartos    |           25           |
+|  Allegrini, Alonso   |   cuarta    |    octavos    |           15           |
+|  Allignani, Tiziano  |   cuarta    |    octavos    |           15           |
+|    Diez, Gabriel     |   cuarta    |    octavos    |           15           |
+|     Gatti, Pedro     |   cuarta    |    octavos    |           15           |
+|     Hepp, Gernan     |   cuarta    |    octavos    |           15           |
+|    Lell, Claudia     |   cuarta    |    octavos    |           15           |
+|   Lerman, Ricarlo    |   cuarta    |    octavos    |           15           |
+|    Perren, Miguel    |   cuarta    |    octavos    |           15           |
+|   Zelayeta, Carlos   |   cuarta    |    octavos    |           15           |
+|    Justet, Walter    |   cuarta    |    16avos     |           12           |
+|    Portillo, Ana     |   cuarta    |    16avos     |           12           |
+|    Candia, Matias    |   cuarta    |     zona      |           10           |
+|   Fernandez, Belen   |   cuarta    |     zona      |           10           |
+|     Gaete, Tiago     |   cuarta    |     zona      |           10           |
+|    Lacuadra, Lena    |   cuarta    |     zona      |           10           |
+|   Toffolini, Hugo    |   cuarta    |     zona      |           10           |
+| Trevignani, Alfonso  |   cuarta    |     zona      |           10           |
+|                      |             |               |                        |
+|  Lofeudo, Juan Jose  |   primera   |    primero    |          1000          |
+|   Reichel, Hernan    |   primera   |    segundo    |          750           |
+|  Allegrini, Tiziano  |   primera   |   semifinal   |          500           |
+|    Palamedi, Uma     |   primera   |   semifinal   |          500           |
+|  Bernhardt, Leandro  |   primera   |    cuartos    |          250           |
+|   Gatti, Sebastian   |   primera   |    cuartos    |          250           |
+|   Nowotny, Martin    |   primera   |    cuartos    |          250           |
+|   Sartor, Lautaro    |   primera   |    cuartos    |          250           |
+|   Aguirre, German    |   primera   |    octavos    |          150           |
+|   Corbalan, Martin   |   primera   |    octavos    |          150           |
+|  Grippo, Francisco   |   primera   |    octavos    |          150           |
+|    Nohara, Andres    |   primera   |    octavos    |          150           |
+|    Rubio, Julian     |   primera   |    octavos    |          150           |
+|   Velazquez, Irupe   |   primera   |    octavos    |          150           |
+|  Velazquez, Marcelo  |   primera   |    octavos    |          150           |
+|                      |             |               |                        |
+|  Bernhardt, Leandro  |   segunda   |    primero    |          500           |
+|   Velazquez, Irupe   |   segunda   |    segundo    |          375           |
+|   Gatti, Sebastian   |   segunda   |   semifinal   |          250           |
+| Ramos Muzio, Gonzalo |   segunda   |   semifinal   |          250           |
+|   Corbalan, Martin   |   segunda   |    cuartos    |          125           |
+|  Dalinger, Humberto  |   segunda   |    cuartos    |          125           |
+|   Escudero, Martin   |   segunda   |    cuartos    |          125           |
+|   Gandolfo, Carlos   |   segunda   |    cuartos    |          125           |
+|    Banfi, Franco     |   segunda   |    octavos    |           75           |
+|   Costanza, Roque    |   segunda   |    octavos    |           75           |
+|  Ferretti, Gustavo   |   segunda   |    octavos    |           75           |
+|     Pilotti, Paz     |   segunda   |    octavos    |           75           |
+|    Portillo, Ana     |   segunda   |    octavos    |           75           |
+|    Prettis, Juan     |   segunda   |    octavos    |           75           |
+|    Rubio, Julian     |   segunda   |    octavos    |           75           |
+|                      |             |               |                        |
+| Faggionatto, Walter  |   tercera   |    primero    |          250           |
+|  Taffarel, Claudio   |   tercera   |    segundo    |          190           |
+| Bernhardt, Sebastian |   tercera   |   semifinal   |          125           |
+| Trevignani, Alfonso  |   tercera   |   semifinal   |          125           |
+| Bernhardt, Alejandro |   tercera   |    cuartos    |           65           |
+|  Calabrese, Alfredo  |   tercera   |    cuartos    |           65           |
+|     Rosa, Pablo      |   tercera   |    cuartos    |           65           |
+|   Yenerich, Fabio    |   tercera   |    cuartos    |           65           |
+|    Barrios, Julio    |   tercera   |    octavos    |           40           |
+|   Hanrri, Facundo    |   tercera   |    octavos    |           40           |
+|   Lerman, Ricarlo    |   tercera   |    octavos    |           40           |
+|    Perren, Miguel    |   tercera   |    octavos    |           40           |
+|    Portillo, Ana     |   tercera   |    octavos    |           40           |
+|   Ranzani, Esteban   |   tercera   |    octavos    |           40           |
+| Samaniego, Francisco |   tercera   |    octavos    |           40           |
+|   Zelayeta, Carlos   |   tercera   |    octavos    |           40           |
+|   Bregant, Osvaldo   |   tercera   |    16avos     |           30           |
+|     Hepp, Gernan     |   tercera   |    16avos     |           30           |
+|  Albrecht, Ignacio   |   tercera   |     zona      |           25           |
+|  Bernhardt, Gabriel  |   tercera   |     zona      |           25           |
+|    Candia, Matias    |   tercera   |     zona      |           25           |
+|    Diez, Gabriel     |   tercera   |     zona      |           25           |
+|   Fernandez, Belen   |   tercera   |     zona      |           25           |
+|    Justet, Walter    |   tercera   |     zona      |           25           |
