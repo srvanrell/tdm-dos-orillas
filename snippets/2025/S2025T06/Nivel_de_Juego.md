@@ -78,20 +78,20 @@
 |   tercera   |     422 (=)      |   Pettinatti, Cesar   |            |              |
 |             |                  |                       |            |              |
 |   cuarta    |    399 (+39)     |    Aranda, Luciano    |            |              |
-|   cuarta    |    394 (+28)     |   Retamal, Santiago   |            |              |
 |   cuarta    |    393 (+43)     | Samaniego, Francisco  |            |              |
+|   cuarta    |    392 (+26)     |   Retamal, Santiago   |            |              |
 |   cuarta    |     391 (=)      |    Gomez, Gabriel     |   Parana   | Tiro Federal |
 |   cuarta    |    390 (+68)     |    Lerman, Ricarlo    |            |              |
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |            |              |
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |            |              |
 |   cuarta    |    376 (+20)     |   Taffarel, Claudio   |            |              |
 |   cuarta    |    375 (+68)     |    Visintini, Juan    |            |              |
+|   cuarta    |     365 (-6)     |    Locateli, Juan     |            |              |
 |   cuarta    |     364 (=)      |    Palma, Marcelo     |            |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |            |              |
 |   cuarta    |    358 (-42)     |    Perren, Miguel     |            |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |            |              |
 |   cuarta    |     349 (=)      |     Portillo, Ana     |            |              |
-|   cuarta    |    347 (-24)     |    Locateli, Juan     |            |              |
 |   cuarta    |    344 (-132)    |   Ranzani, Esteban    |            |              |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |            |              |
 |   cuarta    |     341 (=)      |   Orcellet, Rodrigo   |            |              |
@@ -101,10 +101,10 @@
 |   cuarta    |     332 (=)      |   Quinones, German    |            |              |
 |   cuarta    |    330 (+57)     |     Paya, Lazaro      |            |              |
 |   cuarta    |    330 (-14)     |     Paz, Joaquin      |            |              |
-|   cuarta    |    322 (-19)     | Barreto, Maximiliano  |            |              |
 |   cuarta    |     321 (=)      | Bernhardt, Sebastian  |            |              |
 |   cuarta    |     316 (+8)     |    Lucatti, Matias    |            |              |
 |   cuarta    |     310 (=)      |     Lell, Claudia     |   Parana   | Tiro Federal |
+|   cuarta    |    306 (-35)     | Barreto, Maximiliano  |            |              |
 |   cuarta    |     302 (=)      | Marchitelli, Ezequiel |            |              |
 |   cuarta    |     301 (=)      |    Schiavi, Bruno     |            |              |
 |   cuarta    |     300 (=)      |    Silva, Santiago    |            |              |

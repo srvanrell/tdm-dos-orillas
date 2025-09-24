@@ -37,8 +37,8 @@
 |   Lucatti, Matias (308)    |   Bregant, Osvaldo (198)   |     110      |        12        |        -12        |    zona     |   cuarta    |    1     |
 |     Paya, Lazaro (273)     |    Fenes, Martin (414)     |     -141     |        45        |        -45        |    zona     |   cuarta    |   1.5    |
 |   Ranzani, Esteban (476)   |  Allegrini, Alonso (320)   |     156      |        5         |        -5         |    zona     |   cuarta    |   0.5    |
+|  Retamal, Santiago (365)   | Barreto, Maximiliano (341) |      24      |        16        |        -16        |    zona     |   cuarta    |    1     |
 |  Retamal, Santiago (365)   |    Candia, Matias (176)    |     189      |        10        |        -10        |    zona     |   cuarta    |    1     |
-|  Retamal, Santiago (365)   |    Locateli, Juan (371)    |      -5      |        18        |        -18        |    zona     |   cuarta    |    1     |
 |  Retamal, Santiago (365)   |    Locateli, Juan (371)    |      -5      |        18        |        -18        |    zona     |   cuarta    |    1     |
 |     Rosales, Ian (619)     |   Aranda, Luciano (360)    |     258      |        4         |        -4         |    zona     |   cuarta    |   0.5    |
 |     Rosales, Ian (619)     |     Gatti, Pedro (238)     |     381      |        3         |        -3         |    zona     |   cuarta    |   0.5    |

@@ -42,7 +42,7 @@
 |     Paya, Lazaro     |    Fenes, Martin     |    3     |    0     |    zona     |   cuarta    |
 |   Perez, Valentino   | Trevignani, Alfonso  |    0     |    3     |    zona     |   cuarta    |
 |   Ranzani, Esteban   |  Allegrini, Alonso   |    3     |    0     |    zona     |   cuarta    |
-|  Retamal, Santiago   |    Locateli, Juan    |    3     |    1     |    zona     |   cuarta    |
+|  Retamal, Santiago   | Barreto, Maximiliano |    3     |    1     |    zona     |   cuarta    |
 |     Rosales, Ian     |   Aranda, Luciano    |    3     |    0     |    zona     |   cuarta    |
 |    Rubio, Julian2    |   Toffolini, Hugo    |    0     |    3     |    zona     |   cuarta    |
 | Samaniego, Francisco |  Allegrini, Alonso   |    3     |    1     |    zona     |   cuarta    |

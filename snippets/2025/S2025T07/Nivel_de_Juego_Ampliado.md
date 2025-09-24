@@ -44,7 +44,7 @@
 |   primera   |     1109 (=)     |       Barba, Rodrigo       |        Parana         |   Aspatem    |
 |   segunda   |     1003 (=)     |       Barcelo, Mateo       |                       |    ATMAR     |
 |   segunda   |     887 (=)      |     Barchiesi, Matias      |                       |              |
-|   cuarta    |     322 (=)      |    Barreto, Maximiliano    |                       |              |
+|   cuarta    |     306 (=)      |    Barreto, Maximiliano    |                       |              |
 |   cuarta    |     366 (=)      |     Barrientos, Norma      |        Parana         | Tiro Federal |
 |   tercera   |    477 (-65)     |       Barrios, Julio       |                       |              |
 |   tercera   |     542 (=)      |       Barrios, Tomas       |                       |              |
@@ -214,7 +214,7 @@
 |   tercera   |    412 (+22)     |      Lerman, Ricarlo       |                       |              |
 |   tercera   |     672 (=)      |        Levin, Raul         |        Parana         |              |
 |   primera   |     1229 (=)     |       Lezana, Diego        | Libertador San Martin |     CRL      |
-|   cuarta    |     347 (=)      |       Locateli, Juan       |                       |              |
+|   cuarta    |     365 (=)      |       Locateli, Juan       |                       |              |
 |   primera   |    1868 (+21)    |     Lofeudo, Juan Jose     |       Santa Fe        |   Atemeli    |
 |   segunda   |     901 (=)      |       Longhi, Mauro        |       Santa Fe        |   Atemeli    |
 |   primera   |     1165 (=)     |       Lopez, Agustin       |       Santa Fe        |   Atemeli    |
@@ -312,11 +312,11 @@
 |   cuarta    |     332 (=)      |      Quinones, German      |                       |              |
 |   segunda   |    818 (+22)     |    Ramos Muzio, Gonzalo    |        Parana         |   Aspatem    |
 |   cuarta    |     297 (=)      |       Ramos, Matias        |                       |              |
-|   cuarta    |    312 (-32)     |      Ranzani, Esteban      |                       |              |
+|   cuarta    |    310 (-34)     |      Ranzani, Esteban      |                       |              |
 |   cuarta    |     344 (=)      |      Raspini, Pamela       |                       |              |
 |   primera   |    1573 (+5)     |      Reichel, Hernan       | Libertador San Martin |     CRL      |
 |   segunda   |     764 (=)      |       Reniero, Gian        |                       |              |
-|   tercera   |    440 (+46)     |     Retamal, Santiago      |                       |              |
+|   tercera   |    440 (+48)     |     Retamal, Santiago      |                       |              |
 |   cuarta    |     316 (=)      |       Rico, Eduardo        |                       |              |
 |   segunda   |     713 (=)      |        Rios, Alexis        |                       |              |
 |   segunda   |     711 (=)      |       Rios, Benjamin       | Libertador San Martin |     CRL      |
