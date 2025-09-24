@@ -50,16 +50,15 @@
 |   segunda   |     727 (=)      |    Costanza, Roque    |            |              |
 |   segunda   |     719 (=)      |  Dalinger, Humberto   |   Parana   | Tiro Federal |
 |   segunda   |    714 (-84)     |   Vigouroux, Jorge    | San Justo  | Tiro Federal |
-|   segunda   |    701 (+22)     |   Armingol, Manuel    |            |              |
 |             |                  |                       |            |              |
 |   tercera   |    687 (-29)     |    Savino, Leandro    |  Santa Fe  |   Atemeli    |
+|   tercera   |     686 (+7)     |   Armingol, Manuel    |            |              |
 |   tercera   |     672 (=)      |      Levin, Raul      |   Parana   |              |
 |   tercera   |    646 (+27)     |     Rosales, Ian      |            |              |
 |   tercera   |    638 (-16)     |     Almada, Pablo     |            |              |
 |   tercera   |     636 (+8)     |  Oliveras, Leonardo   |            |              |
 |   tercera   |    624 (-14)     |    Rojas, Priscila    |            |              |
 |   tercera   |     612 (=)      |    Suarez, Milton     |  Santa Fe  |              |
-|   tercera   |    606 (-66)     | Barreto, Maximiliano  |            |              |
 |   tercera   |     581 (=)      |      Rosa, Pablo      |            |              |
 |   tercera   |    575 (-23)     |   Domenicone, Bruno   |            |              |
 |   tercera   |    551 (+133)    |     Avila, Marcos     |            |              |
@@ -85,7 +84,6 @@
 |   cuarta    |    390 (+68)     |    Lerman, Ricarlo    |            |              |
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |            |              |
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |            |              |
-|   cuarta    |     379 (+8)     |    Locateli, Juan     |            |              |
 |   cuarta    |    376 (+20)     |   Taffarel, Claudio   |            |              |
 |   cuarta    |    375 (+68)     |    Visintini, Juan    |            |              |
 |   cuarta    |     364 (=)      |    Palma, Marcelo     |            |              |
@@ -93,6 +91,7 @@
 |   cuarta    |    358 (-42)     |    Perren, Miguel     |            |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |            |              |
 |   cuarta    |     349 (=)      |     Portillo, Ana     |            |              |
+|   cuarta    |    347 (-24)     |    Locateli, Juan     |            |              |
 |   cuarta    |    344 (-132)    |   Ranzani, Esteban    |            |              |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |            |              |
 |   cuarta    |     341 (=)      |   Orcellet, Rodrigo   |            |              |
@@ -102,6 +101,7 @@
 |   cuarta    |     332 (=)      |   Quinones, German    |            |              |
 |   cuarta    |    330 (+57)     |     Paya, Lazaro      |            |              |
 |   cuarta    |    330 (-14)     |     Paz, Joaquin      |            |              |
+|   cuarta    |    322 (-19)     | Barreto, Maximiliano  |            |              |
 |   cuarta    |     321 (=)      | Bernhardt, Sebastian  |            |              |
 |   cuarta    |     316 (+8)     |    Lucatti, Matias    |            |              |
 |   cuarta    |     310 (=)      |     Lell, Claudia     |   Parana   | Tiro Federal |

@@ -238,7 +238,6 @@
 |       676        |      Kranczuk, German      |                       |              |
 |       673        |      Duraschi, Lemuel      |                       |              |
 |       672        |      Amaral, Gustavo       |                       |              |
-|       672        |    Barreto, Maximiliano    |                       |              |
 |       671        |     Pillac, Juan Pablo     | Libertador San Martin |     CRL      |
 |       666        |      Candioti, Lionel      |                       |              |
 |       664        |      Varisco, Silvina      |        Parana         |   Aspatem    |
@@ -360,6 +359,7 @@
 |     343.562      |      Yenerich, Fabio       |                       |              |
 |      343.5       |        Paz, Joaquin        |                       |              |
 |       343        |       Schiavi, Bruno       |                       |              |
+|       341        |    Barreto, Maximiliano    |                       |              |
 |       340        |     Taffarel, Claudio      |                       |              |
 |      331.25      |     Orcellet, Rodrigo      |                       |              |
 |       331        |       Ramos, Matias        |                       |              |

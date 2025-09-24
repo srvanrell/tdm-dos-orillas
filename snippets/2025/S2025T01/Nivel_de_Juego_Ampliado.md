@@ -44,7 +44,7 @@
 |   segunda   |     1109 (=)     |       Barba, Rodrigo       |        Parana         |   Aspatem    |
 |   segunda   |     1003 (=)     |       Barcelo, Mateo       |                       |    ATMAR     |
 |   tercera   |    683 (+119)    |     Barchiesi, Matias      |                       |              |
-|   tercera   |     672 (=)      |    Barreto, Maximiliano    |                       |              |
+|   cuarta    |     341 (=)      |    Barreto, Maximiliano    |                       |              |
 |   cuarta    |     366 (=)      |     Barrientos, Norma      |        Parana         | Tiro Federal |
 |   cuarta    |    377 (-12)     |       Barrios, Julio       |                       |              |
 |   tercera   |     542 (=)      |       Barrios, Tomas       |                       |              |

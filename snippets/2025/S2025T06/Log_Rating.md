@@ -1,7 +1,7 @@
 |          Ganador           |          Perdedor          |  Diferencia  |  Puntos Ganador  |  Puntos Perdedor  |  Instancia  |  Categoría  |  Factor  |
 |:--------------------------:|:--------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
 |   Aranda, Luciano (360)    |  Allegrini, Alonso (320)   |      40      |        16        |        -16        |   16avos    |   cuarta    |    1     |
-|   Armingol, Manuel (679)   | Barreto, Maximiliano (672) |      7       |        18        |        -18        |   16avos    |   cuarta    |    1     |
+|   Armingol, Manuel (679)   | Barreto, Maximiliano (341) |     338      |        3         |        -3         |   16avos    |   cuarta    |   0.5    |
 |    Diez, Gabriel (304)     |   Toffolini, Hugo (291)    |      13      |        18        |        -18        |   16avos    |   cuarta    |    1     |
 |     Gatti, Pedro (238)     |   Ranzani, Esteban (476)   |     -238     |        63        |        -63        |   16avos    |   cuarta    |   1.5    |
 |   Lerman, Ricarlo (321)    |    Candia, Matias (176)    |     145      |        12        |        -12        |   16avos    |   cuarta    |    1     |
@@ -33,7 +33,7 @@
 |    Diez, Gabriel (304)     |   Perez, Valentino (228)   |      76      |        14        |        -14        |    zona     |   cuarta    |    1     |
 |     Hepp, Gernan (307)     |  Albrecht, Ignacio (243)   |      64      |        14        |        -14        |    zona     |   cuarta    |    1     |
 |   Lerman, Ricarlo (321)    |     Hepp, Gernan (307)     |      14      |        18        |        -18        |    zona     |   cuarta    |    1     |
-|    Locateli, Juan (371)    | Barreto, Maximiliano (672) |     -301     |        48        |        -48        |    zona     |   cuarta    |    1     |
+|    Locateli, Juan (371)    | Barreto, Maximiliano (341) |      30      |        16        |        -16        |    zona     |   cuarta    |    1     |
 |   Lucatti, Matias (308)    |   Bregant, Osvaldo (198)   |     110      |        12        |        -12        |    zona     |   cuarta    |    1     |
 |     Paya, Lazaro (273)     |    Fenes, Martin (414)     |     -141     |        45        |        -45        |    zona     |   cuarta    |   1.5    |
 |   Ranzani, Esteban (476)   |  Allegrini, Alonso (320)   |     156      |        5         |        -5         |    zona     |   cuarta    |   0.5    |

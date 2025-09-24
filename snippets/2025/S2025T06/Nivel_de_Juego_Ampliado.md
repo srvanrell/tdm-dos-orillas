@@ -29,7 +29,7 @@
 |   tercera   |     480 (=)      |       Antunez, Pablo       |                       |              |
 |   segunda   |     1008 (=)     |       Apaza, Catriel       | Libertador San Martin |     CRL      |
 |   cuarta    |    399 (+39)     |      Aranda, Luciano       |                       |              |
-|   segunda   |    701 (+22)     |      Armingol, Manuel      |                       |              |
+|   tercera   |     686 (+7)     |      Armingol, Manuel      |                       |              |
 |   segunda   |     1013 (=)     |     Arrieta, Guillermo     | Libertador San Martin |     CRL      |
 |   tercera   |     680 (=)      |      Arrieta, Matias       | Libertador San Martin |     CRL      |
 |   segunda   |     1000 (=)     |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |
@@ -44,7 +44,7 @@
 |   primera   |     1109 (=)     |       Barba, Rodrigo       |        Parana         |   Aspatem    |
 |   segunda   |     1003 (=)     |       Barcelo, Mateo       |                       |    ATMAR     |
 |   segunda   |    887 (+36)     |     Barchiesi, Matias      |                       |              |
-|   tercera   |    606 (-66)     |    Barreto, Maximiliano    |                       |              |
+|   cuarta    |    322 (-19)     |    Barreto, Maximiliano    |                       |              |
 |   cuarta    |     366 (=)      |     Barrientos, Norma      |        Parana         | Tiro Federal |
 |   tercera   |     542 (=)      |       Barrios, Julio       |                       |              |
 |   tercera   |     542 (=)      |       Barrios, Tomas       |                       |              |
@@ -214,7 +214,7 @@
 |   cuarta    |    390 (+68)     |      Lerman, Ricarlo       |                       |              |
 |   tercera   |     672 (=)      |        Levin, Raul         |        Parana         |              |
 |   primera   |     1229 (=)     |       Lezana, Diego        | Libertador San Martin |     CRL      |
-|   cuarta    |     379 (+8)     |       Locateli, Juan       |                       |              |
+|   cuarta    |    347 (-24)     |       Locateli, Juan       |                       |              |
 |   primera   |    1847 (+49)    |     Lofeudo, Juan Jose     |       Santa Fe        |   Atemeli    |
 |   segunda   |     901 (=)      |       Longhi, Mauro        |       Santa Fe        |   Atemeli    |
 |   primera   |     1165 (=)     |       Lopez, Agustin       |       Santa Fe        |   Atemeli    |
