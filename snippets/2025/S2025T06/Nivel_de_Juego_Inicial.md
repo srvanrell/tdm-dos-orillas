@@ -357,6 +357,7 @@
 |       346        |      Getting, Brenda       |                       |              |
 |       344        |      Albano, Gabriela      |                       |              |
 |       344        |      Luzardo, Daniel       |                       |              |
+|     343.562      |      Yenerich, Fabio       |                       |              |
 |      343.5       |        Paz, Joaquin        |                       |              |
 |       343        |       Schiavi, Bruno       |                       |              |
 |       340        |     Taffarel, Claudio      |                       |              |
@@ -388,18 +389,22 @@
 |       285        |     Lanzotti, Lautaro      |                       |              |
 |      284.25      |       Perren, Miguel       |                       |              |
 |       284        |     Calabrese, Alfredo     |                       |              |
+|       281        |     Allignani, Tiziano     |                       |              |
 |       278        |       Rubio, Julian2       |                       |              |
 |       277        |       Melero, Martin       |                       |              |
 |       272        |        Gatti, Pedro        |                       |              |
 |      271.5       |      Hanrri, Facundo       |                       |              |
 |       268        |       Salva, Emanuel       |                       |              |
+|      267.5       |     Bernhardt, Gabriel     |                       |              |
 |       266        |      Zelayeta, Carlos      |                       |              |
 |      262.5       |       Lacuadra, Lena       |                       |              |
 |      258.5       |    Trevignani, Alfonso     |                       |              |
 |       256        |      Rodriguez, Dora       |                       |              |
 |       255        |       Diaz, Claudino       |                       |              |
 |       254        |     Bordeira, Gabriel      |                       |              |
+|       252        |        Gaete, Tiago        |                       |              |
 |       243        |     Albrecht, Ignacio      |                       |              |
+|       242        |       Justet, Walter       |                       |              |
 |       242        |        Monzon, Mari        |                       |              |
 |       232        |      Pintos, Viviana       |                       |              |
 |       228        |      Perez, Valentino      |                       |              |
@@ -408,4 +413,5 @@
 |       213        |      Carli, Valentin       |                       |              |
 |       207        |       Bregant, Juan        |                       |              |
 |       207        |   Kotlireusky, Benjamin    |                       |              |
+|       196        |      Fernandez, Belen      |                       |              |
 |       183        |       Portillo, Ana        |                       |              |

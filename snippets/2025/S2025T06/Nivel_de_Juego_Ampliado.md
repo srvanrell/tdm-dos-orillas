@@ -16,6 +16,7 @@
 |   primera   |    1074 (-18)    |     Allegrini, Tiziano     |                       |              |
 |   primera   |     1164 (=)     |      Allendez, Alvaro      | Libertador San Martin |     CRL      |
 |   primera   |     1405 (=)     |      Allendez, Tiago       | Libertador San Martin |     CRL      |
+|   cuarta    |     281 (=)      |     Allignani, Tiziano     |                       |              |
 |   tercera   |     640 (=)      |      Almada, Claudio       |                       |              |
 |   tercera   |    638 (-16)     |       Almada, Pablo        |                       |              |
 |   segunda   |     713 (=)      |      Almeira, Melania      |        Parana         |   Aspatem    |
@@ -57,6 +58,7 @@
 |   segunda   |     990 (=)      |      Bernal, Facundo       |       Santa Fe        |   Atemeli    |
 |   tercera   |     526 (=)      |    Bernard, Maximiliano    |                       |              |
 |   tercera   |     426 (=)      |    Bernhardt, Alejandro    |                       |              |
+|   cuarta    |     268 (=)      |     Bernhardt, Gabriel     |                       |              |
 |   segunda   |    898 (+66)     |     Bernhardt, Leandro     |                       |              |
 |   cuarta    |     321 (=)      |    Bernhardt, Sebastian    |                       |              |
 |   tercera   |     416 (=)      |      Bertoli, Julian       |                       |              |
@@ -134,6 +136,7 @@
 |   cuarta    |    293 (-121)    |       Fenes, Martin        |                       |              |
 |   primera   |     1406 (=)     |     Feresin, Ezequiel      |      Reconquista      |              |
 |   primera   |     1109 (=)     |      Fernandez, Axel       |                       |              |
+|   cuarta    |     196 (=)      |      Fernandez, Belen      |                       |              |
 |   primera   |     1341 (=)     |     Fernandez, Carlos      |        Parana         | Tiro Federal |
 |   segunda   |     998 (=)      |      Fernandez, Dario      |                       |              |
 |   segunda   |     810 (=)      |      Fernandez, David      |                       |              |
@@ -153,6 +156,7 @@
 |   cuarta    |     350 (=)      |      Frank, Benjamin       |                       |              |
 |   segunda   |     779 (=)      |       Fucks, Alyssa        | Libertador San Martin |     CRL      |
 |   tercera   |     412 (=)      |      Gabiout, Alfonso      |                       |              |
+|   cuarta    |     252 (=)      |        Gaete, Tiago        |                       |              |
 |   segunda   |     979 (=)      |       Galera, Julio        |        Parana         |   Aspatem    |
 |   tercera   |     609 (=)      |      Gambino, Sergio       |        Parana         |   Aspatem    |
 |   segunda   |     793 (=)      |      Gandolfo, Carlos      |        Parana         | Tiro Federal |
@@ -194,6 +198,7 @@
 |   segunda   |     715 (=)      |        Javita, Luis        | Libertador San Martin |     CRL      |
 |   tercera   |     693 (=)      |            Jose            | Libertador San Martin |     CRL      |
 |   cuarta    |     356 (=)      |       Jove, Alberto        |                       |              |
+|   cuarta    |     242 (=)      |       Justet, Walter       |                       |              |
 |   cuarta    |     167 (=)      |   Kotlireusky, Benjamin    |                       |              |
 |   tercera   |     676 (=)      |      Kranczuk, German      |                       |              |
 |   primera   |     1420 (=)     |      La Barba, Pablo       |        Parana         |   Aspatem    |
@@ -402,6 +407,7 @@
 |   primera   |     1059 (=)     |      Welschen, Pablo       |        Parana         |   Aspatem    |
 |   segunda   |     717 (=)      |      Werner, Graciela      |        Parana         |   Aspatem    |
 |   primera   |     1095 (=)     |      Wernli, Federico      |        Parana         |   Aspatem    |
+|   cuarta    |     344 (=)      |      Yenerich, Fabio       |                       |              |
 |   segunda   |    820 (+104)    |      Zalazar, Facundo      |                       |              |
 |   tercera   |     408 (=)      |      Zancada, Maximo       |                       |              |
 |   tercera   |     651 (=)      |      Zapata, Joaquin       |                       |              |

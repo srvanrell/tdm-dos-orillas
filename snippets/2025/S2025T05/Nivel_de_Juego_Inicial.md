@@ -21,6 +21,7 @@
 |       1492       |      Migoni, Nicolas       |        Parana         |   Aspatem    |
 |       1488       |      Nowotny, Martin       | Libertador San Martin |              |
 |       1474       |     Molendick, Daniel      | Libertador San Martin |     CRL      |
+|       1447       |      Tornau, Nicolas       |                       |              |
 |       1420       |      La Barba, Pablo       |        Parana         |   Aspatem    |
 |       1413       |   Stringhini, Alejandro    |       Santa Fe        |   Atemeli    |
 |       1412       |      Mendoza, Daniel       |       Santa Fe        |   Atemeli    |
@@ -158,6 +159,7 @@
 |       821        |      Mendieta, Elias       |       Santa Fe        |              |
 |       819        |     Bernhardt, Leandro     |                       |              |
 |       818        |      Velazquez, Irupe      |       Santa Fe        |   Atemeli    |
+|       817        |      Rojas, Giuliana       |                       |              |
 |       810        |      Fernandez, David      |                       |              |
 |       796        |    Ramos Muzio, Gonzalo    |        Parana         |   Aspatem    |
 |       795        |       Prettis, Juan        |                       |              |
@@ -202,6 +204,7 @@
 |       719        |       Gomez, Matias        |        Parana         |   Aspatem    |
 |       717        | Rodriguez Alarcon Emiliano |                       |              |
 |       717        |      Werner, Graciela      |        Parana         |   Aspatem    |
+|       716        |      Zalazar, Facundo      |                       |              |
 |       715        |        Javita, Luis        | Libertador San Martin |     CRL      |
 |       715        |     Makhoul, Alejandro     |                       |              |
 |       715        |         Mir, Tomas         |                       |              |
@@ -229,6 +232,7 @@
 |       680        |       Delgado, Pablo       | Libertador San Martin |              |
 |       680        |       Muller, Tomas        |                       |              |
 |       680        |      Portillo, Lucas       |       Esperanza       |     ATME     |
+|       679        |      Armingol, Manuel      |                       |              |
 |       678        |       Baztan, Pablo        |                       |              |
 |       677        |      Janko, Cristian       | Libertador San Martin |     CRL      |
 |       676        |      Kranczuk, German      |                       |              |
@@ -245,13 +249,16 @@
 |       650        |     Alvarenque, Luano      |                       |              |
 |       648        |        Pilotti, Paz        |                       |              |
 |       640        |      Almada, Claudio       |                       |              |
+|      637.5       |      Rojas, Priscila       |                       |              |
 |       631        |     Vigouroux, Manuel      |       San Justo       | Tiro Federal |
 |       630        |       Suarez, Milton       |       Santa Fe        |              |
 |       628        |       Sanchez, Lucas       |                       |              |
+|       619        |        Rosales, Ian        |                       |              |
 |       613        |       Comas, Javier        |        Parana         |   Aspatem    |
 |       611        |      Aguirre, Sandra       |        Parana         |   Aspatem    |
 |       609        |      Gambino, Sergio       |        Parana         |   Aspatem    |
 |       602        |       Godano, Lucas        |                       |              |
+|       598        |     Domenicone, Bruno      |                       |              |
 |       594        |       Almada, Pablo        |                       |              |
 |       592        |      Cabrera, Carlos       |                       |              |
 |       588        |      Bracco, Fernando      |                       |              |
@@ -335,8 +342,10 @@
 |       370        |    Faggionatto, Walter     |                       |              |
 |       370        |      Toranza, Ricardo      |                       |              |
 |       366        |     Barrientos, Norma      |        Parana         | Tiro Federal |
+|     365.562      |     Retamal, Santiago      |                       |              |
 |       362        |      Rojas, Agustina       |                       |              |
 |       361        |     Scotta, Francisco      |                       |              |
+|     360.125      |      Aranda, Luciano       |                       |              |
 |       358        |      Rodriguez, Nora       |                       |              |
 |       356        |       Zapata, Lucas        |                       |              |
 |       354        |       Diez, Gabriel        |                       |              |
@@ -348,23 +357,31 @@
 |       346        |      Getting, Brenda       |                       |              |
 |       344        |      Albano, Gabriela      |                       |              |
 |       344        |      Luzardo, Daniel       |                       |              |
+|     343.562      |      Yenerich, Fabio       |                       |              |
+|      343.5       |        Paz, Joaquin        |                       |              |
 |       343        |       Schiavi, Bruno       |                       |              |
 |       340        |     Taffarel, Claudio      |                       |              |
 |      331.25      |     Orcellet, Rodrigo      |                       |              |
 |       331        |       Ramos, Matias        |                       |              |
+|     321.625      |      Lerman, Ricarlo       |                       |              |
+|       320        |     Allegrini, Alonso      |                       |              |
 |      316.25      |      Andolfo, Genaro       |                       |              |
 |       316        |       Rico, Eduardo        |                       |              |
 |       314        |        Garau, Jano         |                       |              |
 |       314        |       Salva, Manuel        |                       |              |
 |       308        |        Duarte, Juan        |                       |              |
+|       308        |      Lucatti, Matias       |                       |              |
 |       308        |      Raspini, Pamela       |                       |              |
 |       308        |     Vivanco, Cristian      |                       |              |
+|      307.25      |      Visintini, Juan       |                       |              |
+|       307        |        Hepp, Gernan        |                       |              |
 |       303        |        Seib, Silvia        |        Parana         |   Aspatem    |
 |       302        |    Bernhardt, Alejandro    |                       |              |
 |      300.5       |      Quinones, German      |                       |              |
 |      299.5       |      Silva, Santiago       |                       |              |
 |       297        |        Paya, Lazaro        |                       |              |
 |       296        |       Lell, Claudia        |        Parana         | Tiro Federal |
+|       291        |      Toffolini, Hugo       |                       |              |
 |      288.5       |   Marchitelli, Ezequiel    |                       |              |
 |      286.25      |       Corradi, Zulma       |                       |              |
 |       286        |       Candia, Matias       |                       |              |
@@ -372,18 +389,29 @@
 |       285        |     Lanzotti, Lautaro      |                       |              |
 |      284.25      |       Perren, Miguel       |                       |              |
 |       284        |     Calabrese, Alfredo     |                       |              |
+|       281        |     Allignani, Tiziano     |                       |              |
+|       278        |       Rubio, Julian2       |                       |              |
+|       277        |       Melero, Martin       |                       |              |
 |       272        |        Gatti, Pedro        |                       |              |
 |      271.5       |      Hanrri, Facundo       |                       |              |
 |       268        |       Salva, Emanuel       |                       |              |
+|      267.5       |     Bernhardt, Gabriel     |                       |              |
 |       266        |      Zelayeta, Carlos      |                       |              |
 |      262.5       |       Lacuadra, Lena       |                       |              |
+|      258.5       |    Trevignani, Alfonso     |                       |              |
 |       256        |      Rodriguez, Dora       |                       |              |
 |       255        |       Diaz, Claudino       |                       |              |
 |       254        |     Bordeira, Gabriel      |                       |              |
+|       252        |        Gaete, Tiago        |                       |              |
+|       243        |     Albrecht, Ignacio      |                       |              |
+|       242        |       Justet, Walter       |                       |              |
 |       242        |        Monzon, Mari        |                       |              |
 |       232        |      Pintos, Viviana       |                       |              |
+|       228        |      Perez, Valentino      |                       |              |
 |       222        |      Bregant, Osvaldo      |                       |              |
 |       216        |        Vidal, Belen        |                       |              |
+|       213        |      Carli, Valentin       |                       |              |
 |       207        |       Bregant, Juan        |                       |              |
 |       207        |   Kotlireusky, Benjamin    |                       |              |
+|       196        |      Fernandez, Belen      |                       |              |
 |       183        |       Portillo, Ana        |                       |              |
