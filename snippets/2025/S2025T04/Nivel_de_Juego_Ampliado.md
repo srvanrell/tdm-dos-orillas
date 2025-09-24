@@ -29,7 +29,7 @@
 |   tercera   |     480 (=)      |       Antunez, Pablo       |                       |              |
 |   segunda   |     1008 (=)     |       Apaza, Catriel       | Libertador San Martin |     CRL      |
 |   cuarta    |     360 (=)      |      Aranda, Luciano       |                       |              |
-|   tercera   |     679 (=)      |      Armingol, Manuel      |                       |              |
+|   segunda   |     700 (=)      |      Armingol, Manuel      |                       |              |
 |   segunda   |     1013 (=)     |     Arrieta, Guillermo     | Libertador San Martin |     CRL      |
 |   tercera   |     680 (=)      |      Arrieta, Matias       | Libertador San Martin |     CRL      |
 |   segunda   |     1000 (=)     |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |

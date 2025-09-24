@@ -38,7 +38,7 @@
 |   segunda   |    887 (+36)     |   Barchiesi, Matias   |            |              |
 |   segunda   |    850 (+40)     |   Velazquez, Irupe    |  Santa Fe  |   Atemeli    |
 |   segunda   |    823 (+18)     |   Corbalan, Martin    |            |              |
-|   segunda   |    820 (+104)    |   Zalazar, Facundo    |            |              |
+|   segunda   |    822 (+106)    |   Zalazar, Facundo    |            |              |
 |   segunda   |    815 (-116)    |   Escudero, Martin    |  Santa Fe  |   Atemeli    |
 |   segunda   |    797 (-20)     |    Rojas, Giuliana    |            |              |
 |   segunda   |     788 (=)      |    Budino, Mijail     |            |              |
@@ -48,11 +48,11 @@
 |   segunda   |    739 (-21)     |     Pilotti, Paz      |            |              |
 |   segunda   |    737 (+51)     |   Vigouroux, Manuel   | San Justo  | Tiro Federal |
 |   segunda   |     727 (=)      |    Costanza, Roque    |            |              |
+|   segunda   |    722 (+22)     |   Armingol, Manuel    |            |              |
 |   segunda   |     719 (=)      |  Dalinger, Humberto   |   Parana   | Tiro Federal |
 |   segunda   |    714 (-84)     |   Vigouroux, Jorge    | San Justo  | Tiro Federal |
 |             |                  |                       |            |              |
 |   tercera   |    687 (-29)     |    Savino, Leandro    |  Santa Fe  |   Atemeli    |
-|   tercera   |     686 (+7)     |   Armingol, Manuel    |            |              |
 |   tercera   |     672 (=)      |      Levin, Raul      |   Parana   |              |
 |   tercera   |    646 (+27)     |     Rosales, Ian      |            |              |
 |   tercera   |    638 (-16)     |     Almada, Pablo     |            |              |
@@ -78,14 +78,14 @@
 |   tercera   |     422 (=)      |   Pettinatti, Cesar   |            |              |
 |             |                  |                       |            |              |
 |   cuarta    |    399 (+39)     |    Aranda, Luciano    |            |              |
-|   cuarta    |    393 (+43)     | Samaniego, Francisco  |            |              |
 |   cuarta    |    392 (+26)     |   Retamal, Santiago   |            |              |
 |   cuarta    |     391 (=)      |    Gomez, Gabriel     |   Parana   | Tiro Federal |
+|   cuarta    |    390 (+40)     | Samaniego, Francisco  |            |              |
 |   cuarta    |    390 (+68)     |    Lerman, Ricarlo    |            |              |
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |            |              |
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |            |              |
 |   cuarta    |    376 (+20)     |   Taffarel, Claudio   |            |              |
-|   cuarta    |    375 (+68)     |    Visintini, Juan    |            |              |
+|   cuarta    |    372 (+65)     |    Visintini, Juan    |            |              |
 |   cuarta    |     365 (-6)     |    Locateli, Juan     |            |              |
 |   cuarta    |     364 (=)      |    Palma, Marcelo     |            |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |            |              |
@@ -99,12 +99,12 @@
 |   cuarta    |     335 (=)      |   Mardon, Emiliano    |            |              |
 |   cuarta    |     333 (=)      |  Faggionatto, Walter  |            |              |
 |   cuarta    |     332 (=)      |   Quinones, German    |            |              |
-|   cuarta    |    330 (+57)     |     Paya, Lazaro      |            |              |
 |   cuarta    |    330 (-14)     |     Paz, Joaquin      |            |              |
+|   cuarta    |    328 (+55)     |     Paya, Lazaro      |            |              |
 |   cuarta    |     321 (=)      | Bernhardt, Sebastian  |            |              |
-|   cuarta    |     316 (+8)     |    Lucatti, Matias    |            |              |
+|   cuarta    |     313 (+5)     |    Lucatti, Matias    |            |              |
 |   cuarta    |     310 (=)      |     Lell, Claudia     |   Parana   | Tiro Federal |
-|   cuarta    |    306 (-35)     | Barreto, Maximiliano  |            |              |
+|   cuarta    |    303 (-38)     | Barreto, Maximiliano  |            |              |
 |   cuarta    |     302 (=)      | Marchitelli, Ezequiel |            |              |
 |   cuarta    |     301 (=)      |    Schiavi, Bruno     |            |              |
 |   cuarta    |     300 (=)      |    Silva, Santiago    |            |              |
@@ -114,7 +114,7 @@
 |   cuarta    |    289 (-18)     |     Hepp, Gernan      |            |              |
 |   cuarta    |     284 (=)      |    Andolfo, Genaro    |            |              |
 |   cuarta    |    283 (-37)     |   Allegrini, Alonso   |            |              |
-|   cuarta    |    282 (-22)     |     Diez, Gabriel     |            |              |
+|   cuarta    |    279 (-25)     |     Diez, Gabriel     |            |              |
 |   cuarta    |    273 (-18)     |    Toffolini, Hugo    |            |              |
 |   cuarta    |     272 (=)      |  Calabrese, Alfredo   |            |              |
 |   cuarta    |    272 (+34)     |     Gatti, Pedro      |            |              |

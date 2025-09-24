@@ -215,6 +215,7 @@
 |      706.5       |       Matio, Hernan        |                       |              |
 |       706        |       Muller, Lucas        |                       |              |
 |       702        |      Aguirre, Gabriel      |        Parana         |   Aspatem    |
+|       700        |      Armingol, Manuel      |                       |              |
 |       699        |     Pallotti, Fabrizio     |                       |              |
 |       697        |        Zavala, Jose        |                       |              |
 |       694        |   Beneventano, Romanela    | Libertador San Martin |              |
@@ -232,7 +233,6 @@
 |       680        |       Delgado, Pablo       | Libertador San Martin |              |
 |       680        |       Muller, Tomas        |                       |              |
 |       680        |      Portillo, Lucas       |       Esperanza       |     ATME     |
-|       679        |      Armingol, Manuel      |                       |              |
 |       678        |       Baztan, Pablo        |                       |              |
 |       677        |      Janko, Cristian       | Libertador San Martin |     CRL      |
 |       676        |      Kranczuk, German      |                       |              |
