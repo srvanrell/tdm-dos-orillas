@@ -53,17 +53,16 @@
 |   segunda   |     739 (=)      |     Pilotti, Paz      |                       |              |
 |   segunda   |     737 (=)      |   Vigouroux, Manuel   |       San Justo       | Tiro Federal |
 |   segunda   |     714 (=)      |   Vigouroux, Jorge    |       San Justo       | Tiro Federal |
-|   segunda   |     701 (=)      |   Armingol, Manuel    |                       |              |
 |             |                  |                       |                       |              |
 |   tercera   |    689 (-38)     |    Costanza, Roque    |                       |              |
 |   tercera   |     687 (=)      |    Savino, Leandro    |       Santa Fe        |   Atemeli    |
+|   tercera   |     686 (=)      |   Armingol, Manuel    |                       |              |
 |   tercera   |     672 (=)      |      Levin, Raul      |        Parana         |              |
 |   tercera   |     646 (=)      |     Rosales, Ian      |                       |              |
 |   tercera   |     638 (=)      |     Almada, Pablo     |                       |              |
 |   tercera   |     636 (=)      |  Oliveras, Leonardo   |                       |              |
 |   tercera   |     624 (=)      |    Rojas, Priscila    |                       |              |
 |   tercera   |     612 (=)      |    Suarez, Milton     |       Santa Fe        |              |
-|   tercera   |     606 (=)      | Barreto, Maximiliano  |                       |              |
 |   tercera   |     575 (=)      |   Domenicone, Bruno   |                       |              |
 |   tercera   |     551 (=)      |     Avila, Marcos     |                       |              |
 |   tercera   |     533 (=)      |   Colavini, Daniel    |      Santo Tome       |   Atemeli    |
@@ -93,19 +92,20 @@
 |   cuarta    |     391 (=)      |    Gomez, Gabriel     |        Parana         | Tiro Federal |
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |                       |              |
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |                       |              |
-|   cuarta    |     379 (=)      |    Locateli, Juan     |                       |              |
 |   cuarta    |     375 (=)      |    Visintini, Juan    |                       |              |
 |   cuarta    |     364 (=)      |    Palma, Marcelo     |                       |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                       |              |
 |   cuarta    |    359 (+15)     |    Yenerich, Fabio    |                       |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                       |              |
 |   cuarta    |    350 (+13)     |    Hanrri, Facundo    |                       |              |
+|   cuarta    |     347 (=)      |    Locateli, Juan     |                       |              |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |                       |              |
 |   cuarta    |     341 (=)      |   Orcellet, Rodrigo   |                       |              |
 |   cuarta    |     335 (=)      |   Mardon, Emiliano    |                       |              |
 |   cuarta    |     332 (=)      |   Quinones, German    |                       |              |
 |   cuarta    |     330 (=)      |     Paya, Lazaro      |                       |              |
 |   cuarta    |     330 (=)      |     Paz, Joaquin      |                       |              |
+|   cuarta    |     322 (=)      | Barreto, Maximiliano  |                       |              |
 |   cuarta    |    316 (-42)     |    Perren, Miguel     |                       |              |
 |   cuarta    |     316 (=)      |    Lucatti, Matias    |                       |              |
 |   cuarta    |    312 (+40)     |  Calabrese, Alfredo   |                       |              |
