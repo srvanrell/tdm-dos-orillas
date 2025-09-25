@@ -29,7 +29,7 @@
 |   tercera   |     480 (=)      |       Antunez, Pablo       |                       |              |
 |   segunda   |     1008 (=)     |       Apaza, Catriel       | Libertador San Martin |     CRL      |
 |   cuarta    |    399 (+39)     |      Aranda, Luciano       |                       |              |
-|   segunda   |    722 (+22)     |      Armingol, Manuel      |                       |              |
+|   tercera   |     692 (+7)     |      Armingol, Manuel      |                       |              |
 |   segunda   |     1013 (=)     |     Arrieta, Guillermo     | Libertador San Martin |     CRL      |
 |   tercera   |     680 (=)      |      Arrieta, Matias       | Libertador San Martin |     CRL      |
 |   segunda   |     1000 (=)     |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |
@@ -44,7 +44,7 @@
 |   primera   |     1109 (=)     |       Barba, Rodrigo       |        Parana         |   Aspatem    |
 |   segunda   |     1003 (=)     |       Barcelo, Mateo       |                       |    ATMAR     |
 |   segunda   |    887 (+36)     |     Barchiesi, Matias      |                       |              |
-|   cuarta    |    303 (-38)     |    Barreto, Maximiliano    |                       |              |
+|   cuarta    |    306 (-35)     |    Barreto, Maximiliano    |                       |              |
 |   cuarta    |     366 (=)      |     Barrientos, Norma      |        Parana         | Tiro Federal |
 |   tercera   |     542 (=)      |       Barrios, Julio       |                       |              |
 |   tercera   |     542 (=)      |       Barrios, Tomas       |                       |              |
@@ -121,7 +121,7 @@
 |   segunda   |     745 (=)      |         Diaz, Gino         | Libertador San Martin |     CRL      |
 |   tercera   |    496 (-38)     |       Diaz, Joaquin        |                       |              |
 |   primera   |     1231 (=)     |        Diel, Pablo         |                       |              |
-|   cuarta    |    279 (-25)     |       Diez, Gabriel        |                       |              |
+|   cuarta    |    282 (-22)     |       Diez, Gabriel        |                       |              |
 |   segunda   |    958 (-18)     |         Dip, Jorge         |      San Carlos       |   Atemeli    |
 |   tercera   |    575 (-23)     |     Domenicone, Bruno      |                       |              |
 |   cuarta    |     308 (=)      |        Duarte, Juan        |                       |              |
@@ -219,7 +219,7 @@
 |   segunda   |     901 (=)      |       Longhi, Mauro        |       Santa Fe        |   Atemeli    |
 |   primera   |     1165 (=)     |       Lopez, Agustin       |       Santa Fe        |   Atemeli    |
 |   segunda   |     982 (=)      |        Lopez, Pablo        |       Santa Fe        |   Atemeli    |
-|   cuarta    |     313 (+5)     |      Lucatti, Matias       |                       |              |
+|   cuarta    |     316 (+8)     |      Lucatti, Matias       |                       |              |
 |   primera   |     1069 (=)     |      Luzardo, Andres       |                       |              |
 |   cuarta    |     344 (=)      |      Luzardo, Daniel       |                       |              |
 |   cuarta    |     382 (=)      |      Luzardo, Nicolas      |                       |              |
@@ -282,7 +282,7 @@
 |   primera   |    1424 (+7)     |       Palamedi, Uma        |       Santa Fe        |   Atemeli    |
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |              |
 |   cuarta    |     364 (=)      |       Palma, Marcelo       |                       |              |
-|   cuarta    |    328 (+55)     |        Paya, Lazaro        |                       |              |
+|   cuarta    |    330 (+57)     |        Paya, Lazaro        |                       |              |
 |   cuarta    |    330 (-14)     |        Paz, Joaquin        |                       |              |
 |   segunda   |     879 (=)      |      Peduzzi, Mariano      |        Parana         | Tiro Federal |
 |   tercera   |     426 (=)      |       Pen, Mauricio        |                       |              |
@@ -343,7 +343,7 @@
 |   primera   |     1184 (=)     |       Salcedo, David       | Libertador San Martin |     CRL      |
 |   cuarta    |     252 (=)      |       Salva, Emanuel       |                       |              |
 |   cuarta    |     314 (=)      |       Salva, Manuel        |                       |              |
-|   cuarta    |    390 (+40)     |    Samaniego, Francisco    |                       |              |
+|   cuarta    |    393 (+43)     |    Samaniego, Francisco    |                       |              |
 |   tercera   |     496 (=)      |      Sancada, Maximo       |                       |              |
 |   segunda   |     963 (=)      |      Sanchez, Emanuel      |        Parana         |              |
 |   tercera   |     628 (=)      |       Sanchez, Lucas       |                       |              |
@@ -400,7 +400,7 @@
 |   tercera   |     452 (=)      |    Vigouroux, Patricio     |                       |              |
 |   tercera   |     537 (=)      |    Vigouroux, Santiago     |       San Justo       | Tiro Federal |
 |   primera   |     1143 (=)     |     Villalba, Leonardo     |       Santa Fe        |              |
-|   cuarta    |    372 (+65)     |      Visintini, Juan       |                       |              |
+|   cuarta    |    375 (+68)     |      Visintini, Juan       |                       |              |
 |   cuarta    |     308 (=)      |     Vivanco, Cristian      |                       |              |
 |   segunda   |     960 (=)      |     Welschen, Benjamin     |                       |              |
 |   segunda   |     754 (=)      |     Welschen, Nicolas      |        Parana         |   Aspatem    |
@@ -408,7 +408,7 @@
 |   segunda   |     717 (=)      |      Werner, Graciela      |        Parana         |   Aspatem    |
 |   primera   |     1095 (=)     |      Wernli, Federico      |        Parana         |   Aspatem    |
 |   cuarta    |     344 (=)      |      Yenerich, Fabio       |                       |              |
-|   segunda   |    822 (+106)    |      Zalazar, Facundo      |                       |              |
+|   segunda   |    820 (+104)    |      Zalazar, Facundo      |                       |              |
 |   tercera   |     408 (=)      |      Zancada, Maximo       |                       |              |
 |   tercera   |     651 (=)      |      Zapata, Joaquin       |                       |              |
 |   cuarta    |     356 (=)      |       Zapata, Lucas        |                       |              |

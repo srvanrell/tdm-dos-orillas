@@ -1,7 +1,7 @@
 |          Ganador           |          Perdedor          |  Diferencia  |  Puntos Ganador  |  Puntos Perdedor  |  Instancia  |  Categoría  |  Factor  |
 |:--------------------------:|:--------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
 |   Aranda, Luciano (360)    |  Allegrini, Alonso (320)   |      40      |        16        |        -16        |   16avos    |   cuarta    |    1     |
-|   Armingol, Manuel (700)   | Barreto, Maximiliano (341) |     359      |        6         |        -6         |   16avos    |   cuarta    |    1     |
+|   Armingol, Manuel (685)   | Barreto, Maximiliano (341) |     344      |        3         |        -3         |   16avos    |   cuarta    |   0.5    |
 |    Diez, Gabriel (304)     |   Toffolini, Hugo (291)    |      13      |        18        |        -18        |   16avos    |   cuarta    |    1     |
 |     Gatti, Pedro (238)     |   Ranzani, Esteban (476)   |     -238     |        63        |        -63        |   16avos    |   cuarta    |   1.5    |
 |   Lerman, Ricarlo (321)    |    Candia, Matias (176)    |     145      |        12        |        -12        |   16avos    |   cuarta    |    1     |
@@ -11,25 +11,25 @@
 |     Paya, Lazaro (273)     |  Albrecht, Ignacio (243)   |      30      |        16        |        -16        |   16avos    |   cuarta    |    1     |
 |     Rosales, Ian (619)     |    Fenes, Martin (414)     |     205      |        8         |        -8         |   16avos    |   cuarta    |    1     |
 |   Visintini, Juan (307)    |   Perez, Valentino (228)   |      79      |        14        |        -14        |   16avos    |   cuarta    |    1     |
-|   Armingol, Manuel (700)   | Samaniego, Francisco (350) |     350      |        6         |        -6         |   cuartos   |   cuarta    |    1     |
+|   Armingol, Manuel (685)   | Samaniego, Francisco (350) |     335      |        3         |        -3         |   cuartos   |   cuarta    |   0.5    |
 |   Lerman, Ricarlo (321)    | Trevignani, Alfonso (258)  |      63      |        14        |        -14        |   cuartos   |   cuarta    |    1     |
 |   Visintini, Juan (307)    |  Taffarel, Claudio (356)   |     -48      |        22        |        -22        |   cuartos   |   cuarta    |    1     |
 |   Zalazar, Facundo (716)   |   Aranda, Luciano (360)    |     355      |        6         |        -6         |   cuartos   |   cuarta    |    1     |
-|   Zalazar, Facundo (716)   |   Armingol, Manuel (700)   |      16      |        18        |        -18        |    final    |   cuarta    |    1     |
+|   Zalazar, Facundo (716)   |   Armingol, Manuel (685)   |      31      |        16        |        -16        |    final    |   cuarta    |    1     |
 |   Aranda, Luciano (360)    |  Retamal, Santiago (365)   |      -5      |        18        |        -18        |   octavos   |   cuarta    |    1     |
-|   Armingol, Manuel (700)   |     Rosales, Ian (619)     |      81      |        14        |        -14        |   octavos   |   cuarta    |    1     |
+|   Armingol, Manuel (685)   |     Rosales, Ian (619)     |      66      |        14        |        -14        |   octavos   |   cuarta    |    1     |
 |   Lerman, Ricarlo (321)    |     Gatti, Pedro (238)     |      83      |        14        |        -14        |   octavos   |   cuarta    |    1     |
 | Samaniego, Francisco (350) |    Diez, Gabriel (304)     |      46      |        16        |        -16        |   octavos   |   cuarta    |    1     |
 |  Taffarel, Claudio (356)   |    Locateli, Juan (371)    |     -15      |        18        |        -18        |   octavos   |   cuarta    |    1     |
 | Trevignani, Alfonso (258)  |    Melero, Martin (277)    |     -18      |        18        |        -18        |   octavos   |   cuarta    |    1     |
 |   Visintini, Juan (307)    |     Paya, Lazaro (273)     |      34      |        16        |        -16        |   octavos   |   cuarta    |    1     |
 |   Zalazar, Facundo (716)   |   Lucatti, Matias (308)    |     408      |        4         |        -4         |   octavos   |   cuarta    |    1     |
-|   Armingol, Manuel (700)   |   Visintini, Juan (307)    |     392      |        6         |        -6         |  semifinal  |   cuarta    |    1     |
+|   Armingol, Manuel (685)   |   Visintini, Juan (307)    |     377      |        3         |        -3         |  semifinal  |   cuarta    |   0.5    |
 |   Zalazar, Facundo (716)   |   Lerman, Ricarlo (321)    |     394      |        6         |        -6         |  semifinal  |   cuarta    |    1     |
 |  Albrecht, Ignacio (243)   |   Lerman, Ricarlo (321)    |     -78      |        26        |        -26        |    zona     |   cuarta    |    1     |
 |   Aranda, Luciano (360)    |     Gatti, Pedro (238)     |     122      |        12        |        -12        |    zona     |   cuarta    |    1     |
-|   Armingol, Manuel (700)   |   Bregant, Osvaldo (198)   |     502      |        2         |        -2         |    zona     |   cuarta    |    1     |
-|   Armingol, Manuel (700)   |   Lucatti, Matias (308)    |     392      |        6         |        -6         |    zona     |   cuarta    |    1     |
+|   Armingol, Manuel (685)   |   Bregant, Osvaldo (198)   |     487      |        2         |        -2         |    zona     |   cuarta    |   0.5    |
+|   Armingol, Manuel (685)   |   Lucatti, Matias (308)    |     377      |        3         |        -3         |    zona     |   cuarta    |   0.5    |
 |    Diez, Gabriel (304)     |   Perez, Valentino (228)   |      76      |        14        |        -14        |    zona     |   cuarta    |    1     |
 |     Hepp, Gernan (307)     |  Albrecht, Ignacio (243)   |      64      |        14        |        -14        |    zona     |   cuarta    |    1     |
 |   Lerman, Ricarlo (321)    |     Hepp, Gernan (307)     |      14      |        18        |        -18        |    zona     |   cuarta    |    1     |
@@ -148,10 +148,10 @@
 |   Zalazar, Facundo (716)   |    Candia, Matias (176)    |     540      |        2         |        -2         |   16avos    |   tercera   |    1     |
 |   Oliveras, Nahuel (466)   |    Diaz, Joaquin (534)     |     -68      |        26        |        -26        |   cuartos   |   tercera   |    1     |
 |     Rosales, Ian (619)     |    Avila, Marcos (418)     |     201      |        8         |        -8         |   cuartos   |   tercera   |    1     |
-|  Vigouroux, Manuel (686)   |   Armingol, Manuel (700)   |     -14      |        18        |        -18        |   cuartos   |   tercera   |    1     |
+|  Vigouroux, Manuel (686)   |   Armingol, Manuel (685)   |      1       |        18        |        -18        |   cuartos   |   tercera   |    1     |
 |   Zalazar, Facundo (716)   |  Oliveras, Leonardo (628)  |      88      |        14        |        -14        |   cuartos   |   tercera   |    1     |
 |   Zalazar, Facundo (716)   |  Vigouroux, Manuel (686)   |      30      |        16        |        -16        |    final    |   tercera   |    1     |
-|   Armingol, Manuel (700)   |     Paya, Lazaro (273)     |     427      |        4         |        -4         |   octavos   |   tercera   |    1     |
+|   Armingol, Manuel (685)   |     Paya, Lazaro (273)     |     412      |        2         |        -2         |   octavos   |   tercera   |   0.5    |
 |    Avila, Marcos (418)     |    Perren, Miguel (400)    |      17      |        18        |        -18        |   octavos   |   tercera   |    1     |
 |    Diaz, Joaquin (534)     |   Visintini, Juan (307)    |     226      |        4         |        -4         |   octavos   |   tercera   |   0.5    |
 |  Oliveras, Leonardo (628)  |  Domenicone, Bruno (598)   |      30      |        16        |        -16        |   octavos   |   tercera   |    1     |
@@ -163,8 +163,8 @@
 |   Zalazar, Facundo (716)   |     Rosales, Ian (619)     |      97      |        14        |        -14        |  semifinal  |   tercera   |    1     |
 |  Albrecht, Ignacio (243)   |   Carli, Valentin (213)    |      30      |        16        |        -16        |    zona     |   tercera   |    1     |
 |   Aranda, Luciano (360)    |   Lerman, Ricarlo (321)    |      38      |        16        |        -16        |    zona     |   tercera   |    1     |
-|   Armingol, Manuel (700)   |    Diez, Gabriel (304)     |     396      |        6         |        -6         |    zona     |   tercera   |    1     |
-|   Armingol, Manuel (700)   |  Trevignani, Lucas (429)   |     271      |        8         |        -8         |    zona     |   tercera   |    1     |
+|   Armingol, Manuel (685)   |    Diez, Gabriel (304)     |     381      |        3         |        -3         |    zona     |   tercera   |   0.5    |
+|   Armingol, Manuel (685)   |  Trevignani, Lucas (429)   |     256      |        8         |        -8         |    zona     |   tercera   |    1     |
 |    Avila, Marcos (418)     |    Fenes, Martin (414)     |      4       |        18        |        -18        |    zona     |   tercera   |    1     |
 |    Avila, Marcos (418)     |     Paz, Joaquin (343)     |      74      |        14        |        -14        |    zona     |   tercera   |    1     |
 |   Carli, Valentin (213)    |   Perez, Valentino (228)   |     -15      |        18        |        -18        |    zona     |   tercera   |    1     |

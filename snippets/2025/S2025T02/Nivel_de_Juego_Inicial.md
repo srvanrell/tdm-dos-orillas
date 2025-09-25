@@ -215,7 +215,6 @@
 |      706.5       |       Matio, Hernan        |                       |              |
 |       706        |       Muller, Lucas        |                       |              |
 |       702        |      Aguirre, Gabriel      |        Parana         |   Aspatem    |
-|       700        |      Armingol, Manuel      |                       |              |
 |       699        |     Pallotti, Fabrizio     |                       |              |
 |       697        |        Zavala, Jose        |                       |              |
 |       694        |   Beneventano, Romanela    | Libertador San Martin |              |
@@ -223,6 +222,7 @@
 |       693        |      Michea, Ignacio       |                       |              |
 |       693        |    Podversich, Gabriel     |                       |              |
 |       691        |     Atkinson, Santiago     |                       |              |
+|       685        |      Armingol, Manuel      |                       |              |
 |       685        |       Rolando, Ariel       |                       |              |
 |       685        |       Vetrano, Luca        |                       |              |
 |       684        |     Alvarez, Sebastian     |       Santa Fe        |   Atemeli    |
