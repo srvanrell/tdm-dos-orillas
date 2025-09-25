@@ -38,7 +38,7 @@
 |   segunda   |    887 (+36)     |   Barchiesi, Matias   |            |              |
 |   segunda   |    850 (+40)     |   Velazquez, Irupe    |  Santa Fe  |   Atemeli    |
 |   segunda   |    823 (+18)     |   Corbalan, Martin    |            |              |
-|   segunda   |    820 (+104)    |   Zalazar, Facundo    |            |              |
+|   segunda   |    822 (+106)    |   Zalazar, Facundo    |            |              |
 |   segunda   |    815 (-116)    |   Escudero, Martin    |  Santa Fe  |   Atemeli    |
 |   segunda   |    797 (-20)     |    Rojas, Giuliana    |            |              |
 |   segunda   |     788 (=)      |    Budino, Mijail     |            |              |
@@ -50,8 +50,8 @@
 |   segunda   |     727 (=)      |    Costanza, Roque    |            |              |
 |   segunda   |     719 (=)      |  Dalinger, Humberto   |   Parana   | Tiro Federal |
 |   segunda   |    714 (-84)     |   Vigouroux, Jorge    | San Justo  | Tiro Federal |
+|   segunda   |     700 (+5)     |   Armingol, Manuel    |            |              |
 |             |                  |                       |            |              |
-|   tercera   |     692 (+7)     |   Armingol, Manuel    |            |              |
 |   tercera   |    687 (-29)     |    Savino, Leandro    |  Santa Fe  |   Atemeli    |
 |   tercera   |     672 (=)      |      Levin, Raul      |   Parana   |              |
 |   tercera   |    646 (+27)     |     Rosales, Ian      |            |              |

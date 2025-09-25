@@ -217,12 +217,12 @@
 |       702        |      Aguirre, Gabriel      |        Parana         |   Aspatem    |
 |       699        |     Pallotti, Fabrizio     |                       |              |
 |       697        |        Zavala, Jose        |                       |              |
+|       695        |      Armingol, Manuel      |                       |              |
 |       694        |   Beneventano, Romanela    | Libertador San Martin |              |
 |       693        |            Jose            | Libertador San Martin |     CRL      |
 |       693        |      Michea, Ignacio       |                       |              |
 |       693        |    Podversich, Gabriel     |                       |              |
 |       691        |     Atkinson, Santiago     |                       |              |
-|       685        |      Armingol, Manuel      |                       |              |
 |       685        |       Rolando, Ariel       |                       |              |
 |       685        |       Vetrano, Luca        |                       |              |
 |       684        |     Alvarez, Sebastian     |       Santa Fe        |   Atemeli    |

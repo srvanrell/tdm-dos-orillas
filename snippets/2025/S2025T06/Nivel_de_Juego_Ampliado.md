@@ -29,7 +29,7 @@
 |   tercera   |     480 (=)      |       Antunez, Pablo       |                       |              |
 |   segunda   |     1008 (=)     |       Apaza, Catriel       | Libertador San Martin |     CRL      |
 |   cuarta    |    399 (+39)     |      Aranda, Luciano       |                       |              |
-|   tercera   |     692 (+7)     |      Armingol, Manuel      |                       |              |
+|   segunda   |     700 (+5)     |      Armingol, Manuel      |                       |              |
 |   segunda   |     1013 (=)     |     Arrieta, Guillermo     | Libertador San Martin |     CRL      |
 |   tercera   |     680 (=)      |      Arrieta, Matias       | Libertador San Martin |     CRL      |
 |   segunda   |     1000 (=)     |    Arrieta, Maximiliano    | Libertador San Martin |     CRL      |
@@ -408,7 +408,7 @@
 |   segunda   |     717 (=)      |      Werner, Graciela      |        Parana         |   Aspatem    |
 |   primera   |     1095 (=)     |      Wernli, Federico      |        Parana         |   Aspatem    |
 |   cuarta    |     344 (=)      |      Yenerich, Fabio       |                       |              |
-|   segunda   |    820 (+104)    |      Zalazar, Facundo      |                       |              |
+|   segunda   |    822 (+106)    |      Zalazar, Facundo      |                       |              |
 |   tercera   |     408 (=)      |      Zancada, Maximo       |                       |              |
 |   tercera   |     651 (=)      |      Zapata, Joaquin       |                       |              |
 |   cuarta    |     356 (=)      |       Zapata, Lucas        |                       |              |
