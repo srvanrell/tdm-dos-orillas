@@ -1,6 +1,8 @@
 seasons:
 -   name: 2025
     tournaments:
+    -   id: S2025T08
+        name: Torneo 08
     -   id: S2025T07
         name: Torneo 07
     -   id: S2025T06

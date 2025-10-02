@@ -384,6 +384,7 @@
 |       291        |      Toffolini, Hugo       |                       |              |
 |      288.5       |   Marchitelli, Ezequiel    |                       |              |
 |      286.25      |       Corradi, Zulma       |                       |              |
+|      286.25      |       Palamedi, Alma       |                       |              |
 |       286        |       Candia, Matias       |                       |              |
 |       285        |    Bernhardt, Sebastian    |                       |              |
 |       285        |     Lanzotti, Lautaro      |                       |              |
@@ -415,3 +416,6 @@
 |       207        |   Kotlireusky, Benjamin    |                       |              |
 |       196        |      Fernandez, Belen      |                       |              |
 |       183        |       Portillo, Ana        |                       |              |
+|      177.5       |      Del Turco, Tadeo      |                       |              |
+|      111.25      |        Lobino, Hugo        |                       |              |
+|        45        |      Acuna, Patricio       |                       |              |

@@ -1,6 +1,7 @@
 |  Categoría  |  Nivel de Juego  |          Jugador           |        Ciudad         |  Afiliación  |
 |:-----------:|:----------------:|:--------------------------:|:---------------------:|:------------:|
 |   tercera   |     652 (=)      |       Acosta, Gaston       |                       |              |
+|   cuarta    |      45 (=)      |      Acuna, Patricio       |                       |              |
 |   segunda   |     736 (=)      |      Acuna, Santiago       |                       |              |
 |   segunda   |     951 (=)      |        Aguer, Jose         |        Parana         |   Aspatem    |
 |   segunda   |     702 (=)      |      Aguirre, Gabriel      |        Parana         |   Aspatem    |
@@ -113,6 +114,7 @@
 |   segunda   |     1157 (=)     |     Da Costa, Federico     |                       |              |
 |   tercera   |     683 (=)      |     Dalinger, Humberto     |        Parana         | Tiro Federal |
 |   segunda   |     962 (=)      |    De Maria, Guillermo     |        Parana         |   Aspatem    |
+|   cuarta    |     178 (=)      |      Del Turco, Tadeo      |                       |              |
 |   primera   |     2025 (=)     |      Delfabro, Franco      |       Santa Fe        |   Atemeli    |
 |   tercera   |     680 (=)      |       Delgado, Pablo       | Libertador San Martin |              |
 |   segunda   |     850 (=)      |      Depaoli, Luciano      |       Santa Fe        |   Atemeli    |
@@ -214,6 +216,7 @@
 |   cuarta    |     322 (=)      |      Lerman, Ricarlo       |                       |              |
 |   segunda   |    741 (+20)     |        Levin, Raul         |        Parana         |              |
 |   segunda   |     1229 (=)     |       Lezana, Diego        | Libertador San Martin |     CRL      |
+|   cuarta    |     111 (=)      |        Lobino, Hugo        |                       |              |
 |   tercera   |     502 (=)      |       Locateli, Juan       |                       |              |
 |   primera   |     1820 (=)     |     Lofeudo, Juan Jose     |       Santa Fe        |   Atemeli    |
 |   segunda   |     901 (=)      |       Longhi, Mauro        |       Santa Fe        |   Atemeli    |
@@ -278,6 +281,7 @@
 |   tercera   |     406 (=)      |       Orzan, Joaquin       |                       |              |
 |   tercera   |     443 (=)      |      Orzan, Valentin       |                       |              |
 |   segunda   |     1298 (=)     |      Palacios, Arturo      |      Corrientes       |     FCTM     |
+|   cuarta    |     286 (=)      |       Palamedi, Alma       |                       |              |
 |   segunda   |     1059 (=)     |     Palamedi, Cristian     |       Santa Fe        |   Atemeli    |
 |   primera   |     1384 (=)     |       Palamedi, Uma        |       Santa Fe        |   Atemeli    |
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |              |
