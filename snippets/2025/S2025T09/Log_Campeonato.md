@@ -7,9 +7,8 @@
 |  Bregant, Osvaldo  |   cuarta    |    cuartos    |           25           |
 |   Candia, Matias   |   cuarta    |    cuartos    |           25           |
 |   Diez, Gabriel    |   cuarta    |    cuartos    |           25           |
-|   Palamedi, Uma    |   cuarta    |    cuartos    |           25           |
+|   Palamedi, Alma   |   cuarta    |    cuartos    |           25           |
 |   Salva, Emanuel   |   cuarta    |    octavos    |           15           |
-|   Palamedi, Alma   |   cuarta    |     zona      |           10           |
 |  Toffolini, Hugo   |   cuarta    |     zona      |           10           |
 |                    |             |               |                        |
 | Lofeudo, Juan Jose |   primera   |    primero    |          1000          |

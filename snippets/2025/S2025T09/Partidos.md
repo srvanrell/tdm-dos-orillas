@@ -3,7 +3,7 @@
 |  Bregant, Osvaldo  |  Hanrri, Facundo   |    0     |    3     |   cuartos   |   cuarta    |
 |   Candia, Matias   |  Zelayeta, Carlos  |    0     |    3     |   cuartos   |   cuarta    |
 |   Diez, Gabriel    |    Gatti, Pedro    |    0     |    3     |   cuartos   |   cuarta    |
-|  Perez, Valentino  |   Palamedi, Uma    |    3     |    0     |   cuartos   |   cuarta    |
+|  Perez, Valentino  |   Palamedi, Alma   |    3     |    0     |   cuartos   |   cuarta    |
 |  Zelayeta, Carlos  |  Hanrri, Facundo   |    0     |    3     |    final    |   cuarta    |
 |   Salva, Emanuel   |  Bregant, Osvaldo  |    0     |    3     |   octavos   |   cuarta    |
 |    Gatti, Pedro    |  Hanrri, Facundo   |    0     |    3     |  semifinal  |   cuarta    |
@@ -49,7 +49,7 @@
 |  Fontana, Fausto   | Velazquez, Marcelo |    0     |    3     |    zona     |   primera   |
 | Lofeudo, Juan Jose | Allegrini, Tiziano |    3     |    0     |    zona     |   primera   |
 |  Micocci, Matias   | Allegrini, Tiziano |    2     |    3     |    zona     |   primera   |
-|  Micocci, Matias   | Lofeudo, Juan Jose |    3     |    0     |    zona     |   primera   |
+|  Micocci, Matias   | Lofeudo, Juan Jose |    0     |    3     |    zona     |   primera   |
 |   Nohara, Andres   | Bernhardt, Leandro |    3     |    2     |    zona     |   primera   |
 | Oliveras, Leonardo |  Fontana, Fausto   |    1     |    3     |    zona     |   primera   |
 | Oliveras, Leonardo | Velazquez, Marcelo |    0     |    3     |    zona     |   primera   |

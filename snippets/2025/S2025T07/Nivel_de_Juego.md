@@ -1,13 +1,13 @@
 |  Categoría  |  Nivel de Juego  |        Jugador        |        Ciudad         |  Afiliación  |
 |:-----------:|:----------------:|:---------------------:|:---------------------:|:------------:|
-|   primera   |     2060 (=)     |     Perot, David      |       Santa Fe        |   Atemeli    |
+|   primera   |     2060 (=)     |     Perot, David      |       Santa Fe        |   AteMeLi    |
 |   primera   |     1896 (=)     |     Asmu, Agustin     |        Parana         |   Aspatem    |
-|   primera   |    1868 (+21)    |  Lofeudo, Juan Jose   |       Santa Fe        |   Atemeli    |
-|   primera   |     1610 (=)     |   Blanco, Francisco   |       Santa Fe        |   Atemeli    |
-|   primera   |     1599 (=)     |   Perot, Alejandro    |       Santa Fe        |   Atemeli    |
+|   primera   |    1868 (+21)    |  Lofeudo, Juan Jose   |       Santa Fe        |   AteMeLi    |
+|   primera   |     1610 (=)     |   Blanco, Francisco   |       Santa Fe        |   AteMeLi    |
+|   primera   |     1599 (=)     |   Perot, Alejandro    |       Santa Fe        |   AteMeLi    |
 |   primera   |    1573 (+5)     |    Reichel, Hernan    | Libertador San Martin |     CRL      |
-|   primera   |     1555 (=)     |    Blanco, Daniel     |       Santa Fe        |   Atemeli    |
-|   primera   |    1454 (+30)    |     Palamedi, Uma     |       Santa Fe        |   Atemeli    |
+|   primera   |     1555 (=)     |    Blanco, Daniel     |       Santa Fe        |   AteMeLi    |
+|   primera   |    1454 (+30)    |     Palamedi, Uma     |       Santa Fe        |   AteMeLi    |
 |   primera   |     1448 (=)     |    Tornau, Nicolas    |                       |              |
 |   primera   |     1388 (=)     |    Mustillo, Juan     |                       |              |
 |   primera   |   1368 (-120)    |    Nowotny, Martin    | Libertador San Martin |              |
@@ -15,61 +15,61 @@
 |   primera   |     1212 (=)     |    Fontana, Fausto    |        Parana         |   Aspatem    |
 |   primera   |    1159 (-91)    |    Aguirre, German    |        Parana         |   Aspatem    |
 |   primera   |   1154 (+256)    |  Bernhardt, Leandro   |                       |              |
-|   primera   |    1144 (-74)    |   Grippo, Francisco   |                       |              |
+|   primera   |    1144 (-74)    |   Grippo, Francisco   |        Parana         |   Aspatem    |
 |   primera   |    1141 (-88)    |  Velazquez, Marcelo   |       Santa Fe        |   AteMeLi    |
-|   primera   |    1132 (+88)    |   Gatti, Sebastian    |        Parana         |              |
-|   primera   |    1131 (+12)    |    Nohara, Andres     |        Parana         |              |
+|   primera   |    1132 (+88)    |   Gatti, Sebastian    |        Parana         |   Aspatem    |
+|   primera   |    1131 (+12)    |    Nohara, Andres     |        Parana         |   Aspatem    |
 |   primera   |     1103 (=)     |    Boetti, Genaro     |                       |              |
 |   primera   |    1088 (-2)     |    Sartor, Lautaro    |      Avellaneda       |              |
-|   primera   |     1079 (=)     |  Palamedi, Cristian   |       Santa Fe        |   Atemeli    |
+|   primera   |     1079 (=)     |  Palamedi, Cristian   |       Santa Fe        |   AteMeLi    |
 |   primera   |     1069 (=)     |    Luzardo, Andres    |                       |              |
-|   primera   |     1068 (=)     |    Mendez, Carlos     |       Santa Fe        |   Atemeli    |
-|   primera   |    1060 (-14)    |  Allegrini, Tiziano   |                       |              |
+|   primera   |     1068 (=)     |    Mendez, Carlos     |       Santa Fe        |   AteMeLi    |
+|   primera   |    1060 (-14)    |  Allegrini, Tiziano   |        Parana         |   Aspatem    |
 |   primera   |     1054 (=)     |    Gonzalez, Oscar    |                       |              |
 |   primera   |     1053 (=)     |   Girolami, Sergio    |                       |              |
 |             |                  |                       |                       |              |
 |   segunda   |     1041 (=)     |      Gomez, Luis      |                       |              |
-|   segunda   |     1017 (=)     |    Micocci, Matias    |                       |              |
+|   segunda   |     1017 (=)     |    Micocci, Matias    |       Santa Fe        |   AteMeLi    |
 |   segunda   |     1008 (=)     |      Soto, Luis       |        Parana         | Tiro Federal |
-|   segunda   |     983 (=)      |    Albano, Javier     |       Santa Fe        |   Atemeli    |
-|   segunda   |     958 (=)      |      Dip, Jorge       |      San Carlos       |   Atemeli    |
+|   segunda   |     983 (=)      |    Albano, Javier     |       Santa Fe        |   AteMeLi    |
+|   segunda   |     958 (=)      |      Dip, Jorge       |  San Jeronimo Norte   | Libertad SJN |
 |   segunda   |     924 (=)      |    Bonelli, Marcos    |        Parana         |   Aspatem    |
 |   segunda   |     903 (=)      |    Escobar, Gadiel    |                       |              |
-|   segunda   |    893 (+43)     |   Velazquez, Irupe    |       Santa Fe        |   Atemeli    |
+|   segunda   |    893 (+43)     |   Velazquez, Irupe    |       Santa Fe        |   AteMeLi    |
 |   segunda   |     887 (=)      |   Barchiesi, Matias   |                       |              |
-|   segunda   |    870 (-50)     |   Ferretti, Gustavo   |       Santa Fe        |   Atemeli    |
-|   segunda   |    845 (+30)     |   Escudero, Martin    |       Santa Fe        |   Atemeli    |
+|   segunda   |    870 (-50)     |   Ferretti, Gustavo   |       Santa Fe        |   AteMeLi    |
+|   segunda   |    845 (+30)     |   Escudero, Martin    |       Santa Fe        |   AteMeLi    |
 |   segunda   |    844 (-47)     |     Banfi, Franco     |        Parana         |   Aspatem    |
-|   segunda   |    827 (+69)     |     Rubio, Julian     |                       |              |
+|   segunda   |    827 (+69)     |     Rubio, Julian     |       Santa Fe        |   AteMeLi    |
 |   segunda   |     822 (=)      |   Zalazar, Facundo    |                       |              |
 |   segunda   |    818 (+22)     | Ramos Muzio, Gonzalo  |        Parana         |   Aspatem    |
 |   segunda   |    803 (+10)     |   Gandolfo, Carlos    |        Parana         | Tiro Federal |
 |   segunda   |     797 (=)      |    Rojas, Giuliana    |                       |              |
 |   segunda   |     788 (=)      |    Budino, Mijail     |                       |              |
-|   segunda   |    775 (-48)     |   Corbalan, Martin    |                       |              |
+|   segunda   |    775 (-48)     |   Corbalan, Martin    |        Parana         |   Aspatem    |
 |   segunda   |     763 (=)      |    Rolando, Ariel     |                       |              |
 |   segunda   |    747 (+28)     |  Dalinger, Humberto   |        Parana         | Tiro Federal |
-|   segunda   |    740 (-38)     |     Prettis, Juan     |                       |              |
-|   segunda   |     739 (=)      |     Pilotti, Paz      |                       |              |
+|   segunda   |    740 (-38)     |     Prettis, Juan     |        Parana         |   Aspatem    |
+|   segunda   |     739 (=)      |     Pilotti, Paz      |       Santa Fe        |   AteMeLi    |
 |   segunda   |     737 (=)      |   Vigouroux, Manuel   |       San Justo       | Tiro Federal |
 |   segunda   |     714 (=)      |   Vigouroux, Jorge    |       San Justo       | Tiro Federal |
 |   segunda   |     700 (=)      |   Armingol, Manuel    |                       |              |
 |             |                  |                       |                       |              |
-|   tercera   |    689 (-38)     |    Costanza, Roque    |                       |              |
-|   tercera   |     687 (=)      |    Savino, Leandro    |       Santa Fe        |   Atemeli    |
-|   tercera   |     672 (=)      |      Levin, Raul      |        Parana         |              |
+|   tercera   |    689 (-38)     |    Costanza, Roque    |       Santa Fe        |   AteMeLi    |
+|   tercera   |     687 (=)      |    Savino, Leandro    |       Santa Fe        |   AteMeLi    |
+|   tercera   |     672 (=)      |      Levin, Raul      |        Parana         |   Aspatem    |
 |   tercera   |     646 (=)      |     Rosales, Ian      |                       |              |
-|   tercera   |     638 (=)      |     Almada, Pablo     |                       |              |
-|   tercera   |     636 (=)      |  Oliveras, Leonardo   |                       |              |
+|   tercera   |     638 (=)      |     Almada, Pablo     |        Parana         |   Aspatem    |
+|   tercera   |     636 (=)      |  Oliveras, Leonardo   |       Santa Fe        |   AteMeLi    |
 |   tercera   |     624 (=)      |    Rojas, Priscila    |                       |              |
-|   tercera   |     612 (=)      |    Suarez, Milton     |       Santa Fe        |              |
-|   tercera   |     575 (=)      |   Domenicone, Bruno   |                       |              |
+|   tercera   |     612 (=)      |    Suarez, Milton     |       Santa Fe        |   AteMeLi    |
+|   tercera   |     575 (=)      |   Domenicone, Bruno   |       Santa Fe        |   AteMeLi    |
 |   tercera   |     551 (=)      |     Avila, Marcos     |                       |              |
-|   tercera   |     533 (=)      |   Colavini, Daniel    |      Santo Tome       |   Atemeli    |
+|   tercera   |     533 (=)      |   Colavini, Daniel    |      Santo Tome       |   AteMeLi    |
 |   tercera   |     522 (=)      |    Bulacios, Juan     |                       |              |
-|   tercera   |     522 (=)      |   Oliveras, Nahuel    |                       |              |
+|   tercera   |     522 (=)      |   Oliveras, Nahuel    |       Santa Fe        |   AteMeLi    |
 |   tercera   |    497 (+121)    |   Taffarel, Claudio   |                       |              |
-|   tercera   |     496 (=)      |     Diaz, Joaquin     |                       |              |
+|   tercera   |     496 (=)      |     Diaz, Joaquin     |        Parana         |   Aspatem    |
 |   tercera   |    495 (+102)    | Samaniego, Francisco  |                       |              |
 |   tercera   |     492 (=)      |    Grippo, Agustin    |                       |              |
 |   tercera   |    490 (-91)     |      Rosa, Pablo      |                       |              |
@@ -81,10 +81,10 @@
 |   tercera   |    440 (+48)     |   Retamal, Santiago   |                       |              |
 |   tercera   |     439 (=)      |     Bordi, Mario      |                       |              |
 |   tercera   |     432 (=)      |    Rodelli, Tiago     |                       |              |
-|   tercera   |     429 (=)      |   Trevignani, Lucas   |                       |              |
+|   tercera   |     429 (=)      |   Trevignani, Lucas   |       Santa Fe        |   AteMeLi    |
 |   tercera   |     424 (=)      |     Picech, Gino      |                       |              |
 |   tercera   |     422 (=)      |   Pettinatti, Cesar   |                       |              |
-|   tercera   |    416 (+118)    |  Trevignani, Alfonso  |                       |              |
+|   tercera   |    416 (+118)    |  Trevignani, Alfonso  |       Santa Fe        |   AteMeLi    |
 |   tercera   |    412 (+22)     |    Lerman, Ricarlo    |                       |              |
 |   tercera   |    411 (+90)     | Bernhardt, Sebastian  |                       |              |
 |             |                  |                       |                       |              |
@@ -98,19 +98,19 @@
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                       |              |
 |   cuarta    |    359 (+15)     |    Yenerich, Fabio    |                       |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                       |              |
-|   cuarta    |    350 (+13)     |    Hanrri, Facundo    |                       |              |
+|   cuarta    |    350 (+13)     |    Hanrri, Facundo    |        Parana         |   Aspatem    |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |                       |              |
 |   cuarta    |     341 (=)      |   Orcellet, Rodrigo   |                       |              |
 |   cuarta    |     335 (=)      |   Mardon, Emiliano    |                       |              |
 |   cuarta    |     332 (=)      |   Quinones, German    |                       |              |
 |   cuarta    |     330 (=)      |     Paya, Lazaro      |                       |              |
 |   cuarta    |     330 (=)      |     Paz, Joaquin      |                       |              |
-|   cuarta    |    316 (-42)     |    Perren, Miguel     |                       |              |
+|   cuarta    |    316 (-42)     |    Perren, Miguel     |  San Jeronimo Norte   | Libertad SJN |
 |   cuarta    |     316 (=)      |    Lucatti, Matias    |                       |              |
 |   cuarta    |    312 (+40)     |  Calabrese, Alfredo   |                       |              |
 |   cuarta    |    310 (-34)     |   Ranzani, Esteban    |                       |              |
 |   cuarta    |     306 (=)      | Barreto, Maximiliano  |                       |              |
-|   cuarta    |    305 (+82)     |   Albrecht, Ignacio   |                       |              |
+|   cuarta    |    305 (+82)     |   Albrecht, Ignacio   |  San Jeronimo Norte   | Libertad SJN |
 |   cuarta    |     302 (=)      | Marchitelli, Ezequiel |                       |              |
 |   cuarta    |     301 (=)      |    Schiavi, Bruno     |                       |              |
 |   cuarta    |     300 (=)      |    Silva, Santiago    |                       |              |
@@ -122,17 +122,17 @@
 |   cuarta    |     281 (-2)     |   Allegrini, Alonso   |                       |              |
 |   cuarta    |    280 (-30)     |     Lell, Claudia     |        Parana         | Tiro Federal |
 |   cuarta    |    271 (-10)     |  Allignani, Tiziano   |                       |              |
-|   cuarta    |     259 (=)      |    Melero, Martin     |                       |              |
+|   cuarta    |     259 (=)      |    Melero, Martin     |       Santa Fe        |   AteMeLi    |
 |   cuarta    |     252 (=)      |    Salva, Emanuel     |                       |              |
-|   cuarta    |    246 (-26)     |     Gatti, Pedro      |                       |              |
+|   cuarta    |    246 (-26)     |     Gatti, Pedro      |        Parana         |   Aspatem    |
 |   cuarta    |     241 (=)      |   Lanzotti, Lautaro   |                       |              |
 |   cuarta    |     240 (=)      |    Corradi, Zulma     |                       |              |
 |   cuarta    |     235 (=)      |    Carli, Valentin    |                       |              |
 |   cuarta    |     232 (+6)     |   Zelayeta, Carlos    |                       |              |
 |   cuarta    |    232 (-36)     |  Bernhardt, Gabriel   |                       |              |
-|   cuarta    |     228 (=)      |    Rubio, Julian2     |                       |              |
+|   cuarta    |     228 (=)      |    Rubio, Julian2     |       Santa Fe        |   AteMeLi    |
 |   cuarta    |    225 (-48)     |    Toffolini, Hugo    |                       |              |
-|   cuarta    |    223 (-126)    |     Portillo, Ana     |                       |              |
+|   cuarta    |    223 (-126)    |     Portillo, Ana     |        Parana         |   Aspatem    |
 |   cuarta    |     215 (=)      |    Diaz, Claudino     |                       |              |
 |   cuarta    |     210 (=)      |    Rodriguez, Dora    |                       |              |
 |   cuarta    |    208 (-44)     |     Gaete, Tiago      |                       |              |

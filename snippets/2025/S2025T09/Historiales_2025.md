@@ -499,7 +499,7 @@
 |                       |   cuarta    |    octavos    | S2025T05 |
 |    Palamedi, Alma     |             |               |          |
 |                       |   cuarta    |    octavos    | S2025T08 |
-|                       |             |     zona      | S2025T09 |
+|                       |             |    cuartos    | S2025T09 |
 |  Palamedi, Cristian   |             |               |          |
 |                       |   segunda   |    octavos    | S2025T02 |
 |                       |             |    cuartos    | S2025T03 |
@@ -518,7 +518,6 @@
 |                       |             |   semifinal   | S2025T07 |
 |                       |             |    segundo    | S2025T08 |
 |                       |             |    octavos    | S2025T09 |
-|                       |   cuarta    |    cuartos    | S2025T09 |
 |    Palma, Marcelo     |             |               |          |
 |                       |   tercera   |    16avos     | S2025T03 |
 |                       |   primera   |     zona      | S2025T03 |

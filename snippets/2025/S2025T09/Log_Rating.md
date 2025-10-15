@@ -2,7 +2,7 @@
 |:-------------------------:|:-------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
 |    Gatti, Pedro (246)     |    Diez, Gabriel (284)    |     -38      |        22        |        -22        |   cuartos   |   cuarta    |    1     |
 |   Hanrri, Facundo (349)   |  Bregant, Osvaldo (236)   |     113      |        12        |        -12        |   cuartos   |   cuarta    |    1     |
-|  Perez, Valentino (394)   |   Palamedi, Uma (1488)    |    -1094     |       120        |       -120        |   cuartos   |   cuarta    |   1.5    |
+|  Perez, Valentino (394)   |   Palamedi, Alma (251)    |     142      |        12        |        -12        |   cuartos   |   cuarta    |    1     |
 |  Zelayeta, Carlos (232)   |    Candia, Matias (49)    |     183      |        10        |        -10        |   cuartos   |   cuarta    |    1     |
 |   Hanrri, Facundo (349)   |  Zelayeta, Carlos (232)   |     117      |        12        |        -12        |    final    |   cuarta    |    1     |
 |  Bregant, Osvaldo (236)   |   Salva, Emanuel (252)    |     -16      |        18        |        -18        |   octavos   |   cuarta    |    1     |
@@ -50,7 +50,7 @@
 |  Gatti, Sebastian (1132)  |   Palamedi, Uma (1488)    |     -356     |        48        |        -48        |    zona     |   primera   |    1     |
 | Grippo, Francisco (1144)  |  Velazquez, Irupe (893)   |     251      |        4         |        -4         |    zona     |   primera   |   0.5    |
 | Lofeudo, Juan Jose (1878) | Allegrini, Tiziano (993)  |     885      |        1         |        -1         |    zona     |   primera   |   0.5    |
-|  Micocci, Matias (1017)   | Lofeudo, Juan Jose (1878) |     -861     |        96        |        -96        |    zona     |   primera   |   1.5    |
+| Lofeudo, Juan Jose (1878) |  Micocci, Matias (1017)   |     861      |        1         |        -1         |    zona     |   primera   |   0.5    |
 |   Nohara, Andres (1155)   | Bernhardt, Leandro (1154) |      1       |        18        |        -18        |    zona     |   primera   |    1     |
 |   Nohara, Andres (1155)   |    Rubio, Julian (827)    |     328      |        3         |        -3         |    zona     |   primera   |   0.5    |
 |   Palamedi, Uma (1488)    |  Ferretti, Gustavo (883)  |     605      |        1         |        -1         |    zona     |   primera   |   0.5    |
