@@ -32,8 +32,6 @@
 |                         |             |    cuartos    | S2025T10 |
 |    Albrecht, Ramiro     |             |               |          |
 |                         |   cuarta    |    octavos    | S2025T10 |
-|    Alignani, Tiziano    |             |               |          |
-|                         |   cuarta    |    16avos     | S2025T10 |
 |    Allegrini, Alonso    |             |               |          |
 |                         |   cuarta    |    16avos     | S2025T06 |
 |                         |             |    octavos    | S2025T07 |

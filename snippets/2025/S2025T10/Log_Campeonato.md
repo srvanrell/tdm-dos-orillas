@@ -16,7 +16,6 @@
 |      Diez, Gabriel      |   cuarta    |    octavos    |           15           |
 |      Lopez, Javier      |   cuarta    |    octavos    |           15           |
 |     Toffolini, Hugo     |   cuarta    |    octavos    |           15           |
-|    Alignani, Tiziano    |   cuarta    |    16avos     |           12           |
 |   Avellaneda, Nahuel    |   cuarta    |    16avos     |           12           |
 |    Brunelli, Osvaldo    |   cuarta    |    16avos     |           12           |
 |     Cagnoto, Matias     |   cuarta    |    16avos     |           12           |

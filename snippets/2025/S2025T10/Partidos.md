@@ -1,7 +1,7 @@
 |        Jugador A        |        Jugador B        |  Sets A  |  Sets B  |  Instancia  |  Categoría  |
 |:-----------------------:|:-----------------------:|:--------:|:--------:|:-----------:|:-----------:|
 |    Albrecht, Ramiro     |     Palamedi, Alma      |    3     |    0     |   16avos    |   cuarta    |
-|    Alignani, Tiziano    |     Torres, Julian      |    3     |    0     |   16avos    |   cuarta    |
+|   Allignani, Tiziano    |     Torres, Julian      |    3     |    0     |   16avos    |   cuarta    |
 |    Bregant, Osvaldo     |    Velazquez, Noelia    |    3     |    0     |   16avos    |   cuarta    |
 |    Brunelli, Osvaldo    |      Paya, Lazaro       |    0     |    3     |   16avos    |   cuarta    |
 |     Cagnoto, Matias     |  Barreto, Maximiliano   |    0     |    3     |   16avos    |   cuarta    |

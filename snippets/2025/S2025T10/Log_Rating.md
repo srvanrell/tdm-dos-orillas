@@ -2,7 +2,7 @@
 |:---------------------------:|:-----------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
 |     Acuna, Daiana (300)     |     Pirotto, Lazaro (69)      |     231      |        8         |        -8         |   16avos    |   cuarta    |    1     |
 |   Albrecht, Ramiro (307)    |     Palamedi, Alma (207)      |     100      |        12        |        -12        |   16avos    |   cuarta    |    1     |
-|   Alignani, Tiziano (296)   |     Torres, Julian (266)      |      30      |        16        |        -16        |   16avos    |   cuarta    |    1     |
+|  Allignani, Tiziano (271)   |     Torres, Julian (266)      |      5       |        18        |        -18        |   16avos    |   cuarta    |    1     |
 | Barreto, Maximiliano (306)  |     Cagnoto, Matias (276)     |      30      |        16        |        -16        |   16avos    |   cuarta    |    1     |
 |   Bregant, Osvaldo (281)    |    Velazquez, Noelia (251)    |      30      |        16        |        -16        |   16avos    |   cuarta    |    1     |
 | Catelli, Juan Ignacio (189) |     Viviani, Monica (232)     |     -43      |        22        |        -22        |   16avos    |   cuarta    |    1     |
