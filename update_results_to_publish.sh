@@ -41,7 +41,7 @@ done
 mkdir -p "./docs/season/${YEAR}/"
 cp -av ./docs/season/2023/* ./docs/season/2023/.* ./docs/season/${YEAR}/
 # Make sure that this year season is hide from navigation
-sed -i 's/hide: true/hide: false/g' ./docs/season/*/'.pages'
+sed -i 's/hide: true/hide: false/g' ./docs/season/*/.pages
 sed -i 's/hide: false/hide: true/g' ./docs/season/${CURRENT_YEAR}/.pages
 # By default rules will be taken from season 2023
 # Copy only if the source file is newer or doesn't exist in the destination
