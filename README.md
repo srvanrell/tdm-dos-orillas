@@ -34,3 +34,8 @@ To update results of a year different from current:
 ```bash
 make serve
 ```
+
+## Note on uv
+
+Dependency and execution are expected to use `uv`.
+Shell script is expected to be executed in a GNU environment.
