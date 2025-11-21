@@ -14,34 +14,25 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 123456+github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - run: pip install ranking-table-tennis
+      - name: Install uv and enable cache
+        uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - name: Install the project
+        run: uv sync --locked --all-extras --dev
       # - run: pip install git+https://github.com/srvanrell/ranking-table-tennis.git@branch-name
       - id: rtt-preprocess
         env:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
-        run: rtt preprocess --assume-yes
+        run: uv run rtt preprocess --assume-yes
       - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
-        run: rtt compute
+        run: uv run rtt compute
       - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
-        run: rtt publish --last
+        run: uv run rtt publish --last
       - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
-        run: ./update_results_to_publish.sh
+        run: uv run ./update_results_to_publish.sh
       - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
-        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
-        uses: actions/cache@v4
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: ~/.cache
-          restore-keys: |
-            mkdocs-material-
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
-        run: pip install \
-               mkdocs-material \
-               mkdocs-macros-plugin \
-               mkdocs-awesome-pages-plugin
-      - if: ${{ steps.rtt-preprocess.outputs.stop_workflow != 'true' }}
-        run: mkdocs gh-deploy --force
+        run: uv run mkdocs gh-deploy --force
