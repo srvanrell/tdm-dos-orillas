@@ -51,7 +51,7 @@
 |   tercera   |    648 (-35)     |     Barchiesi, Matias      |                       |                        |
 |   cuarta    |     341 (=)      |    Barreto, Maximiliano    |                       |                        |
 |   cuarta    |     366 (=)      |     Barrientos, Norma      |        Parana         |      Tiro Federal      |
-|   cuarta    |     377 (=)      |       Barrios, Julio       |                       |                        |
+|   cuarta    |     381 (=)      |       Barrios, Julio       |                       |                        |
 |   tercera   |     542 (=)      |       Barrios, Tomas       |                       |                        |
 |   segunda   |     954 (=)      |     Batistella, German     |                       |                        |
 |   segunda   |     961 (=)      |      Battauz, Lautaro      |                       |                        |
@@ -388,7 +388,7 @@
 |   primera   |     1413 (=)     |   Stringhini, Alejandro    |       Santa Fe        |        AteMeLi         |
 |   tercera   |    612 (-18)     |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     1182 (=)     |       Sueldo, Pablo        |                       |                        |
-|   cuarta    |     324 (=)      |     Taffarel, Claudio      |                       |                        |
+|   cuarta    |     351 (=)      |     Taffarel, Claudio      |                       |                        |
 |   segunda   |     1106 (=)     |       Tenca, Gustavo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     866 (=)      |       Tenca, Javier        |        Parana         |        Aspatem         |
 |   cuarta    |     291 (=)      |      Toffolini, Hugo       |                       |                        |

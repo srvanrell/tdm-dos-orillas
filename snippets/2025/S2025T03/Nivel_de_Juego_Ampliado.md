@@ -51,7 +51,7 @@
 |   segunda   |    765 (+117)    |     Barchiesi, Matias      |                       |                        |
 |   cuarta    |     341 (=)      |    Barreto, Maximiliano    |                       |                        |
 |   cuarta    |     366 (=)      |     Barrientos, Norma      |        Parana         |      Tiro Federal      |
-|   cuarta    |     377 (=)      |       Barrios, Julio       |                       |                        |
+|   cuarta    |     381 (=)      |       Barrios, Julio       |                       |                        |
 |   tercera   |     542 (=)      |       Barrios, Tomas       |                       |                        |
 |   segunda   |     954 (=)      |     Batistella, German     |                       |                        |
 |   segunda   |     961 (=)      |      Battauz, Lautaro      |                       |                        |
@@ -320,7 +320,7 @@
 |   segunda   |     778 (=)      |        Pitana, Enzo        |                       |                        |
 |   tercera   |     693 (=)      |    Podversich, Gabriel     |                       |                        |
 |   tercera   |     681 (=)      |        Porta, Juan         |                       |                        |
-|   cuarta    |    349 (+118)    |       Portillo, Ana        |        Parana         |        Aspatem         |
+|   cuarta    |    351 (+120)    |       Portillo, Ana        |        Parana         |        Aspatem         |
 |   tercera   |     680 (=)      |      Portillo, Lucas       |       Esperanza       |          ATME          |
 |   primera   |     1641 (=)     |     Pradella, Geronimo     |        Parana         |      Tiro Federal      |
 |   segunda   |     750 (=)      |     Pradella, Nicolas      |                       |                        |
@@ -388,7 +388,7 @@
 |   primera   |     1413 (=)     |   Stringhini, Alejandro    |       Santa Fe        |        AteMeLi         |
 |   tercera   |     612 (=)      |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     1182 (=)     |       Sueldo, Pablo        |                       |                        |
-|   cuarta    |    340 (+16)     |     Taffarel, Claudio      |                       |                        |
+|   cuarta    |    363 (+12)     |     Taffarel, Claudio      |                       |                        |
 |   segunda   |     1106 (=)     |       Tenca, Gustavo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     866 (=)      |       Tenca, Javier        |        Parana         |        Aspatem         |
 |   cuarta    |     291 (=)      |      Toffolini, Hugo       |                       |                        |
@@ -421,7 +421,7 @@
 |   tercera   |     685 (=)      |       Vetrano, Luca        |                       |                        |
 |   cuarta    |    174 (-42)     |        Vidal, Belen        |                       |                        |
 |   segunda   |    799 (-91)     |      Vigouroux, Jorge      |       San Justo       |      Tiro Federal      |
-|   segunda   |    710 (+79)     |     Vigouroux, Manuel      |       San Justo       |      Tiro Federal      |
+|   segunda   |    712 (+81)     |     Vigouroux, Manuel      |       San Justo       |      Tiro Federal      |
 |   tercera   |     452 (=)      |    Vigouroux, Patricio     |       San Justo       |      Tiro Federal      |
 |   tercera   |     537 (=)      |    Vigouroux, Santiago     |       San Justo       |      Tiro Federal      |
 |   segunda   |     1143 (=)     |     Villalba, Leonardo     |       Santa Fe        |        AteMeLi         |

@@ -37,20 +37,20 @@
 |   segunda   |     788 (=)      |    Budino, Mijail     |                    |              |
 |   segunda   |     778 (=)      |     Prettis, Juan     |       Parana       |   Aspatem    |
 |   segunda   |     763 (=)      |    Rolando, Ariel     |                    |              |
-|   segunda   |    760 (+111)    |     Pilotti, Paz      |      Santa Fe      |   AteMeLi    |
+|   segunda   |    762 (+111)    |     Pilotti, Paz      |      Santa Fe      |   AteMeLi    |
 |   segunda   |    727 (+39)     |    Costanza, Roque    |      Santa Fe      |   AteMeLi    |
 |   segunda   |    719 (-18)     |  Dalinger, Humberto   |       Parana       | Tiro Federal |
 |   segunda   |     716 (=)      |    Savino, Leandro    |      Santa Fe      |   AteMeLi    |
 |   segunda   |    703 (-33)     |     Rubio, Julian     |      Santa Fe      |   AteMeLi    |
 |             |                  |                       |                    |              |
-|   tercera   |     686 (=)      |   Vigouroux, Manuel   |     San Justo      | Tiro Federal |
+|   tercera   |     688 (=)      |   Vigouroux, Manuel   |     San Justo      | Tiro Federal |
 |   tercera   |    672 (-12)     |      Levin, Raul      |       Parana       |   Aspatem    |
 |   tercera   |    654 (-49)     |     Almada, Pablo     |       Parana       |   Aspatem    |
 |   tercera   |    628 (-93)     |  Oliveras, Leonardo   |      Santa Fe      |   AteMeLi    |
 |   tercera   |     612 (=)      |    Suarez, Milton     |      Santa Fe      |   AteMeLi    |
 |   tercera   |    581 (-45)     |      Rosa, Pablo      |                    |              |
 |   tercera   |    559 (+19)     |   Colavini, Daniel    |     Santo Tome     |   AteMeLi    |
-|   tercera   |    542 (+165)    |    Barrios, Julio     |                    |              |
+|   tercera   |    546 (+165)    |    Barrios, Julio     |                    |              |
 |   tercera   |    534 (+106)    |     Diaz, Joaquin     |       Parana       |   Aspatem    |
 |   tercera   |     522 (=)      |    Bulacios, Juan     |                    |              |
 |   tercera   |     492 (=)      |    Grippo, Agustin    |                    |              |
@@ -69,13 +69,13 @@
 |   cuarta    |     391 (=)      |    Gomez, Gabriel     |       Parana       | Tiro Federal |
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |                    |              |
 |   cuarta    |     383 (-2)     |    Pinery, Sergio     |                    |              |
+|   cuarta    |     373 (=)      |   Taffarel, Claudio   |                    |              |
 |   cuarta    |     371 (=)      |    Locateli, Juan     |                    |              |
 |   cuarta    |     364 (=)      |    Palma, Marcelo     |                    |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                    |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                    |              |
-|   cuarta    |     356 (=)      |   Taffarel, Claudio   |                    |              |
+|   cuarta    |     351 (=)      |     Portillo, Ana     |       Parana       |   Aspatem    |
 |   cuarta    |    350 (-29)     | Samaniego, Francisco  |                    |              |
-|   cuarta    |     349 (=)      |     Portillo, Ana     |       Parana       |   Aspatem    |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |                    |              |
 |   cuarta    |    341 (+10)     |   Orcellet, Rodrigo   |                    |              |
 |   cuarta    |    336 (+44)     |    Hanrri, Facundo    |       Parana       |   Aspatem    |
@@ -84,13 +84,13 @@
 |   cuarta    |     332 (=)      |   Quinones, German    |                    |              |
 |   cuarta    |     321 (=)      | Bernhardt, Sebastian  |                    |              |
 |   cuarta    |     310 (=)      |     Lell, Claudia     |       Parana       | Tiro Federal |
-|   cuarta    |    304 (+67)     |     Diez, Gabriel     |                    |              |
+|   cuarta    |    306 (+67)     |     Diez, Gabriel     |                    |              |
 |   cuarta    |     302 (=)      | Marchitelli, Ezequiel |                    |              |
 |   cuarta    |     301 (=)      |    Schiavi, Bruno     |                    |              |
 |   cuarta    |     300 (=)      |    Silva, Santiago    |                    |              |
 |   cuarta    |     297 (=)      |     Ramos, Matias     |                    |              |
 |   cuarta    |    284 (-32)     |    Andolfo, Genaro    |                    |              |
-|   cuarta    |     273 (=)      |     Paya, Lazaro      |                    |              |
+|   cuarta    |     275 (=)      |     Paya, Lazaro      |                    |              |
 |   cuarta    |    272 (-36)     |  Calabrese, Alfredo   |                    |              |
 |   cuarta    |    252 (-26)     |    Salva, Emanuel     |                    |              |
 |   cuarta    |     241 (=)      |   Lanzotti, Lautaro   |                    |              |

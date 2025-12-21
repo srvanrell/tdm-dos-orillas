@@ -16,7 +16,7 @@
 |   cuarta    |     280 (=)      |     Albrecht, Ignacio      |  San Jeronimo Norte   |      Libertad SJN      |
 |   cuarta    |     308 (=)      |      Albrecht, Ramiro      |                       |                        |
 |   cuarta    |     296 (=)      |     Alignani, Tiziano      |                       |                        |
-|   cuarta    |     281 (=)      |     Allegrini, Alonso      |                       |                        |
+|   cuarta    |     283 (=)      |     Allegrini, Alonso      |                       |                        |
 |   primera   |   1252 (+259)    |     Allegrini, Tiziano     |        Parana         |        Aspatem         |
 |   primera   |     1164 (=)     |      Allendez, Alvaro      | Libertador San Martin |          CRL           |
 |   primera   |     1405 (=)     |      Allendez, Tiago       | Libertador San Martin |          CRL           |
@@ -51,7 +51,7 @@
 |   segunda   |     938 (+4)     |     Barchiesi, Matias      |                       |                        |
 |   cuarta    |     306 (=)      |    Barreto, Maximiliano    |                       |                        |
 |   cuarta    |     366 (=)      |     Barrientos, Norma      |        Parana         |      Tiro Federal      |
-|   tercera   |     477 (=)      |       Barrios, Julio       |                       |                        |
+|   tercera   |     481 (=)      |       Barrios, Julio       |                       |                        |
 |   tercera   |     542 (=)      |       Barrios, Tomas       |                       |                        |
 |   segunda   |     954 (=)      |     Batistella, German     |                       |                        |
 |   segunda   |     961 (=)      |      Battauz, Lautaro      |                       |                        |
@@ -84,7 +84,7 @@
 |   primera   |     1410 (=)     |       Botta, Adrian        |      Reconquista      |         ATMAR          |
 |   segunda   |     1008 (=)     |     Botta, Maximiliano     |      Reconquista      |         ATMAR          |
 |   tercera   |     588 (=)      |      Bracco, Fernando      |                       |                        |
-|   tercera   |    490 (+23)     |       Bracco, Victor       |                       |                        |
+|   tercera   |    492 (+25)     |       Bracco, Victor       |                       |                        |
 |   cuarta    |     159 (=)      |       Bregant, Juan        |                       |                        |
 |   cuarta    |    281 (+45)     |      Bregant, Osvaldo      |                       |                        |
 |   segunda   |     768 (=)      |       Brian, Martin        | Libertador San Martin |          CRL           |
@@ -134,7 +134,7 @@
 |   segunda   |     745 (=)      |         Diaz, Gino         | Libertador San Martin |          CRL           |
 |   tercera   |    666 (+162)    |       Diaz, Joaquin        |        Parana         |        Aspatem         |
 |   primera   |     1231 (=)     |        Diel, Pablo         |                       |                        |
-|   cuarta    |    300 (+16)     |       Diez, Gabriel        |                       |                        |
+|   cuarta    |    302 (+16)     |       Diez, Gabriel        |                       |                        |
 |   segunda   |     818 (=)      |         Dip, Jorge         |  San Jeronimo Norte   |      Libertad SJN      |
 |   tercera   |    508 (-78)     |     Domenicone, Bruno      |       Santa Fe        |        AteMeLi         |
 |   cuarta    |     308 (=)      |        Duarte, Juan        |                       |                        |
@@ -145,7 +145,7 @@
 |   segunda   |     1026 (=)     |      Escobar, Esteban      |                       |                        |
 |   segunda   |    929 (+26)     |      Escobar, Gadiel       |                       |                        |
 |   segunda   |     860 (=)      |      Escudero, Martin      |       Santa Fe        |        AteMeLi         |
-|   tercera   |     475 (=)      |    Faggionatto, Walter     |                       |                        |
+|   tercera   |     479 (=)      |    Faggionatto, Walter     |                       |                        |
 |   cuarta    |     293 (=)      |       Fenes, Martin        |                       |                        |
 |   primera   |     1406 (=)     |     Feresin, Ezequiel      |      Reconquista      |                        |
 |   primera   |     1109 (=)     |      Fernandez, Axel       |                       |                        |
@@ -216,7 +216,7 @@
 |   cuarta    |     167 (=)      |   Kotlireusky, Benjamin    |                       |                        |
 |   tercera   |     676 (=)      |      Kranczuk, German      |                       |                        |
 |   primera   |     1420 (=)     |      La Barba, Pablo       |        Parana         |        Aspatem         |
-|   cuarta    |     196 (=)      |       Lacuadra, Lena       |                       |                        |
+|   cuarta    |     198 (=)      |       Lacuadra, Lena       |                       |                        |
 |   segunda   |     743 (=)      |     Laminsky, Santiago     |                       |                        |
 |   segunda   |     836 (=)      |         Lamy, Blas         |                       |                        |
 |   segunda   |     762 (=)      |      Landra, Augusto       |                       |                        |
@@ -300,16 +300,16 @@
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |                        |
 |   cuarta    |     364 (=)      |       Palma, Marcelo       |                       |                        |
 |   cuarta    |     224 (=)      |      Paulin, Santiago      |                       |                        |
-|   cuarta    |     330 (=)      |        Paya, Lazaro        |                       |                        |
+|   cuarta    |     332 (=)      |        Paya, Lazaro        |                       |                        |
 |   cuarta    |     330 (=)      |        Paz, Joaquin        |                       |                        |
 |   segunda   |     879 (=)      |      Peduzzi, Mariano      |        Parana         |      Tiro Federal      |
 |   tercera   |     426 (=)      |       Pen, Mauricio        |                       |                        |
-|   cuarta    |    362 (-32)     |      Perez, Valentino      |                       |                        |
+|   cuarta    |    361 (-33)     |      Perez, Valentino      |                       |                        |
 |   primera   |     1639 (=)     |       Perna, Claudio       |        Rosario        |        Asateme         |
 |   primera   |    1520 (-79)    |      Perot, Alejandro      |       Santa Fe        |        AteMeLi         |
 |   primera   |     2060 (=)     |        Perot, David        |       Santa Fe        |        AteMeLi         |
 |   segunda   |     994 (=)      |       Perot, Martin        |       Santa Fe        |        AteMeLi         |
-|   cuarta    |     331 (=)      |       Perren, Miguel       |  San Jeronimo Norte   |      Libertad SJN      |
+|   cuarta    |     335 (=)      |       Perren, Miguel       |  San Jeronimo Norte   |      Libertad SJN      |
 |   tercera   |     468 (=)      |     Pettinatti, Cesar      |                       |                        |
 |   tercera   |     424 (=)      |        Picech, Gino        |                       |                        |
 |   tercera   |     671 (=)      |     Pillac, Juan Pablo     | Libertador San Martin |          CRL           |
@@ -320,7 +320,7 @@
 |   segunda   |     778 (=)      |        Pitana, Enzo        |                       |                        |
 |   tercera   |     693 (=)      |    Podversich, Gabriel     |                       |                        |
 |   tercera   |     681 (=)      |        Porta, Juan         |                       |                        |
-|   cuarta    |     231 (+8)     |       Portillo, Ana        |        Parana         |        Aspatem         |
+|   cuarta    |     233 (+8)     |       Portillo, Ana        |        Parana         |        Aspatem         |
 |   tercera   |     680 (=)      |      Portillo, Lucas       |       Esperanza       |          ATME          |
 |   primera   |     1641 (=)     |     Pradella, Geronimo     |        Parana         |      Tiro Federal      |
 |   segunda   |     750 (=)      |     Pradella, Nicolas      |                       |                        |
@@ -354,7 +354,7 @@
 |   segunda   |     797 (=)      |      Rojas, Giuliana       |                       |                        |
 |   tercera   |     624 (=)      |      Rojas, Priscila       |                       |                        |
 |   segunda   |     763 (=)      |       Rolando, Ariel       |                       |                        |
-|   tercera   |    507 (+17)     |        Rosa, Pablo         |                       |                        |
+|   tercera   |    513 (+14)     |        Rosa, Pablo         |                       |                        |
 |   tercera   |     646 (=)      |        Rosales, Ian        |                       |                        |
 |   segunda   |    858 (+31)     |       Rubio, Julian        |       Santa Fe        |        AteMeLi         |
 |   cuarta    |     228 (=)      |       Rubio, Julian2       |       Santa Fe        |        AteMeLi         |
@@ -388,7 +388,7 @@
 |   primera   |     1413 (=)     |   Stringhini, Alejandro    |       Santa Fe        |        AteMeLi         |
 |   tercera   |     612 (=)      |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |   primera   |     1182 (=)     |       Sueldo, Pablo        |                       |                        |
-|   tercera   |    473 (-24)     |     Taffarel, Claudio      |                       |                        |
+|   tercera   |    466 (-23)     |     Taffarel, Claudio      |                       |                        |
 |   primera   |     1106 (=)     |       Tenca, Gustavo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     866 (=)      |       Tenca, Javier        |        Parana         |        Aspatem         |
 |   cuarta    |    134 (-91)     |      Toffolini, Hugo       |                       |                        |
@@ -412,7 +412,7 @@
 |   tercera   |     664 (=)      |      Varisco, Silvina      |        Parana         |        Aspatem         |
 |   segunda   |     744 (=)      |        Vega, Sergio        | Libertador San Martin |          CRL           |
 |   tercera   |     430 (=)      |     Velazquez, Fatima      |                       |                        |
-|   segunda   |    864 (-29)     |      Velazquez, Irupe      |       Santa Fe        |        AteMeLi         |
+|   segunda   |    867 (-28)     |      Velazquez, Irupe      |       Santa Fe        |        AteMeLi         |
 |   primera   |    1172 (+31)    |     Velazquez, Marcelo     |       Santa Fe        |        AteMeLi         |
 |   cuarta    |     251 (=)      |     Velazquez, Noelia      |                       |                        |
 |   tercera   |     470 (=)      |      Velazquez, Pedro      |                       |                        |
@@ -420,13 +420,13 @@
 |   tercera   |     567 (=)      |        Verra, Dario        |                       |                        |
 |   tercera   |     685 (=)      |       Vetrano, Luca        |                       |                        |
 |   cuarta    |     174 (=)      |        Vidal, Belen        |                       |                        |
-|   tercera   |     613 (+9)     |      Vigouroux, Jorge      |       San Justo       |      Tiro Federal      |
+|   tercera   |     615 (+9)     |      Vigouroux, Jorge      |       San Justo       |      Tiro Federal      |
 |   segunda   |    713 (-18)     |     Vigouroux, Manuel      |       San Justo       |      Tiro Federal      |
 |   tercera   |     452 (=)      |    Vigouroux, Patricio     |       San Justo       |      Tiro Federal      |
 |   tercera   |     457 (=)      |    Vigouroux, Santiago     |       San Justo       |      Tiro Federal      |
 |   primera   |     1143 (=)     |     Villalba, Leonardo     |       Santa Fe        |        AteMeLi         |
 |   segunda   |     727 (=)      |      Virgilio, Lucas       |                       |                        |
-|   cuarta    |     375 (=)      |      Visintini, Juan       |                       |                        |
+|   cuarta    |     379 (=)      |      Visintini, Juan       |                       |                        |
 |   cuarta    |     308 (=)      |     Vivanco, Cristian      |                       |                        |
 |   cuarta    |     233 (=)      |      Viviani, Monica       |      Santo Tome       | Defensores de Belgrano |
 |   cuarta    |     240 (=)      |  Von Der Thusen, Grethel   |      Santo Tome       | Defensores de Belgrano |

@@ -49,10 +49,10 @@
 |   tercera   |    423 (-21)     |    Gomez, Gabriel    |   Parana    | Tiro Federal |
 |   tercera   |     405 (=)      | Stivanello, Santiago |             |              |
 |             |                  |                      |             |              |
-|   cuarta    |    377 (-12)     |    Barrios, Julio    |             |              |
+|   cuarta    |     381 (-8)     |    Barrios, Julio    |             |              |
 |   cuarta    |    353 (-64)     |    Bracco, Victor    |             |              |
+|   cuarta    |    351 (-20)     |  Taffarel, Claudio   |             |              |
 |   cuarta    |    329 (-48)     |   Schiavi, Marcelo   |             |              |
-|   cuarta    |    324 (-16)     |  Taffarel, Claudio   |             |              |
 |   cuarta    |    321 (+36)     | Bernhardt, Sebastian |             |              |
 |   cuarta    |    315 (-38)     |    Diaz, Joaquin     |   Parana    |   Aspatem    |
 |   cuarta    |    301 (-42)     |    Schiavi, Bruno    |             |              |

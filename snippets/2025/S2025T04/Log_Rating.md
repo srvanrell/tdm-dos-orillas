@@ -43,7 +43,7 @@
 |  Perot, Alejandro (1552)   |  Gatti, Sebastian (1175)   |     377      |        3         |        -3         |    zona     |   primera   |   0.5    |
 |                            |                            |              |                  |                   |             |             |          |
 |    Banfi, Franco (949)     |  Oliveras, Leonardo (692)  |     257      |        4         |        -4         |   16avos    |   segunda   |   0.5    |
-|  Barchiesi, Matias (765)   |  Vigouroux, Manuel (710)   |      55      |        14        |        -14        |   16avos    |   segunda   |    1     |
+|  Barchiesi, Matias (765)   |  Vigouroux, Manuel (712)   |      53      |        14        |        -14        |   16avos    |   segunda   |    1     |
 |   Aguirre, German (1065)   |   Sartor, Lautaro (1080)   |     -15      |        18        |        -18        |   cuartos   |   segunda   |    1     |
 |   Fontana, Fausto (1230)   |   Micocci, Matias (894)    |     336      |        6         |        -6         |   cuartos   |   segunda   |    1     |
 |  Grippo, Francisco (1128)  | Allegrini, Tiziano (1058)  |      70      |        14        |        -14        |   cuartos   |   segunda   |    1     |
@@ -62,13 +62,13 @@
 |   Aguirre, German (1065)   |  Barchiesi, Matias (765)   |     300      |        6         |        -6         |    zona     |   segunda   |    1     |
 |   Aguirre, German (1065)   |     Pilotti, Paz (642)     |     423      |        2         |        -2         |    zona     |   segunda   |   0.5    |
 |   Aguirre, German (1065)   |   Vigouroux, Jorge (799)   |     266      |        8         |        -8         |    zona     |   segunda   |    1     |
-|    Albano, Javier (997)    |  Vigouroux, Manuel (710)   |     287      |        8         |        -8         |    zona     |   segunda   |    1     |
+|    Albano, Javier (997)    |  Vigouroux, Manuel (712)   |     285      |        8         |        -8         |    zona     |   segunda   |    1     |
 | Allegrini, Tiziano (1058)  |  Gatti, Sebastian (1175)   |     -117     |        30        |        -30        |    zona     |   segunda   |    1     |
 | Allegrini, Tiziano (1058)  |  Oliveras, Leonardo (692)  |     366      |        3         |        -3         |    zona     |   segunda   |   0.5    |
 |  Barchiesi, Matias (765)   |     Pilotti, Paz (642)     |     123      |        6         |        -6         |    zona     |   segunda   |   0.5    |
 |   Bonelli, Marcos (951)    |   Costanza, Roque (702)    |     249      |        8         |        -8         |    zona     |   segunda   |    1     |
 |   Fontana, Fausto (1230)   |    Albano, Javier (997)    |     233      |        8         |        -8         |    zona     |   segunda   |    1     |
-|   Fontana, Fausto (1230)   |  Vigouroux, Manuel (710)   |     520      |        2         |        -2         |    zona     |   segunda   |    1     |
+|   Fontana, Fausto (1230)   |  Vigouroux, Manuel (712)   |     518      |        2         |        -2         |    zona     |   segunda   |    1     |
 |  Gatti, Sebastian (1175)   |  Oliveras, Leonardo (692)  |     483      |        2         |        -2         |    zona     |   segunda   |   0.5    |
 |  Grippo, Francisco (1128)  |   Bonelli, Marcos (951)    |     177      |        10        |        -10        |    zona     |   segunda   |    1     |
 |  Grippo, Francisco (1128)  |   Costanza, Roque (702)    |     426      |        4         |        -4         |    zona     |   segunda   |    1     |
@@ -81,7 +81,7 @@
 |   Vigouroux, Jorge (799)   |  Barchiesi, Matias (765)   |      34      |        16        |        -16        |    zona     |   segunda   |    1     |
 |   Vigouroux, Jorge (799)   |     Pilotti, Paz (642)     |     157      |        5         |        -5         |    zona     |   segunda   |   0.5    |
 |                            |                            |              |                  |                   |             |             |          |
-|  Oliveras, Leonardo (692)  |  Taffarel, Claudio (340)   |     352      |        6         |        -6         |   cuartos   |   tercera   |    1     |
+|  Oliveras, Leonardo (692)  |  Taffarel, Claudio (363)   |     329      |        6         |        -6         |   cuartos   |   tercera   |    1     |
 |   Oliveras, Nahuel (471)   | Samaniego, Francisco (297) |     174      |        5         |        -5         |   cuartos   |   tercera   |   0.5    |
 |     Pilotti, Paz (642)     |    Diaz, Joaquin (434)     |     208      |        8         |        -8         |   cuartos   |   tercera   |    1     |
 |     Rosa, Pablo (629)      |    Diez, Gabriel (195)     |     434      |        2         |        -2         |   cuartos   |   tercera   |   0.5    |
@@ -89,7 +89,7 @@
 |    Diaz, Joaquin (434)     |    Candia, Matias (246)    |     188      |        5         |        -5         |   octavos   |   tercera   |   0.5    |
 |    Diez, Gabriel (195)     |    Locateli, Juan (502)    |     -307     |        72        |        -72        |   octavos   |   tercera   |   1.5    |
 |   Oliveras, Nahuel (471)   |   Hanrri, Facundo (271)    |     199      |        4         |        -4         |   octavos   |   tercera   |   0.5    |
-|  Taffarel, Claudio (340)   |     Paya, Lazaro (297)     |      43      |        16        |        -16        |   octavos   |   tercera   |    1     |
+|  Taffarel, Claudio (363)   |     Paya, Lazaro (297)     |      66      |        14        |        -14        |   octavos   |   tercera   |    1     |
 |  Oliveras, Leonardo (692)  |   Oliveras, Nahuel (471)   |     221      |        8         |        -8         |  semifinal  |   tercera   |    1     |
 |     Pilotti, Paz (642)     |     Rosa, Pablo (629)      |      13      |        18        |        -18        |  semifinal  |   tercera   |    1     |
 |    Diaz, Joaquin (434)     |   Hanrri, Facundo (271)    |     162      |        5         |        -5         |    zona     |   tercera   |   0.5    |
@@ -98,9 +98,9 @@
 |  Oliveras, Leonardo (692)  |   Hanrri, Facundo (271)    |     420      |        2         |        -2         |    zona     |   tercera   |   0.5    |
 |   Oliveras, Nahuel (471)   |    Candia, Matias (246)    |     225      |        4         |        -4         |    zona     |   tercera   |   0.5    |
 |     Pilotti, Paz (642)     |    Diez, Gabriel (195)     |     447      |        2         |        -2         |    zona     |   tercera   |   0.5    |
-|     Pilotti, Paz (642)     |  Taffarel, Claudio (340)   |     302      |        6         |        -6         |    zona     |   tercera   |    1     |
+|     Pilotti, Paz (642)     |  Taffarel, Claudio (363)   |     279      |        8         |        -8         |    zona     |   tercera   |    1     |
 |     Rosa, Pablo (629)      |    Candia, Matias (246)    |     383      |        3         |        -3         |    zona     |   tercera   |   0.5    |
 |     Rosa, Pablo (629)      |   Oliveras, Nahuel (471)   |     158      |        10        |        -10        |    zona     |   tercera   |    1     |
 | Samaniego, Francisco (297) |    Locateli, Juan (502)    |     -205     |        63        |        -63        |    zona     |   tercera   |   1.5    |
 | Samaniego, Francisco (297) |     Paya, Lazaro (297)     |      0       |        18        |        -18        |    zona     |   tercera   |    1     |
-|  Taffarel, Claudio (340)   |    Diez, Gabriel (195)     |     145      |        12        |        -12        |    zona     |   tercera   |    1     |
+|  Taffarel, Claudio (363)   |    Diez, Gabriel (195)     |     168      |        10        |        -10        |    zona     |   tercera   |    1     |

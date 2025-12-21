@@ -344,6 +344,7 @@
 |       374        |      Alsina, Santiago      |                       |                        |
 |       374        |       Diaz, Benjamin       |                       |                        |
 |       373        |      Oliveras, Nahuel      |       Santa Fe        |        AteMeLi         |
+|       371        |     Taffarel, Claudio      |                       |                        |
 |       370        |    Faggionatto, Walter     |                       |                        |
 |       370        |      Toranza, Ricardo      |                       |                        |
 |       366        |     Barrientos, Norma      |        Parana         |      Tiro Federal      |
@@ -367,7 +368,6 @@
 |      343.5       |        Paz, Joaquin        |                       |                        |
 |       343        |       Schiavi, Bruno       |                       |                        |
 |       341        |    Barreto, Maximiliano    |                       |                        |
-|       340        |     Taffarel, Claudio      |                       |                        |
 |      331.25      |     Orcellet, Rodrigo      |                       |                        |
 |       331        |       Ramos, Matias        |                       |                        |
 |     321.625      |      Lerman, Ricarlo       |                       |                        |

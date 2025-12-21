@@ -38,7 +38,7 @@
 |  Oliveras, Leonardo (778)  |   Corbalan, Martin (735)   |      43      |        16        |        -16        |    zona     |   primera   |    1     |
 |                            |                            |              |                  |                   |             |             |          |
 |     Levin, Raul (721)      |    Portillo, Ana (183)     |     538      |        2         |        -2         |   16avos    |   segunda   |    1     |
-|   Velazquez, Irupe (818)   |  Taffarel, Claudio (340)   |     478      |        4         |        -4         |   16avos    |   segunda   |    1     |
+|   Velazquez, Irupe (818)   |  Taffarel, Claudio (371)   |     447      |        4         |        -4         |   16avos    |   segunda   |    1     |
 |  Allegrini, Tiziano (897)  |   Bonelli, Marcos (1026)   |     -129     |        30        |        -30        |   cuartos   |   segunda   |    1     |
 |  Gatti, Sebastian (1022)   |  Bernhardt, Leandro (819)  |     203      |        8         |        -8         |   cuartos   |   segunda   |    1     |
 |  Grippo, Francisco (1092)  |     Levin, Raul (721)      |     371      |        6         |        -6         |   cuartos   |   segunda   |    1     |
@@ -59,7 +59,7 @@
 |    Almada, Pablo (594)     |  Pettinatti, Cesar (468)   |     126      |        12        |        -12        |    zona     |   segunda   |    1     |
 |  Barchiesi, Matias (564)   |    Bracco, Victor (417)    |     147      |        12        |        -12        |    zona     |   segunda   |    1     |
 |  Bernhardt, Leandro (819)  |  Oliveras, Leonardo (778)  |      41      |        16        |        -16        |    zona     |   segunda   |    1     |
-|  Bernhardt, Leandro (819)  |  Taffarel, Claudio (340)   |     479      |        4         |        -4         |    zona     |   segunda   |    1     |
+|  Bernhardt, Leandro (819)  |  Taffarel, Claudio (371)   |     448      |        4         |        -4         |    zona     |   segunda   |    1     |
 |   Bonelli, Marcos (1026)   |    Almada, Pablo (594)     |     432      |        4         |        -4         |    zona     |   segunda   |    1     |
 |   Bonelli, Marcos (1026)   |  Pettinatti, Cesar (468)   |     558      |        1         |        -1         |    zona     |   segunda   |   0.5    |
 |   Corbalan, Martin (735)   |    Portillo, Ana (183)     |     552      |        2         |        -2         |    zona     |   segunda   |    1     |
@@ -71,7 +71,7 @@
 |   Luzardo, Andres (966)    |    Almada, Pablo (594)     |     372      |        6         |        -6         |    zona     |   segunda   |    1     |
 |   Luzardo, Andres (966)    |   Bonelli, Marcos (1026)   |     -60      |        26        |        -26        |    zona     |   segunda   |    1     |
 |   Luzardo, Andres (966)    |  Pettinatti, Cesar (468)   |     498      |        2         |        -2         |    zona     |   segunda   |   0.5    |
-|  Oliveras, Leonardo (778)  |  Taffarel, Claudio (340)   |     438      |        4         |        -4         |    zona     |   segunda   |    1     |
+|  Oliveras, Leonardo (778)  |  Taffarel, Claudio (371)   |     407      |        4         |        -4         |    zona     |   segunda   |    1     |
 |    Prettis, Juan (795)     |    Barrios, Julio (389)    |     406      |        4         |        -4         |    zona     |   segunda   |    1     |
 |    Prettis, Juan (795)     |   Velazquez, Irupe (818)   |     -23      |        18        |        -18        |    zona     |   segunda   |    1     |
 |   Velazquez, Irupe (818)   |    Barrios, Julio (389)    |     429      |        4         |        -4         |    zona     |   segunda   |    1     |
@@ -82,7 +82,7 @@
 |    Portillo, Ana (183)     |     Rosa, Pablo (578)      |     -395     |        48        |        -48        |   cuartos   |   tercera   |    1     |
 |  Barchiesi, Matias (564)   |  Pettinatti, Cesar (468)   |      96      |        14        |        -14        |    final    |   tercera   |    1     |
 |  Barchiesi, Matias (564)   |   Schiavi, Marcelo (377)   |     187      |        10        |        -10        |   octavos   |   tercera   |    1     |
-|    Barrios, Julio (389)    |  Taffarel, Claudio (340)   |      49      |        14        |        -14        |   octavos   |   tercera   |    1     |
+|    Barrios, Julio (389)    |  Taffarel, Claudio (371)   |      18      |        18        |        -18        |   octavos   |   tercera   |    1     |
 |   Colavini, Daniel (514)   |    Bracco, Victor (417)    |      97      |        14        |        -14        |   octavos   |   tercera   |    1     |
 |    Gomez, Gabriel (444)    | Bernhardt, Alejandro (302) |     142      |        6         |        -6         |   octavos   |   tercera   |   0.5    |
 |   Oliveras, Nahuel (373)   |    Diez, Gabriel (354)     |      19      |        18        |        -18        |   octavos   |   tercera   |    1     |
@@ -106,5 +106,5 @@
 |  Pettinatti, Cesar (468)   |    Barrios, Julio (389)    |      79      |        14        |        -14        |    zona     |   tercera   |    1     |
 |  Pettinatti, Cesar (468)   |    Portillo, Ana (183)     |     285      |        8         |        -8         |    zona     |   tercera   |    1     |
 |     Rosa, Pablo (578)      |    Diaz, Joaquin (353)     |     225      |        8         |        -8         |    zona     |   tercera   |    1     |
-|     Rosa, Pablo (578)      |  Taffarel, Claudio (340)   |     238      |        8         |        -8         |    zona     |   tercera   |    1     |
-|  Taffarel, Claudio (340)   |    Diaz, Joaquin (353)     |     -13      |        18        |        -18        |    zona     |   tercera   |    1     |
+|     Rosa, Pablo (578)      |  Taffarel, Claudio (371)   |     207      |        8         |        -8         |    zona     |   tercera   |    1     |
+|  Taffarel, Claudio (371)   |    Diaz, Joaquin (353)     |      18      |        18        |        -18        |    zona     |   tercera   |    1     |
