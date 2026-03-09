@@ -18,7 +18,7 @@ copy_directories() {
     find "${src_dir}" -maxdepth 1 -type d -name "S${year}T*" | while read -r dir; do
         dest_subdir="${dest_dir}/$(basename "${dir}")"
         mkdir -p "${dest_subdir}"
-        cp -rav "${dir}/." "${dest_subdir}/"
+        cp -av "${dir}/." "${dest_subdir}/"
     done
 }
 
@@ -39,7 +39,7 @@ done
 # Update seasons.yaml and docs folders (imitate 2023)
 ./update_season_yaml.py --year ${YEAR}
 mkdir -p "./docs/season/${YEAR}/"
-cp -av ./docs/season/2023/* ./docs/season/2023/.* ./docs/season/${YEAR}/
+cp -av ./docs/season/2023/* ./docs/season/2023/.pages ./docs/season/${YEAR}/
 # Make sure that this year season is hide from navigation
 sed -i 's/hide: true/hide: false/g' ./docs/season/*/.pages
 sed -i 's/hide: false/hide: true/g' ./docs/season/${CURRENT_YEAR}/.pages

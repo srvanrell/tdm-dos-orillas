@@ -4,7 +4,7 @@ update-results:
 	uv run rtt publish --last
 	uv run ./update_results_to_publish.sh
 
-installuv:
+install:
 	uv sync
 
 serve:
