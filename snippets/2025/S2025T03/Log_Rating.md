@@ -138,14 +138,14 @@
 |   Pettinatti, Cesar (483)   |    Palma, Marcelo (412)     |      70      |        14        |        -14        |   16avos    |   tercera   |    1     |
 |    Raspini, Pamela (308)    |    Grippo, Daniel (435)     |     -127     |        30        |        -30        |   16avos    |   tercera   |    1     |
 |    Rolando, Ariel (685)     |     Ramos, Matias (331)     |     354      |        6         |        -6         |   16avos    |   tercera   |    1     |
-|   Taffarel, Claudio (351)   |     Diez, Gabriel (262)     |      89      |        14        |        -14        |   16avos    |   tercera   |    1     |
+|   Taffarel, Claudio (324)   |     Diez, Gabriel (262)     |      62      |        14        |        -14        |   16avos    |   tercera   |    1     |
 |   Barchiesi, Matias (648)   |      Rosa, Pablo (546)      |     102      |        12        |        -12        |   cuartos   |   tercera   |    1     |
 |   Corbalan, Martin (655)    |    Gomez, Gabriel (423)     |     232      |        8         |        -8         |   cuartos   |   tercera   |    1     |
 |     Pilotti, Paz (631)      |    Grippo, Agustin (442)    |     188      |        10        |        -10        |   cuartos   |   tercera   |    1     |
 |    Rolando, Ariel (685)     |   Vigouroux, Manuel (631)   |      54      |        14        |        -14        |   cuartos   |   tercera   |    1     |
 |    Rolando, Ariel (685)     |   Corbalan, Martin (655)    |      30      |        16        |        -16        |    final    |   tercera   |    1     |
 |   Barchiesi, Matias (648)   |   Colavini, Daniel (588)    |      60      |        14        |        -14        |   octavos   |   tercera   |    1     |
-|   Corbalan, Martin (655)    |   Taffarel, Claudio (351)   |     304      |        6         |        -6         |   octavos   |   tercera   |    1     |
+|   Corbalan, Martin (655)    |   Taffarel, Claudio (324)   |     331      |        6         |        -6         |   octavos   |   tercera   |    1     |
 |    Gomez, Gabriel (423)     |    Bracco, Victor (353)     |      70      |        14        |        -14        |   octavos   |   tercera   |    1     |
 |    Grippo, Agustin (442)    |     Jove, Alberto (352)     |      90      |        14        |        -14        |   octavos   |   tercera   |    1     |
 |     Pilotti, Paz (631)      |     Diaz, Joaquin (315)     |     316      |        3         |        -3         |   octavos   |   tercera   |   0.5    |
@@ -178,6 +178,6 @@
 |    Rolando, Ariel (685)     |   Mardon, Emiliano (375)    |     310      |        6         |        -6         |    zona     |   tercera   |    1     |
 |      Rosa, Pablo (546)      |     Diaz, Joaquin (315)     |     231      |        4         |        -4         |    zona     |   tercera   |   0.5    |
 |      Rosa, Pablo (546)      |   Lanzotti, Lautaro (285)   |     261      |        8         |        -8         |    zona     |   tercera   |    1     |
-|   Taffarel, Claudio (351)   |     Portillo, Ana (231)     |     120      |        12        |        -12        |    zona     |   tercera   |    1     |
+|   Taffarel, Claudio (324)   |     Portillo, Ana (231)     |      93      |        14        |        -14        |    zona     |   tercera   |    1     |
 |   Vigouroux, Manuel (631)   |     Portillo, Ana (231)     |     400      |        2         |        -2         |    zona     |   tercera   |   0.5    |
-|   Vigouroux, Manuel (631)   |   Taffarel, Claudio (351)   |     280      |        8         |        -8         |    zona     |   tercera   |    1     |
+|   Vigouroux, Manuel (631)   |   Taffarel, Claudio (324)   |     307      |        6         |        -6         |    zona     |   tercera   |    1     |

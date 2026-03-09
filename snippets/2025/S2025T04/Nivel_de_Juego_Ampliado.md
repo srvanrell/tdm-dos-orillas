@@ -51,7 +51,7 @@
 |   segunda   |    746 (-19)     |     Barchiesi, Matias      |                       |                        |
 |   cuarta    |     341 (=)      |    Barreto, Maximiliano    |                       |                        |
 |   cuarta    |     366 (=)      |     Barrientos, Norma      |        Parana         |      Tiro Federal      |
-|   cuarta    |     381 (=)      |       Barrios, Julio       |                       |                        |
+|   cuarta    |     377 (=)      |       Barrios, Julio       |                       |                        |
 |   tercera   |     542 (=)      |       Barrios, Tomas       |                       |                        |
 |   segunda   |     954 (=)      |     Batistella, German     |                       |                        |
 |   segunda   |     961 (=)      |      Battauz, Lautaro      |                       |                        |
@@ -134,7 +134,7 @@
 |   segunda   |     745 (=)      |         Diaz, Gino         | Libertador San Martin |          CRL           |
 |   tercera   |     428 (-6)     |       Diaz, Joaquin        |        Parana         |        Aspatem         |
 |   primera   |     1231 (=)     |        Diel, Pablo         |                       |                        |
-|   cuarta    |    239 (+44)     |       Diez, Gabriel        |                       |                        |
+|   cuarta    |    237 (+42)     |       Diez, Gabriel        |                       |                        |
 |   segunda   |     976 (=)      |         Dip, Jorge         |  San Jeronimo Norte   |      Libertad SJN      |
 |   tercera   |     598 (=)      |     Domenicone, Bruno      |       Santa Fe        |        AteMeLi         |
 |   cuarta    |     308 (=)      |        Duarte, Juan        |                       |                        |
@@ -300,7 +300,7 @@
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |                        |
 |   cuarta    |     364 (=)      |       Palma, Marcelo       |                       |                        |
 |   cuarta    |     224 (=)      |      Paulin, Santiago      |                       |                        |
-|   cuarta    |    275 (-22)     |        Paya, Lazaro        |                       |                        |
+|   cuarta    |    273 (-24)     |        Paya, Lazaro        |                       |                        |
 |   cuarta    |     344 (=)      |        Paz, Joaquin        |                       |                        |
 |   segunda   |     879 (=)      |      Peduzzi, Mariano      |        Parana         |      Tiro Federal      |
 |   tercera   |     426 (=)      |       Pen, Mauricio        |                       |                        |
@@ -313,14 +313,14 @@
 |   tercera   |     503 (=)      |     Pettinatti, Cesar      |                       |                        |
 |   tercera   |     458 (=)      |        Picech, Gino        |                       |                        |
 |   tercera   |     671 (=)      |     Pillac, Juan Pablo     | Libertador San Martin |          CRL           |
-|   tercera   |     651 (+9)     |        Pilotti, Paz        |       Santa Fe        |        AteMeLi         |
+|   tercera   |     649 (+7)     |        Pilotti, Paz        |       Santa Fe        |        AteMeLi         |
 |   cuarta    |     385 (=)      |       Pinery, Sergio       |                       |                        |
 |   cuarta    |     188 (=)      |      Pintos, Viviana       |                       |                        |
 |   cuarta    |      69 (=)      |      Pirotto, Lazaro       |                       |                        |
 |   segunda   |     778 (=)      |        Pitana, Enzo        |                       |                        |
 |   tercera   |     693 (=)      |    Podversich, Gabriel     |                       |                        |
 |   tercera   |     681 (=)      |        Porta, Juan         |                       |                        |
-|   cuarta    |     351 (=)      |       Portillo, Ana        |        Parana         |        Aspatem         |
+|   cuarta    |     349 (=)      |       Portillo, Ana        |        Parana         |        Aspatem         |
 |   tercera   |     680 (=)      |      Portillo, Lucas       |       Esperanza       |          ATME          |
 |   primera   |     1641 (=)     |     Pradella, Geronimo     |        Parana         |      Tiro Federal      |
 |   segunda   |     750 (=)      |     Pradella, Nicolas      |                       |                        |
@@ -388,7 +388,7 @@
 |   primera   |     1413 (=)     |   Stringhini, Alejandro    |       Santa Fe        |        AteMeLi         |
 |   tercera   |     612 (=)      |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |   primera   |     1182 (=)     |       Sueldo, Pablo        |                       |                        |
-|   cuarta    |    373 (+10)     |     Taffarel, Claudio      |                       |                        |
+|   cuarta    |    356 (+16)     |     Taffarel, Claudio      |                       |                        |
 |   primera   |     1106 (=)     |       Tenca, Gustavo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     866 (=)      |       Tenca, Javier        |        Parana         |        Aspatem         |
 |   cuarta    |     291 (=)      |      Toffolini, Hugo       |                       |                        |
@@ -421,7 +421,7 @@
 |   tercera   |     685 (=)      |       Vetrano, Luca        |                       |                        |
 |   cuarta    |     174 (=)      |        Vidal, Belen        |                       |                        |
 |   segunda   |     798 (-1)     |      Vigouroux, Jorge      |       San Justo       |      Tiro Federal      |
-|   tercera   |    688 (-24)     |     Vigouroux, Manuel      |       San Justo       |      Tiro Federal      |
+|   tercera   |    686 (-24)     |     Vigouroux, Manuel      |       San Justo       |      Tiro Federal      |
 |   tercera   |     452 (=)      |    Vigouroux, Patricio     |       San Justo       |      Tiro Federal      |
 |   tercera   |     537 (=)      |    Vigouroux, Santiago     |       San Justo       |      Tiro Federal      |
 |   primera   |     1143 (=)     |     Villalba, Leonardo     |       Santa Fe        |        AteMeLi         |
