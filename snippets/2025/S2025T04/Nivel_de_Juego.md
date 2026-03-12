@@ -42,9 +42,9 @@
 |   segunda   |     703 (=)      |     Almada, Pablo     |       Parana       |   Aspatem    |
 |             |                  |                       |                    |              |
 |   tercera   |    688 (-14)     |    Costanza, Roque    |      Santa Fe      |   AteMeLi    |
-|   tercera   |    688 (-24)     |   Vigouroux, Manuel   |     San Justo      | Tiro Federal |
+|   tercera   |    686 (-24)     |   Vigouroux, Manuel   |     San Justo      | Tiro Federal |
 |   tercera   |     684 (=)      |      Levin, Raul      |       Parana       |   Aspatem    |
-|   tercera   |     651 (+9)     |     Pilotti, Paz      |      Santa Fe      |   AteMeLi    |
+|   tercera   |     649 (+7)     |     Pilotti, Paz      |      Santa Fe      |   AteMeLi    |
 |   tercera   |     626 (-3)     |      Rosa, Pablo      |                    |              |
 |   tercera   |     612 (=)      |    Suarez, Milton     |      Santa Fe      |   AteMeLi    |
 |   tercera   |     540 (=)      |   Colavini, Daniel    |     Santo Tome     |   AteMeLi    |
@@ -62,14 +62,14 @@
 |   cuarta    |     391 (=)      |    Bracco, Victor     |                    |              |
 |   cuarta    |     391 (=)      |    Gomez, Gabriel     |       Parana       | Tiro Federal |
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |                    |              |
-|   cuarta    |     381 (=)      |    Barrios, Julio     |                    |              |
 |   cuarta    |    379 (+82)     | Samaniego, Francisco  |                    |              |
-|   cuarta    |    373 (+10)     |   Taffarel, Claudio   |                    |              |
+|   cuarta    |     377 (=)      |    Barrios, Julio     |                    |              |
 |   cuarta    |    371 (-131)    |    Locateli, Juan     |                    |              |
 |   cuarta    |     364 (=)      |    Palma, Marcelo     |                    |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                    |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                    |              |
-|   cuarta    |     351 (=)      |     Portillo, Ana     |       Parana       |   Aspatem    |
+|   cuarta    |    356 (+16)     |   Taffarel, Claudio   |                    |              |
+|   cuarta    |     349 (=)      |     Portillo, Ana     |       Parana       |   Aspatem    |
 |   cuarta    |    346 (+62)     |    Perren, Miguel     | San Jeronimo Norte | Libertad SJN |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |                    |              |
 |   cuarta    |     335 (=)      |   Mardon, Emiliano    |                    |              |
@@ -82,9 +82,9 @@
 |   cuarta    |     297 (=)      |     Ramos, Matias     |                    |              |
 |   cuarta    |    292 (+21)     |    Hanrri, Facundo    |       Parana       |   Aspatem    |
 |   cuarta    |     278 (=)      |    Salva, Emanuel     |                    |              |
-|   cuarta    |    275 (-22)     |     Paya, Lazaro      |                    |              |
+|   cuarta    |    273 (-24)     |     Paya, Lazaro      |                    |              |
 |   cuarta    |     241 (=)      |   Lanzotti, Lautaro   |                    |              |
-|   cuarta    |    239 (+44)     |     Diez, Gabriel     |                    |              |
+|   cuarta    |    237 (+42)     |     Diez, Gabriel     |                    |              |
 |   cuarta    |     215 (=)      |    Diaz, Claudino     |                    |              |
 |   cuarta    |     210 (=)      |    Rodriguez, Dora    |                    |              |
 |   cuarta    |    190 (-42)     |     Gatti, Pedro      |       Parana       |   Aspatem    |

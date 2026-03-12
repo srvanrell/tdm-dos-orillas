@@ -61,10 +61,10 @@
 |   tercera   |    418 (-49)     |    Avila, Marcos     |             |              |
 |   tercera   |     405 (=)      | Stivanello, Santiago |             |              |
 |             |                  |                      |             |              |
-|   cuarta    |     381 (=)      |    Barrios, Julio    |             |              |
+|   cuarta    |     377 (=)      |    Barrios, Julio    |             |              |
 |   cuarta    |     353 (=)      |    Bracco, Victor    |             |              |
-|   cuarta    |     351 (=)      |  Taffarel, Claudio   |             |              |
 |   cuarta    |     329 (=)      |   Schiavi, Marcelo   |             |              |
+|   cuarta    |     324 (=)      |  Taffarel, Claudio   |             |              |
 |   cuarta    |     321 (=)      | Bernhardt, Sebastian |             |              |
 |   cuarta    |     315 (=)      |    Diaz, Joaquin     |   Parana    |   Aspatem    |
 |   cuarta    |     301 (=)      |    Schiavi, Bruno    |             |              |

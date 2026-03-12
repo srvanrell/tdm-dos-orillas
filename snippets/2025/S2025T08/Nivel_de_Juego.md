@@ -36,7 +36,7 @@
 |   segunda   |    934 (+47)     |   Barchiesi, Matias   |                       |              |
 |   segunda   |     924 (=)      |    Bonelli, Marcos    |        Parana         |   Aspatem    |
 |   segunda   |     903 (=)      |    Escobar, Gadiel    |                       |              |
-|   segunda   |     895 (=)      |   Velazquez, Irupe    |       Santa Fe        |   AteMeLi    |
+|   segunda   |     893 (=)      |   Velazquez, Irupe    |       Santa Fe        |   AteMeLi    |
 |   segunda   |    883 (+13)     |   Ferretti, Gustavo   |       Santa Fe        |   AteMeLi    |
 |   segunda   |    860 (+15)     |   Escudero, Martin    |       Santa Fe        |   AteMeLi    |
 |   segunda   |     844 (=)      |     Banfi, Franco     |        Parana         |   Aspatem    |
@@ -52,7 +52,7 @@
 |   segunda   |     747 (=)      |  Dalinger, Humberto   |        Parana         | Tiro Federal |
 |   segunda   |     740 (=)      |     Prettis, Juan     |        Parana         |   Aspatem    |
 |   segunda   |    731 (+42)     |    Costanza, Roque    |       Santa Fe        |   AteMeLi    |
-|   segunda   |     731 (-8)     |   Vigouroux, Manuel   |       San Justo       | Tiro Federal |
+|   segunda   |     731 (-6)     |   Vigouroux, Manuel   |       San Justo       | Tiro Federal |
 |   segunda   |     700 (=)      |   Armingol, Manuel    |                       |              |
 |             |                  |                       |                       |              |
 |   tercera   |     687 (=)      |    Savino, Leandro    |       Santa Fe        |   AteMeLi    |
@@ -64,20 +64,20 @@
 |   tercera   |    626 (-149)    |   Corbalan, Martin    |        Parana         |   Aspatem    |
 |   tercera   |     624 (=)      |    Rojas, Priscila    |                       |              |
 |   tercera   |     612 (=)      |    Suarez, Milton     |       Santa Fe        |   AteMeLi    |
-|   tercera   |    606 (-108)    |   Vigouroux, Jorge    |       San Justo       | Tiro Federal |
+|   tercera   |    604 (-110)    |   Vigouroux, Jorge    |       San Justo       | Tiro Federal |
 |   tercera   |    586 (+11)     |   Domenicone, Bruno   |       Santa Fe        |   AteMeLi    |
 |   tercera   |     533 (=)      |   Colavini, Daniel    |      Santo Tome       |   AteMeLi    |
 |   tercera   |     522 (=)      |    Bulacios, Juan     |                       |              |
 |   tercera   |     522 (=)      |   Oliveras, Nahuel    |       Santa Fe        |   AteMeLi    |
 |   tercera   |     504 (+8)     |     Diaz, Joaquin     |        Parana         |   Aspatem    |
-|   tercera   |     499 (=)      |      Rosa, Pablo      |                       |              |
+|   tercera   |     497 (=)      |   Taffarel, Claudio   |                       |              |
 |   tercera   |     495 (=)      | Samaniego, Francisco  |                       |              |
 |   tercera   |    493 (+58)     |     Tourn, Bruno      |                       |              |
 |   tercera   |     492 (=)      |    Grippo, Agustin    |                       |              |
-|   tercera   |     489 (=)      |   Taffarel, Claudio   |                       |              |
-|   tercera   |     481 (=)      |    Barrios, Julio     |                       |              |
-|   tercera   |     479 (=)      |  Faggionatto, Walter  |                       |              |
+|   tercera   |     490 (=)      |      Rosa, Pablo      |                       |              |
 |   tercera   |    478 (+63)     |  Trevignani, Alfonso  |       Santa Fe        |   AteMeLi    |
+|   tercera   |     477 (=)      |    Barrios, Julio     |                       |              |
+|   tercera   |     475 (=)      |  Faggionatto, Walter  |                       |              |
 |   tercera   |    468 (+46)     |   Pettinatti, Cesar   |                       |              |
 |   tercera   |     467 (=)      |    Bracco, Victor     |                       |              |
 |   tercera   |    457 (-80)     |  Vigouroux, Santiago  |       San Justo       | Tiro Federal |
@@ -98,7 +98,7 @@
 |   cuarta    |     391 (=)      |    Gomez, Gabriel     |        Parana         | Tiro Federal |
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |                       |              |
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |                       |              |
-|   cuarta    |     379 (=)      |    Visintini, Juan    |                       |              |
+|   cuarta    |     375 (=)      |    Visintini, Juan    |                       |              |
 |   cuarta    |     364 (=)      |    Palma, Marcelo     |                       |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                       |              |
 |   cuarta    |     359 (=)      |    Yenerich, Fabio    |                       |              |
@@ -106,10 +106,10 @@
 |   cuarta    |     350 (=)      |    Hanrri, Facundo    |        Parana         |   Aspatem    |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |                       |              |
 |   cuarta    |     341 (=)      |   Orcellet, Rodrigo   |                       |              |
-|   cuarta    |    335 (+15)     |    Perren, Miguel     |  San Jeronimo Norte   | Libertad SJN |
 |   cuarta    |     335 (=)      |   Mardon, Emiliano    |                       |              |
 |   cuarta    |     332 (=)      |   Quinones, German    |                       |              |
-|   cuarta    |     332 (=)      |     Paya, Lazaro      |                       |              |
+|   cuarta    |    331 (+15)     |    Perren, Miguel     |  San Jeronimo Norte   | Libertad SJN |
+|   cuarta    |     330 (=)      |     Paya, Lazaro      |                       |              |
 |   cuarta    |     330 (=)      |     Paz, Joaquin      |                       |              |
 |   cuarta    |    319 (-57)     |    Florito, Miguel    |       Santa Fe        |   AteMeLi    |
 |   cuarta    |    318 (-47)     |    Locateli, Juan     |                       |              |
@@ -121,10 +121,10 @@
 |   cuarta    |     300 (=)      |    Silva, Santiago    |                       |              |
 |   cuarta    |     297 (=)      |     Ramos, Matias     |                       |              |
 |   cuarta    |     293 (=)      |     Fenes, Martin     |                       |              |
-|   cuarta    |     286 (=)      |     Diez, Gabriel     |                       |              |
 |   cuarta    |     284 (=)      |    Andolfo, Genaro    |                       |              |
-|   cuarta    |     283 (=)      |   Allegrini, Alonso   |                       |              |
+|   cuarta    |     284 (=)      |     Diez, Gabriel     |                       |              |
 |   cuarta    |     283 (=)      |     Hepp, Gernan      |                       |              |
+|   cuarta    |     281 (=)      |   Allegrini, Alonso   |                       |              |
 |   cuarta    |    280 (-25)     |   Albrecht, Ignacio   |  San Jeronimo Norte   | Libertad SJN |
 |   cuarta    |     280 (=)      |     Lell, Claudia     |        Parana         | Tiro Federal |
 |   cuarta    |    274 (-166)    |    Valcar, Daniel     |                       |              |
@@ -140,12 +140,12 @@
 |   cuarta    |     232 (=)      |   Zelayeta, Carlos    |                       |              |
 |   cuarta    |     232 (=)      |  Bernhardt, Gabriel   |                       |              |
 |   cuarta    |     228 (=)      |    Rubio, Julian2     |       Santa Fe        |   AteMeLi    |
-|   cuarta    |     225 (=)      |     Portillo, Ana     |        Parana         |   Aspatem    |
 |   cuarta    |     225 (=)      |    Toffolini, Hugo    |                       |              |
+|   cuarta    |     223 (=)      |     Portillo, Ana     |        Parana         |   Aspatem    |
 |   cuarta    |     215 (=)      |    Diaz, Claudino     |                       |              |
 |   cuarta    |     210 (=)      |    Rodriguez, Dora    |                       |              |
 |   cuarta    |     208 (=)      |     Gaete, Tiago      |                       |              |
-|   cuarta    |     198 (=)      |    Lacuadra, Lena     |                       |              |
+|   cuarta    |     196 (=)      |    Lacuadra, Lena     |                       |              |
 |   cuarta    |     188 (=)      |    Pintos, Viviana    |                       |              |
 |   cuarta    |     184 (=)      |     Monzon, Mari      |                       |              |
 |   cuarta    |     177 (=)      |   Bordeira, Gabriel   |                       |              |

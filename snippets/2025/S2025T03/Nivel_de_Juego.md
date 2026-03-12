@@ -34,7 +34,7 @@
 |   segunda   |    737 (+54)     |  Dalinger, Humberto   |   Parana   | Tiro Federal |
 |   segunda   |    732 (+77)     |   Corbalan, Martin    |   Parana   |   Aspatem    |
 |   segunda   |    720 (-31)     |     Rubio, Julian     |  Santa Fe  |   AteMeLi    |
-|   segunda   |    712 (+81)     |   Vigouroux, Manuel   | San Justo  | Tiro Federal |
+|   segunda   |    710 (+79)     |   Vigouroux, Manuel   | San Justo  | Tiro Federal |
 |   segunda   |    703 (-72)     |     Almada, Pablo     |   Parana   |   Aspatem    |
 |   segunda   |     702 (=)      |    Costanza, Roque    |  Santa Fe  |   AteMeLi    |
 |             |                  |                       |            |              |
@@ -58,13 +58,13 @@
 |   cuarta    |    391 (+38)     |    Bracco, Victor     |            |              |
 |   cuarta    |    391 (-32)     |    Gomez, Gabriel     |   Parana   | Tiro Federal |
 |   cuarta    |    384 (-51)     |    Grippo, Daniel     |            |              |
-|   cuarta    |     381 (=)      |    Barrios, Julio     |            |              |
+|   cuarta    |     377 (=)      |    Barrios, Julio     |            |              |
 |   cuarta    |    364 (-49)     |    Palma, Marcelo     |            |              |
-|   cuarta    |    363 (+12)     |   Taffarel, Claudio   |            |              |
 |   cuarta    |    359 (+30)     |   Schiavi, Marcelo    |            |              |
 |   cuarta    |     356 (+4)     |     Jove, Alberto     |            |              |
-|   cuarta    |    351 (+120)    |     Portillo, Ana     |   Parana   |   Aspatem    |
+|   cuarta    |    349 (+118)    |     Portillo, Ana     |   Parana   |   Aspatem    |
 |   cuarta    |    344 (+36)     |    Raspini, Pamela    |            |              |
+|   cuarta    |    340 (+16)     |   Taffarel, Claudio   |            |              |
 |   cuarta    |    335 (-40)     |   Mardon, Emiliano    |            |              |
 |   cuarta    |    332 (+32)     |   Quinones, German    |            |              |
 |   cuarta    |     321 (=)      | Bernhardt, Sebastian  |            |              |
