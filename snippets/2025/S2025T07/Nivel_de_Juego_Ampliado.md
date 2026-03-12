@@ -196,7 +196,7 @@
 |   primera   |     1694 (=)     |     Gonzalez, Juan A.      |      Reconquista      |         ATMAR          |
 |   primera   |     1054 (=)     |      Gonzalez, Oscar       |                       |                        |
 |   segunda   |     931 (=)      |        Goy, Gerardo        |      Reconquista      |         ATMAR          |
-|   tercera   |     492 (=)      |      Grippo, Agustin       |                       |                        |
+|   tercera   |     491 (=)      |      Grippo, Agustin       |                       |                        |
 |   cuarta    |     384 (=)      |       Grippo, Daniel       |                       |                        |
 |   primera   |    1144 (-74)    |     Grippo, Francisco      |        Parana         |        Aspatem         |
 |   segunda   |     867 (=)      |     Guckert, Emiliano      |       Santa Fe        |                        |
@@ -298,7 +298,7 @@
 |   primera   |     1079 (=)     |     Palamedi, Cristian     |       Santa Fe        |        AteMeLi         |
 |   primera   |    1454 (+30)    |       Palamedi, Uma        |       Santa Fe        |        AteMeLi         |
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |                        |
-|   cuarta    |     364 (=)      |       Palma, Marcelo       |                       |                        |
+|   cuarta    |     363 (=)      |       Palma, Marcelo       |                       |                        |
 |   cuarta    |     224 (=)      |      Paulin, Santiago      |                       |                        |
 |   cuarta    |     330 (=)      |        Paya, Lazaro        |                       |                        |
 |   cuarta    |     330 (=)      |        Paz, Joaquin        |                       |                        |
@@ -388,7 +388,7 @@
 |   primera   |     1413 (=)     |   Stringhini, Alejandro    |       Santa Fe        |        AteMeLi         |
 |   tercera   |     612 (=)      |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |   primera   |     1182 (=)     |       Sueldo, Pablo        |                       |                        |
-|   tercera   |    497 (+121)    |     Taffarel, Claudio      |                       |                        |
+|   tercera   |    495 (+123)    |     Taffarel, Claudio      |                       |                        |
 |   primera   |     1106 (=)     |       Tenca, Gustavo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     866 (=)      |       Tenca, Javier        |        Parana         |        Aspatem         |
 |   cuarta    |    225 (-48)     |      Toffolini, Hugo       |                       |                        |
@@ -399,7 +399,7 @@
 |   tercera   |     435 (=)      |      Torres, Lautaro       |                       |                        |
 |   tercera   |     435 (=)      |        Tourn, Bruno        |                       |                        |
 |   segunda   |     972 (=)      |        Tourn, Tomas        |      Reconquista      |         ATMAR          |
-|   tercera   |    416 (+118)    |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
+|   tercera   |    419 (+118)    |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
 |   tercera   |     429 (=)      |     Trevignani, Lucas      |       Santa Fe        |        AteMeLi         |
 |   tercera   |     402 (=)      |     Troncoso, Mauricio     |                       |                        |
 |   primera   |     1206 (=)     |        Tumino, Juan        |                       |                        |
@@ -443,4 +443,4 @@
 |   cuarta    |     356 (=)      |       Zapata, Lucas        |                       |                        |
 |   tercera   |     697 (=)      |        Zavala, Jose        |                       |                        |
 |   tercera   |     498 (=)      |       Zeitune, Angel       |                       |                        |
-|   cuarta    |     232 (+6)     |      Zelayeta, Carlos      |                       |                        |
+|   cuarta    |     230 (+4)     |      Zelayeta, Carlos      |                       |                        |

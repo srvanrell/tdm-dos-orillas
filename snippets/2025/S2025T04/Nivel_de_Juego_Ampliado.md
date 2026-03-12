@@ -196,13 +196,13 @@
 |   primera   |     1694 (=)     |     Gonzalez, Juan A.      |      Reconquista      |         ATMAR          |
 |   primera   |     1054 (=)     |      Gonzalez, Oscar       |                       |                        |
 |   segunda   |     931 (=)      |        Goy, Gerardo        |      Reconquista      |         ATMAR          |
-|   tercera   |     492 (=)      |      Grippo, Agustin       |                       |                        |
+|   tercera   |     491 (=)      |      Grippo, Agustin       |                       |                        |
 |   cuarta    |     384 (=)      |       Grippo, Daniel       |                       |                        |
 |   primera   |   1235 (+107)    |     Grippo, Francisco      |        Parana         |        Aspatem         |
 |   segunda   |     867 (=)      |     Guckert, Emiliano      |       Santa Fe        |                        |
 |   segunda   |     732 (=)      |    Guckert, Juan Pablo     |                       |                        |
 |   segunda   |     1000 (=)     |        Hagge, Pilar        |       Santa Fe        |        AteMeLi         |
-|   cuarta    |    292 (+21)     |      Hanrri, Facundo       |        Parana         |        Aspatem         |
+|   cuarta    |    293 (+21)     |      Hanrri, Facundo       |        Parana         |        Aspatem         |
 |   segunda   |     791 (=)      |      Heinzen, Gonzalo      |                       |                        |
 |   cuarta    |     307 (=)      |        Hepp, Gernan        |                       |                        |
 |   primera   |     1388 (=)     |     Heredia, Santiago      |       Santa Fe        |        AteMeLi         |
@@ -298,7 +298,7 @@
 |   segunda   |     961 (=)      |     Palamedi, Cristian     |       Santa Fe        |        AteMeLi         |
 |   primera   |     1402 (=)     |       Palamedi, Uma        |       Santa Fe        |        AteMeLi         |
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |                        |
-|   cuarta    |     364 (=)      |       Palma, Marcelo       |                       |                        |
+|   cuarta    |     363 (=)      |       Palma, Marcelo       |                       |                        |
 |   cuarta    |     224 (=)      |      Paulin, Santiago      |                       |                        |
 |   cuarta    |    273 (-24)     |        Paya, Lazaro        |                       |                        |
 |   cuarta    |     344 (=)      |        Paz, Joaquin        |                       |                        |

@@ -70,12 +70,12 @@
 |   tercera   |     522 (=)      |    Bulacios, Juan     |                       |              |
 |   tercera   |     522 (=)      |   Oliveras, Nahuel    |       Santa Fe        |   AteMeLi    |
 |   tercera   |     504 (+8)     |     Diaz, Joaquin     |        Parana         |   Aspatem    |
-|   tercera   |     497 (=)      |   Taffarel, Claudio   |                       |              |
 |   tercera   |     495 (=)      | Samaniego, Francisco  |                       |              |
+|   tercera   |     495 (=)      |   Taffarel, Claudio   |                       |              |
 |   tercera   |    493 (+58)     |     Tourn, Bruno      |                       |              |
-|   tercera   |     492 (=)      |    Grippo, Agustin    |                       |              |
+|   tercera   |     491 (=)      |    Grippo, Agustin    |                       |              |
 |   tercera   |     490 (=)      |      Rosa, Pablo      |                       |              |
-|   tercera   |    478 (+63)     |  Trevignani, Alfonso  |       Santa Fe        |   AteMeLi    |
+|   tercera   |    482 (+63)     |  Trevignani, Alfonso  |       Santa Fe        |   AteMeLi    |
 |   tercera   |     477 (=)      |    Barrios, Julio     |                       |              |
 |   tercera   |     475 (=)      |  Faggionatto, Walter  |                       |              |
 |   tercera   |    468 (+46)     |   Pettinatti, Cesar   |                       |              |
@@ -89,8 +89,8 @@
 |   tercera   |     424 (=)      |     Picech, Gino      |                       |              |
 |   tercera   |    412 (-18)     |   Agustini, Sergio    |                       |              |
 |   tercera   |     411 (=)      | Bernhardt, Sebastian  |                       |              |
-|   tercera   |    410 (+100)    |   Ranzani, Esteban    |                       |              |
 |   tercera   |    410 (-19)     |   Trevignani, Lucas   |       Santa Fe        |   AteMeLi    |
+|   tercera   |    408 (+98)     |   Ranzani, Esteban    |                       |              |
 |   tercera   |    401 (-11)     |    Lerman, Ricarlo    |                       |              |
 |             |                  |                       |                       |              |
 |   cuarta    |     399 (=)      |    Aranda, Luciano    |                       |              |
@@ -99,7 +99,7 @@
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |                       |              |
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |                       |              |
 |   cuarta    |     375 (=)      |    Visintini, Juan    |                       |              |
-|   cuarta    |     364 (=)      |    Palma, Marcelo     |                       |              |
+|   cuarta    |     363 (=)      |    Palma, Marcelo     |                       |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                       |              |
 |   cuarta    |     359 (=)      |    Yenerich, Fabio    |                       |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                       |              |
@@ -137,8 +137,8 @@
 |   cuarta    |     240 (=)      |    Corradi, Zulma     |                       |              |
 |   cuarta    |    236 (+68)     |   Bregant, Osvaldo    |                       |              |
 |   cuarta    |     235 (=)      |    Carli, Valentin    |                       |              |
-|   cuarta    |     232 (=)      |   Zelayeta, Carlos    |                       |              |
 |   cuarta    |     232 (=)      |  Bernhardt, Gabriel   |                       |              |
+|   cuarta    |     230 (=)      |   Zelayeta, Carlos    |                       |              |
 |   cuarta    |     228 (=)      |    Rubio, Julian2     |       Santa Fe        |   AteMeLi    |
 |   cuarta    |     225 (=)      |    Toffolini, Hugo    |                       |              |
 |   cuarta    |     223 (=)      |     Portillo, Ana     |        Parana         |   Aspatem    |
@@ -155,6 +155,6 @@
 |   cuarta    |    152 (-26)     |   Del Turco, Tadeo    |                       |              |
 |   cuarta    |     151 (=)      |    Justet, Walter     |                       |              |
 |   cuarta    |     122 (=)      |   Fernandez, Belen    |                       |              |
-|   cuarta    |     91 (-20)     |     Lobino, Hugo      |                       |              |
+|   cuarta    |     93 (-18)     |     Lobino, Hugo      |                       |              |
 |   cuarta    |     49 (-26)     |    Candia, Matias     |                       |              |
 |   cuarta    |     35 (-10)     |    Acuna, Patricio    |                       |              |

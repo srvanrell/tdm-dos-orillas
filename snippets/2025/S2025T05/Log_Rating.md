@@ -1,28 +1,28 @@
 |          Ganador           |          Perdedor           |  Diferencia  |  Puntos Ganador  |  Puntos Perdedor  |  Instancia  |  Categoría  |  Factor  |
 |:--------------------------:|:---------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
-|    Barrios, Julio (377)    |    Silva, Santiago (299)    |      77      |        14        |        -14        |   cuartos   |   cuarta    |    1     |
+|    Barrios, Julio (377)    |    Silva, Santiago (300)    |      77      |        14        |        -14        |   cuartos   |   cuarta    |    1     |
 |     Gatti, Pedro (190)     |  Faggionatto, Walter (370)  |     -180     |        36        |        -36        |   cuartos   |   cuarta    |    1     |
-|   Hanrri, Facundo (292)    | Samaniego, Francisco (379)  |     -86      |        26        |        -26        |   cuartos   |   cuarta    |    1     |
+|   Hanrri, Facundo (293)    | Samaniego, Francisco (379)  |     -86      |        26        |        -26        |   cuartos   |   cuarta    |    1     |
 |     Picech, Gino (458)     |     Diez, Gabriel (237)     |     221      |        4         |        -4         |   cuartos   |   cuarta    |   0.5    |
 |     Picech, Gino (458)     |    Barrios, Julio (377)     |      81      |        7         |        -7         |    final    |   cuarta    |   0.5    |
 |    Barrios, Julio (377)    |   Bregant, Osvaldo (222)    |     155      |        10        |        -10        |   octavos   |   cuarta    |    1     |
 |    Diez, Gabriel (237)     | Kotlireusky, Benjamin (207) |      30      |        16        |        -16        |   octavos   |   cuarta    |    1     |
-| Faggionatto, Walter (370)  |    Andolfo, Genaro (316)    |      53      |        14        |        -14        |   octavos   |   cuarta    |    1     |
+| Faggionatto, Walter (370)  |    Andolfo, Genaro (316)    |      54      |        14        |        -14        |   octavos   |   cuarta    |    1     |
 |     Gatti, Pedro (190)     |    Perren, Miguel (346)     |     -156     |        36        |        -36        |   octavos   |   cuarta    |    1     |
-|   Hanrri, Facundo (292)    |     Bregant, Juan (207)     |      85      |        14        |        -14        |   octavos   |   cuarta    |    1     |
+|   Hanrri, Facundo (293)    |     Bregant, Juan (207)     |      86      |        14        |        -14        |   octavos   |   cuarta    |    1     |
 |     Picech, Gino (458)     |   Orcellet, Rodrigo (331)   |     127      |        6         |        -6         |   octavos   |   cuarta    |   0.5    |
-|   Silva, Santiago (299)    |   Bregant, Osvaldo (222)    |      77      |        14        |        -14        |   octavos   |   cuarta    |    1     |
+|   Silva, Santiago (300)    |   Bregant, Osvaldo (222)    |      78      |        14        |        -14        |   octavos   |   cuarta    |    1     |
 |    Barrios, Julio (377)    |     Gatti, Pedro (190)      |     187      |        10        |        -10        |  semifinal  |   cuarta    |    1     |
-|     Picech, Gino (458)     |    Hanrri, Facundo (292)    |     166      |        5         |        -5         |  semifinal  |   cuarta    |   0.5    |
+|     Picech, Gino (458)     |    Hanrri, Facundo (293)    |     165      |        5         |        -5         |  semifinal  |   cuarta    |   0.5    |
 |   Andolfo, Genaro (316)    |    Corradi, Zulma (286)     |      30      |        16        |        -16        |    zona     |   cuarta    |    1     |
 |    Barrios, Julio (377)    |     Gatti, Pedro (190)      |     187      |        10        |        -10        |    zona     |   cuarta    |    1     |
 |    Barrios, Julio (377)    |     Picech, Gino (458)      |     -81      |        39        |        -39        |    zona     |   cuarta    |   1.5    |
 |   Bregant, Osvaldo (222)   |     Bregant, Juan (207)     |      15      |        18        |        -18        |    zona     |   cuarta    |    1     |
 |    Diez, Gabriel (237)     |     Bregant, Juan (207)     |      30      |        16        |        -16        |    zona     |   cuarta    |    1     |
 |    Diez, Gabriel (237)     |   Bregant, Osvaldo (222)    |      15      |        18        |        -18        |    zona     |   cuarta    |    1     |
-| Faggionatto, Walter (370)  |    Hanrri, Facundo (292)    |      77      |        14        |        -14        |    zona     |   cuarta    |    1     |
-| Faggionatto, Walter (370)  |    Lacuadra, Lena (262)     |     107      |        12        |        -12        |    zona     |   cuarta    |    1     |
-|   Hanrri, Facundo (292)    |    Lacuadra, Lena (262)     |      30      |        16        |        -16        |    zona     |   cuarta    |    1     |
+| Faggionatto, Walter (370)  |    Hanrri, Facundo (293)    |      77      |        14        |        -14        |    zona     |   cuarta    |    1     |
+| Faggionatto, Walter (370)  |    Lacuadra, Lena (262)     |     108      |        12        |        -12        |    zona     |   cuarta    |    1     |
+|   Hanrri, Facundo (293)    |    Lacuadra, Lena (262)     |      31      |        16        |        -16        |    zona     |   cuarta    |    1     |
 |  Orcellet, Rodrigo (331)   |    Andolfo, Genaro (316)    |      15      |        18        |        -18        |    zona     |   cuarta    |    1     |
 |  Orcellet, Rodrigo (331)   |    Corradi, Zulma (286)     |      45      |        16        |        -16        |    zona     |   cuarta    |    1     |
 |    Perren, Miguel (346)    |    Andolfo, Genaro (316)    |      30      |        16        |        -16        |    zona     |   cuarta    |    1     |
@@ -30,8 +30,8 @@
 |    Perren, Miguel (346)    |   Orcellet, Rodrigo (331)   |      15      |        18        |        -18        |    zona     |   cuarta    |    1     |
 |     Picech, Gino (458)     |     Gatti, Pedro (190)      |     268      |        4         |        -4         |    zona     |   cuarta    |   0.5    |
 | Samaniego, Francisco (379) | Kotlireusky, Benjamin (207) |     172      |        10        |        -10        |    zona     |   cuarta    |    1     |
-| Samaniego, Francisco (379) |    Silva, Santiago (299)    |      79      |        14        |        -14        |    zona     |   cuarta    |    1     |
-|   Silva, Santiago (299)    | Kotlireusky, Benjamin (207) |      92      |        14        |        -14        |    zona     |   cuarta    |    1     |
+| Samaniego, Francisco (379) |    Silva, Santiago (300)    |      79      |        14        |        -14        |    zona     |   cuarta    |    1     |
+|   Silva, Santiago (300)    | Kotlireusky, Benjamin (207) |      93      |        14        |        -14        |    zona     |   cuarta    |    1     |
 |                            |                             |              |                  |                   |             |             |          |
 |    Asmu, Agustin (1844)    |  Bernhardt, Leandro (834)   |     1010     |        0         |         0         |   cuartos   |   primera   |   0.5    |
 | Lofeudo, Juan Jose (1806)  |  Allegrini, Tiziano (1058)  |     748      |        2         |        -2         |   cuartos   |   primera   |    1     |
@@ -113,26 +113,26 @@
 |                            |                             |              |                  |                   |             |             |          |
 |   Costanza, Roque (688)    |     Diaz, Joaquin (428)     |     260      |        8         |        -8         |   cuartos   |   tercera   |    1     |
 |     Levin, Raul (684)      |    Bracco, Victor (391)     |     293      |        8         |        -8         |   cuartos   |   tercera   |    1     |
-|     Pilotti, Paz (649)     |     Picech, Gino (458)      |     190      |        10        |        -10        |   cuartos   |   tercera   |    1     |
+|     Pilotti, Paz (649)     |     Picech, Gino (458)      |     191      |        10        |        -10        |   cuartos   |   tercera   |    1     |
 |     Rosa, Pablo (626)      |    Barrios, Julio (377)     |     249      |        4         |        -4         |   cuartos   |   tercera   |   0.5    |
 |     Pilotti, Paz (649)     |    Costanza, Roque (688)    |     -39      |        22        |        -22        |    final    |   tercera   |    1     |
 |    Barrios, Julio (377)    |   Pettinatti, Cesar (503)   |     -126     |        45        |        -45        |   octavos   |   tercera   |   1.5    |
 |    Bracco, Victor (391)    |    Rodelli, Tiago (392)     |      -1      |        18        |        -18        |   octavos   |   tercera   |    1     |
 |    Diaz, Joaquin (428)     |     Bordi, Mario (502)      |     -74      |        26        |        -26        |   octavos   |   tercera   |    1     |
 |     Levin, Raul (684)      |     Diez, Gabriel (237)     |     447      |        2         |        -2         |   octavos   |   tercera   |   0.5    |
-|     Picech, Gino (458)     |   Colavini, Daniel (540)    |     -81      |        26        |        -26        |   octavos   |   tercera   |    1     |
-|     Pilotti, Paz (649)     |    Hanrri, Facundo (292)    |     356      |        3         |        -3         |   octavos   |   tercera   |   0.5    |
+|     Picech, Gino (458)     |   Colavini, Daniel (540)    |     -82      |        26        |        -26        |   octavos   |   tercera   |    1     |
+|     Pilotti, Paz (649)     |    Hanrri, Facundo (293)    |     356      |        3         |        -3         |   octavos   |   tercera   |   0.5    |
 |     Rosa, Pablo (626)      |    Pinery, Sergio (385)     |     241      |        8         |        -8         |   octavos   |   tercera   |    1     |
 |   Costanza, Roque (688)    |      Rosa, Pablo (626)      |      62      |        14        |        -14        |  semifinal  |   tercera   |    1     |
 |     Pilotti, Paz (649)     |      Levin, Raul (684)      |     -35      |        22        |        -22        |  semifinal  |   tercera   |    1     |
 |    Barrios, Julio (377)    |     Picech, Gino (458)      |     -81      |        39        |        -39        |    zona     |   tercera   |   1.5    |
 |    Barrios, Julio (377)    |    Salva, Emanuel (278)     |      99      |        12        |        -12        |    zona     |   tercera   |    1     |
-|     Bordi, Mario (502)     |    Perren, Miguel (346)     |     155      |        5         |        -5         |    zona     |   tercera   |   0.5    |
+|     Bordi, Mario (502)     |    Perren, Miguel (346)     |     156      |        5         |        -5         |    zona     |   tercera   |   0.5    |
 |    Bracco, Victor (391)    |    Pinery, Sergio (385)     |      6       |        18        |        -18        |    zona     |   tercera   |    1     |
 |    Bracco, Victor (391)    | Samaniego, Francisco (379)  |      12      |        18        |        -18        |    zona     |   tercera   |    1     |
 |    Bracco, Victor (391)    |   Zelayeta, Carlos (266)    |     125      |        12        |        -12        |    zona     |   tercera   |    1     |
 |   Colavini, Daniel (540)   |  Calabrese, Alfredo (308)   |     232      |        8         |        -8         |    zona     |   tercera   |    1     |
-|   Colavini, Daniel (540)   |    Hanrri, Facundo (292)    |     247      |        4         |        -4         |    zona     |   tercera   |   0.5    |
+|   Colavini, Daniel (540)   |    Hanrri, Facundo (293)    |     247      |        4         |        -4         |    zona     |   tercera   |   0.5    |
 |   Colavini, Daniel (540)   |   Pettinatti, Cesar (503)   |      37      |        16        |        -16        |    zona     |   tercera   |    1     |
 |   Costanza, Roque (688)    |    Bracco, Victor (391)     |     297      |        8         |        -8         |    zona     |   tercera   |    1     |
 |   Costanza, Roque (688)    |    Pinery, Sergio (385)     |     303      |        6         |        -6         |    zona     |   tercera   |    1     |
@@ -141,13 +141,13 @@
 |    Diaz, Joaquin (428)     |     Diez, Gabriel (237)     |     191      |        5         |        -5         |    zona     |   tercera   |   0.5    |
 |    Diaz, Joaquin (428)     |  Faggionatto, Walter (370)  |      58      |        7         |        -7         |    zona     |   tercera   |   0.5    |
 |    Diez, Gabriel (237)     |  Faggionatto, Walter (370)  |     -133     |        30        |        -30        |    zona     |   tercera   |    1     |
-|   Hanrri, Facundo (292)    |  Calabrese, Alfredo (308)   |     -15      |        18        |        -18        |    zona     |   tercera   |    1     |
+|   Hanrri, Facundo (293)    |  Calabrese, Alfredo (308)   |     -15      |        18        |        -18        |    zona     |   tercera   |    1     |
 |     Levin, Raul (684)      |    Barrios, Julio (377)     |     307      |        3         |        -3         |    zona     |   tercera   |   0.5    |
-|     Levin, Raul (684)      |     Picech, Gino (458)      |     225      |        8         |        -8         |    zona     |   tercera   |    1     |
+|     Levin, Raul (684)      |     Picech, Gino (458)      |     226      |        8         |        -8         |    zona     |   tercera   |    1     |
 |     Levin, Raul (684)      |    Salva, Emanuel (278)     |     406      |        4         |        -4         |    zona     |   tercera   |    1     |
-|    Perren, Miguel (346)    |      Rosa, Pablo (626)      |     -279     |        63        |        -63        |    zona     |   tercera   |   1.5    |
+|    Perren, Miguel (346)    |      Rosa, Pablo (626)      |     -280     |        63        |        -63        |    zona     |   tercera   |   1.5    |
 |  Pettinatti, Cesar (503)   |  Calabrese, Alfredo (308)   |     195      |        10        |        -10        |    zona     |   tercera   |    1     |
-|  Pettinatti, Cesar (503)   |    Hanrri, Facundo (292)    |     210      |        4         |        -4         |    zona     |   tercera   |   0.5    |
+|  Pettinatti, Cesar (503)   |    Hanrri, Facundo (293)    |     210      |        4         |        -4         |    zona     |   tercera   |   0.5    |
 |     Picech, Gino (458)     |    Salva, Emanuel (278)     |     180      |        10        |        -10        |    zona     |   tercera   |    1     |
 |     Pilotti, Paz (649)     |     Diaz, Joaquin (428)     |     221      |        8         |        -8         |    zona     |   tercera   |    1     |
 |     Pilotti, Paz (649)     |     Diez, Gabriel (237)     |     412      |        2         |        -2         |    zona     |   tercera   |   0.5    |
@@ -155,7 +155,7 @@
 |    Pinery, Sergio (385)    | Samaniego, Francisco (379)  |      6       |        18        |        -18        |    zona     |   tercera   |    1     |
 |    Pinery, Sergio (385)    |   Zelayeta, Carlos (266)    |     119      |        12        |        -12        |    zona     |   tercera   |    1     |
 |    Rodelli, Tiago (392)    |     Bordi, Mario (502)      |     -110     |        30        |        -30        |    zona     |   tercera   |    1     |
-|    Rodelli, Tiago (392)    |    Perren, Miguel (346)     |      45      |        16        |        -16        |    zona     |   tercera   |    1     |
+|    Rodelli, Tiago (392)    |    Perren, Miguel (346)     |      46      |        16        |        -16        |    zona     |   tercera   |    1     |
 |     Rosa, Pablo (626)      |     Bordi, Mario (502)      |     124      |        12        |        -12        |    zona     |   tercera   |    1     |
 |     Rosa, Pablo (626)      |    Rodelli, Tiago (392)     |     234      |        8         |        -8         |    zona     |   tercera   |    1     |
 | Samaniego, Francisco (379) |   Zelayeta, Carlos (266)    |     113      |        12        |        -12        |    zona     |   tercera   |    1     |

@@ -67,7 +67,7 @@
 |   tercera   |     522 (=)      |    Bulacios, Juan     |                    |              |
 |   tercera   |    522 (+56)     |   Oliveras, Nahuel    |      Santa Fe      |   AteMeLi    |
 |   tercera   |    496 (-38)     |     Diaz, Joaquin     |       Parana       |   Aspatem    |
-|   tercera   |     492 (=)      |    Grippo, Agustin    |                    |              |
+|   tercera   |     491 (=)      |    Grippo, Agustin    |                    |              |
 |   tercera   |    467 (+42)     |    Bracco, Victor     |                    |              |
 |   tercera   |     448 (=)      |   Previale, Jesica    |                    |              |
 |   tercera   |     439 (=)      |     Bordi, Mario      |                    |              |
@@ -84,10 +84,10 @@
 |   cuarta    |    390 (+68)     |    Lerman, Ricarlo    |                    |              |
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |                    |              |
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |                    |              |
-|   cuarta    |    376 (+20)     |   Taffarel, Claudio   |                    |              |
 |   cuarta    |    375 (+68)     |    Visintini, Juan    |                    |              |
+|   cuarta    |    372 (+16)     |   Taffarel, Claudio   |                    |              |
 |   cuarta    |     365 (-6)     |    Locateli, Juan     |                    |              |
-|   cuarta    |     364 (=)      |    Palma, Marcelo     |                    |              |
+|   cuarta    |     363 (=)      |    Palma, Marcelo     |                    |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                    |              |
 |   cuarta    |    358 (-42)     |    Perren, Miguel     | San Jeronimo Norte | Libertad SJN |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                    |              |
@@ -95,7 +95,7 @@
 |   cuarta    |    344 (-132)    |   Ranzani, Esteban    |                    |              |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |                    |              |
 |   cuarta    |     341 (=)      |   Orcellet, Rodrigo   |                    |              |
-|   cuarta    |     336 (=)      |    Hanrri, Facundo    |       Parana       |   Aspatem    |
+|   cuarta    |     337 (=)      |    Hanrri, Facundo    |       Parana       |   Aspatem    |
 |   cuarta    |     335 (=)      |   Mardon, Emiliano    |                    |              |
 |   cuarta    |     333 (=)      |  Faggionatto, Walter  |                    |              |
 |   cuarta    |     332 (=)      |   Quinones, German    |                    |              |
@@ -107,8 +107,8 @@
 |   cuarta    |    306 (-35)     | Barreto, Maximiliano  |                    |              |
 |   cuarta    |     302 (=)      | Marchitelli, Ezequiel |                    |              |
 |   cuarta    |     301 (=)      |    Schiavi, Bruno     |                    |              |
+|   cuarta    |    301 (+43)     |  Trevignani, Alfonso  |      Santa Fe      |   AteMeLi    |
 |   cuarta    |     300 (=)      |    Silva, Santiago    |                    |              |
-|   cuarta    |    298 (+39)     |  Trevignani, Alfonso  |      Santa Fe      |   AteMeLi    |
 |   cuarta    |     297 (=)      |     Ramos, Matias     |                    |              |
 |   cuarta    |    293 (-121)    |     Fenes, Martin     |                    |              |
 |   cuarta    |    289 (-18)     |     Hepp, Gernan      |                    |              |

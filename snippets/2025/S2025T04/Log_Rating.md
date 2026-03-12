@@ -2,13 +2,13 @@
 |:--------------------------:|:--------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
 |    Perren, Miguel (284)    |     Gatti, Pedro (232)     |      52      |        14        |        -14        |   cuartos   |   cuarta    |    1     |
 | Samaniego, Francisco (297) |    Diez, Gabriel (195)     |     102      |        12        |        -12        |   cuartos   |   cuarta    |    1     |
-|    Perren, Miguel (284)    | Samaniego, Francisco (297) |     -12      |        18        |        -18        |    final    |   cuarta    |    1     |
-|    Perren, Miguel (284)    |     Paya, Lazaro (297)     |     -12      |        18        |        -18        |  semifinal  |   cuarta    |    1     |
-| Samaniego, Francisco (297) |   Hanrri, Facundo (271)    |      25      |        16        |        -16        |  semifinal  |   cuarta    |    1     |
+|    Perren, Miguel (284)    | Samaniego, Francisco (297) |     -13      |        18        |        -18        |    final    |   cuarta    |    1     |
+|    Perren, Miguel (284)    |     Paya, Lazaro (297)     |     -13      |        18        |        -18        |  semifinal  |   cuarta    |    1     |
+| Samaniego, Francisco (297) |   Hanrri, Facundo (272)    |      25      |        16        |        -16        |  semifinal  |   cuarta    |    1     |
 |    Diez, Gabriel (195)     |    Candia, Matias (246)    |     -51      |        26        |        -26        |    zona     |   cuarta    |    1     |
-|   Hanrri, Facundo (271)    |    Candia, Matias (246)    |      25      |        16        |        -16        |    zona     |   cuarta    |    1     |
-|   Hanrri, Facundo (271)    |    Diez, Gabriel (195)     |      76      |        14        |        -14        |    zona     |   cuarta    |    1     |
-|   Hanrri, Facundo (271)    |    Perren, Miguel (284)    |     -12      |        18        |        -18        |    zona     |   cuarta    |    1     |
+|   Hanrri, Facundo (272)    |    Candia, Matias (246)    |      26      |        16        |        -16        |    zona     |   cuarta    |    1     |
+|   Hanrri, Facundo (272)    |    Diez, Gabriel (195)     |      77      |        14        |        -14        |    zona     |   cuarta    |    1     |
+|   Hanrri, Facundo (272)    |    Perren, Miguel (284)    |     -12      |        18        |        -18        |    zona     |   cuarta    |    1     |
 |     Paya, Lazaro (297)     |     Gatti, Pedro (232)     |      65      |        14        |        -14        |    zona     |   cuarta    |    1     |
 |     Paya, Lazaro (297)     | Samaniego, Francisco (297) |      0       |        18        |        -18        |    zona     |   cuarta    |    1     |
 |    Perren, Miguel (284)    |    Candia, Matias (246)    |      38      |        16        |        -16        |    zona     |   cuarta    |    1     |
@@ -88,14 +88,14 @@
 |  Oliveras, Leonardo (692)  |     Pilotti, Paz (642)     |      50      |        14        |        -14        |    final    |   tercera   |    1     |
 |    Diaz, Joaquin (434)     |    Candia, Matias (246)    |     188      |        5         |        -5         |   octavos   |   tercera   |   0.5    |
 |    Diez, Gabriel (195)     |    Locateli, Juan (502)    |     -307     |        72        |        -72        |   octavos   |   tercera   |   1.5    |
-|   Oliveras, Nahuel (471)   |   Hanrri, Facundo (271)    |     199      |        4         |        -4         |   octavos   |   tercera   |   0.5    |
+|   Oliveras, Nahuel (471)   |   Hanrri, Facundo (272)    |     199      |        4         |        -4         |   octavos   |   tercera   |   0.5    |
 |  Taffarel, Claudio (340)   |     Paya, Lazaro (297)     |      43      |        16        |        -16        |   octavos   |   tercera   |    1     |
 |  Oliveras, Leonardo (692)  |   Oliveras, Nahuel (471)   |     221      |        8         |        -8         |  semifinal  |   tercera   |    1     |
 |     Pilotti, Paz (642)     |     Rosa, Pablo (629)      |      13      |        18        |        -18        |  semifinal  |   tercera   |    1     |
-|    Diaz, Joaquin (434)     |   Hanrri, Facundo (271)    |     162      |        5         |        -5         |    zona     |   tercera   |   0.5    |
+|    Diaz, Joaquin (434)     |   Hanrri, Facundo (272)    |     162      |        5         |        -5         |    zona     |   tercera   |   0.5    |
 |    Locateli, Juan (502)    |     Paya, Lazaro (297)     |     205      |        4         |        -4         |    zona     |   tercera   |   0.5    |
 |  Oliveras, Leonardo (692)  |    Diaz, Joaquin (434)     |     258      |        8         |        -8         |    zona     |   tercera   |    1     |
-|  Oliveras, Leonardo (692)  |   Hanrri, Facundo (271)    |     420      |        2         |        -2         |    zona     |   tercera   |   0.5    |
+|  Oliveras, Leonardo (692)  |   Hanrri, Facundo (272)    |     420      |        2         |        -2         |    zona     |   tercera   |   0.5    |
 |   Oliveras, Nahuel (471)   |    Candia, Matias (246)    |     225      |        4         |        -4         |    zona     |   tercera   |   0.5    |
 |     Pilotti, Paz (642)     |    Diez, Gabriel (195)     |     447      |        2         |        -2         |    zona     |   tercera   |   0.5    |
 |     Pilotti, Paz (642)     |  Taffarel, Claudio (340)   |     302      |        6         |        -6         |    zona     |   tercera   |    1     |

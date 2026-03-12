@@ -72,20 +72,20 @@
 |   tercera   |    507 (+17)     |      Rosa, Pablo      |                       |              |
 |   tercera   |     495 (=)      | Samaniego, Francisco  |                       |              |
 |   tercera   |     493 (=)      |     Tourn, Bruno      |                       |              |
-|   tercera   |     492 (=)      |    Grippo, Agustin    |                       |              |
+|   tercera   |     491 (=)      |    Grippo, Agustin    |                       |              |
 |   tercera   |    490 (+23)     |    Bracco, Victor     |                       |              |
 |   tercera   |    484 (-49)     |   Colavini, Daniel    |      Santo Tome       |   AteMeLi    |
-|   tercera   |     478 (=)      |  Trevignani, Alfonso  |       Santa Fe        |   AteMeLi    |
+|   tercera   |     482 (=)      |  Trevignani, Alfonso  |       Santa Fe        |   AteMeLi    |
 |   tercera   |     477 (=)      |    Barrios, Julio     |                       |              |
 |   tercera   |     475 (=)      |  Faggionatto, Walter  |                       |              |
-|   tercera   |    473 (-24)     |   Taffarel, Claudio   |                       |              |
+|   tercera   |    471 (-24)     |   Taffarel, Claudio   |                       |              |
 |   tercera   |     468 (=)      |   Pettinatti, Cesar   |                       |              |
 |   tercera   |     457 (=)      |  Vigouroux, Santiago  |       San Justo       | Tiro Federal |
 |   tercera   |     448 (=)      |   Previale, Jesica    |                       |              |
 |   tercera   |     446 (=)      | Bernhardt, Alejandro  |                       |              |
 |   tercera   |     439 (=)      |     Bordi, Mario      |                       |              |
 |   tercera   |     432 (=)      |    Rodelli, Tiago     |                       |              |
-|   tercera   |    426 (+77)     |    Hanrri, Facundo    |        Parana         |   Aspatem    |
+|   tercera   |    425 (+75)     |    Hanrri, Facundo    |        Parana         |   Aspatem    |
 |   tercera   |     424 (=)      |     Picech, Gino      |                       |              |
 |   tercera   |     412 (=)      |   Agustini, Sergio    |                       |              |
 |   tercera   |     411 (=)      | Bernhardt, Sebastian  |                       |              |
@@ -98,7 +98,7 @@
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |                       |              |
 |   cuarta    |    379 (-61)     |   Retamal, Santiago   |                       |              |
 |   cuarta    |     375 (=)      |    Visintini, Juan    |                       |              |
-|   cuarta    |     364 (=)      |    Palma, Marcelo     |                       |              |
+|   cuarta    |     363 (=)      |    Palma, Marcelo     |                       |              |
 |   cuarta    |    362 (-32)     |   Perez, Valentino    |                       |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                       |              |
 |   cuarta    |     359 (=)      |    Yenerich, Fabio    |                       |              |
@@ -109,12 +109,12 @@
 |   cuarta    |     332 (=)      |   Quinones, German    |                       |              |
 |   cuarta    |     331 (=)      |    Perren, Miguel     |  San Jeronimo Norte   | Libertad SJN |
 |   cuarta    |     330 (=)      |     Paya, Lazaro      |                       |              |
-|   cuarta    |    330 (+98)     |   Zelayeta, Carlos    |                       |              |
 |   cuarta    |     330 (=)      |     Paz, Joaquin      |                       |              |
+|   cuarta    |    328 (+98)     |   Zelayeta, Carlos    |                       |              |
 |   cuarta    |     319 (=)      |    Florito, Miguel    |       Santa Fe        |   AteMeLi    |
 |   cuarta    |     318 (=)      |    Locateli, Juan     |                       |              |
 |   cuarta    |     316 (=)      |    Lucatti, Matias    |                       |              |
-|   cuarta    |    315 (-95)     |   Ranzani, Esteban    |                       |              |
+|   cuarta    |    313 (-95)     |   Ranzani, Esteban    |                       |              |
 |   cuarta    |     306 (=)      | Barreto, Maximiliano  |                       |              |
 |   cuarta    |     302 (=)      | Marchitelli, Ezequiel |                       |              |
 |   cuarta    |     301 (=)      |    Schiavi, Bruno     |                       |              |
@@ -141,8 +141,8 @@
 |   cuarta    |     228 (=)      |    Rubio, Julian2     |       Santa Fe        |   AteMeLi    |
 |   cuarta    |     215 (=)      |    Diaz, Claudino     |                       |              |
 |   cuarta    |     210 (=)      |    Rodriguez, Dora    |                       |              |
+|   cuarta    |    209 (-42)     |    Palamedi, Alma     |       Santa Fe        |   AteMeLi    |
 |   cuarta    |     208 (=)      |     Gaete, Tiago      |                       |              |
-|   cuarta    |    207 (-44)     |    Palamedi, Alma     |       Santa Fe        |   AteMeLi    |
 |   cuarta    |     196 (=)      |    Lacuadra, Lena     |                       |              |
 |   cuarta    |    192 (-60)     |    Salva, Emanuel     |                       |              |
 |   cuarta    |     188 (=)      |    Pintos, Viviana    |                       |              |
@@ -156,5 +156,5 @@
 |   cuarta    |    134 (-91)     |    Toffolini, Hugo    |                       |              |
 |   cuarta    |     122 (=)      |   Fernandez, Belen    |                       |              |
 |   cuarta    |     99 (+50)     |    Candia, Matias     |                       |              |
-|   cuarta    |      91 (=)      |     Lobino, Hugo      |                       |              |
+|   cuarta    |      93 (=)      |     Lobino, Hugo      |                       |              |
 |   cuarta    |      35 (=)      |    Acuna, Patricio    |                       |              |

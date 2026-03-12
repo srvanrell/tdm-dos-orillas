@@ -68,10 +68,10 @@
 |   tercera   |     533 (=)      |   Colavini, Daniel    |      Santo Tome       |   AteMeLi    |
 |   tercera   |     522 (=)      |    Bulacios, Juan     |                       |              |
 |   tercera   |     522 (=)      |   Oliveras, Nahuel    |       Santa Fe        |   AteMeLi    |
-|   tercera   |    497 (+121)    |   Taffarel, Claudio   |                       |              |
 |   tercera   |     496 (=)      |     Diaz, Joaquin     |        Parana         |   Aspatem    |
 |   tercera   |    495 (+102)    | Samaniego, Francisco  |                       |              |
-|   tercera   |     492 (=)      |    Grippo, Agustin    |                       |              |
+|   tercera   |    495 (+123)    |   Taffarel, Claudio   |                       |              |
+|   tercera   |     491 (=)      |    Grippo, Agustin    |                       |              |
 |   tercera   |    490 (-91)     |      Rosa, Pablo      |                       |              |
 |   tercera   |    477 (-65)     |    Barrios, Julio     |                       |              |
 |   tercera   |    475 (+142)    |  Faggionatto, Walter  |                       |              |
@@ -84,7 +84,7 @@
 |   tercera   |     429 (=)      |   Trevignani, Lucas   |       Santa Fe        |   AteMeLi    |
 |   tercera   |     424 (=)      |     Picech, Gino      |                       |              |
 |   tercera   |     422 (=)      |   Pettinatti, Cesar   |                       |              |
-|   tercera   |    416 (+118)    |  Trevignani, Alfonso  |       Santa Fe        |   AteMeLi    |
+|   tercera   |    419 (+118)    |  Trevignani, Alfonso  |       Santa Fe        |   AteMeLi    |
 |   tercera   |    412 (+22)     |    Lerman, Ricarlo    |                       |              |
 |   tercera   |    411 (+90)     | Bernhardt, Sebastian  |                       |              |
 |             |                  |                       |                       |              |
@@ -94,7 +94,7 @@
 |   cuarta    |     383 (=)      |    Pinery, Sergio     |                       |              |
 |   cuarta    |     375 (=)      |    Visintini, Juan    |                       |              |
 |   cuarta    |     365 (=)      |    Locateli, Juan     |                       |              |
-|   cuarta    |     364 (=)      |    Palma, Marcelo     |                       |              |
+|   cuarta    |     363 (=)      |    Palma, Marcelo     |                       |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                       |              |
 |   cuarta    |    359 (+15)     |    Yenerich, Fabio    |                       |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                       |              |
@@ -105,8 +105,8 @@
 |   cuarta    |     332 (=)      |   Quinones, German    |                       |              |
 |   cuarta    |     330 (=)      |     Paya, Lazaro      |                       |              |
 |   cuarta    |     330 (=)      |     Paz, Joaquin      |                       |              |
-|   cuarta    |    316 (-42)     |    Perren, Miguel     |  San Jeronimo Norte   | Libertad SJN |
 |   cuarta    |     316 (=)      |    Lucatti, Matias    |                       |              |
+|   cuarta    |    316 (-42)     |    Perren, Miguel     |  San Jeronimo Norte   | Libertad SJN |
 |   cuarta    |    312 (+40)     |  Calabrese, Alfredo   |                       |              |
 |   cuarta    |    310 (-34)     |   Ranzani, Esteban    |                       |              |
 |   cuarta    |     306 (=)      | Barreto, Maximiliano  |                       |              |
@@ -128,8 +128,8 @@
 |   cuarta    |     241 (=)      |   Lanzotti, Lautaro   |                       |              |
 |   cuarta    |     240 (=)      |    Corradi, Zulma     |                       |              |
 |   cuarta    |     235 (=)      |    Carli, Valentin    |                       |              |
-|   cuarta    |     232 (+6)     |   Zelayeta, Carlos    |                       |              |
 |   cuarta    |    232 (-36)     |  Bernhardt, Gabriel   |                       |              |
+|   cuarta    |     230 (+4)     |   Zelayeta, Carlos    |                       |              |
 |   cuarta    |     228 (=)      |    Rubio, Julian2     |       Santa Fe        |   AteMeLi    |
 |   cuarta    |    225 (-48)     |    Toffolini, Hugo    |                       |              |
 |   cuarta    |    223 (-126)    |     Portillo, Ana     |        Parana         |   Aspatem    |

@@ -119,7 +119,7 @@
 |       979        |       Galera, Julio        |        Parana         |        Aspatem         |
 |       978        |   Gonzalez, Jose Martin    |       Santa Fe        |        AteMeLi         |
 |       976        |         Dip, Jorge         |  San Jeronimo Norte   |      Libertad SJN      |
-|      973.5       |     Martinez, Jeremias     |                       |                        |
+|       974        |     Martinez, Jeremias     |                       |                        |
 |       972        |        Tourn, Tomas        |      Reconquista      |         ATMAR          |
 |       971        |        Gomez, Luis         |                       |                        |
 |       966        |      Luzardo, Andres       |                       |                        |
@@ -214,7 +214,7 @@
 |       713        |        Rios, Alexis        |                       |                        |
 |       711        |       Rios, Benjamin       | Libertador San Martin |          CRL           |
 |       708        |       Bustos, Ariel        |                       |                        |
-|      706.5       |       Matio, Hernan        |                       |                        |
+|       706        |       Matio, Hernan        |                       |                        |
 |       706        |       Muller, Lucas        |                       |                        |
 |       702        |      Aguirre, Gabriel      |        Parana         |        Aspatem         |
 |       699        |     Pallotti, Fabrizio     |                       |                        |
@@ -250,7 +250,7 @@
 |       650        |     Alvarenque, Luano      |                       |                        |
 |       648        |        Pilotti, Paz        |       Santa Fe        |        AteMeLi         |
 |       640        |      Almada, Claudio       |                       |                        |
-|      637.5       |      Rojas, Priscila       |                       |                        |
+|       638        |      Rojas, Priscila       |                       |                        |
 |       631        |     Vigouroux, Manuel      |       San Justo       |      Tiro Federal      |
 |       630        |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |       628        |       Sanchez, Lucas       |                       |                        |
@@ -261,7 +261,7 @@
 |       602        |       Godano, Lucas        |                       |                        |
 |       598        |     Domenicone, Bruno      |       Santa Fe        |        AteMeLi         |
 |       594        |       Almada, Pablo        |        Parana         |        Aspatem         |
-|      593.5       |     Rodriguez, Lautaro     |                       |                        |
+|       594        |     Rodriguez, Lautaro     |                       |                        |
 |       592        |      Cabrera, Carlos       |                       |                        |
 |       588        |      Bracco, Fernando      |                       |                        |
 |       586        |       Erbetta, Pablo       |        Parana         |      Tiro Federal      |
@@ -283,9 +283,9 @@
 |       502        |        Bordi, Mario        |                       |                        |
 |       502        |       Locateli, Juan       |                       |                        |
 |       501        |       Bulacios, Juan       |                       |                        |
+|       500        |      Camusso, Marcelo      |                       |                        |
 |       500        |      Canhoto, Carlos       |       Santa Fe        |        AteMeLi         |
 |       500        |         Neto, Leon         |                       |                        |
-|      499.75      |      Camusso, Marcelo      |                       |                        |
 |       498        |       Zeitune, Angel       |                       |                        |
 |       497        |        Sigal, Eliel        |                       |                        |
 |       496        |      Sancada, Maximo       |                       |                        |
@@ -302,32 +302,32 @@
 |       467        |     Trevignani, Lucas      |       Santa Fe        |        AteMeLi         |
 |       463        |      Cuello, Nicolas       |                       |                        |
 |       462        |     Escalante, Samuel      |                       |                        |
-|      458.5       |        Picech, Gino        |                       |                        |
+|       458        |        Picech, Gino        |                       |                        |
 |       452        |    Canhoto, Juan Pablo     |       Santa Fe        |        AteMeLi         |
 |       452        |    Vigouroux, Patricio     |       San Justo       |      Tiro Federal      |
 |       445        |       Uranga, Fermin       |                       |                        |
 |       444        |       Gomez, Gabriel       |        Parana         |      Tiro Federal      |
 |       443        |      Orzan, Valentin       |                       |                        |
-|      442.5       |      Grippo, Agustin       |                       |                        |
+|       442        |      Grippo, Agustin       |                       |                        |
 |       440        |       Valcar, Daniel       |                       |                        |
 |       435        |      Torres, Lautaro       |                       |                        |
 |       435        |        Tourn, Bruno        |                       |                        |
 |       434        |      Vergara, Gustavo      |        Parana         |      Tiro Federal      |
 |       430        |      Agustini, Sergio      |                       |                        |
 |       430        |     Velazquez, Fatima      |                       |                        |
-|      426.5       |       Pen, Mauricio        |                       |                        |
+|       426        |       Pen, Mauricio        |                       |                        |
 |       417        |       Bracco, Victor       |                       |                        |
 |       417        |       Nunes, Agustin       |                       |                        |
 |       417        |      Rodriguez, Guido      |                       |                        |
 |       416        |      Bertoli, Julian       |                       |                        |
 |       416        |    Bertoli, Maximiliano    |                       |                        |
+|       416        |     Bulacios, Leonardo     |                       |                        |
 |       416        |       Ledesma, Jonas       |                       |                        |
-|      415.5       |     Bulacios, Leonardo     |                       |                        |
 |       414        |       Fenes, Martin        |                       |                        |
 |       414        |        Macor, Mateo        |                       |                        |
-|      412.5       |       Palma, Marcelo       |                       |                        |
 |       412        |       Benicio, Oscar       |        Parana         |        Aspatem         |
 |       412        |      Gabiout, Alfonso      |                       |                        |
+|       412        |       Palma, Marcelo       |                       |                        |
 |       410        |      Mendez, Roberto       |                       |                        |
 |       408        |     Benitez, Benjamin      |                       |                        |
 |       408        |      Zancada, Maximo       |                       |                        |
@@ -347,74 +347,74 @@
 |       370        |    Faggionatto, Walter     |                       |                        |
 |       370        |      Toranza, Ricardo      |                       |                        |
 |       366        |     Barrientos, Norma      |        Parana         |      Tiro Federal      |
-|     365.562      |     Retamal, Santiago      |                       |                        |
+|       366        |     Retamal, Santiago      |                       |                        |
 |       362        |      Rojas, Agustina       |                       |                        |
 |       361        |     Scotta, Francisco      |                       |                        |
-|     360.125      |      Aranda, Luciano       |                       |                        |
+|       360        |      Aranda, Luciano       |                       |                        |
 |       358        |      Rodriguez, Nora       |                       |                        |
 |       356        |       Zapata, Lucas        |                       |                        |
 |       354        |       Diez, Gabriel        |                       |                        |
 |       354        |       Rodelli, Tiago       |                       |                        |
 |       353        |       Diaz, Joaquin        |        Parana         |        Aspatem         |
-|      352.25      |       Jove, Alberto        |                       |                        |
+|       352        |       Jove, Alberto        |                       |                        |
 |       350        |      Frank, Benjamin       |                       |                        |
 |       346        |       Cabrol, Elian        |                       |                        |
 |       346        |      Getting, Brenda       |                       |                        |
 |       346        |       Zalazar, Irina       |                       |                        |
 |       344        |      Albano, Gabriela      |                       |                        |
 |       344        |      Luzardo, Daniel       |                       |                        |
-|     343.562      |      Yenerich, Fabio       |                       |                        |
-|      343.5       |        Paz, Joaquin        |                       |                        |
+|       344        |        Paz, Joaquin        |                       |                        |
+|       344        |      Yenerich, Fabio       |                       |                        |
 |       343        |       Schiavi, Bruno       |                       |                        |
 |       341        |    Barreto, Maximiliano    |                       |                        |
 |       340        |     Taffarel, Claudio      |                       |                        |
-|      331.25      |     Orcellet, Rodrigo      |                       |                        |
+|       331        |     Orcellet, Rodrigo      |                       |                        |
 |       331        |       Ramos, Matias        |                       |                        |
-|     321.625      |      Lerman, Ricarlo       |                       |                        |
+|       322        |      Lerman, Ricarlo       |                       |                        |
 |       320        |     Allegrini, Alonso      |                       |                        |
-|      316.25      |      Andolfo, Genaro       |                       |                        |
+|       316        |      Andolfo, Genaro       |                       |                        |
 |       316        |       Rico, Eduardo        |                       |                        |
 |       315        |       Lopez, Javier        |      Santo Tome       | Defensores de Belgrano |
 |       314        |        Garau, Jano         |                       |                        |
 |       314        |       Salva, Manuel        |                       |                        |
+|       308        |      Albrecht, Ramiro      |                       |                        |
 |       308        |        Duarte, Juan        |                       |                        |
 |       308        |      Lucatti, Matias       |                       |                        |
 |       308        |      Raspini, Pamela       |                       |                        |
 |       308        |     Vivanco, Cristian      |                       |                        |
-|      307.5       |      Albrecht, Ramiro      |                       |                        |
-|      307.25      |      Visintini, Juan       |                       |                        |
 |       307        |        Hepp, Gernan        |                       |                        |
+|       307        |      Visintini, Juan       |                       |                        |
 |       303        |        Seib, Silvia        |        Parana         |        Aspatem         |
 |       302        |    Bernhardt, Alejandro    |                       |                        |
-|      300.5       |      Quinones, German      |                       |                        |
 |       300        |       Acuna, Daiana        |       Santa Fe        |        AteMeLi         |
 |       300        |     Brunelli, Osvaldo      |       Santa Fe        |        AteMeLi         |
-|      299.5       |      Silva, Santiago       |                       |                        |
+|       300        |      Quinones, German      |                       |                        |
+|       300        |      Silva, Santiago       |                       |                        |
 |       297        |        Paya, Lazaro        |                       |                        |
 |       296        |     Alignani, Tiziano      |                       |                        |
 |       296        |       Lell, Claudia        |        Parana         |      Tiro Federal      |
 |       291        |      Toffolini, Hugo       |                       |                        |
-|      288.5       |   Marchitelli, Ezequiel    |                       |                        |
-|      286.25      |       Corradi, Zulma       |                       |                        |
-|      286.25      |       Palamedi, Alma       |       Santa Fe        |        AteMeLi         |
+|       288        |   Marchitelli, Ezequiel    |                       |                        |
 |       286        |       Candia, Matias       |                       |                        |
+|       286        |       Corradi, Zulma       |                       |                        |
+|       286        |       Palamedi, Alma       |       Santa Fe        |        AteMeLi         |
 |       285        |    Bernhardt, Sebastian    |                       |                        |
 |       285        |     Lanzotti, Lautaro      |                       |                        |
-|      284.25      |       Perren, Miguel       |  San Jeronimo Norte   |      Libertad SJN      |
 |       284        |     Calabrese, Alfredo     |                       |                        |
+|       284        |       Perren, Miguel       |  San Jeronimo Norte   |      Libertad SJN      |
 |       281        |     Allignani, Tiziano     |                       |                        |
 |       278        |       Rubio, Julian2       |       Santa Fe        |        AteMeLi         |
 |       277        |       Melero, Martin       |       Santa Fe        |        AteMeLi         |
 |       276        |      Cagnoto, Matias       |                       |                        |
 |       272        |        Gatti, Pedro        |        Parana         |        Aspatem         |
-|      271.5       |      Hanrri, Facundo       |        Parana         |        Aspatem         |
+|       272        |      Hanrri, Facundo       |        Parana         |        Aspatem         |
 |       270        |      Carniel, Carlos       |                       |                        |
+|       268        |     Bernhardt, Gabriel     |                       |                        |
 |       268        |       Salva, Emanuel       |                       |                        |
-|      267.5       |     Bernhardt, Gabriel     |                       |                        |
 |       266        |       Torres, Julian       |      Santo Tome       | Defensores de Belgrano |
 |       266        |      Zelayeta, Carlos      |                       |                        |
-|      262.5       |       Lacuadra, Lena       |                       |                        |
-|      258.5       |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
+|       262        |       Lacuadra, Lena       |                       |                        |
+|       258        |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
 |       256        |      Rodriguez, Dora       |                       |                        |
 |       255        |       Diaz, Claudino       |                       |                        |
 |       254        |     Bordeira, Gabriel      |                       |                        |
@@ -426,21 +426,21 @@
 |       242        |        Monzon, Mari        |                       |                        |
 |       241        |      Sinistro, Matias      |                       |                        |
 |       240        |  Von Der Thusen, Grethel   |      Santo Tome       | Defensores de Belgrano |
-|      234.75      |       Galindo, Abel        |                       |                        |
-|      232.75      |      Viviani, Monica       |      Santo Tome       | Defensores de Belgrano |
+|       235        |       Galindo, Abel        |                       |                        |
+|       233        |      Viviani, Monica       |      Santo Tome       | Defensores de Belgrano |
 |       232        |      Pintos, Viviana       |                       |                        |
 |       228        |      Perez, Valentino      |                       |                        |
-|      224.5       |      Paulin, Santiago      |                       |                        |
+|       224        |      Paulin, Santiago      |                       |                        |
 |       222        |      Bregant, Osvaldo      |                       |                        |
 |       216        |        Vidal, Belen        |                       |                        |
 |       213        |      Carli, Valentin       |                       |                        |
 |       207        |       Bregant, Juan        |                       |                        |
 |       207        |   Kotlireusky, Benjamin    |                       |                        |
 |       196        |      Fernandez, Belen      |                       |                        |
-|      189.5       |   Catelli, Juan Ignacio    |       Santa Fe        |        AteMeLi         |
+|       190        |   Catelli, Juan Ignacio    |       Santa Fe        |        AteMeLi         |
 |       183        |       Portillo, Ana        |        Parana         |        Aspatem         |
-|      177.5       |      Del Turco, Tadeo      |                       |                        |
-|      111.25      |        Lobino, Hugo        |                       |                        |
+|       178        |      Del Turco, Tadeo      |                       |                        |
+|       111        |        Lobino, Hugo        |                       |                        |
 |       104        |     Calabrese, Gustavo     |      Santo Tome       | Defensores de Belgrano |
 |        69        |      Pirotto, Lazaro       |                       |                        |
 |        45        |      Acuna, Patricio       |                       |                        |

@@ -50,7 +50,7 @@
 |   tercera   |     540 (=)      |   Colavini, Daniel    |     Santo Tome     |   AteMeLi    |
 |   tercera   |     522 (=)      |    Bulacios, Juan     |                    |              |
 |   tercera   |     503 (=)      |   Pettinatti, Cesar   |                    |              |
-|   tercera   |     492 (=)      |    Grippo, Agustin    |                    |              |
+|   tercera   |     491 (=)      |    Grippo, Agustin    |                    |              |
 |   tercera   |     466 (-5)     |   Oliveras, Nahuel    |      Santa Fe      |   AteMeLi    |
 |   tercera   |     448 (=)      |   Previale, Jesica    |                    |              |
 |   tercera   |     429 (=)      |   Trevignani, Lucas   |      Santa Fe      |   AteMeLi    |
@@ -65,7 +65,7 @@
 |   cuarta    |    379 (+82)     | Samaniego, Francisco  |                    |              |
 |   cuarta    |     377 (=)      |    Barrios, Julio     |                    |              |
 |   cuarta    |    371 (-131)    |    Locateli, Juan     |                    |              |
-|   cuarta    |     364 (=)      |    Palma, Marcelo     |                    |              |
+|   cuarta    |     363 (=)      |    Palma, Marcelo     |                    |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                    |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                    |              |
 |   cuarta    |    356 (+16)     |   Taffarel, Claudio   |                    |              |
@@ -80,7 +80,7 @@
 |   cuarta    |     302 (=)      | Marchitelli, Ezequiel |                    |              |
 |   cuarta    |     301 (=)      |    Schiavi, Bruno     |                    |              |
 |   cuarta    |     297 (=)      |     Ramos, Matias     |                    |              |
-|   cuarta    |    292 (+21)     |    Hanrri, Facundo    |       Parana       |   Aspatem    |
+|   cuarta    |    293 (+21)     |    Hanrri, Facundo    |       Parana       |   Aspatem    |
 |   cuarta    |     278 (=)      |    Salva, Emanuel     |                    |              |
 |   cuarta    |    273 (-24)     |     Paya, Lazaro      |                    |              |
 |   cuarta    |     241 (=)      |   Lanzotti, Lautaro   |                    |              |

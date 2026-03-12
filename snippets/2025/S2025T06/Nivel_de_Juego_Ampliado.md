@@ -196,13 +196,13 @@
 |   primera   |     1694 (=)     |     Gonzalez, Juan A.      |      Reconquista      |         ATMAR          |
 |   primera   |     1054 (=)     |      Gonzalez, Oscar       |                       |                        |
 |   segunda   |     931 (=)      |        Goy, Gerardo        |      Reconquista      |         ATMAR          |
-|   tercera   |     492 (=)      |      Grippo, Agustin       |                       |                        |
+|   tercera   |     491 (=)      |      Grippo, Agustin       |                       |                        |
 |   cuarta    |     384 (=)      |       Grippo, Daniel       |                       |                        |
 |   primera   |    1218 (+20)    |     Grippo, Francisco      |        Parana         |        Aspatem         |
 |   segunda   |     867 (=)      |     Guckert, Emiliano      |       Santa Fe        |                        |
 |   segunda   |     732 (=)      |    Guckert, Juan Pablo     |                       |                        |
 |   segunda   |     1000 (=)     |        Hagge, Pilar        |       Santa Fe        |        AteMeLi         |
-|   cuarta    |     336 (=)      |      Hanrri, Facundo       |        Parana         |        Aspatem         |
+|   cuarta    |     337 (=)      |      Hanrri, Facundo       |        Parana         |        Aspatem         |
 |   segunda   |     791 (=)      |      Heinzen, Gonzalo      |                       |                        |
 |   cuarta    |    289 (-18)     |        Hepp, Gernan        |                       |                        |
 |   primera   |     1388 (=)     |     Heredia, Santiago      |       Santa Fe        |        AteMeLi         |
@@ -298,7 +298,7 @@
 |   primera   |    1079 (+43)    |     Palamedi, Cristian     |       Santa Fe        |        AteMeLi         |
 |   primera   |    1424 (+7)     |       Palamedi, Uma        |       Santa Fe        |        AteMeLi         |
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |                        |
-|   cuarta    |     364 (=)      |       Palma, Marcelo       |                       |                        |
+|   cuarta    |     363 (=)      |       Palma, Marcelo       |                       |                        |
 |   cuarta    |     224 (=)      |      Paulin, Santiago      |                       |                        |
 |   cuarta    |    330 (+57)     |        Paya, Lazaro        |                       |                        |
 |   cuarta    |    330 (-14)     |        Paz, Joaquin        |                       |                        |
@@ -388,7 +388,7 @@
 |   primera   |     1413 (=)     |   Stringhini, Alejandro    |       Santa Fe        |        AteMeLi         |
 |   tercera   |     612 (=)      |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |   primera   |     1182 (=)     |       Sueldo, Pablo        |                       |                        |
-|   cuarta    |    376 (+20)     |     Taffarel, Claudio      |                       |                        |
+|   cuarta    |    372 (+16)     |     Taffarel, Claudio      |                       |                        |
 |   primera   |     1106 (=)     |       Tenca, Gustavo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     866 (=)      |       Tenca, Javier        |        Parana         |        Aspatem         |
 |   cuarta    |    273 (-18)     |      Toffolini, Hugo       |                       |                        |
@@ -399,7 +399,7 @@
 |   tercera   |     435 (=)      |      Torres, Lautaro       |                       |                        |
 |   tercera   |     435 (=)      |        Tourn, Bruno        |                       |                        |
 |   segunda   |     972 (=)      |        Tourn, Tomas        |      Reconquista      |         ATMAR          |
-|   cuarta    |    298 (+39)     |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
+|   cuarta    |    301 (+43)     |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
 |   tercera   |     429 (=)      |     Trevignani, Lucas      |       Santa Fe        |        AteMeLi         |
 |   tercera   |     402 (=)      |     Troncoso, Mauricio     |                       |                        |
 |   primera   |     1206 (=)     |        Tumino, Juan        |                       |                        |

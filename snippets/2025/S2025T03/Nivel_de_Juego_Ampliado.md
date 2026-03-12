@@ -196,7 +196,7 @@
 |   primera   |     1694 (=)     |     Gonzalez, Juan A.      |      Reconquista      |         ATMAR          |
 |   segunda   |     1054 (=)     |      Gonzalez, Oscar       |                       |                        |
 |   segunda   |     931 (=)      |        Goy, Gerardo        |      Reconquista      |         ATMAR          |
-|   tercera   |    492 (+49)     |      Grippo, Agustin       |                       |                        |
+|   tercera   |    491 (+49)     |      Grippo, Agustin       |                       |                        |
 |   cuarta    |    384 (-51)     |       Grippo, Daniel       |                       |                        |
 |   segunda   |    1128 (+84)    |     Grippo, Francisco      |        Parana         |        Aspatem         |
 |   segunda   |     867 (=)      |     Guckert, Emiliano      |       Santa Fe        |                        |
@@ -298,7 +298,7 @@
 |   segunda   |    961 (+15)     |     Palamedi, Cristian     |       Santa Fe        |        AteMeLi         |
 |   primera   |    1402 (+8)     |       Palamedi, Uma        |       Santa Fe        |        AteMeLi         |
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |                        |
-|   cuarta    |    364 (-49)     |       Palma, Marcelo       |                       |                        |
+|   cuarta    |    363 (-49)     |       Palma, Marcelo       |                       |                        |
 |   cuarta    |     224 (=)      |      Paulin, Santiago      |                       |                        |
 |   cuarta    |     297 (=)      |        Paya, Lazaro        |                       |                        |
 |   cuarta    |     344 (=)      |        Paz, Joaquin        |                       |                        |

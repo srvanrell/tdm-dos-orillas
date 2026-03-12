@@ -1,6 +1,6 @@
 |           Ganador           |          Perdedor           |  Diferencia  |  Puntos Ganador  |  Puntos Perdedor  |  Instancia  |  Categoría  |  Factor  |
 |:---------------------------:|:---------------------------:|:------------:|:----------------:|:-----------------:|:-----------:|:-----------:|:--------:|
-|     Diaz, Joaquin (315)     | Marchitelli, Ezequiel (288) |      26      |        16        |        -16        |   cuartos   |   cuarta    |    1     |
+|     Diaz, Joaquin (315)     | Marchitelli, Ezequiel (288) |      27      |        16        |        -16        |   cuartos   |   cuarta    |    1     |
 |     Portillo, Ana (231)     |   Schiavi, Marcelo (329)    |     -98      |        26        |        -26        |   cuartos   |   cuarta    |    1     |
 |   Quinones, German (300)    |    Salva, Emanuel (268)     |      32      |        16        |        -16        |   cuartos   |   cuarta    |    1     |
 |    Rodelli, Tiago (354)     | Samaniego, Francisco (393)  |     -39      |        22        |        -22        |   cuartos   |   cuarta    |    1     |
@@ -11,7 +11,7 @@
 |    Salva, Emanuel (268)     |   Bordeira, Gabriel (254)   |      14      |        18        |        -18        |   octavos   |   cuarta    |    1     |
 | Samaniego, Francisco (393)  |     Lell, Claudia (296)     |      97      |        14        |        -14        |   octavos   |   cuarta    |    1     |
 |   Schiavi, Marcelo (329)    |     Vidal, Belen (216)      |     113      |        12        |        -12        |   octavos   |   cuarta    |    1     |
-|     Diaz, Joaquin (315)     |   Quinones, German (300)    |      14      |        18        |        -18        |  semifinal  |   cuarta    |    1     |
+|     Diaz, Joaquin (315)     |   Quinones, German (300)    |      15      |        18        |        -18        |  semifinal  |   cuarta    |    1     |
 |    Rodelli, Tiago (354)     |     Portillo, Ana (231)     |     123      |        12        |        -12        |  semifinal  |   cuarta    |    1     |
 |    Candia, Matias (286)     |    Rodriguez, Dora (256)    |      30      |        16        |        -16        |    zona     |   cuarta    |    1     |
 |     Diaz, Joaquin (315)     |   Bordeira, Gabriel (254)   |      61      |        14        |        -14        |    zona     |   cuarta    |    1     |
@@ -29,7 +29,7 @@
 |    Rodelli, Tiago (354)     |   Bordeira, Gabriel (254)   |     100      |        12        |        -12        |    zona     |   cuarta    |    1     |
 |    Salva, Emanuel (268)     | Samaniego, Francisco (393)  |     -125     |        30        |        -30        |    zona     |   cuarta    |    1     |
 |   Schiavi, Marcelo (329)    |     Diez, Gabriel (262)     |      67      |        14        |        -14        |    zona     |   cuarta    |    1     |
-|   Schiavi, Marcelo (329)    | Marchitelli, Ezequiel (288) |      40      |        16        |        -16        |    zona     |   cuarta    |    1     |
+|   Schiavi, Marcelo (329)    | Marchitelli, Ezequiel (288) |      41      |        16        |        -16        |    zona     |   cuarta    |    1     |
 |   Schiavi, Marcelo (329)    |    Pintos, Viviana (232)    |      97      |        14        |        -14        |    zona     |   cuarta    |    1     |
 |                             |                             |              |                  |                   |             |             |          |
 |    Boetti, Genaro (1068)    |  Dalinger, Humberto (683)   |     385      |        6         |        -6         |   16avos    |   primera   |    1     |
@@ -53,18 +53,18 @@
 |  Lofeudo, Juan Jose (1835)  |    Palamedi, Uma (1394)     |     441      |        4         |        -4         |  semifinal  |   primera   |    1     |
 |    Mustillo, Juan (1330)    |   Perot, Alejandro (1589)   |     -259     |        42        |        -42        |  semifinal  |   primera   |    1     |
 |  Allegrini, Tiziano (963)   |  Oliveras, Leonardo (716)   |     247      |        8         |        -8         |    zona     |   primera   |    1     |
-|     Almada, Pablo (775)     |    Palma, Marcelo (412)     |     362      |        3         |        -3         |    zona     |   primera   |   0.5    |
+|     Almada, Pablo (775)     |    Palma, Marcelo (412)     |     363      |        3         |        -3         |    zona     |   primera   |   0.5    |
 |  Bernhardt, Leandro (812)   |   Velazquez, Irupe (862)    |     -50      |        26        |        -26        |    zona     |   primera   |    1     |
 |    Boetti, Genaro (1068)    |   Lanzotti, Lautaro (285)   |     783      |        2         |        -2         |    zona     |   primera   |    1     |
 |    Bonelli, Marcos (947)    |     Rubio, Julian (751)     |     196      |        10        |        -10        |    zona     |   primera   |    1     |
 |  Grippo, Francisco (1044)   |     Almada, Pablo (775)     |     269      |        8         |        -8         |    zona     |   primera   |    1     |
 |  Grippo, Francisco (1044)   |    Mendez, Carlos (1163)    |     -119     |        30        |        -30        |    zona     |   primera   |    1     |
-|  Grippo, Francisco (1044)   |    Palma, Marcelo (412)     |     631      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|  Grippo, Francisco (1044)   |    Palma, Marcelo (412)     |     632      |        1         |        -1         |    zona     |   primera   |   0.5    |
 |  Lofeudo, Juan Jose (1835)  |  Bernhardt, Leandro (812)   |     1023     |        0         |         0         |    zona     |   primera   |    1     |
 |  Lofeudo, Juan Jose (1835)  |   Velazquez, Irupe (862)    |     973      |        1         |        -1         |    zona     |   primera   |   0.5    |
 |    Luzardo, Andres (990)    |    Micocci, Matias (881)    |     109      |        12        |        -12        |    zona     |   primera   |    1     |
 |    Mendez, Carlos (1163)    |     Almada, Pablo (775)     |     388      |        6         |        -6         |    zona     |   primera   |    1     |
-|    Mendez, Carlos (1163)    |    Palma, Marcelo (412)     |     750      |        1         |        -1         |    zona     |   primera   |   0.5    |
+|    Mendez, Carlos (1163)    |    Palma, Marcelo (412)     |     751      |        1         |        -1         |    zona     |   primera   |   0.5    |
 |    Mustillo, Juan (1330)    |    Bonelli, Marcos (947)    |     383      |        3         |        -3         |    zona     |   primera   |   0.5    |
 |    Mustillo, Juan (1330)    |     Rubio, Julian (751)     |     579      |        1         |        -1         |    zona     |   primera   |   0.5    |
 |    Nohara, Andres (1250)    |  Dalinger, Humberto (683)   |     567      |        2         |        -2         |    zona     |   primera   |    1     |
@@ -135,13 +135,13 @@
 |    Gomez, Gabriel (423)     |   Previale, Jesica (482)    |     -59      |        26        |        -26        |   16avos    |   tercera   |    1     |
 |    Grippo, Agustin (442)    | Samaniego, Francisco (393)  |      49      |        7         |        -7         |   16avos    |   tercera   |   0.5    |
 |     Jove, Alberto (352)     |     Portillo, Ana (231)     |     121      |        12        |        -12        |   16avos    |   tercera   |    1     |
-|   Pettinatti, Cesar (483)   |    Palma, Marcelo (412)     |      70      |        14        |        -14        |   16avos    |   tercera   |    1     |
+|   Pettinatti, Cesar (483)   |    Palma, Marcelo (412)     |      71      |        14        |        -14        |   16avos    |   tercera   |    1     |
 |    Raspini, Pamela (308)    |    Grippo, Daniel (435)     |     -127     |        30        |        -30        |   16avos    |   tercera   |    1     |
 |    Rolando, Ariel (685)     |     Ramos, Matias (331)     |     354      |        6         |        -6         |   16avos    |   tercera   |    1     |
 |   Taffarel, Claudio (324)   |     Diez, Gabriel (262)     |      62      |        14        |        -14        |   16avos    |   tercera   |    1     |
 |   Barchiesi, Matias (648)   |      Rosa, Pablo (546)      |     102      |        12        |        -12        |   cuartos   |   tercera   |    1     |
 |   Corbalan, Martin (655)    |    Gomez, Gabriel (423)     |     232      |        8         |        -8         |   cuartos   |   tercera   |    1     |
-|     Pilotti, Paz (631)      |    Grippo, Agustin (442)    |     188      |        10        |        -10        |   cuartos   |   tercera   |    1     |
+|     Pilotti, Paz (631)      |    Grippo, Agustin (442)    |     189      |        10        |        -10        |   cuartos   |   tercera   |    1     |
 |    Rolando, Ariel (685)     |   Vigouroux, Manuel (631)   |      54      |        14        |        -14        |   cuartos   |   tercera   |    1     |
 |    Rolando, Ariel (685)     |   Corbalan, Martin (655)    |      30      |        16        |        -16        |    final    |   tercera   |    1     |
 |   Barchiesi, Matias (648)   |   Colavini, Daniel (588)    |      60      |        14        |        -14        |   octavos   |   tercera   |    1     |
@@ -155,7 +155,7 @@
 |   Corbalan, Martin (655)    |   Barchiesi, Matias (648)   |      7       |        18        |        -18        |  semifinal  |   tercera   |    1     |
 |    Rolando, Ariel (685)     |     Pilotti, Paz (631)      |      54      |        14        |        -14        |  semifinal  |   tercera   |    1     |
 |   Barchiesi, Matias (648)   |     Diez, Gabriel (262)     |     386      |        3         |        -3         |    zona     |   tercera   |   0.5    |
-|   Barchiesi, Matias (648)   |     Jove, Alberto (352)     |     295      |        8         |        -8         |    zona     |   tercera   |    1     |
+|   Barchiesi, Matias (648)   |     Jove, Alberto (352)     |     296      |        8         |        -8         |    zona     |   tercera   |    1     |
 |    Bracco, Victor (353)     |   Bordeira, Gabriel (254)   |      99      |        12        |        -12        |    zona     |   tercera   |    1     |
 |    Bracco, Victor (353)     |    Grippo, Daniel (435)     |     -82      |        26        |        -26        |    zona     |   tercera   |    1     |
 |  Calabrese, Alfredo (284)   |     Ramos, Matias (331)     |     -47      |        22        |        -22        |    zona     |   tercera   |    1     |
@@ -165,14 +165,14 @@
 |     Diaz, Joaquin (315)     |   Lanzotti, Lautaro (285)   |      30      |        16        |        -16        |    zona     |   tercera   |    1     |
 |    Gomez, Gabriel (423)     | Samaniego, Francisco (393)  |      30      |        8         |        -8         |    zona     |   tercera   |   0.5    |
 |    Grippo, Agustin (442)    |    Palma, Marcelo (412)     |      30      |        16        |        -16        |    zona     |   tercera   |    1     |
-|    Grippo, Agustin (442)    |   Previale, Jesica (482)    |     -39      |        22        |        -22        |    zona     |   tercera   |    1     |
+|    Grippo, Agustin (442)    |   Previale, Jesica (482)    |     -40      |        22        |        -22        |    zona     |   tercera   |    1     |
 |    Grippo, Daniel (435)     |   Bordeira, Gabriel (254)   |     181      |        5         |        -5         |    zona     |   tercera   |   0.5    |
 |     Jove, Alberto (352)     |     Diez, Gabriel (262)     |      90      |        14        |        -14        |    zona     |   tercera   |    1     |
 |   Pettinatti, Cesar (483)   |    Gomez, Gabriel (423)     |      60      |        14        |        -14        |    zona     |   tercera   |    1     |
 |   Pettinatti, Cesar (483)   | Samaniego, Francisco (393)  |      90      |        7         |        -7         |    zona     |   tercera   |   0.5    |
 |     Pilotti, Paz (631)      |  Calabrese, Alfredo (284)   |     347      |        6         |        -6         |    zona     |   tercera   |    1     |
 |     Pilotti, Paz (631)      |     Ramos, Matias (331)     |     300      |        6         |        -6         |    zona     |   tercera   |    1     |
-|   Previale, Jesica (482)    |    Palma, Marcelo (412)     |      69      |        14        |        -14        |    zona     |   tercera   |    1     |
+|   Previale, Jesica (482)    |    Palma, Marcelo (412)     |      70      |        14        |        -14        |    zona     |   tercera   |    1     |
 |    Raspini, Pamela (308)    |    Candia, Matias (286)     |      22      |        18        |        -18        |    zona     |   tercera   |    1     |
 |    Rolando, Ariel (685)     |   Colavini, Daniel (588)    |      97      |        14        |        -14        |    zona     |   tercera   |    1     |
 |    Rolando, Ariel (685)     |   Mardon, Emiliano (375)    |     310      |        6         |        -6         |    zona     |   tercera   |    1     |

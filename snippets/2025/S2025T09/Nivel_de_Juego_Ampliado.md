@@ -196,13 +196,13 @@
 |   primera   |     1694 (=)     |     Gonzalez, Juan A.      |      Reconquista      |         ATMAR          |
 |   primera   |     1054 (=)     |      Gonzalez, Oscar       |                       |                        |
 |   segunda   |     973 (=)      |        Goy, Gerardo        |      Reconquista      |         ATMAR          |
-|   tercera   |     492 (=)      |      Grippo, Agustin       |                       |                        |
+|   tercera   |     491 (=)      |      Grippo, Agustin       |                       |                        |
 |   cuarta    |    398 (+14)     |       Grippo, Daniel       |                       |                        |
 |   primera   |    1131 (-13)    |     Grippo, Francisco      |        Parana         |        Aspatem         |
 |   segunda   |     867 (=)      |     Guckert, Emiliano      |       Santa Fe        |                        |
 |   segunda   |     732 (=)      |    Guckert, Juan Pablo     |                       |                        |
 |   segunda   |     1000 (=)     |        Hagge, Pilar        |       Santa Fe        |        AteMeLi         |
-|   tercera   |    426 (+77)     |      Hanrri, Facundo       |        Parana         |        Aspatem         |
+|   tercera   |    425 (+75)     |      Hanrri, Facundo       |        Parana         |        Aspatem         |
 |   segunda   |     791 (=)      |      Heinzen, Gonzalo      |                       |                        |
 |   cuarta    |     283 (=)      |        Hepp, Gernan        |                       |                        |
 |   primera   |     1388 (=)     |     Heredia, Santiago      |       Santa Fe        |        AteMeLi         |
@@ -228,7 +228,7 @@
 |   tercera   |     401 (=)      |      Lerman, Ricarlo       |                       |                        |
 |   tercera   |    662 (-10)     |        Levin, Raul         |        Parana         |        Aspatem         |
 |   primera   |     1229 (=)     |       Lezana, Diego        | Libertador San Martin |          CRL           |
-|   cuarta    |      91 (=)      |        Lobino, Hugo        |                       |                        |
+|   cuarta    |      93 (=)      |        Lobino, Hugo        |                       |                        |
 |   cuarta    |     318 (=)      |       Locateli, Juan       |                       |                        |
 |   primera   |    1891 (+13)    |     Lofeudo, Juan Jose     |       Santa Fe        |        AteMeLi         |
 |   segunda   |     901 (=)      |       Longhi, Mauro        |       Santa Fe        |        AteMeLi         |
@@ -294,11 +294,11 @@
 |   tercera   |     406 (=)      |       Orzan, Joaquin       |                       |                        |
 |   tercera   |     443 (=)      |      Orzan, Valentin       |                       |                        |
 |   primera   |     1298 (=)     |      Palacios, Arturo      |      Corrientes       |          FCTM          |
-|   cuarta    |    207 (-44)     |       Palamedi, Alma       |       Santa Fe        |        AteMeLi         |
+|   cuarta    |    209 (-42)     |       Palamedi, Alma       |       Santa Fe        |        AteMeLi         |
 |   segunda   |    1029 (-54)    |     Palamedi, Cristian     |       Santa Fe        |        AteMeLi         |
 |   primera   |    1437 (-51)    |       Palamedi, Uma        |       Santa Fe        |        AteMeLi         |
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |                        |
-|   cuarta    |     364 (=)      |       Palma, Marcelo       |                       |                        |
+|   cuarta    |     363 (=)      |       Palma, Marcelo       |                       |                        |
 |   cuarta    |     224 (=)      |      Paulin, Santiago      |                       |                        |
 |   cuarta    |     330 (=)      |        Paya, Lazaro        |                       |                        |
 |   cuarta    |     330 (=)      |        Paz, Joaquin        |                       |                        |
@@ -331,7 +331,7 @@
 |   cuarta    |     332 (=)      |      Quinones, German      |                       |                        |
 |   segunda   |     818 (=)      |    Ramos Muzio, Gonzalo    |        Parana         |        Aspatem         |
 |   cuarta    |     297 (=)      |       Ramos, Matias        |                       |                        |
-|   cuarta    |    315 (-95)     |      Ranzani, Esteban      |                       |                        |
+|   cuarta    |    313 (-95)     |      Ranzani, Esteban      |                       |                        |
 |   cuarta    |     344 (=)      |      Raspini, Pamela       |                       |                        |
 |   tercera   |     483 (=)      |       Ravassi, Mauro       |                       |                        |
 |   primera   |    1560 (+7)     |      Reichel, Hernan       | Libertador San Martin |          CRL           |
@@ -388,7 +388,7 @@
 |   primera   |     1413 (=)     |   Stringhini, Alejandro    |       Santa Fe        |        AteMeLi         |
 |   tercera   |     612 (=)      |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |   primera   |     1182 (=)     |       Sueldo, Pablo        |                       |                        |
-|   tercera   |    473 (-24)     |     Taffarel, Claudio      |                       |                        |
+|   tercera   |    471 (-24)     |     Taffarel, Claudio      |                       |                        |
 |   primera   |     1106 (=)     |       Tenca, Gustavo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     866 (=)      |       Tenca, Javier        |        Parana         |        Aspatem         |
 |   cuarta    |    134 (-91)     |      Toffolini, Hugo       |                       |                        |
@@ -399,7 +399,7 @@
 |   tercera   |     435 (=)      |      Torres, Lautaro       |                       |                        |
 |   tercera   |     493 (=)      |        Tourn, Bruno        |                       |                        |
 |   segunda   |     972 (=)      |        Tourn, Tomas        |      Reconquista      |         ATMAR          |
-|   tercera   |     478 (=)      |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
+|   tercera   |     482 (=)      |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
 |   tercera   |     410 (=)      |     Trevignani, Lucas      |       Santa Fe        |        AteMeLi         |
 |   tercera   |     402 (=)      |     Troncoso, Mauricio     |                       |                        |
 |   primera   |     1206 (=)     |        Tumino, Juan        |                       |                        |
@@ -443,4 +443,4 @@
 |   cuarta    |     356 (=)      |       Zapata, Lucas        |                       |                        |
 |   tercera   |     697 (=)      |        Zavala, Jose        |                       |                        |
 |   tercera   |     498 (=)      |       Zeitune, Angel       |                       |                        |
-|   cuarta    |    330 (+98)     |      Zelayeta, Carlos      |                       |                        |
+|   cuarta    |    328 (+98)     |      Zelayeta, Carlos      |                       |                        |

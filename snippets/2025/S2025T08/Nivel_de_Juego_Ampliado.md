@@ -196,7 +196,7 @@
 |   primera   |     1694 (=)     |     Gonzalez, Juan A.      |      Reconquista      |         ATMAR          |
 |   primera   |     1054 (=)     |      Gonzalez, Oscar       |                       |                        |
 |   segunda   |    973 (+42)     |        Goy, Gerardo        |      Reconquista      |         ATMAR          |
-|   tercera   |     492 (=)      |      Grippo, Agustin       |                       |                        |
+|   tercera   |     491 (=)      |      Grippo, Agustin       |                       |                        |
 |   cuarta    |     384 (=)      |       Grippo, Daniel       |                       |                        |
 |   primera   |     1144 (=)     |     Grippo, Francisco      |        Parana         |        Aspatem         |
 |   segunda   |     867 (=)      |     Guckert, Emiliano      |       Santa Fe        |                        |
@@ -228,7 +228,7 @@
 |   tercera   |    401 (-11)     |      Lerman, Ricarlo       |                       |                        |
 |   tercera   |     672 (=)      |        Levin, Raul         |        Parana         |        Aspatem         |
 |   primera   |     1229 (=)     |       Lezana, Diego        | Libertador San Martin |          CRL           |
-|   cuarta    |     91 (-20)     |        Lobino, Hugo        |                       |                        |
+|   cuarta    |     93 (-18)     |        Lobino, Hugo        |                       |                        |
 |   cuarta    |    318 (-47)     |       Locateli, Juan       |                       |                        |
 |   primera   |    1878 (+10)    |     Lofeudo, Juan Jose     |       Santa Fe        |        AteMeLi         |
 |   segunda   |     901 (=)      |       Longhi, Mauro        |       Santa Fe        |        AteMeLi         |
@@ -298,7 +298,7 @@
 |   primera   |    1083 (+4)     |     Palamedi, Cristian     |       Santa Fe        |        AteMeLi         |
 |   primera   |    1488 (+34)    |       Palamedi, Uma        |       Santa Fe        |        AteMeLi         |
 |   tercera   |     699 (=)      |     Pallotti, Fabrizio     |                       |                        |
-|   cuarta    |     364 (=)      |       Palma, Marcelo       |                       |                        |
+|   cuarta    |     363 (=)      |       Palma, Marcelo       |                       |                        |
 |   cuarta    |     224 (=)      |      Paulin, Santiago      |                       |                        |
 |   cuarta    |     330 (=)      |        Paya, Lazaro        |                       |                        |
 |   cuarta    |     330 (=)      |        Paz, Joaquin        |                       |                        |
@@ -331,7 +331,7 @@
 |   cuarta    |     332 (=)      |      Quinones, German      |                       |                        |
 |   segunda   |     818 (=)      |    Ramos Muzio, Gonzalo    |        Parana         |        Aspatem         |
 |   cuarta    |     297 (=)      |       Ramos, Matias        |                       |                        |
-|   tercera   |    410 (+100)    |      Ranzani, Esteban      |                       |                        |
+|   tercera   |    408 (+98)     |      Ranzani, Esteban      |                       |                        |
 |   cuarta    |     344 (=)      |      Raspini, Pamela       |                       |                        |
 |   tercera   |     483 (=)      |       Ravassi, Mauro       |                       |                        |
 |   primera   |    1553 (-20)    |      Reichel, Hernan       | Libertador San Martin |          CRL           |
@@ -388,7 +388,7 @@
 |   primera   |     1413 (=)     |   Stringhini, Alejandro    |       Santa Fe        |        AteMeLi         |
 |   tercera   |     612 (=)      |       Suarez, Milton       |       Santa Fe        |        AteMeLi         |
 |   primera   |     1182 (=)     |       Sueldo, Pablo        |                       |                        |
-|   tercera   |     497 (=)      |     Taffarel, Claudio      |                       |                        |
+|   tercera   |     495 (=)      |     Taffarel, Claudio      |                       |                        |
 |   primera   |     1106 (=)     |       Tenca, Gustavo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |     866 (=)      |       Tenca, Javier        |        Parana         |        Aspatem         |
 |   cuarta    |     225 (=)      |      Toffolini, Hugo       |                       |                        |
@@ -399,7 +399,7 @@
 |   tercera   |     435 (=)      |      Torres, Lautaro       |                       |                        |
 |   tercera   |    493 (+58)     |        Tourn, Bruno        |                       |                        |
 |   segunda   |     972 (=)      |        Tourn, Tomas        |      Reconquista      |         ATMAR          |
-|   tercera   |    478 (+63)     |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
+|   tercera   |    482 (+63)     |    Trevignani, Alfonso     |       Santa Fe        |        AteMeLi         |
 |   tercera   |    410 (-19)     |     Trevignani, Lucas      |       Santa Fe        |        AteMeLi         |
 |   tercera   |     402 (=)      |     Troncoso, Mauricio     |                       |                        |
 |   primera   |     1206 (=)     |        Tumino, Juan        |                       |                        |
@@ -443,4 +443,4 @@
 |   cuarta    |     356 (=)      |       Zapata, Lucas        |                       |                        |
 |   tercera   |     697 (=)      |        Zavala, Jose        |                       |                        |
 |   tercera   |     498 (=)      |       Zeitune, Angel       |                       |                        |
-|   cuarta    |     232 (=)      |      Zelayeta, Carlos      |                       |                        |
+|   cuarta    |     230 (=)      |      Zelayeta, Carlos      |                       |                        |

@@ -46,7 +46,7 @@
 |   tercera   |    540 (-48)     |   Colavini, Daniel    | Santo Tome |   AteMeLi    |
 |   tercera   |     522 (=)      |    Bulacios, Juan     |            |              |
 |   tercera   |    503 (+20)     |   Pettinatti, Cesar   |            |              |
-|   tercera   |    492 (+49)     |    Grippo, Agustin    |            |              |
+|   tercera   |    491 (+49)     |    Grippo, Agustin    |            |              |
 |   tercera   |     471 (=)      |   Oliveras, Nahuel    |  Santa Fe  |   AteMeLi    |
 |   tercera   |    448 (-34)     |   Previale, Jesica    |            |              |
 |   tercera   |    434 (+119)    |     Diaz, Joaquin     |   Parana   |   Aspatem    |
@@ -59,7 +59,7 @@
 |   cuarta    |    391 (-32)     |    Gomez, Gabriel     |   Parana   | Tiro Federal |
 |   cuarta    |    384 (-51)     |    Grippo, Daniel     |            |              |
 |   cuarta    |     377 (=)      |    Barrios, Julio     |            |              |
-|   cuarta    |    364 (-49)     |    Palma, Marcelo     |            |              |
+|   cuarta    |    363 (-49)     |    Palma, Marcelo     |            |              |
 |   cuarta    |    359 (+30)     |   Schiavi, Marcelo    |            |              |
 |   cuarta    |     356 (+4)     |     Jove, Alberto     |            |              |
 |   cuarta    |    349 (+118)    |     Portillo, Ana     |   Parana   |   Aspatem    |

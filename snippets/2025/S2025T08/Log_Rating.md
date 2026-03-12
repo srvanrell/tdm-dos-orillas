@@ -5,27 +5,27 @@
 |  Perez, Valentino (181)   |    Candia, Matias (75)    |     106      |        12        |        -12        |   cuartos   |   cuarta    |    1     |
 |  Ranzani, Esteban (310)   |   Locateli, Juan (365)    |     -55      |        26        |        -26        |   cuartos   |   cuarta    |    1     |
 |  Ranzani, Esteban (310)   |  Perez, Valentino (181)   |     129      |        12        |        -12        |    final    |   cuarta    |    1     |
-|  Albrecht, Ignacio (305)  |    Lobino, Hugo (111)     |     193      |        10        |        -10        |   octavos   |   cuarta    |    1     |
+|  Albrecht, Ignacio (305)  |    Lobino, Hugo (111)     |     194      |        10        |        -10        |   octavos   |   cuarta    |    1     |
 |    Candia, Matias (75)    |   Acuna, Patricio (45)    |      30      |        16        |        -16        |   octavos   |   cuarta    |    1     |
 |   Florito, Miguel (376)   |   Valcar, Daniel (440)    |     -64      |        39        |        -39        |   octavos   |   cuarta    |   1.5    |
-|   Locateli, Juan (365)    |   Palamedi, Alma (286)    |      78      |        14        |        -14        |   octavos   |   cuarta    |    1     |
+|   Locateli, Juan (365)    |   Palamedi, Alma (286)    |      79      |        14        |        -14        |   octavos   |   cuarta    |    1     |
 |  Perez, Valentino (181)   |  Bregant, Osvaldo (168)   |      13      |        18        |        -18        |  semifinal  |   cuarta    |    1     |
 |  Ranzani, Esteban (310)   |  Albrecht, Ignacio (305)  |      5       |        18        |        -18        |  semifinal  |   cuarta    |    1     |
 |   Acuna, Patricio (45)    |    Lobino, Hugo (111)     |     -66      |        26        |        -26        |    zona     |   cuarta    |    1     |
 |  Albrecht, Ignacio (305)  |    Candia, Matias (75)    |     230      |        8         |        -8         |    zona     |   cuarta    |    1     |
 |  Bregant, Osvaldo (168)   |  Albrecht, Ignacio (305)  |     -137     |        30        |        -30        |    zona     |   cuarta    |    1     |
 |  Bregant, Osvaldo (168)   |    Candia, Matias (75)    |      93      |        14        |        -14        |    zona     |   cuarta    |    1     |
-|  Del Turco, Tadeo (177)   |   Acuna, Patricio (45)    |     132      |        12        |        -12        |    zona     |   cuarta    |    1     |
-|    Lobino, Hugo (111)     |  Del Turco, Tadeo (177)   |     -66      |        26        |        -26        |    zona     |   cuarta    |    1     |
+|  Del Turco, Tadeo (178)   |   Acuna, Patricio (45)    |     133      |        12        |        -12        |    zona     |   cuarta    |    1     |
+|    Lobino, Hugo (111)     |  Del Turco, Tadeo (178)   |     -67      |        26        |        -26        |    zona     |   cuarta    |    1     |
 |   Locateli, Juan (365)    |   Florito, Miguel (376)   |     -11      |        18        |        -18        |    zona     |   cuarta    |    1     |
 |  Perez, Valentino (181)   |   Florito, Miguel (376)   |     -195     |        36        |        -36        |    zona     |   cuarta    |    1     |
 |  Perez, Valentino (181)   |   Locateli, Juan (365)    |     -184     |        36        |        -36        |    zona     |   cuarta    |    1     |
 |   Perren, Miguel (316)    |   Palamedi, Alma (286)    |      30      |        16        |        -16        |    zona     |   cuarta    |    1     |
-|   Perren, Miguel (316)    |   Valcar, Daniel (440)    |     -123     |        45        |        -45        |    zona     |   cuarta    |   1.5    |
+|   Perren, Miguel (316)    |   Valcar, Daniel (440)    |     -124     |        45        |        -45        |    zona     |   cuarta    |   1.5    |
 |  Ranzani, Esteban (310)   |   Acuna, Patricio (45)    |     265      |        8         |        -8         |    zona     |   cuarta    |    1     |
-|  Ranzani, Esteban (310)   |  Del Turco, Tadeo (177)   |     132      |        12        |        -12        |    zona     |   cuarta    |    1     |
-|  Ranzani, Esteban (310)   |    Lobino, Hugo (111)     |     198      |        10        |        -10        |    zona     |   cuarta    |    1     |
-|   Valcar, Daniel (440)    |   Palamedi, Alma (286)    |     153      |        5         |        -5         |    zona     |   cuarta    |   0.5    |
+|  Ranzani, Esteban (310)   |  Del Turco, Tadeo (178)   |     132      |        12        |        -12        |    zona     |   cuarta    |    1     |
+|  Ranzani, Esteban (310)   |    Lobino, Hugo (111)     |     199      |        8         |        -8         |    zona     |   cuarta    |    1     |
+|   Valcar, Daniel (440)    |   Palamedi, Alma (286)    |     154      |        5         |        -5         |    zona     |   cuarta    |   0.5    |
 |                           |                           |              |                  |                   |             |             |          |
 | Lofeudo, Juan Jose (1868) | Palamedi, Cristian (1079) |     789      |        2         |        -2         |   cuartos   |   primera   |    1     |
 |   Nohara, Andres (1131)   |     Dip, Jorge (958)      |     173      |        5         |        -5         |   cuartos   |   primera   |   0.5    |
@@ -96,18 +96,18 @@
 |   Costanza, Roque (689)   |    Diaz, Joaquin (496)    |     193      |        10        |        -10        |   cuartos   |   tercera   |    1     |
 | Oliveras, Leonardo (636)  |    Avila, Marcos (551)    |      85      |        14        |        -14        |   cuartos   |   tercera   |    1     |
 |    Tourn, Bruno (435)     |  Domenicone, Bruno (575)  |     -140     |        30        |        -30        |   cuartos   |   tercera   |    1     |
-| Trevignani, Alfonso (415) |  Ranzani, Esteban (310)   |     105      |        6         |        -6         |   cuartos   |   tercera   |   0.5    |
+| Trevignani, Alfonso (419) |  Ranzani, Esteban (310)   |     109      |        6         |        -6         |   cuartos   |   tercera   |   0.5    |
 | Oliveras, Leonardo (636)  |   Costanza, Roque (689)   |     -53      |        26        |        -26        |    final    |   tercera   |    1     |
 |    Avila, Marcos (551)    |  Agustini, Sergio (430)   |     121      |        12        |        -12        |   octavos   |   tercera   |    1     |
 |   Costanza, Roque (689)   |  Albrecht, Ignacio (305)  |     384      |        3         |        -3         |   octavos   |   tercera   |   0.5    |
 |    Diaz, Joaquin (496)    | Vigouroux, Santiago (537) |     -41      |        22        |        -22        |   octavos   |   tercera   |    1     |
-|  Domenicone, Bruno (575)  |   Lerman, Ricarlo (411)   |     163      |        10        |        -10        |   octavos   |   tercera   |    1     |
+|  Domenicone, Bruno (575)  |   Lerman, Ricarlo (412)   |     163      |        10        |        -10        |   octavos   |   tercera   |    1     |
 | Oliveras, Leonardo (636)  |   Valcar, Daniel (440)    |     196      |        10        |        -10        |   octavos   |   tercera   |    1     |
 |  Ranzani, Esteban (310)   |  Perez, Valentino (181)   |     129      |        12        |        -12        |   octavos   |   tercera   |    1     |
 |    Tourn, Bruno (435)     |  Pettinatti, Cesar (422)  |      13      |        18        |        -18        |   octavos   |   tercera   |    1     |
-| Trevignani, Alfonso (415) |  Trevignani, Lucas (429)  |     -13      |        18        |        -18        |   octavos   |   tercera   |    1     |
+| Trevignani, Alfonso (419) |  Trevignani, Lucas (429)  |     -10      |        18        |        -18        |   octavos   |   tercera   |    1     |
 |   Costanza, Roque (689)   |    Tourn, Bruno (435)     |     254      |        8         |        -8         |  semifinal  |   tercera   |    1     |
-| Oliveras, Leonardo (636)  | Trevignani, Alfonso (415) |     220      |        8         |        -8         |  semifinal  |   tercera   |    1     |
+| Oliveras, Leonardo (636)  | Trevignani, Alfonso (419) |     217      |        8         |        -8         |  semifinal  |   tercera   |    1     |
 |  Agustini, Sergio (430)   |  Ranzani, Esteban (310)   |     120      |        6         |        -6         |    zona     |   tercera   |   0.5    |
 |    Avila, Marcos (551)    |  Albrecht, Ignacio (305)  |     246      |        4         |        -4         |    zona     |   tercera   |   0.5    |
 |   Costanza, Roque (689)   |   Locateli, Juan (365)    |     324      |        3         |        -3         |    zona     |   tercera   |   0.5    |
@@ -116,16 +116,16 @@
 |    Diaz, Joaquin (496)    |  Pettinatti, Cesar (422)  |      74      |        14        |        -14        |    zona     |   tercera   |    1     |
 |  Domenicone, Bruno (575)  |  Agustini, Sergio (430)   |     145      |        12        |        -12        |    zona     |   tercera   |    1     |
 |  Domenicone, Bruno (575)  |  Ranzani, Esteban (310)   |     265      |        4         |        -4         |    zona     |   tercera   |   0.5    |
-|   Lerman, Ricarlo (411)   |   Perren, Miguel (316)    |      95      |        7         |        -7         |    zona     |   tercera   |   0.5    |
-| Oliveras, Leonardo (636)  |   Lerman, Ricarlo (411)   |     224      |        8         |        -8         |    zona     |   tercera   |    1     |
-| Oliveras, Leonardo (636)  |   Perren, Miguel (316)    |     319      |        3         |        -3         |    zona     |   tercera   |   0.5    |
+|   Lerman, Ricarlo (412)   |   Perren, Miguel (316)    |      96      |        7         |        -7         |    zona     |   tercera   |   0.5    |
+| Oliveras, Leonardo (636)  |   Lerman, Ricarlo (412)   |     224      |        8         |        -8         |    zona     |   tercera   |    1     |
+| Oliveras, Leonardo (636)  |   Perren, Miguel (316)    |     320      |        3         |        -3         |    zona     |   tercera   |   0.5    |
 |  Perez, Valentino (181)   |   Valcar, Daniel (440)    |     -259     |        63        |        -63        |    zona     |   tercera   |   1.5    |
 |  Perez, Valentino (181)   | Vigouroux, Santiago (537) |     -356     |        72        |        -72        |    zona     |   tercera   |   1.5    |
 |  Pettinatti, Cesar (422)  |    Candia, Matias (75)    |     347      |        3         |        -3         |    zona     |   tercera   |   0.5    |
 |    Tourn, Bruno (435)     |  Albrecht, Ignacio (305)  |     130      |        6         |        -6         |    zona     |   tercera   |   0.5    |
 |    Tourn, Bruno (435)     |    Avila, Marcos (551)    |     -116     |        30        |        -30        |    zona     |   tercera   |    1     |
-| Trevignani, Alfonso (415) |    Candia, Matias (75)    |     340      |        3         |        -3         |    zona     |   tercera   |   0.5    |
-| Trevignani, Alfonso (415) |    Diaz, Joaquin (496)    |     -80      |        26        |        -26        |    zona     |   tercera   |    1     |
-| Trevignani, Alfonso (415) |  Pettinatti, Cesar (422)  |      -6      |        18        |        -18        |    zona     |   tercera   |    1     |
+| Trevignani, Alfonso (419) |    Candia, Matias (75)    |     344      |        3         |        -3         |    zona     |   tercera   |   0.5    |
+| Trevignani, Alfonso (419) |    Diaz, Joaquin (496)    |     -77      |        26        |        -26        |    zona     |   tercera   |    1     |
+| Trevignani, Alfonso (419) |  Pettinatti, Cesar (422)  |      -3      |        18        |        -18        |    zona     |   tercera   |    1     |
 |  Trevignani, Lucas (429)  |   Locateli, Juan (365)    |      64      |        7         |        -7         |    zona     |   tercera   |   0.5    |
 | Vigouroux, Santiago (537) |   Valcar, Daniel (440)    |      97      |        14        |        -14        |    zona     |   tercera   |    1     |

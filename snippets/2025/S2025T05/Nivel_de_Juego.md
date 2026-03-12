@@ -53,7 +53,7 @@
 |   tercera   |    542 (+165)    |    Barrios, Julio     |                    |              |
 |   tercera   |    534 (+106)    |     Diaz, Joaquin     |       Parana       |   Aspatem    |
 |   tercera   |     522 (=)      |    Bulacios, Juan     |                    |              |
-|   tercera   |     492 (=)      |    Grippo, Agustin    |                    |              |
+|   tercera   |     491 (=)      |    Grippo, Agustin    |                    |              |
 |   tercera   |     466 (=)      |   Oliveras, Nahuel    |      Santa Fe      |   AteMeLi    |
 |   tercera   |     448 (=)      |   Previale, Jesica    |                    |              |
 |   tercera   |    439 (-63)     |     Bordi, Mario      |                    |              |
@@ -70,7 +70,7 @@
 |   cuarta    |     384 (=)      |    Grippo, Daniel     |                    |              |
 |   cuarta    |     383 (-2)     |    Pinery, Sergio     |                    |              |
 |   cuarta    |     371 (=)      |    Locateli, Juan     |                    |              |
-|   cuarta    |     364 (=)      |    Palma, Marcelo     |                    |              |
+|   cuarta    |     363 (=)      |    Palma, Marcelo     |                    |              |
 |   cuarta    |     359 (=)      |   Schiavi, Marcelo    |                    |              |
 |   cuarta    |     356 (=)      |     Jove, Alberto     |                    |              |
 |   cuarta    |     356 (=)      |   Taffarel, Claudio   |                    |              |
@@ -78,7 +78,7 @@
 |   cuarta    |     349 (=)      |     Portillo, Ana     |       Parana       |   Aspatem    |
 |   cuarta    |     344 (=)      |    Raspini, Pamela    |                    |              |
 |   cuarta    |    341 (+10)     |   Orcellet, Rodrigo   |                    |              |
-|   cuarta    |    336 (+44)     |    Hanrri, Facundo    |       Parana       |   Aspatem    |
+|   cuarta    |    337 (+44)     |    Hanrri, Facundo    |       Parana       |   Aspatem    |
 |   cuarta    |     335 (=)      |   Mardon, Emiliano    |                    |              |
 |   cuarta    |    333 (-37)     |  Faggionatto, Walter  |                    |              |
 |   cuarta    |     332 (=)      |   Quinones, German    |                    |              |
