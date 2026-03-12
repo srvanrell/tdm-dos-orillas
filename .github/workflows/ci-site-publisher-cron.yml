@@ -23,7 +23,7 @@ jobs:
         with:
           enable-cache: true
       - name: Install the project
-        run: uv sync --locked --all-extras --dev
+        run: uv sync --all-extras --dev
       # - run: uv pip install git+https://github.com/srvanrell/ranking-table-tennis.git@branch-name
       # Combines preprocess, compute and publish to automatically resolve
       - id: rtt-automatic
