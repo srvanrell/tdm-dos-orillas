@@ -39,10 +39,10 @@ done
 # Update seasons.yaml and docs folders (imitate 2023)
 ./update_season_yaml.py --year ${YEAR}
 mkdir -p "./docs/season/${YEAR}/"
-cp -av ./docs/season/2023/* ./docs/season/2023/.pages ./docs/season/${YEAR}/
+cp -av ./docs/season/2023/* ./docs/season/2023/.nav.yml ./docs/season/${YEAR}/
 # Make sure that this year season is hide from navigation
-sed -i 's/hide: true/hide: false/g' ./docs/season/*/.pages
-sed -i 's/hide: false/hide: true/g' ./docs/season/${CURRENT_YEAR}/.pages
+sed -i 's/hide: true/hide: false/g' ./docs/season/*/.nav.yml
+sed -i 's/hide: false/hide: true/g' ./docs/season/${CURRENT_YEAR}/.nav.yml
 # By default rules will be taken from season 2023
 # Copy only if the source file is newer or doesn't exist in the destination
 cp -av --update ./snippets/2023/rules.md ./snippets/${YEAR}/
