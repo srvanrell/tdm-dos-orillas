@@ -6,4 +6,4 @@ nav:
     - Historial por Jugador: season/current/historical
     - Estadísticas: season/current/statistics
     - Reglamento: season/current/rules
-    - ...
+    - "*"

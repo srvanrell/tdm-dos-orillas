@@ -1,5 +1,6 @@
 title: Todas las temporadas
-order: desc
+sort:
+    direction: desc
 nav:
-    - ... # filtro posible: | **20**
+    - "*" # filtro posible: | **20**
     - old_seasons.md
