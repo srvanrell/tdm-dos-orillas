@@ -50,7 +50,7 @@ edit_uri: ""
 
 plugins:
   - search
-  - awesome-pages
+  - awesome-nav
   - macros:
       include_dir: snippets
       on_error_fail: true
