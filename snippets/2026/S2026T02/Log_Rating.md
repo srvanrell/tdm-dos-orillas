@@ -71,6 +71,7 @@
 |   Vigouroux, Jorge (574)   |         Bracco, Victor (473)         |     101      |        12        |        -12        |   octavos   |   segunda   |    1     |
 |  Barchiesi, Matias (897)   |       Dalinger, Humberto (747)       |     150      |        10        |        -10        |  semifinal  |   segunda   |    1     |
 |  Ferretti, Gustavo (796)   |       Oliveras, Leonardo (844)       |     -48      |        22        |        -22        |  semifinal  |   segunda   |    1     |
+|    Albano, Javier (953)    |      Ramos Muzio, Gonzalo (774)      |     179      |        10        |        -10        |    zona     |   segunda   |    1     |
 |    Albano, Javier (953)    |      Samaniego, Francisco (506)      |     447      |        4         |        -4         |    zona     |   segunda   |    1     |
 |    Avila, Marcos (914)     |          Pilotti, Paz (749)          |     165      |        10        |        -10        |    zona     |   segunda   |    1     |
 |    Banfi, Franco (844)     |         Bracco, Victor (473)         |     371      |        3         |        -3         |    zona     |   segunda   |   0.5    |
@@ -89,7 +90,6 @@
 |   Oliveras, Nahuel (515)   |       Oliveras, Leonardo (844)       |     -329     |        72        |        -72        |    zona     |   segunda   |   1.5    |
 |   Perez, Valentino (426)   |       Vigouroux, Manuel (759)        |     -333     |        72        |        -72        |    zona     |   segunda   |   1.5    |
 |    Prettis, Juan (690)     |        Perez, Valentino (426)        |     264      |        8         |        -8         |    zona     |   segunda   |    1     |
-| Ramos Muzio, Gonzalo (774) |         Albano, Javier (953)         |     -179     |        36        |        -36        |    zona     |   segunda   |    1     |
 | Ramos Muzio, Gonzalo (774) |      Samaniego, Francisco (506)      |     268      |        4         |        -4         |    zona     |   segunda   |   0.5    |
 |    Rubio, Julian (787)     |        Oliveras, Nahuel (515)        |     272      |        4         |        -4         |    zona     |   segunda   |   0.5    |
 |   Vigouroux, Jorge (574)   |       Barchiesi, Matias (897)        |     -323     |        72        |        -72        |    zona     |   segunda   |   1.5    |

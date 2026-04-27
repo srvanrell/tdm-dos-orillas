@@ -19,18 +19,18 @@
 |   primera   |     1055 (=)     |       Palamedi, Cristian       |       Santa Fe        |        AteMeLi         |
 |             |                  |                                |                       |                        |
 |   segunda   |    946 (+150)    |       Ferretti, Gustavo        |       Santa Fe        |        AteMeLi         |
+|   segunda   |     945 (-8)     |         Albano, Javier         |       Santa Fe        |        AteMeLi         |
 |   segunda   |     933 (=)      |          Goy, Gerardo          |      Reconquista      |         ATMAR          |
 |   segunda   |     929 (=)      |        Escobar, Gadiel         |                       |                        |
-|   segunda   |    899 (-54)     |         Albano, Javier         |       Santa Fe        |        AteMeLi         |
 |   segunda   |     868 (=)      |        Velazquez, Irupe        |       Santa Fe        |        AteMeLi         |
 |   segunda   |     860 (=)      |        Escudero, Martin        |       Santa Fe        |        AteMeLi         |
 |   segunda   |     836 (-8)     |         Banfi, Franco          |        Parana         |        Aspatem         |
 |   segunda   |    817 (+30)     |         Rubio, Julian          |       Santa Fe        |        AteMeLi         |
-|   segunda   |    802 (+28)     |      Ramos Muzio, Gonzalo      |        Parana         |        Aspatem         |
 |   segunda   |    799 (-45)     |       Oliveras, Leonardo       |       Santa Fe        |        AteMeLi         |
 |   segunda   |    798 (-116)    |         Avila, Marcos          |                       |                        |
 |   segunda   |    797 (+149)    |         Diaz, Joaquin          |        Parana         |        Aspatem         |
 |   segunda   |     766 (=)      |           Dip, Jorge           |  San Jeronimo Norte   |      Libertad SJN      |
+|   segunda   |    756 (-18)     |      Ramos Muzio, Gonzalo      |        Parana         |        Aspatem         |
 |   segunda   |     749 (+2)     |       Dalinger, Humberto       |        Parana         |      Tiro Federal      |
 |   segunda   |    748 (-149)    |       Barchiesi, Matias        |                       |                        |
 |   segunda   |     731 (=)      |        Costanza, Roque         |       Santa Fe        |        AteMeLi         |

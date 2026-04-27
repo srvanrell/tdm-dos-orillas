@@ -10,7 +10,7 @@
 |   tercera   |     611 (=)      |        Aguirre, Sandra         |        Parana         |        Aspatem         |
 |   tercera   |     412 (=)      |        Agustini, Sergio        |                       |                        |
 |   cuarta    |     344 (=)      |        Albano, Gabriela        |                       |                        |
-|   segunda   |    899 (-54)     |         Albano, Javier         |       Santa Fe        |        AteMeLi         |
+|   segunda   |     945 (-8)     |         Albano, Javier         |       Santa Fe        |        AteMeLi         |
 |   segunda   |     1026 (=)     |         Albano, Lucia          |       Santa Fe        |        AteMeLi         |
 |   primera   |     1134 (=)     |        Alberro, Nestor         | Libertador San Martin |          CRL           |
 |   tercera   |     447 (=)      |       Albrecht, Ignacio        |  San Jeronimo Norte   |      Libertad SJN      |
@@ -337,7 +337,7 @@
 |   tercera   |    672 (-18)     |         Prettis, Juan          |        Parana         |        Aspatem         |
 |   tercera   |     448 (=)      |        Previale, Jesica        |                       |                        |
 |   cuarta    |     332 (=)      |        Quinones, German        |                       |                        |
-|   segunda   |    802 (+28)     |      Ramos Muzio, Gonzalo      |        Parana         |        Aspatem         |
+|   segunda   |    756 (-18)     |      Ramos Muzio, Gonzalo      |        Parana         |        Aspatem         |
 |   cuarta    |     297 (=)      |         Ramos, Matias          |                       |                        |
 |   cuarta    |     360 (=)      |        Ranzani, Esteban        |                       |                        |
 |   cuarta    |     344 (=)      |        Raspini, Pamela         |                       |                        |

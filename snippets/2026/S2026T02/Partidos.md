@@ -71,7 +71,7 @@
 |  Vigouroux, Manuel   |        Oliveras, Nahuel        |    1     |    3     |   octavos   |   segunda   |
 |  Barchiesi, Matias   |       Dalinger, Humberto       |    3     |    2     |  semifinal  |   segunda   |
 |  Ferretti, Gustavo   |       Oliveras, Leonardo       |    3     |    0     |  semifinal  |   segunda   |
-|    Albano, Javier    |      Ramos Muzio, Gonzalo      |    2     |    3     |    zona     |   segunda   |
+|    Albano, Javier    |      Ramos Muzio, Gonzalo      |    3     |    2     |    zona     |   segunda   |
 |    Albano, Javier    |      Samaniego, Francisco      |    3     |    0     |    zona     |   segunda   |
 |    Avila, Marcos     |         Diaz, Joaquin          |    0     |    3     |    zona     |   segunda   |
 |    Avila, Marcos     |          Pilotti, Paz          |    3     |    0     |    zona     |   segunda   |
