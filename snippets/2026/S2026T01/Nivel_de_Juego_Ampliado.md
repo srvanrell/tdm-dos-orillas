@@ -4,14 +4,14 @@
 |   cuarta    |     284 (-2)     |         Acuna, Daiana          |       Santa Fe        |        AteMeLi         |
 |   cuarta    |      35 (=)      |        Acuna, Patricio         |                       |                        |
 |   segunda   |     736 (=)      |        Acuna, Santiago         |                       |                        |
-|   segunda   |     951 (=)      |          Aguer, Jose           |        Parana         |        Aspatem         |
+|   segunda   |     951 (=)      |          Aguer, Jose           |  Parana, Entre Rios   |        Aspatem         |
 |   segunda   |     702 (=)      |        Aguirre, Gabriel        |        Parana         |        Aspatem         |
 |   primera   |    1083 (-17)    |        Aguirre, German         |        Parana         |        Aspatem         |
-|   tercera   |     611 (=)      |        Aguirre, Sandra         |        Parana         |        Aspatem         |
+|   tercera   |     611 (=)      |        Aguirre, Sandra         |  Parana, Entre Rios   |        Aspatem         |
 |   tercera   |     412 (=)      |        Agustini, Sergio        |                       |                        |
 |   cuarta    |     344 (=)      |        Albano, Gabriela        |                       |                        |
 |   segunda   |    953 (-30)     |         Albano, Javier         |       Santa Fe        |        AteMeLi         |
-|   segunda   |     1026 (=)     |         Albano, Lucia          |       Santa Fe        |        AteMeLi         |
+|   segunda   |     1026 (=)     |         Albano, Lucia          |  Santa Fe, Santa Fe   |        AteMeLi         |
 |   primera   |     1134 (=)     |        Alberro, Nestor         | Libertador San Martin |          CRL           |
 |   tercera   |    447 (+144)    |       Albrecht, Ignacio        |  San Jeronimo Norte   |      Libertad SJN      |
 |   cuarta    |     334 (=)      |        Albrecht, Ramiro        |                       |                        |

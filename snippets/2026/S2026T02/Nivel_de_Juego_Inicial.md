@@ -99,7 +99,7 @@
 |       1048       |          Utz, Andrea           | Libertador San Martin |          CRL           |
 |       1041       |          Gomez, Luis           |                       |                        |
 |       1037       |        Montoya, Nahuel         |                       |                        |
-|       1026       |         Albano, Lucia          |       Santa Fe        |        AteMeLi         |
+|       1026       |         Albano, Lucia          |  Santa Fe, Santa Fe   |        AteMeLi         |
 |       1026       |        Escobar, Esteban        |                       |                        |
 |       1026       |        Gimenez, Maximo         |        Parana         |        Aspatem         |
 |       1026       |         Rulfi, Daniel          |        Parana         |        Aspatem         |
@@ -132,7 +132,7 @@
 |       960        |       Welschen, Benjamin       |                       |                        |
 |       959        |          Goy, Gerardo          |      Reconquista      |         ATMAR          |
 |       954        |       Batistella, German       |                       |                        |
-|       951        |          Aguer, Jose           |        Parana         |        Aspatem         |
+|       951        |          Aguer, Jose           |  Parana, Entre Rios   |        Aspatem         |
 |       946        |       Barchiesi, Matias        |                       |                        |
 |       942        |         Sacone, Alonso         |      San Lorenzo      |                        |
 |       929        |        Escobar, Gadiel         |                       |                        |
@@ -259,7 +259,7 @@
 |       624        |        Rojas, Priscila         |                       |                        |
 |       613        |         Comas, Javier          |        Parana         |        Aspatem         |
 |       612        |         Suarez, Milton         |       Santa Fe        |        AteMeLi         |
-|       611        |        Aguirre, Sandra         |        Parana         |        Aspatem         |
+|       611        |        Aguirre, Sandra         |  Parana, Entre Rios   |        Aspatem         |
 |       609        |        Gambino, Sergio         |        Parana         |        Aspatem         |
 |       602        |         Godano, Lucas          |                       |                        |
 |       592        |        Cabrera, Carlos         |                       |                        |
