@@ -1322,7 +1322,7 @@ wheels = [
 
 [[package]]
 name = "ranking-table-tennis"
-version = "2026.5.20"
+version = "2026.5.21"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "gspread" },
@@ -1340,9 +1340,9 @@ dependencies = [
     { name = "unidecode" },
     { name = "urllib3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/78/c7/b2530d14afdc7eec2f011b4dc2a6d109754be9dbb48530de57d110d5c86f/ranking_table_tennis-2026.5.20.tar.gz", hash = "sha256:81d49d82de9bfd7b8d93bfb7aafa6ff7ad32d005f86c94f4ac57efc5e6addd47", size = 52674, upload-time = "2026-05-21T11:59:20.667Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/4c/e0/9fa19e37d9e2d6c3e5b0a1df6e46046f0abb62ffd53cd0ece5729f8d0f8c/ranking_table_tennis-2026.5.21.tar.gz", hash = "sha256:7610b0edcee90b9a77cba7bc4a8eebd7b411a9576e0d953b127727f1ee8dea5e", size = 52677, upload-time = "2026-05-21T13:03:46.325Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/f1/30/c1ba07635a4f6c4b3c2a9b7cb02a5df5c47ca740102bfcd9a83cb33b0374/ranking_table_tennis-2026.5.20-py3-none-any.whl", hash = "sha256:03968ec4f95747a5f6ff366965da8ea617be52e95c78853ea2eec653d786bb58", size = 65462, upload-time = "2026-05-21T11:59:18.462Z" },
+    { url = "https://files.pythonhosted.org/packages/9f/2d/0872f1690d547a0428d856428e73367dc190c691e74502fc079c95656348/ranking_table_tennis-2026.5.21-py3-none-any.whl", hash = "sha256:8d45767746194bf6afbf5df7694488b4a7f72826bb08337f02c8d41deb4dbd6f", size = 65470, upload-time = "2026-05-21T13:03:45.198Z" },
 ]
 
 [[package]]
