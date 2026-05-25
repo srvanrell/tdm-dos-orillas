@@ -15,14 +15,14 @@
 |   segunda   |    2018 (-88)    |         Mendez, Carlos         |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   segunda   |    2006 (-62)    |         Boetti, Genaro         |           San Justo, Santa Fe           |         Tiro Federal         |
 |   segunda   |    1977 (+33)    |       Olivares, Isabella       |                                         |                              |
-|   segunda   |    1935 (-11)    |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   segunda   |     1933 (=)     |          Goy, Gerardo          |               Reconquista               |            ATMAR             |
 |   segunda   |    1907 (+90)    |         Rubio, Julian          |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   segunda   |    1905 (-32)    |         Albano, Javier         |                Santa Fe                 |       Provincial Club        |
 |   segunda   |    1894 (+96)    |         Avila, Marcos          |           Santa Fe, Santa Fe            |       Provincial Club        |
+|   segunda   |    1889 (-57)    |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |       Provincial Club        |
+|   segunda   |    1874 (+80)    |         Diaz, Joaquin          |           Parana, Entre Rios            |         Tiro Federal         |
 |   segunda   |     1868 (=)     |        Velazquez, Irupe        |                Santa Fe                 |           AteMeLi            |
 |   segunda   |     1836 (=)     |         Banfi, Franco          |                 Parana                  |           Aspatem            |
-|   segunda   |    1828 (+34)    |         Diaz, Joaquin          |           Parana, Entre Rios            |         Tiro Federal         |
 |   segunda   |    1759 (+11)    |       Barchiesi, Matias        |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   segunda   |    1754 (-45)    |       Oliveras, Leonardo       |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   segunda   |     1749 (=)     |       Dalinger, Humberto       |                 Parana                  |         Tiro Federal         |

@@ -137,7 +137,7 @@
 |   cuarta    |     1374 (=)     |         Diaz, Benjamin         |                                         |                              |
 |   cuarta    |     1215 (=)     |         Diaz, Claudino         |                                         |                              |
 |   segunda   |     1745 (=)     |           Diaz, Gino           |          Libertador San Martin          |             CRL              |
-|   segunda   |    1828 (+34)    |         Diaz, Joaquin          |           Parana, Entre Rios            |         Tiro Federal         |
+|   segunda   |    1874 (+80)    |         Diaz, Joaquin          |           Parana, Entre Rios            |         Tiro Federal         |
 |   primera   |     2231 (=)     |          Diel, Pablo           |                                         |                              |
 |   cuarta    |    1136 (-25)    |         Diez, Gabriel          |                                         |                              |
 |   segunda   |     1766 (=)     |           Dip, Jorge           |           San Jeronimo Norte            |         Libertad SJN         |
@@ -161,7 +161,7 @@
 |   segunda   |     1910 (=)     |    Fernandez, Juan Ignacio     |                                         |                              |
 |   primera   |     2219 (=)     |     Fernandez, Maximiliano     |                                         |                              |
 |   tercera   |     1480 (=)     |       Ferrero, Alejandro       |                                         |                              |
-|   segunda   |    1935 (-11)    |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |       Provincial Club        |
+|   segunda   |    1889 (-57)    |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   primera   |     2382 (=)     |        Ferreyra, Dante         |                                         |                              |
 |   tercera   |     1584 (=)     |       Ferreyra, Enrique        |                Santa Fe                 |                              |
 |   primera   |     2210 (=)     |       Ferreyra, Patricio       |                Santa Fe                 |           AteMeLi            |

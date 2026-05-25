@@ -60,7 +60,7 @@
 |  Allegrini, Tiziano (2281)  |  Olivares, Isabella (1944)  |     337      |        3         |        -3         |    zona     |   primera   |   0.5    |
 |    Avila, Marcos (1798)     |    Mendez, Carlos (2106)    |     -308     |        72        |        -72        |    zona     |   primera   |   1.5    |
 |    Boetti, Genaro (2068)    |  Barchiesi, Matias (1748)   |     320      |        3         |        -3         |    zona     |   primera   |   0.5    |
-|  Ferretti, Gustavo (1946)   |    Diaz, Joaquin (1794)     |     152      |        10        |        -10        |    zona     |   primera   |    1     |
+|    Diaz, Joaquin (1794)     |  Ferretti, Gustavo (1946)   |     -152     |        36        |        -36        |    zona     |   primera   |    1     |
 |  Lofeudo, Juan Jose (2922)  |  Barchiesi, Matias (1748)   |     1174     |        0         |         0         |    zona     |   primera   |   0.5    |
 |  Lofeudo, Juan Jose (2922)  |    Boetti, Genaro (2068)    |     854      |        2         |        -2         |    zona     |   primera   |    1     |
 |  Olivares, Isabella (1944)  |   Micocci, Matias (2141)    |     -197     |        54        |        -54        |    zona     |   primera   |   1.5    |

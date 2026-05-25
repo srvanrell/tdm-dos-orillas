@@ -59,7 +59,7 @@
 |  Allegrini, Tiziano  |   Micocci, Matias    |    3     |    1     |    zona     |   primera   |
 |  Allegrini, Tiziano  |  Olivares, Isabella  |    3     |    0     |    zona     |   primera   |
 |    Boetti, Genaro    |  Barchiesi, Matias   |    3     |    0     |    zona     |   primera   |
-|  Ferretti, Gustavo   |    Diaz, Joaquin     |    3     |    1     |    zona     |   primera   |
+|  Ferretti, Gustavo   |    Diaz, Joaquin     |    2     |    3     |    zona     |   primera   |
 |  Lofeudo, Juan Jose  |  Barchiesi, Matias   |    3     |    0     |    zona     |   primera   |
 |  Lofeudo, Juan Jose  |    Boetti, Genaro    |    3     |    1     |    zona     |   primera   |
 |    Mendez, Carlos    |    Avila, Marcos     |    2     |    3     |    zona     |   primera   |
