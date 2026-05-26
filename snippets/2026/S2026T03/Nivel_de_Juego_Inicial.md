@@ -428,7 +428,7 @@
 |       1221       |         Galindo, Abel          |                                         |                              |
 |       1220       |        Paulin, Santiago        |                                         |                              |
 |       1219       |        Viviani, Monica         |               Santo Tome                |    Defensores de Belgrano    |
-|       1216       |        Boskovic, David         |                                         |                              |
+|       1216       |        Boskovic, David         |           San Jeronimo Norte            |         Libertad SJN         |
 |       1215       |         Diaz, Claudino         |                                         |                              |
 |       1210       |        Rodriguez, Dora         |                                         |                              |
 |       1208       |          Gaete, Tiago          |                                         |                              |

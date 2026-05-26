@@ -65,7 +65,7 @@
 |   cuarta    |     1287 (=)     |          Hepp, Gernan          |                                         |                              |
 |   cuarta    |     1274 (=)     |         Magnien, Lucas         |                                         |                              |
 |   cuarta    |     1270 (=)     |         Sussman, Juan          |                                         |                              |
-|   cuarta    |    1225 (+9)     |        Boskovic, David         |                                         |                              |
+|   cuarta    |    1225 (+9)     |        Boskovic, David         |           San Jeronimo Norte            |         Libertad SJN         |
 |   cuarta    |    1225 (+4)     |         Galindo, Abel          |                                         |                              |
 |   cuarta    |    1220 (-75)    |        Pereyra, Andres         |                                         |                              |
 |   cuarta    |     1216 (=)     |         Lell, Claudia          |                 Parana                  |         Tiro Federal         |

@@ -82,7 +82,7 @@
 |   segunda   |     1741 (=)     |      Bonino, Maximiliano       |           San Jeronimo Norte            |                              |
 |   cuarta    |     1177 (=)     |       Bordeira, Gabriel        |                                         |                              |
 |   tercera   |     1439 (=)     |          Bordi, Mario          |                                         |                              |
-|   cuarta    |     1216 (=)     |        Boskovic, David         |                                         |                              |
+|   cuarta    |     1216 (=)     |        Boskovic, David         |           San Jeronimo Norte            |         Libertad SJN         |
 |   tercera   |     1653 (=)     |        Bosso, Fernando         |                 Parana                  |         Tiro Federal         |
 |   tercera   |     1512 (=)     |        Botero, Joaquin         |                                         |                              |
 |   primera   |     2410 (=)     |         Botta, Adrian          |               Reconquista               |            ATMAR             |

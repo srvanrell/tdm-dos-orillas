@@ -22,7 +22,7 @@
 |     20     |        39 (+12)        |         3         |         Torres, Julian         |     Santo Tome      | Defensores de Belgrano | 15 (T02) + 12 (T03) + 12 (T01) |
 |     21     |        30 (+15)        |         2         |         Justet, Walter         |                     |                        |      15 (T03) + 15 (T01)       |
 |            |        30 (+15)        |         2         |        Toffolini, Hugo         |                     |                        |      15 (T03) + 15 (T01)       |
-|     23     |        25 (+25)        |         1         |        Boskovic, David         |                     |                        |            25 (T03)            |
+|     23     |        25 (+25)        |         1         |        Boskovic, David         | San Jeronimo Norte  |      Libertad SJN      |            25 (T03)            |
 |     24     |        15 (+15)        |         1         |         Alsina, Mateo          |                     |                        |            15 (T03)            |
 |            |         15 (=)         |         1         |        Bregant, Osvaldo        |                     |                        |            15 (T02)            |
 |            |         15 (=)         |         1         |       Calabrese, Gustavo       |     Santo Tome      | Defensores de Belgrano |            15 (T02)            |
