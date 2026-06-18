@@ -72,7 +72,7 @@
 |   cuarta    |     1290 (=)     |        Padula, Nicolas         |                                         |                              |
 |   cuarta    |    1288 (+14)    |         Elmer, Eliana          |                                         |                              |
 |   cuarta    |     1287 (=)     |          Hepp, Gernan          |                                         |                              |
-|   cuarta    |    1275 (-46)    |        Mehring, Agustin        |                                         |                              |
+|   cuarta    |    1275 (-46)    |        Mehring, Agustin        |           San Jeronimo Norte            |         Libertad SJN         |
 |   cuarta    |     1274 (=)     |         Magnien, Lucas         |                                         |                              |
 |   cuarta    |     1270 (=)     |         Sussman, Juan          |                                         |                              |
 |   cuarta    |     1225 (=)     |        Boskovic, David         |           San Jeronimo Norte            |         Libertad SJN         |
@@ -81,7 +81,7 @@
 |   cuarta    |    1218 (-46)    |       Calabrese, Alfredo       |                                         |                              |
 |   cuarta    |    1209 (+8)     |         Palamedi, Alma         |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |                                         |                              |
-|   cuarta    |    1189 (-12)    |        Salzman, Bastian        |                                         |                              |
+|   cuarta    |    1189 (-12)    |        Salzman, Bastian        |           San Jeronimo Norte            |         Libertad SJN         |
 |   cuarta    |    1188 (-22)    |        Rodriguez, Dora         |                                         |                              |
 |   cuarta    |     1187 (=)     |         Baiz, Ernesto          |                                         |                              |
 |   cuarta    |    1184 (-32)    |         Lell, Claudia          |                 Parana                  |         Tiro Federal         |

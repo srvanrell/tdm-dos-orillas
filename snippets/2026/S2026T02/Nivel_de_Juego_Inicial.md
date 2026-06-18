@@ -381,7 +381,7 @@
 |       1330       |      Barreto, Maximiliano      |                                         |                              |
 |       1330       |          Paz, Joaquin          |                                         |                              |
 |       1325       |        Pereyra, Andres         |                                         |                              |
-|       1321       |        Mehring, Agustin        |                                         |                              |
+|       1321       |        Mehring, Agustin        |           San Jeronimo Norte            |         Libertad SJN         |
 |       1319       |        Florito, Miguel         |                Santa Fe                 |           AteMeLi            |
 |       1319       |         Liria, Conrado         |                                         |                              |
 |       1318       |         Locateli, Juan         |                                         |                              |
@@ -436,7 +436,7 @@
 |       1208       |          Gaete, Tiago          |                                         |                              |
 |       1207       |       Velazquez, Noelia        |                                         |                              |
 |       1203       |       Avellaneda, Nahuel       |                Santa Fe                 |           AteMeLi            |
-|       1201       |        Salzman, Bastian        |                                         |                              |
+|       1201       |        Salzman, Bastian        |           San Jeronimo Norte            |         Libertad SJN         |
 |       1197       |        Sinistro, Matias        |                                         |                              |
 |       1196       |         Lacuadra, Lena         |                                         |                              |
 |       1196       |    Von Der Thusen, Grethel     |               Santo Tome                |    Defensores de Belgrano    |

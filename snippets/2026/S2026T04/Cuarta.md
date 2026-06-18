@@ -35,11 +35,11 @@
 |            |         15 (=)         |         1         |         Galindo, Abel          |                     |                        |                 15 (T03)                  |
 |            |         15 (=)         |         1         |          Hepp, Gernan          |                     |                        |                 15 (T02)                  |
 |            |         15 (=)         |         1         |         Magnien, Lucas         |                     |                        |                 15 (T01)                  |
-|            |        15 (+15)        |         1         |        Mehring, Agustin        |                     |                        |                 15 (T04)                  |
+|            |        15 (+15)        |         1         |        Mehring, Agustin        | San Jeronimo Norte  |      Libertad SJN      |                 15 (T04)                  |
 |            |         15 (=)         |         1         | Pelleritti Garcia, Juan Andres |                     |                        |                 15 (T02)                  |
 |            |        15 (+15)        |         1         |        Rodriguez, Dora         |                     |                        |                 15 (T04)                  |
 |     39     |         12 (=)         |         1         |        Garcia, Natalia         |                     |                        |                 12 (T01)                  |
 |            |         12 (=)         |         1         |         Llobet, Felipe         |                     |                        |                 12 (T03)                  |
 |            |         12 (=)         |         1         |         Rossi, Augusto         |                     |                        |                 12 (T03)                  |
-|     42     |        10 (+10)        |         1         |        Salzman, Bastian        |                     |                        |                 10 (T04)                  |
+|     42     |        10 (+10)        |         1         |        Salzman, Bastian        | San Jeronimo Norte  |      Libertad SJN      |                 10 (T04)                  |
 |            |        10 (+10)        |         1         |         Yenerich, Juan         |                     |                        |                 10 (T04)                  |

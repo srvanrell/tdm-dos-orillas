@@ -268,7 +268,7 @@
 |   primera   |     2160 (=)     |        Mazuquin, Fabian        |                San Justo                |         Tiro Federal         |
 |   segunda   |     1742 (=)     |       Mazuquin, Giovani        |                                         |                              |
 |   primera   |     2056 (=)     |        Mazzola, Hernan         |                Santa Fe                 |           AteMeLi            |
-|   cuarta    |     1321 (=)     |        Mehring, Agustin        |                                         |                              |
+|   cuarta    |     1321 (=)     |        Mehring, Agustin        |           San Jeronimo Norte            |         Libertad SJN         |
 |   cuarta    |     1259 (=)     |         Melero, Martin         |                Santa Fe                 |           AteMeLi            |
 |   segunda   |    2018 (-88)    |         Mendez, Carlos         |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   primera   |     2390 (=)     |         Mendez, Diego          |                Santa Fe                 |           AteMeLi            |
@@ -383,7 +383,7 @@
 |   primera   |     2184 (=)     |         Salcedo, David         |          Libertador San Martin          |             CRL              |
 |   cuarta    |     1192 (=)     |         Salva, Emanuel         |                                         |                              |
 |   cuarta    |     1314 (=)     |         Salva, Manuel          |                                         |                              |
-|   cuarta    |     1201 (=)     |        Salzman, Bastian        |                                         |                              |
+|   cuarta    |     1201 (=)     |        Salzman, Bastian        |           San Jeronimo Norte            |         Libertad SJN         |
 |   tercera   |    1505 (+18)    |      Samaniego, Francisco      |           San Justo, Santa Fe           |         Tiro Federal         |
 |   tercera   |     1496 (=)     |        Sancada, Maximo         |                                         |                              |
 |   segunda   |     1963 (=)     |        Sanchez, Emanuel        |                 Parana                  |           Aspatem            |
