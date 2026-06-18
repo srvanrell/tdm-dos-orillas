@@ -376,11 +376,12 @@
 |       1344       |        Raspini, Pamela         |                                         |                              |
 |       1341       |       Orcellet, Rodrigo        |                                         |                              |
 |       1335       |        Mardon, Emiliano        |                                         |                              |
-|       1334       |        Albrecht, Ramiro        |                                         |                              |
+|       1334       |        Albrecht, Ramiro        |           San Jeronimo Norte            |         Libertad SJN         |
 |       1332       |        Quinones, German        |                                         |                              |
 |       1330       |      Barreto, Maximiliano      |                                         |                              |
 |       1330       |          Paz, Joaquin          |                                         |                              |
 |       1325       |        Pereyra, Andres         |                                         |                              |
+|       1321       |        Mehring, Agustin        |                                         |                              |
 |       1319       |        Florito, Miguel         |                Santa Fe                 |           AteMeLi            |
 |       1319       |         Liria, Conrado         |                                         |                              |
 |       1318       |         Locateli, Juan         |                                         |                              |
@@ -406,6 +407,7 @@
 |       1283       |          Hepp, Gernan          |                                         |                              |
 |       1281       |       Allegrini, Alonso        |                                         |                              |
 |       1280       |         Lell, Claudia          |                 Parana                  |         Tiro Federal         |
+|       1274       |         Elmer, Eliana          |                                         |                              |
 |       1274       |         Valcar, Daniel         |                                         |                              |
 |       1264       |       Calabrese, Alfredo       |                                         |                              |
 |       1261       |         Diez, Gabriel          |                                         |                              |
@@ -434,13 +436,16 @@
 |       1208       |          Gaete, Tiago          |                                         |                              |
 |       1207       |       Velazquez, Noelia        |                                         |                              |
 |       1203       |       Avellaneda, Nahuel       |                Santa Fe                 |           AteMeLi            |
+|       1201       |        Salzman, Bastian        |                                         |                              |
 |       1197       |        Sinistro, Matias        |                                         |                              |
 |       1196       |         Lacuadra, Lena         |                                         |                              |
 |       1196       |    Von Der Thusen, Grethel     |               Santo Tome                |    Defensores de Belgrano    |
 |       1192       |         Salva, Emanuel         |                                         |                              |
 |       1188       |        Pintos, Viviana         |                                         |                              |
+|       1186       |        Beron, Mauricio         |                                         |                              |
 |       1184       |     Catelli, Juan Ignacio      |                Santa Fe                 |           AteMeLi            |
 |       1184       |          Monzon, Mari          |                                         |                              |
+|       1180       |         Yenerich, Juan         |                                         |                              |
 |       1177       |       Bordeira, Gabriel        |                                         |                              |
 |       1174       |          Vidal, Belen          |                                         |                              |
 |       1167       |     Kotlireusky, Benjamin      |                                         |                              |

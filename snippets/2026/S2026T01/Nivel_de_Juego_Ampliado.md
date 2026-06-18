@@ -14,7 +14,7 @@
 |   segunda   |     2026 (=)     |         Albano, Lucia          |           Santa Fe, Santa Fe            |           AteMeLi            |
 |   primera   |     2134 (=)     |        Alberro, Nestor         |          Libertador San Martin          |             CRL              |
 |   tercera   |   1447 (+144)    |       Albrecht, Ignacio        |           San Jeronimo Norte            |         Libertad SJN         |
-|   cuarta    |     1334 (=)     |        Albrecht, Ramiro        |                                         |                              |
+|   cuarta    |     1334 (=)     |        Albrecht, Ramiro        |           San Jeronimo Norte            |         Libertad SJN         |
 |   cuarta    |     1296 (=)     |       Alignani, Tiziano        |                                         |                              |
 |   cuarta    |     1281 (=)     |       Allegrini, Alonso        |                                         |                              |
 |   primera   |    2260 (+48)    |       Allegrini, Tiziano       |           Parana, Entre Rios            |         Tiro Federal         |
@@ -69,6 +69,7 @@
 |   cuarta    |     1232 (=)     |       Bernhardt, Gabriel       |                                         |                              |
 |   primera   |    2122 (-24)    |       Bernhardt, Leandro       |                                         |                              |
 |   tercera   |     1411 (=)     |      Bernhardt, Sebastian      |                                         |                              |
+|   cuarta    |     1186 (=)     |        Beron, Mauricio         |                                         |                              |
 |   tercera   |     1416 (=)     |        Bertoli, Julian         |                                         |                              |
 |   tercera   |     1416 (=)     |      Bertoli, Maximiliano      |                                         |                              |
 |   primera   |     2306 (=)     |        Bidegain, Rafael        |                                         |                              |
@@ -145,6 +146,7 @@
 |   cuarta    |     1308 (=)     |          Duarte, Juan          |                                         |                              |
 |   primera   |     2492 (=)     |       Dupertuis, Gaston        |                 Parana                  |           Aspatem            |
 |   tercera   |     1673 (=)     |        Duraschi, Lemuel        |                                         |                              |
+|   cuarta    |     1274 (=)     |         Elmer, Eliana          |                                         |                              |
 |   tercera   |     1586 (=)     |         Erbetta, Pablo         |                 Parana                  |         Tiro Federal         |
 |   tercera   |     1462 (=)     |       Escalante, Samuel        |                                         |                              |
 |   segunda   |     2026 (=)     |        Escobar, Esteban        |                                         |                              |
@@ -266,6 +268,7 @@
 |   primera   |     2160 (=)     |        Mazuquin, Fabian        |                San Justo                |         Tiro Federal         |
 |   segunda   |     1742 (=)     |       Mazuquin, Giovani        |                                         |                              |
 |   primera   |     2056 (=)     |        Mazzola, Hernan         |                Santa Fe                 |           AteMeLi            |
+|   cuarta    |     1321 (=)     |        Mehring, Agustin        |                                         |                              |
 |   cuarta    |     1259 (=)     |         Melero, Martin         |                Santa Fe                 |           AteMeLi            |
 |   primera   |    2106 (+5)     |         Mendez, Carlos         |           Santa Fe, Santa Fe            |       Provincial Club        |
 |   primera   |     2390 (=)     |         Mendez, Diego          |                Santa Fe                 |           AteMeLi            |
@@ -380,6 +383,7 @@
 |   primera   |     2184 (=)     |         Salcedo, David         |          Libertador San Martin          |             CRL              |
 |   cuarta    |     1192 (=)     |         Salva, Emanuel         |                                         |                              |
 |   cuarta    |     1314 (=)     |         Salva, Manuel          |                                         |                              |
+|   cuarta    |     1201 (=)     |        Salzman, Bastian        |                                         |                              |
 |   tercera   |    1506 (+65)    |      Samaniego, Francisco      |           San Justo, Santa Fe           |         Tiro Federal         |
 |   tercera   |     1496 (=)     |        Sancada, Maximo         |                                         |                              |
 |   segunda   |     1963 (=)     |        Sanchez, Emanuel        |                 Parana                  |           Aspatem            |
@@ -453,6 +457,7 @@
 |   segunda   |     1717 (=)     |        Werner, Graciela        |                 Parana                  |           Aspatem            |
 |   primera   |     2095 (=)     |        Wernli, Federico        |                 Parana                  |           Aspatem            |
 |   cuarta    |     1359 (=)     |        Yenerich, Fabio         |                                         |                              |
+|   cuarta    |     1180 (=)     |         Yenerich, Juan         |                                         |                              |
 |   segunda   |     1822 (=)     |        Zalazar, Facundo        |                                         |                              |
 |   cuarta    |     1356 (=)     |         Zalazar, Irina         |                                         |                              |
 |   tercera   |     1408 (=)     |        Zancada, Maximo         |                                         |                              |

@@ -1,0 +1,28 @@
+|  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |      Jugador       |                 Ciudad                  |          Afiliación          |                Puntos sumados                 |
+|:----------:|:----------------------:|:-----------------:|:------------------:|:---------------------------------------:|:----------------------------:|:---------------------------------------------:|
+|     1      |        2750 (=)        |         3         | Lofeudo, Juan Jose |           Santa Fe, Santa Fe            |       Provincial Club        |      1000 (T02) + 1000 (T01) + 750 (T03)      |
+|     2      |      2500 (+1000)      |         3         |   Palamedi, Uma    |           Santa Fe, Santa Fe            |       Provincial Club        |      1000 (T04) + 1000 (T03) + 500 (T01)      |
+|     3      |      1900 (+750)       |         4         |  Perot, Alejandro  |           Santa Fe, Santa Fe            |       Provincial Club        | 750 (T04) + 500 (T03) + 500 (T02) + 150 (T01) |
+|     4      |        1750 (=)        |         3         |  Reichel, Hernan   | Villa Libertador San Martin, Entre Rios | Centro Recreativo Libertador |       750 (T02) + 500 (T03) + 500 (T01)       |
+|     5      |      1500 (+500)       |         4         | Allegrini, Tiziano |           Parana, Entre Rios            |         Tiro Federal         | 500 (T04) + 500 (T02) + 250 (T03) + 250 (T01) |
+|     6      |       900 (+500)       |         3         |   Nohara, Andres   |                 Parana                  |           Aspatem            |       500 (T04) + 250 (T01) + 150 (T02)       |
+|     7      |       770 (+250)       |         4         | Ferretti, Gustavo  |           Santa Fe, Santa Fe            |       Provincial Club        | 250 (T04) + 250 (T02) + 150 (T03) + 120 (T01) |
+|     8      |        750 (=)         |         1         |  Sartor, Lautaro   |               Avellaneda                |                              |                   750 (T01)                   |
+|     9      |        650 (=)         |         3         |   Avila, Marcos    |           Santa Fe, Santa Fe            |       Provincial Club        |       250 (T03) + 250 (T02) + 150 (T01)       |
+|     10     |        620 (=)         |         3         |   Rubio, Julian    |           Santa Fe, Santa Fe            |       Provincial Club        |       250 (T03) + 250 (T02) + 120 (T01)       |
+|     11     |        550 (=)         |         3         |   Boetti, Genaro   |           San Justo, Santa Fe           |         Tiro Federal         |       250 (T02) + 150 (T03) + 150 (T01)       |
+|     12     |        520 (=)         |         3         | Barchiesi, Matias  |           Santa Fe, Santa Fe            |       Provincial Club        |       250 (T03) + 150 (T02) + 120 (T01)       |
+|     13     |        420 (=)         |         3         |  Corbalan, Martin  |           Parana, Entre Rios            |  Independiente Bochas Club   |       150 (T03) + 150 (T02) + 120 (T01)       |
+|     14     |        400 (=)         |         2         |   Mendez, Carlos   |           Santa Fe, Santa Fe            |       Provincial Club        |             250 (T01) + 150 (T03)             |
+|     15     |        300 (=)         |         2         |  Micocci, Matias   |           Santa Fe, Santa Fe            |       Provincial Club        |             150 (T03) + 150 (T01)             |
+|     16     |        250 (=)         |         1         | Grippo, Francisco  |                 Parana                  |           Aspatem            |                   250 (T01)                   |
+|            |       250 (+250)       |         1         | Palamedi, Cristian |                Santa Fe                 |           AteMeLi            |                   250 (T04)                   |
+|     18     |        150 (=)         |         1         |  Aguirre, German   |                 Parana                  |           Aspatem            |                   150 (T01)                   |
+|            |        150 (=)         |         1         | Bernhardt, Leandro |                                         |                              |                   150 (T01)                   |
+|            |        150 (=)         |         1         |   Diaz, Joaquin    |           Parana, Entre Rios            |         Tiro Federal         |                   150 (T03)                   |
+|            |        150 (=)         |         1         | Olivares, Isabella |                                         |                              |                   150 (T03)                   |
+|            |        150 (=)         |         1         | Oliveras, Leonardo |           Santa Fe, Santa Fe            |       Provincial Club        |                   150 (T01)                   |
+|            |        150 (=)         |         1         |  Velazquez, Irupe  |                Santa Fe                 |           AteMeLi            |                   150 (T01)                   |
+|            |        150 (=)         |         1         | Vigouroux, Manuel  |                San Justo                |         Tiro Federal         |                   150 (T02)                   |
+|     25     |        120 (=)         |         1         |    Goy, Gerardo    |               Reconquista               |            ATMAR             |                   120 (T01)                   |
+|     26     |        100 (=)         |         1         |    Pilotti, Paz    |                Santa Fe                 |       Provincial Club        |                   100 (T01)                   |
