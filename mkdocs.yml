@@ -51,7 +51,7 @@ edit_uri: ""
 plugins:
   - search
   - awesome-nav
-  - macros:
+  - zensical.extensions.macros:
       include_dir: snippets
       on_error_fail: true
       include_yaml:
