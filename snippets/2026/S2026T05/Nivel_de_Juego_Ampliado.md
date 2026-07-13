@@ -1,7 +1,7 @@
 |  Categoría  |  Nivel de Juego  |            Jugador             |                 Ciudad                  |             Afiliación              |
 |:-----------:|:----------------:|:------------------------------:|:---------------------------------------:|:-----------------------------------:|
 |   tercera   |     1652 (=)     |         Acosta, Gaston         |                                         |                                     |
-|   cuarta    |    1306 (+22)    |         Acuna, Daiana          |                Santa Fe                 |               AteMeLi               |
+|   cuarta    |     1306 (=)     |         Acuna, Daiana          |                Santa Fe                 |               AteMeLi               |
 |   cuarta    |     1035 (=)     |        Acuna, Patricio         |                                         |                                     |
 |   segunda   |     1736 (=)     |        Acuna, Santiago         |                                         |                                     |
 |   segunda   |     1951 (=)     |          Aguer, Jose           |           Parana, Entre Rios            |               Aspatem               |
@@ -10,21 +10,21 @@
 |   tercera   |     1611 (=)     |        Aguirre, Sandra         |           Parana, Entre Rios            |               Aspatem               |
 |   tercera   |     1412 (=)     |        Agustini, Sergio        |                                         |                                     |
 |   cuarta    |     1344 (=)     |        Albano, Gabriela        |                                         |                                     |
-|   segunda   |    1905 (-32)    |         Albano, Javier         |                Santa Fe                 |           Provincial Club           |
+|   segunda   |    1877 (-28)    |         Albano, Javier         |                Santa Fe                 |           Provincial Club           |
 |   segunda   |     2026 (=)     |         Albano, Lucia          |           Santa Fe, Santa Fe            |               AteMeLi               |
 |   primera   |     2134 (=)     |        Alberro, Nestor         |          Libertador San Martin          |                 CRL                 |
-|   tercera   |     1447 (=)     |       Albrecht, Ignacio        |           San Jeronimo Norte            |            Libertad SJN             |
-|   cuarta    |     1334 (=)     |        Albrecht, Ramiro        |           San Jeronimo Norte            |            Libertad SJN             |
+|   tercera   |     1440 (=)     |       Albrecht, Ignacio        |           San Jeronimo Norte            |            Libertad SJN             |
+|   cuarta    |     1362 (=)     |        Albrecht, Ramiro        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1296 (=)     |       Alignani, Tiziano        |                                         |                                     |
-|   tercera   |    1453 (-49)    |       Allegrini, Alonso        |                                         |                                     |
-|   primera   |    2294 (+13)    |       Allegrini, Tiziano       |           Parana, Entre Rios            |            Tiro Federal             |
+|   tercera   |     1453 (=)     |       Allegrini, Alonso        |                                         |                                     |
+|   primera   |    2252 (-32)    |       Allegrini, Tiziano       |           Parana, Entre Rios            |            Tiro Federal             |
 |   primera   |     2164 (=)     |        Allendez, Alvaro        |          Libertador San Martin          |                 CRL                 |
 |   primera   |     2405 (=)     |        Allendez, Tiago         |          Libertador San Martin          |                 CRL                 |
 |   cuarta    |     1260 (=)     |       Allignani, Tiziano       |                                         |                                     |
 |   tercera   |     1640 (=)     |        Almada, Claudio         |                                         |                                     |
 |   tercera   |     1638 (=)     |         Almada, Pablo          |                 Parana                  |               Aspatem               |
 |   segunda   |     1713 (=)     |        Almeira, Melania        |                 Parana                  |               Aspatem               |
-|   cuarta    |    1130 (-8)     |         Alsina, Mateo          |                                         |                                     |
+|   cuarta    |     1130 (=)     |         Alsina, Mateo          |                                         |                                     |
 |   cuarta    |     1374 (=)     |        Alsina, Santiago        |                                         |                                     |
 |   tercera   |     1650 (=)     |       Alvarenque, Luano        |                                         |                                     |
 |   tercera   |     1684 (=)     |       Alvarez, Sebastian       |                Santa Fe                 |               AteMeLi               |
@@ -43,16 +43,16 @@
 |   primera   |     2212 (=)     |          Asmu, Yamil           |                 Parana                  |               Aspatem               |
 |   tercera   |     1691 (=)     |       Atkinson, Santiago       |                                         |                                     |
 |   cuarta    |     1203 (=)     |       Avellaneda, Nahuel       |                Santa Fe                 |               AteMeLi               |
-|   segunda   |    1894 (+96)    |         Avila, Marcos          |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   primera   |   2091 (+197)    |         Avila, Marcos          |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   segunda   |     2000 (=)     |         Badano, Pablo          |                 Parana                  |               Aspatem               |
-|   cuarta    |    1187 (-61)    |         Baiz, Ernesto          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
+|   cuarta    |    1129 (-58)    |         Baiz, Ernesto          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   primera   |     2609 (=)     |      Balabanian, Gabriel       |          Libertador San Martin          |                 CRL                 |
-|   cuarta    |     1112 (=)     |        Baldrini, Maximo        |                                         |                                     |
+|   cuarta    |    1090 (-22)    |        Baldrini, Maximo        |                                         |                                     |
 |   segunda   |     1836 (=)     |         Banfi, Franco          |                 Parana                  |               Aspatem               |
 |   primera   |     2109 (=)     |         Barba, Rodrigo         |                 Parana                  |               Aspatem               |
 |   segunda   |     2003 (=)     |         Barcelo, Mateo         |                                         |                ATMAR                |
-|   segunda   |    1759 (+11)    |       Barchiesi, Matias        |           Santa Fe, Santa Fe            |           Provincial Club           |
-|   cuarta    |    1384 (-17)    |        Barreto, Julian         |                                         |                                     |
+|   segunda   |    1793 (+34)    |       Barchiesi, Matias        |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   tercera   |     1574 (=)     |        Barreto, Julian         |                                         |                                     |
 |   cuarta    |     1330 (=)     |      Barreto, Maximiliano      |                                         |                                     |
 |   cuarta    |     1366 (=)     |       Barrientos, Norma        |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1477 (=)     |         Barrios, Julio         |                                         |                                     |
@@ -70,7 +70,7 @@
 |   cuarta    |     1232 (=)     |       Bernhardt, Gabriel       |                                         |                                     |
 |   primera   |     2122 (=)     |       Bernhardt, Leandro       |                                         |                                     |
 |   tercera   |     1411 (=)     |      Bernhardt, Sebastian      |                                         |                                     |
-|   cuarta    |     1186 (=)     |        Beron, Mauricio         |                                         |                                     |
+|   cuarta    |     1166 (=)     |        Beron, Mauricio         |                                         |                                     |
 |   tercera   |     1416 (=)     |        Bertoli, Julian         |                                         |                                     |
 |   tercera   |     1416 (=)     |      Bertoli, Maximiliano      |                                         |                                     |
 |   primera   |     2306 (=)     |        Bidegain, Rafael        |                                         |                                     |
@@ -79,23 +79,23 @@
 |   primera   |     2555 (=)     |         Blanco, Daniel         |                Santa Fe                 |               AteMeLi               |
 |   primera   |     2610 (=)     |       Blanco, Francisco        |                Santa Fe                 |               AteMeLi               |
 |   primera   |     2292 (=)     |         Blanco, German         |                Santa Fe                 |               AteMeLi               |
-|   segunda   |    2006 (-62)    |         Boetti, Genaro         |           San Justo, Santa Fe           |            Tiro Federal             |
+|   segunda   |     2006 (=)     |         Boetti, Genaro         |           San Justo, Santa Fe           |            Tiro Federal             |
 |   segunda   |     1924 (=)     |        Bonelli, Marcos         |                 Parana                  |               Aspatem               |
 |   segunda   |     1741 (=)     |      Bonino, Maximiliano       |           San Jeronimo Norte            |                                     |
 |   cuarta    |     1177 (=)     |       Bordeira, Gabriel        |                                         |                                     |
 |   tercera   |     1439 (=)     |          Bordi, Mario          |                                         |                                     |
-|   cuarta    |    1225 (+9)     |        Boskovic, David         |           San Jeronimo Norte            |            Libertad SJN             |
+|   cuarta    |    1297 (+72)    |        Boskovic, David         |           San Jeronimo Norte            |            Libertad SJN             |
 |   tercera   |     1653 (=)     |        Bosso, Fernando         |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1512 (=)     |        Botero, Joaquin         |                                         |                                     |
 |   primera   |     2410 (=)     |         Botta, Adrian          |               Reconquista               |                ATMAR                |
 |   segunda   |     2008 (=)     |       Botta, Maximiliano       |               Reconquista               |                ATMAR                |
 |   tercera   |     1588 (=)     |        Bracco, Fernando        |                                         |                                     |
-|   cuarta    |    1396 (-9)     |         Bracco, Victor         |                                         |                                     |
+|   cuarta    |     1394 (=)     |         Bracco, Victor         |                                         |                                     |
 |   cuarta    |     1159 (=)     |         Bregant, Juan          |                                         |                                     |
-|   cuarta    |     1337 (=)     |        Bregant, Osvaldo        |                                         |                                     |
+|   tercera   |     1405 (=)     |        Bregant, Osvaldo        |                                         |                                     |
 |   segunda   |     1768 (=)     |         Brian, Martin          |          Libertador San Martin          |                 CRL                 |
 |   cuarta    |     1252 (=)     |       Brunelli, Osvaldo        |                Santa Fe                 |               AteMeLi               |
-|   segunda   |    1717 (-71)    |         Budino, Mijail         |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   segunda   |     1717 (=)     |         Budino, Mijail         |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   tercera   |     1522 (=)     |         Bulacios, Juan         |                                         |                                     |
 |   tercera   |     1416 (=)     |       Bulacios, Leonardo       |                                         |                                     |
 |   segunda   |     1708 (=)     |         Bustos, Ariel          |                                         |                                     |
@@ -103,13 +103,13 @@
 |   tercera   |     1592 (=)     |        Cabrera, Carlos         |                                         |                                     |
 |   cuarta    |     1346 (=)     |         Cabrol, Elian          |                                         |                                     |
 |   cuarta    |     1224 (=)     |        Cagnoto, Matias         |                                         |                                     |
-|   cuarta    |     1264 (=)     |       Calabrese, Alfredo       |                                         |                                     |
+|   cuarta    |     1218 (=)     |       Calabrese, Alfredo       |                                         |                                     |
 |   cuarta    |     1048 (=)     |       Calabrese, Gustavo       |               Santo Tome                |       Defensores de Belgrano        |
 |   primera   |     2117 (=)     |      Calegaris, Juan Cruz      |                Santa Fe                 |                                     |
 |   segunda   |     1796 (=)     |        Calero, Leonardo        |                                         |                                     |
 |   primera   |     2093 (=)     |         Campos, Dario          |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1497 (=)     |        Camusso, Marcelo        |                                         |                                     |
-|   cuarta    |    1151 (-3)     |         Candia, Matias         |           San Justo, Santa Fe           |            Tiro Federal             |
+|   cuarta    |     1151 (=)     |         Candia, Matias         |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |     1666 (=)     |        Candioti, Lionel        |                                         |                                     |
 |   tercera   |     1416 (=)     |        Canhoto, Carlos         |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1452 (=)     |      Canhoto, Juan Pablo       |                Santa Fe                 |               AteMeLi               |
@@ -119,14 +119,14 @@
 |   cuarta    |     1367 (=)     |       Cevallos, Luciano        |                                         |                                     |
 |   primera   |     2065 (=)     |          Chiara, Joel          |                 Parana                  |               Aspatem               |
 |   primera   |     2093 (=)     |         Chiara, Lucio          |                 Parana                  |               Aspatem               |
-|   segunda   |     1864 (=)     |          Claria, Ivan          |                 Parana                  |               Aspatem               |
-|   tercera   |    1512 (+57)    |        Colavini, Daniel        |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   segunda   |     1771 (=)     |          Claria, Ivan          |                 Parana                  |               Aspatem               |
+|   tercera   |     1482 (=)     |        Colavini, Daniel        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   tercera   |     1613 (=)     |         Comas, Javier          |                 Parana                  |               Aspatem               |
 |   primera   |     2659 (=)     |        Coquoz, Joaquin         |                  Colon                  |                                     |
-|   tercera   |    1683 (-25)    |        Corbalan, Martin        |           Parana, Entre Rios            |      Independiente Bochas Club      |
+|   tercera   |     1680 (=)     |        Corbalan, Martin        |           Parana, Entre Rios            |      Independiente Bochas Club      |
 |   primera   |     2209 (=)     |         Cordoba, Jose          |                                         |                                     |
 |   cuarta    |     1240 (=)     |         Corradi, Zulma         |                                         |                                     |
-|   segunda   |     1720 (=)     |         Cortez, Pablo          |                                         |                                     |
+|   segunda   |    1770 (+50)    |         Cortez, Pablo          |                                         |                                     |
 |   segunda   |     1768 (=)     |        Cossi, Francisco        |                 Parana                  |               Aspatem               |
 |   segunda   |     1731 (=)     |        Costanza, Roque         |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1463 (=)     |        Cuello, Nicolas         |                                         |                                     |
@@ -140,21 +140,21 @@
 |   cuarta    |     1374 (=)     |         Diaz, Benjamin         |                                         |                                     |
 |   cuarta    |     1215 (=)     |         Diaz, Claudino         |                                         |                                     |
 |   segunda   |     1745 (=)     |           Diaz, Gino           |          Libertador San Martin          |                 CRL                 |
-|   segunda   |    1874 (+80)    |         Diaz, Joaquin          |           Parana, Entre Rios            |            Tiro Federal             |
+|   segunda   |     1848 (=)     |         Diaz, Joaquin          |           Parana, Entre Rios            |            Tiro Federal             |
 |   primera   |     2231 (=)     |          Diel, Pablo           |                                         |                                     |
-|   cuarta    |    1136 (-25)    |         Diez, Gabriel          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
-|   segunda   |     1766 (=)     |           Dip, Jorge           |           San Jeronimo Norte            |            Libertad SJN             |
+|   cuarta    |    1135 (-22)    |         Diez, Gabriel          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
+|   tercera   |    1686 (-80)    |           Dip, Jorge           |           San Jeronimo Norte            |            Libertad SJN             |
 |   tercera   |     1508 (=)     |       Domenicone, Bruno        |                Santa Fe                 |               AteMeLi               |
 |   cuarta    |     1308 (=)     |          Duarte, Juan          |                                         |                                     |
 |   primera   |     2492 (=)     |       Dupertuis, Gaston        |                 Parana                  |               Aspatem               |
 |   tercera   |     1673 (=)     |        Duraschi, Lemuel        |                                         |                                     |
-|   cuarta    |     1274 (=)     |         Elmer, Eliana          |                                         |                                     |
+|   cuarta    |     1288 (=)     |         Elmer, Eliana          |                                         |                                     |
 |   tercera   |     1586 (=)     |         Erbetta, Pablo         |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1462 (=)     |       Escalante, Samuel        |                                         |                                     |
 |   segunda   |     2026 (=)     |        Escobar, Esteban        |                                         |                                     |
 |   segunda   |     1929 (=)     |        Escobar, Gadiel         |                                         |                                     |
 |   segunda   |     1860 (=)     |        Escudero, Martin        |                Santa Fe                 |               AteMeLi               |
-|   tercera   |     1475 (=)     |      Faggionatto, Walter       |                                         |                                     |
+|   tercera   |     1460 (=)     |      Faggionatto, Walter       |                                         |                                     |
 |   cuarta    |     1293 (=)     |         Fenes, Martin          |                                         |                                     |
 |   primera   |     2406 (=)     |       Feresin, Ezequiel        |               Reconquista               |                                     |
 |   primera   |     2109 (=)     |        Fernandez, Axel         |                                         |                                     |
@@ -165,7 +165,7 @@
 |   segunda   |     1910 (=)     |    Fernandez, Juan Ignacio     |                                         |                                     |
 |   primera   |     2219 (=)     |     Fernandez, Maximiliano     |                                         |                                     |
 |   tercera   |     1480 (=)     |       Ferrero, Alejandro       |                                         |                                     |
-|   segunda   |    1889 (-57)    |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   segunda   |    1867 (+17)    |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   primera   |     2382 (=)     |        Ferreyra, Dante         |                                         |                                     |
 |   tercera   |     1584 (=)     |       Ferreyra, Enrique        |                Santa Fe                 |                                     |
 |   primera   |     2210 (=)     |       Ferreyra, Patricio       |                Santa Fe                 |               AteMeLi               |
@@ -180,7 +180,7 @@
 |   tercera   |     1412 (=)     |        Gabiout, Alfonso        |                                         |                                     |
 |   cuarta    |     1208 (=)     |          Gaete, Tiago          |                                         |                                     |
 |   segunda   |     1979 (=)     |         Galera, Julio          |                 Parana                  |               Aspatem               |
-|   cuarta    |    1225 (+4)     |         Galindo, Abel          |                                         |                                     |
+|   cuarta    |     1225 (=)     |         Galindo, Abel          |                                         |                                     |
 |   tercera   |     1609 (=)     |        Gambino, Sergio         |                 Parana                  |               Aspatem               |
 |   segunda   |     1803 (=)     |        Gandolfo, Carlos        |                 Parana                  |            Tiro Federal             |
 |   segunda   |     1965 (=)     |        Gansel, Benjamin        |          Libertador San Martin          |                 CRL                 |
@@ -192,7 +192,7 @@
 |   primera   |     2099 (=)     |        Gatti, Sebastian        |                 Parana                  |               Aspatem               |
 |   segunda   |     1916 (=)     |       Gentile, Leonardo        |                                         |                                     |
 |   cuarta    |     1346 (=)     |        Getting, Brenda         |                                         |                                     |
-|   cuarta    |     1067 (=)     |    Gimenez, Claudio Daniel     |                                         |                                     |
+|   cuarta    |    1031 (-36)    |    Gimenez, Claudio Daniel     |                                         |                                     |
 |   segunda   |     2026 (=)     |        Gimenez, Maximo         |                 Parana                  |               Aspatem               |
 |   primera   |     2053 (=)     |        Girolami, Sergio        |                                         |                                     |
 |   segunda   |     1916 (=)     |         Godano, Franco         |                Santa Fe                 |               AteMeLi               |
@@ -223,7 +223,7 @@
 |   segunda   |     1715 (=)     |          Javita, Luis          |          Libertador San Martin          |                 CRL                 |
 |   tercera   |     1693 (=)     |              Jose              |          Libertador San Martin          |                 CRL                 |
 |   cuarta    |     1356 (=)     |         Jove, Alberto          |                                         |                                     |
-|   cuarta    |    1155 (+8)     |         Justet, Walter         |                                         |                                     |
+|   cuarta    |     1155 (=)     |         Justet, Walter         |                                         |                                     |
 |   cuarta    |     1167 (=)     |     Kotlireusky, Benjamin      |                                         |                                     |
 |   tercera   |     1676 (=)     |        Kranczuk, German        |                                         |                                     |
 |   primera   |     2420 (=)     |        La Barba, Pablo         |                 Parana                  |               Aspatem               |
@@ -234,19 +234,19 @@
 |   cuarta    |     1259 (=)     |       Lanzotti, Lautaro        |                                         |                                     |
 |   tercera   |     1543 (=)     |         Larrosa, Jorge         |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1416 (=)     |         Ledesma, Jonas         |                                         |                                     |
-|   cuarta    |     1216 (=)     |         Lell, Claudia          |                 Parana                  |            Tiro Federal             |
+|   cuarta    |     1184 (=)     |         Lell, Claudia          |                 Parana                  |            Tiro Federal             |
 |   primera   |     2068 (=)     |       Lerch, Juan Carlos       |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1401 (=)     |        Lerman, Ricarlo         |                                         |                                     |
-|   tercera   |     1662 (=)     |          Levin, Raul           |                 Parana                  |               Aspatem               |
+|   tercera   |     1622 (=)     |          Levin, Raul           |                 Parana                  |               Aspatem               |
 |   primera   |     2229 (=)     |         Lezana, Diego          |          Libertador San Martin          |                 CRL                 |
-|   cuarta    |    1390 (+51)    |         Liria, Conrado         |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
-|   cuarta    |    1084 (-40)    |         Llobet, Felipe         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
+|   tercera   |    1401 (-2)     |         Liria, Conrado         |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
+|   cuarta    |    1090 (+6)     |         Llobet, Felipe         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1093 (=)     |          Lobino, Hugo          |                                         |                                     |
 |   cuarta    |     1318 (=)     |         Locateli, Juan         |                                         |                                     |
-|   primera   |    2870 (-52)    |       Lofeudo, Juan Jose       |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   primera   |    2832 (-38)    |       Lofeudo, Juan Jose       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   segunda   |     1901 (=)     |         Longhi, Mauro          |                Santa Fe                 |               AteMeLi               |
 |   primera   |     2165 (=)     |         Lopez, Agustin         |                Santa Fe                 |               AteMeLi               |
-|   cuarta    |    1383 (+8)     |         Lopez, Javier          |               Santo Tome                |       Defensores de Belgrano        |
+|   cuarta    |    1342 (-41)    |         Lopez, Javier          |               Santo Tome                |       Defensores de Belgrano        |
 |   segunda   |     1982 (=)     |          Lopez, Pablo          |                Santa Fe                 |               AteMeLi               |
 |   cuarta    |     1316 (=)     |        Lucatti, Matias         |                                         |                                     |
 |   primera   |     2069 (=)     |        Luzardo, Andres         |                                         |                                     |
@@ -259,8 +259,8 @@
 |   primera   |     2972 (=)     |         Maili, Gustavo         |                 Parana                  |               Aspatem               |
 |   primera   |     2239 (=)     |          Maili, Joel           |                 Parana                  |               Aspatem               |
 |   segunda   |     1715 (=)     |       Makhoul, Alejandro       |                                         |                                     |
-|   cuarta    |    1165 (+78)    |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
-|   cuarta    |    1084 (-40)    |       Mangioni, Emiliano       |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
+|   cuarta    |    1155 (-10)    |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   cuarta    |    1068 (+10)    |       Mangioni, Emiliano       |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1302 (=)     |     Marchitelli, Ezequiel      |                                         |                                     |
 |   cuarta    |     1335 (=)     |        Mardon, Emiliano        |                                         |                                     |
 |   segunda   |     1726 (=)     |        Martinez, Dylan         |                                         |                                     |
@@ -271,16 +271,16 @@
 |   primera   |     2160 (=)     |        Mazuquin, Fabian        |                San Justo                |            Tiro Federal             |
 |   segunda   |     1742 (=)     |       Mazuquin, Giovani        |                                         |                                     |
 |   primera   |     2056 (=)     |        Mazzola, Hernan         |                Santa Fe                 |               AteMeLi               |
-|   cuarta    |     1321 (=)     |        Mehring, Agustin        |           San Jeronimo Norte            |            Libertad SJN             |
+|   cuarta    |     1275 (=)     |        Mehring, Agustin        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1259 (=)     |         Melero, Martin         |                Santa Fe                 |               AteMeLi               |
-|   segunda   |    2018 (-88)    |         Mendez, Carlos         |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   segunda   |    2030 (+12)    |         Mendez, Carlos         |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   primera   |     2390 (=)     |         Mendez, Diego          |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     1928 (=)     |        Mendez, Lautaro         |                San Justo                |            Tiro Federal             |
 |   tercera   |     1410 (=)     |        Mendez, Roberto         |                                         |                                     |
 |   segunda   |     1821 (=)     |        Mendieta, Elias         |                Santa Fe                 |               AteMeLi               |
 |   primera   |     2412 (=)     |        Mendoza, Daniel         |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1693 (=)     |        Michea, Ignacio         |                                         |                                     |
-|   primera   |    2069 (-72)    |        Micocci, Matias         |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   segunda   |    2045 (-24)    |        Micocci, Matias         |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   segunda   |     1772 (=)     |          Migoni, Alan          |                 Parana                  |               Aspatem               |
 |   segunda   |     1834 (=)     |         Migoni, Anibal         |                 Parana                  |               Aspatem               |
 |   primera   |     2492 (=)     |        Migoni, Nicolas         |                 Parana                  |               Aspatem               |
@@ -301,41 +301,41 @@
 |   primera   |     2312 (=)     |      Narducci, Juan Pablo      |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1500 (=)     |           Neto, Leon           |                                         |                                     |
 |   primera   |     2323 (=)     |           Nic, Mario           |                Santa Fe                 |                                     |
-|   primera   |     2055 (=)     |         Nohara, Andres         |                 Parana                  |               Aspatem               |
+|   segunda   |    2033 (-35)    |         Nohara, Andres         |                 Parana                  |               Aspatem               |
 |   segunda   |     1725 (=)     |        Noriega, Martin         |                Santa Fe                 |                                     |
 |   primera   |     2368 (=)     |        Nowotny, Martin         |          Libertador San Martin          |                                     |
 |   tercera   |     1417 (=)     |         Nunes, Agustin         |                                         |                                     |
-|   segunda   |    1977 (+33)    |       Olivares, Isabella       |                                         |                                     |
-|   segunda   |    1754 (-45)    |       Oliveras, Leonardo       |           Santa Fe, Santa Fe            |           Provincial Club           |
-|   tercera   |    1690 (+20)    |        Oliveras, Nahuel        |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   segunda   |     1977 (=)     |       Olivares, Isabella       |                                         |                                     |
+|   segunda   |    1758 (+4)     |       Oliveras, Leonardo       |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   tercera   |    1669 (-21)    |        Oliveras, Nahuel        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1341 (=)     |       Orcellet, Rodrigo        |                                         |                                     |
 |   tercera   |     1406 (=)     |         Orzan, Joaquin         |                                         |                                     |
 |   tercera   |     1443 (=)     |        Orzan, Valentin         |                                         |                                     |
-|   cuarta    |    1290 (-18)    |        Padula, Nicolas         |                                         |                                     |
+|   cuarta    |     1290 (=)     |        Padula, Nicolas         |                                         |                                     |
 |   primera   |     2298 (=)     |        Palacios, Arturo        |               Corrientes                |                FCTM                 |
-|   cuarta    |    1201 (+16)    |         Palamedi, Alma         |           Santa Fe, Santa Fe            |           Provincial Club           |
-|   primera   |     2055 (=)     |       Palamedi, Cristian       |                Santa Fe                 |               AteMeLi               |
-|   primera   |    2547 (+82)    |         Palamedi, Uma          |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   cuarta    |    1151 (-58)    |         Palamedi, Alma         |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   segunda   |    2019 (-6)     |       Palamedi, Cristian       |                Santa Fe                 |               AteMeLi               |
+|   primera   |    2621 (+48)    |         Palamedi, Uma          |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   tercera   |     1699 (=)     |       Pallotti, Fabrizio       |                                         |                                     |
 |   cuarta    |     1347 (=)     |         Palma, Marcelo         |                                         |                                     |
 |   cuarta    |     1220 (=)     |        Paulin, Santiago        |                                         |                                     |
-|   tercera   |    1409 (+18)    |          Paya, Lazaro          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
+|   tercera   |    1412 (+3)     |          Paya, Lazaro          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1330 (=)     |          Paz, Joaquin          |                                         |                                     |
 |   segunda   |     1879 (=)     |        Peduzzi, Mariano        |                 Parana                  |            Tiro Federal             |
 |   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |                                         |                                     |
 |   tercera   |     1426 (=)     |         Pen, Mauricio          |                                         |                                     |
-|   cuarta    |    1220 (-75)    |        Pereyra, Andres         |          Santo Tome, Santa Fe           | Independiente Bochas Club (Paraná)  |
-|   tercera   |    1608 (+22)    |        Perez, Valentino        |           San Justo, Santa Fe           |            Tiro Federal             |
+|   cuarta    |    1208 (-12)    |        Pereyra, Andres         |          Santo Tome, Santa Fe           | Independiente Bochas Club (Paraná)  |
+|   tercera   |     1608 (=)     |        Perez, Valentino        |           San Justo, Santa Fe           |            Tiro Federal             |
 |   primera   |     2639 (=)     |         Perna, Claudio         |                 Rosario                 |               Asateme               |
-|   primera   |    2394 (+13)    |        Perot, Alejandro        |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   primera   |     2403 (=)     |        Perot, Alejandro        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   primera   |     3060 (=)     |          Perot, David          |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     1994 (=)     |         Perot, Martin          |                Santa Fe                 |               AteMeLi               |
-|   tercera   |    1403 (-60)    |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
+|   cuarta    |    1386 (-4)     |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
 |   tercera   |     1473 (=)     |       Pettinatti, Cesar        |                                         |                                     |
 |   tercera   |     1424 (=)     |          Picech, Gino          |                                         |                                     |
 |   tercera   |     1671 (=)     |       Pillac, Juan Pablo       |          Libertador San Martin          |                 CRL                 |
-|   segunda   |    1722 (+40)    |          Pilotti, Paz          |                Santa Fe                 |           Provincial Club           |
-|   cuarta    |     1383 (=)     |         Pinery, Sergio         |                                         |                                     |
+|   tercera   |    1687 (-35)    |          Pilotti, Paz          |                Santa Fe                 |           Provincial Club           |
+|   cuarta    |     1343 (=)     |         Pinery, Sergio         |                                         |                                     |
 |   cuarta    |     1188 (=)     |        Pintos, Viviana         |                                         |                                     |
 |   cuarta    |     1045 (=)     |        Pirotto, Lazaro         |                                         |                                     |
 |   segunda   |     1778 (=)     |          Pitana, Enzo          |                                         |                                     |
@@ -347,17 +347,17 @@
 |   segunda   |     1750 (=)     |       Pradella, Nicolas        |                                         |                                     |
 |   segunda   |     2000 (=)     |          Presel, Raul          |                 Parana                  |               Aspatem               |
 |   segunda   |     1918 (=)     |       Pressenda, Martin        |                                         |                                     |
-|   tercera   |     1672 (=)     |         Prettis, Juan          |                 Parana                  |               Aspatem               |
+|   segunda   |     1830 (=)     |         Prettis, Juan          |                 Parana                  |               Aspatem               |
 |   tercera   |     1448 (=)     |        Previale, Jesica        |                                         |                                     |
 |   cuarta    |     1332 (=)     |        Quinones, German        |                                         |                                     |
-|   tercera   |    1665 (-91)    |      Ramos Muzio, Gonzalo      |          Oro Verde, Entre Rios          |       Club Atletico Oro Verde       |
+|   segunda   |     1761 (=)     |      Ramos Muzio, Gonzalo      |          Oro Verde, Entre Rios          |       Club Atletico Oro Verde       |
 |   cuarta    |     1297 (=)     |         Ramos, Matias          |                                         |                                     |
-|   tercera   |   1512 (+152)    |        Ranzani, Esteban        |           San Justo, Santa Fe           |            Tiro Federal             |
+|   tercera   |     1512 (=)     |        Ranzani, Esteban        |           San Justo, Santa Fe           |            Tiro Federal             |
 |   cuarta    |     1344 (=)     |        Raspini, Pamela         |                                         |                                     |
 |   tercera   |     1460 (=)     |         Ravassi, Mauro         |                                         |                                     |
-|   primera   |    2490 (-8)     |        Reichel, Hernan         | Villa Libertador San Martin, Entre Rios |    Centro Recreativo Libertador     |
+|   primera   |     2490 (=)     |        Reichel, Hernan         | Villa Libertador San Martin, Entre Rios |    Centro Recreativo Libertador     |
 |   segunda   |     1764 (=)     |         Reniero, Gian          |                                         |                                     |
-|   tercera   |    1429 (+58)    |       Retamal, Santiago        |                                         |                                     |
+|   tercera   |     1430 (=)     |       Retamal, Santiago        |                                         |                                     |
 |   cuarta    |     1316 (=)     |         Rico, Eduardo          |                                         |                                     |
 |   segunda   |     1713 (=)     |          Rios, Alexis          |                                         |                                     |
 |   segunda   |     1711 (=)     |         Rios, Benjamin         |          Libertador San Martin          |                 CRL                 |
@@ -365,7 +365,7 @@
 |   primera   |     2330 (=)     |        Riquelme, Walter        |          Libertador San Martin          |                 CRL                 |
 |   tercera   |     1432 (=)     |         Rodelli, Tiago         |                                         |                                     |
 |   segunda   |     1717 (=)     |   Rodriguez Alarcon Emiliano   |                                         |                                     |
-|   cuarta    |     1210 (=)     |        Rodriguez, Dora         |                                         |                                     |
+|   cuarta    |     1188 (=)     |        Rodriguez, Dora         |                                         |                                     |
 |   tercera   |     1417 (=)     |        Rodriguez, Guido        |                                         |                                     |
 |   segunda   |     1768 (=)     |        Rodriguez, Jorge        |                                         |                                     |
 |   tercera   |     1587 (=)     |       Rodriguez, Lautaro       |                                         |                                     |
@@ -375,26 +375,26 @@
 |   segunda   |     1797 (=)     |        Rojas, Giuliana         |                                         |                                     |
 |   tercera   |     1624 (=)     |        Rojas, Priscila         |                                         |                                     |
 |   segunda   |     1763 (=)     |         Rolando, Ariel         |                                         |                                     |
-|   tercera   |     1507 (=)     |          Rosa, Pablo           |                                         |                                     |
+|   tercera   |     1422 (=)     |          Rosa, Pablo           |                                         |                                     |
 |   tercera   |     1646 (=)     |          Rosales, Ian          |                                         |                                     |
-|   cuarta    |    1115 (-40)    |         Rossi, Augusto         |                                         |                                     |
-|   segunda   |    1907 (+90)    |         Rubio, Julian          |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   cuarta    |     1115 (=)     |         Rossi, Augusto         |                                         |                                     |
+|   segunda   |    1864 (-43)    |         Rubio, Julian          |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1228 (=)     |         Rubio, Julian2         |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     2026 (=)     |         Rulfi, Daniel          |                 Parana                  |               Aspatem               |
 |   segunda   |     1757 (=)     |        Saavedra, Belen         |          Libertador San Martin          |                                     |
 |   segunda   |     1942 (=)     |         Sacone, Alonso         |               San Lorenzo               |                                     |
 |   primera   |     2184 (=)     |         Salcedo, David         |          Libertador San Martin          |                 CRL                 |
-|   cuarta    |     1192 (=)     |         Salva, Emanuel         |                                         |                                     |
+|   cuarta    |     1170 (=)     |         Salva, Emanuel         |                                         |                                     |
 |   cuarta    |     1314 (=)     |         Salva, Manuel          |                                         |                                     |
-|   cuarta    |     1201 (=)     |        Salzman, Bastian        |           San Jeronimo Norte            |            Libertad SJN             |
-|   tercera   |    1505 (+18)    |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
+|   cuarta    |     1189 (=)     |        Salzman, Bastian        |           San Jeronimo Norte            |            Libertad SJN             |
+|   tercera   |     1514 (=)     |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |     1496 (=)     |        Sancada, Maximo         |                                         |                                     |
 |   segunda   |     1963 (=)     |        Sanchez, Emanuel        |                 Parana                  |               Aspatem               |
 |   tercera   |     1628 (=)     |         Sanchez, Lucas         |                                         |                                     |
 |   primera   |     2190 (=)     |        Sartor, Lautaro         |               Avellaneda                |                                     |
 |   primera   |     2176 (=)     |      Sartor, Maximiliano       |               Reconquista               |                ATMAR                |
 |   primera   |     2182 (=)     |         Sartor, Yemel          |               Avellaneda                |                ATMAR                |
-|   segunda   |    1730 (+57)    |        Savino, Leandro         |                Santa Fe                 |               AteMeLi               |
+|   segunda   |     1730 (=)     |        Savino, Leandro         |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1528 (=)     |       Scheggia, Ignacio        |                Santa Fe                 |               AteMeLi               |
 |   primera   |     3017 (=)     |        Schenquer, Diego        |                Santa Fe                 |               AteMeLi               |
 |   cuarta    |     1301 (=)     |         Schiavi, Bruno         |                                         |                                     |
@@ -411,20 +411,20 @@
 |   primera   |     2413 (=)     |     Stringhini, Alejandro      |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1612 (=)     |         Suarez, Milton         |                Santa Fe                 |               AteMeLi               |
 |   primera   |     2182 (=)     |         Sueldo, Pablo          |                                         |                                     |
-|   cuarta    |     1270 (=)     |         Sussman, Juan          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
-|   cuarta    |     1321 (=)     |       Taffarel, Claudio        |           Parana, Entre Rios            | Independiente Bochas Club (Paraná)  |
+|   cuarta    |   1382 (+112)    |         Sussman, Juan          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
+|   cuarta    |    1323 (+2)     |       Taffarel, Claudio        |           Parana, Entre Rios            | Independiente Bochas Club (Paraná)  |
 |   primera   |     2106 (=)     |         Tenca, Gustavo         |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     1866 (=)     |         Tenca, Javier          |                 Parana                  |               Aspatem               |
-|   cuarta    |    1147 (-43)    |        Toffolini, Hugo         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
+|   cuarta    |    1084 (-13)    |        Toffolini, Hugo         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1370 (=)     |        Toranza, Ricardo        |                                         |                                     |
 |   primera   |     2448 (=)     |        Tornau, Nicolas         |                                         |                                     |
 |   primera   |     2378 (=)     |        Torres, Gerardo         |               San Lorenzo               |                                     |
-|   cuarta    |    1138 (-58)    |         Torres, Julian         |               Santo Tome                |       Defensores de Belgrano        |
+|   cuarta    |     1138 (=)     |         Torres, Julian         |               Santo Tome                |       Defensores de Belgrano        |
 |   tercera   |     1435 (=)     |        Torres, Lautaro         |                                         |                                     |
 |   tercera   |     1493 (=)     |          Tourn, Bruno          |                                         |                                     |
 |   segunda   |     1972 (=)     |          Tourn, Tomas          |               Reconquista               |                ATMAR                |
-|   tercera   |    1520 (+6)     |      Trevignani, Alfonso       |                Santa Fe                 |               AteMeLi               |
-|   tercera   |    1625 (+56)    |       Trevignani, Lucas        |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   tercera   |     1570 (=)     |      Trevignani, Alfonso       |                Santa Fe                 |               AteMeLi               |
+|   tercera   |    1690 (+53)    |       Trevignani, Lucas        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   tercera   |     1402 (=)     |       Troncoso, Mauricio       |                                         |                                     |
 |   primera   |     2206 (=)     |          Tumino, Juan          |                                         |                                     |
 |   tercera   |     1445 (=)     |         Uranga, Fermin         |                                         |                                     |
@@ -444,7 +444,7 @@
 |   tercera   |     1576 (=)     |          Verra, Dario          |                                         |                                     |
 |   tercera   |     1685 (=)     |         Vetrano, Luca          |                                         |                                     |
 |   cuarta    |     1174 (=)     |          Vidal, Belen          |                                         |                                     |
-|   tercera   |    1680 (+19)    |        Vigouroux, Jorge        |           San Justo, Santa Fe           |            Tiro Federal             |
+|   tercera   |     1680 (=)     |        Vigouroux, Jorge        |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |     1620 (=)     |       Vigouroux, Manuel        |                San Justo                |            Tiro Federal             |
 |   cuarta    |     1379 (=)     |      Vigouroux, Patricio       |                San Justo                |            Tiro Federal             |
 |   tercera   |     1457 (=)     |      Vigouroux, Santiago       |                San Justo                |            Tiro Federal             |
@@ -459,8 +459,8 @@
 |   primera   |     2059 (=)     |        Welschen, Pablo         |                 Parana                  |               Aspatem               |
 |   segunda   |     1717 (=)     |        Werner, Graciela        |                 Parana                  |               Aspatem               |
 |   primera   |     2095 (=)     |        Wernli, Federico        |                 Parana                  |               Aspatem               |
-|   cuarta    |     1359 (=)     |        Yenerich, Fabio         |                                         |                                     |
-|   cuarta    |     1180 (=)     |         Yenerich, Juan         |                                         |                                     |
+|   tercera   |     1403 (=)     |        Yenerich, Fabio         |                                         |                                     |
+|   cuarta    |     1140 (=)     |         Yenerich, Juan         |                                         |                                     |
 |   segunda   |     1822 (=)     |        Zalazar, Facundo        |                                         |                                     |
 |   cuarta    |     1356 (=)     |         Zalazar, Irina         |                                         |                                     |
 |   tercera   |     1408 (=)     |        Zancada, Maximo         |                                         |                                     |
@@ -468,4 +468,4 @@
 |   cuarta    |     1356 (=)     |         Zapata, Lucas          |                                         |                                     |
 |   tercera   |     1697 (=)     |          Zavala, Jose          |                                         |                                     |
 |   tercera   |     1498 (=)     |         Zeitune, Angel         |                                         |                                     |
-|   cuarta    |    1351 (+12)    |        Zelayeta, Carlos        |                                         |                                     |
+|   cuarta    |     1340 (=)     |        Zelayeta, Carlos        |                                         |                                     |

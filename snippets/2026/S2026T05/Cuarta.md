@@ -1,0 +1,47 @@
+|  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |            Jugador             |        Ciudad        |             Afiliación              |              Puntos sumados               |
+|:----------:|:----------------------:|:-----------------:|:------------------------------:|:--------------------:|:-----------------------------------:|:-----------------------------------------:|
+|     1      |        150 (=)         |         2         |        Barreto, Julian         |                      |                                     |           100 (T04) + 50 (T03)            |
+|            |       150 (+100)       |         2         |         Sussman, Juan          | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |           100 (T05) + 50 (T02)            |
+|     3      |        150 (=)         |         3         |         Liria, Conrado         | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |      75 (T03) + 50 (T04) + 25 (T01)       |
+|     4      |       150 (+50)        |         4         |         Lopez, Javier          |      Santo Tome      |       Defensores de Belgrano        | 50 (T05) + 50 (T02) + 25 (T03) + 25 (T01) |
+|     5      |        100 (=)         |         1         |       Albrecht, Ignacio        |  San Jeronimo Norte  |            Libertad SJN             |                 100 (T01)                 |
+|            |        100 (=)         |         1         |       Allegrini, Alonso        |                      |                                     |                 100 (T02)                 |
+|            |        100 (=)         |         1         |        Ranzani, Esteban        | San Justo, Santa Fe  |            Tiro Federal             |                 100 (T03)                 |
+|     8      |       100 (+75)        |         2         |        Boskovic, David         |  San Jeronimo Norte  |            Libertad SJN             |            75 (T05) + 25 (T03)            |
+|            |       100 (+50)        |         2         |         Perren, Miguel         |  San Jeronimo Norte  |            Libertad SJN             |            50 (T05) + 50 (T01)            |
+|     10     |        100 (=)         |         3         |        Zelayeta, Carlos        |                      |                                     |      50 (T03) + 25 (T04) + 25 (T02)       |
+|     11     |         90 (=)         |         2         |        Bregant, Osvaldo        |                      |                                     |            75 (T04) + 15 (T02)            |
+|     12     |        80 (+15)        |         4         |         Palamedi, Alma         |  Santa Fe, Santa Fe  |           Provincial Club           | 25 (T04) + 25 (T01) + 15 (T05) + 15 (T03) |
+|            |        80 (+25)        |         4         |        Pereyra, Andres         | Santo Tome, Santa Fe | Independiente Bochas Club (Paraná)  | 25 (T05) + 25 (T02) + 15 (T03) + 15 (T01) |
+|     14     |         75 (=)         |         1         |         Gomez, Gabriel         |        Parana        |            Tiro Federal             |                 75 (T02)                  |
+|            |         75 (=)         |         1         |          Paya, Lazaro          |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |                 75 (T01)                  |
+|     16     |        70 (+25)        |         4         |        Toffolini, Hugo         |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      | 25 (T05) + 15 (T04) + 15 (T03) + 15 (T01) |
+|     17     |        67 (+15)        |         4         |         Baiz, Ernesto          | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) | 25 (T02) + 15 (T05) + 15 (T01) + 12 (T03) |
+|     18     |        65 (+25)        |         3         |      Mandracchia, Alexis       |  Santa Fe, Santa Fe  |           Provincial Club           |      25 (T05) + 25 (T03) + 15 (T01)       |
+|     19     |         60 (=)         |         4         |         Diez, Gabriel          |  Parana, Entre Rios  |        Tiro Federal (Paraná)        | 15 (T04) + 15 (T03) + 15 (T02) + 15 (T01) |
+|     20     |         55 (=)         |         3         |         Candia, Matias         | San Justo, Santa Fe  |            Tiro Federal             |      25 (T02) + 15 (T03) + 15 (T01)       |
+|     21     |         50 (=)         |         1         |         Grippo, Daniel         |                      |                                     |                 50 (T01)                  |
+|            |         50 (=)         |         1         |        Yenerich, Fabio         |                      |                                     |                 50 (T04)                  |
+|     23     |         50 (=)         |         2         |         Acuna, Daiana          |       Santa Fe       |               AteMeLi               |            25 (T03) + 25 (T01)            |
+|     24     |        42 (+15)        |         3         |       Mangioni, Emiliano       |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |      15 (T05) + 15 (T04) + 12 (T03)       |
+|     25     |         39 (=)         |         3         |         Torres, Julian         |      Santo Tome      |       Defensores de Belgrano        |      15 (T02) + 12 (T03) + 12 (T01)       |
+|     26     |         30 (=)         |         2         |         Justet, Walter         |                      |                                     |            15 (T03) + 15 (T01)            |
+|            |         30 (=)         |         2         |         Lell, Claudia          |        Parana        |            Tiro Federal             |            15 (T04) + 15 (T02)            |
+|     28     |        27 (+15)        |         2         |         Llobet, Felipe         |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |            15 (T05) + 12 (T03)            |
+|     29     |         25 (=)         |         1         |        Albrecht, Ramiro        |  San Jeronimo Norte  |            Libertad SJN             |                 25 (T04)                  |
+|            |        25 (+25)        |         1         |        Baldrini, Maximo        |                      |                                     |                 25 (T05)                  |
+|            |         25 (=)         |         1         |         Elmer, Eliana          |                      |                                     |                 25 (T04)                  |
+|     32     |         15 (=)         |         1         |         Alsina, Mateo          |                      |                                     |                 15 (T03)                  |
+|            |         15 (=)         |         1         |        Beron, Mauricio         |                      |                                     |                 15 (T04)                  |
+|            |         15 (=)         |         1         |       Calabrese, Gustavo       |      Santo Tome      |       Defensores de Belgrano        |                 15 (T02)                  |
+|            |         15 (=)         |         1         |         Galindo, Abel          |                      |                                     |                 15 (T03)                  |
+|            |         15 (=)         |         1         |          Hepp, Gernan          |                      |                                     |                 15 (T02)                  |
+|            |         15 (=)         |         1         |         Magnien, Lucas         |                      |                                     |                 15 (T01)                  |
+|            |         15 (=)         |         1         |        Mehring, Agustin        |  San Jeronimo Norte  |            Libertad SJN             |                 15 (T04)                  |
+|            |         15 (=)         |         1         | Pelleritti Garcia, Juan Andres |                      |                                     |                 15 (T02)                  |
+|            |         15 (=)         |         1         |        Rodriguez, Dora         |                      |                                     |                 15 (T04)                  |
+|     41     |         12 (=)         |         1         |        Garcia, Natalia         |                      |                                     |                 12 (T01)                  |
+|            |         12 (=)         |         1         |         Rossi, Augusto         |                      |                                     |                 12 (T03)                  |
+|     43     |        10 (+10)        |         1         |    Gimenez, Claudio Daniel     |                      |                                     |                 10 (T05)                  |
+|            |         10 (=)         |         1         |        Salzman, Bastian        |  San Jeronimo Norte  |            Libertad SJN             |                 10 (T04)                  |
+|            |         10 (=)         |         1         |         Yenerich, Juan         |                      |                                     |                 10 (T04)                  |
