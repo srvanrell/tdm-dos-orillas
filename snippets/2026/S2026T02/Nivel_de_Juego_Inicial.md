@@ -158,6 +158,7 @@
 |       1844       |         Banfi, Franco          |                 Parana                  |               Aspatem               |
 |       1836       |           Lamy, Blas           |                                         |                                     |
 |       1834       |         Migoni, Anibal         |                 Parana                  |               Aspatem               |
+|       1831       |         Pissano, Raul          |                                         |                                     |
 |       1822       |        Zalazar, Facundo        |                                         |                                     |
 |       1821       |        Mendieta, Elias         |                Santa Fe                 |               AteMeLi               |
 |       1810       |        Fernandez, David        |                                         |                                     |
@@ -165,6 +166,7 @@
 |       1798       |          Pilotti, Paz          |                Santa Fe                 |           Provincial Club           |
 |       1797       |        Rojas, Giuliana         |                                         |                                     |
 |       1796       |        Calero, Leonardo        |                                         |                                     |
+|       1796       |        Rossini, Edison         |                                         |                                     |
 |       1794       |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |       1791       |        Heinzen, Gonzalo        |                                         |                                     |
 |       1788       |         Budino, Mijail         |           Santa Fe, Santa Fe            |           Provincial Club           |
@@ -202,6 +204,7 @@
 |       1735       |          Bishop, Alan          |          Libertador San Martin          |                 CRL                 |
 |       1732       |      Guckert, Juan Pablo       |                                         |                                     |
 |       1731       |        Costanza, Roque         |                Santa Fe                 |               AteMeLi               |
+|       1727       |        Flores, Ignacio         |                                         |                                     |
 |       1726       |        Martinez, Dylan         |                                         |                                     |
 |       1725       |        Noriega, Martin         |                Santa Fe                 |                                     |
 |       1723       |        Martinez, Lowell        |          Libertador San Martin          |                 CRL                 |
@@ -271,9 +274,11 @@
 |       1584       |       Ferreyra, Enrique        |                Santa Fe                 |                                     |
 |       1576       |          Verra, Dario          |                                         |                                     |
 |       1572       |        Morello, Manuel         |                                         |                                     |
+|       1558       |         Maita, Martin          |                                         |                                     |
 |       1557       |        Vigouroux, Jorge        |           San Justo, Santa Fe           |            Tiro Federal             |
 |       1543       |         Larrosa, Jorge         |                 Parana                  |            Tiro Federal             |
 |       1542       |         Barrios, Tomas         |                                         |                                     |
+|       1542       |       Guerrero, Gerardo        |                                         |                                     |
 |       1530       |          Moreno, Aixa          |                 Parana                  |               Aspatem               |
 |       1528       |       Scheggia, Ignacio        |                Santa Fe                 |               AteMeLi               |
 |       1526       |      Bernard, Maximiliano      |                                         |                                     |
@@ -319,6 +324,7 @@
 |       1434       |        Vergara, Gustavo        |                 Parana                  |            Tiro Federal             |
 |       1432       |         Rodelli, Tiago         |                                         |                                     |
 |       1430       |       Velazquez, Fatima        |                                         |                                     |
+|       1427       |          Teles, Levi           |                                         |                                     |
 |       1426       |         Pen, Mauricio          |                                         |                                     |
 |       1424       |          Picech, Gino          |                                         |                                     |
 |       1417       |         Nunes, Agustin         |                                         |                                     |
@@ -359,6 +365,7 @@
 |       1374       |         Diaz, Benjamin         |                                         |                                     |
 |       1370       |        Toranza, Ricardo        |                                         |                                     |
 |       1366       |       Barrientos, Norma        |                 Parana                  |            Tiro Federal             |
+|       1364       |         Fucks, Marcelo         |                                         |                                     |
 |       1362       |        Rojas, Agustina         |                                         |                                     |
 |       1361       |       Scotta, Francisco        |                                         |                                     |
 |       1359       |        Schiavi, Marcelo        |                                         |                                     |
@@ -392,6 +399,7 @@
 |       1314       |          Garau, Jano           |                                         |                                     |
 |       1314       |         Salva, Manuel          |                                         |                                     |
 |       1313       |         Lopez, Javier          |               Santo Tome                |       Defensores de Belgrano        |
+|       1313       |        Salas, Geronimo         |                                         |                                     |
 |       1308       |          Duarte, Juan          |                                         |                                     |
 |       1308       |        Padula, Nicolas         |                                         |                                     |
 |       1308       |       Vivanco, Cristian        |                                         |                                     |
@@ -449,6 +457,7 @@
 |       1180       |         Yenerich, Juan         |                                         |                                     |
 |       1177       |       Bordeira, Gabriel        |                                         |                                     |
 |       1174       |          Vidal, Belen          |                                         |                                     |
+|       1170       |         Ponce, Marcelo         |                                         |                                     |
 |       1167       |     Kotlireusky, Benjamin      |                                         |                                     |
 |       1159       |         Bregant, Juan          |                                         |                                     |
 |       1159       |         Palamedi, Alma         |           Santa Fe, Santa Fe            |           Provincial Club           |

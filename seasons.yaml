@@ -1,6 +1,8 @@
 seasons:
 -   name: 2026
     tournaments:
+    -   id: S2026T06
+        name: Torneo 06
     -   id: S2026T05
         name: Torneo 05
     -   id: S2026T04
