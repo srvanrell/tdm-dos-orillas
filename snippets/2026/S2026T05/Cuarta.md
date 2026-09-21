@@ -1,6 +1,6 @@
 |  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |            Jugador             |        Ciudad        |             Afiliación              |              Puntos sumados               |
 |:----------:|:----------------------:|:-----------------:|:------------------------------:|:--------------------:|:-----------------------------------:|:-----------------------------------------:|
-|     1      |        150 (=)         |         2         |        Barreto, Julian         |                      |                                     |           100 (T04) + 50 (T03)            |
+|     1      |        150 (=)         |         2         |        Barreto, Julian         |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |           100 (T04) + 50 (T03)            |
 |            |       150 (+100)       |         2         |         Sussman, Juan          | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |           100 (T05) + 50 (T02)            |
 |     3      |        150 (=)         |         3         |         Liria, Conrado         | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |      75 (T03) + 50 (T04) + 25 (T01)       |
 |     4      |       150 (+50)        |         4         |         Lopez, Javier          |      Santo Tome      |       Defensores de Belgrano        | 50 (T05) + 50 (T02) + 25 (T03) + 25 (T01) |
@@ -34,11 +34,11 @@
 |     32     |         15 (=)         |         1         |         Alsina, Mateo          |                      |                                     |                 15 (T03)                  |
 |            |         15 (=)         |         1         |        Beron, Mauricio         |                      |                                     |                 15 (T04)                  |
 |            |         15 (=)         |         1         |       Calabrese, Gustavo       |      Santo Tome      |       Defensores de Belgrano        |                 15 (T02)                  |
-|            |         15 (=)         |         1         |         Galindo, Abel          |                      |                                     |                 15 (T03)                  |
+|            |         15 (=)         |         1         |         Galindo, Abel          |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |                 15 (T03)                  |
 |            |         15 (=)         |         1         |          Hepp, Gernan          |                      |                                     |                 15 (T02)                  |
 |            |         15 (=)         |         1         |         Magnien, Lucas         |                      |                                     |                 15 (T01)                  |
 |            |         15 (=)         |         1         |        Mehring, Agustin        |  San Jeronimo Norte  |            Libertad SJN             |                 15 (T04)                  |
-|            |         15 (=)         |         1         | Pelleritti Garcia, Juan Andres |                      |                                     |                 15 (T02)                  |
+|            |         15 (=)         |         1         | Pelleritti Garcia, Juan Andres | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |                 15 (T02)                  |
 |            |         15 (=)         |         1         |        Rodriguez, Dora         |                      |                                     |                 15 (T04)                  |
 |     41     |         12 (=)         |         1         |        Garcia, Natalia         |                      |                                     |                 12 (T01)                  |
 |            |         12 (=)         |         1         |         Rossi, Augusto         |                      |                                     |                 12 (T03)                  |

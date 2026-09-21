@@ -8,9 +8,9 @@
 |     6      |       320 (+125)       |         4         | Samaniego, Francisco |  San Justo, Santa Fe  |            Tiro Federal             | 125 (T04) + 65 (T03) + 65 (T02) + 65 (T01) |
 |     7      |        290 (=)         |         3         |   Vigouroux, Jorge   |  San Justo, Santa Fe  |            Tiro Federal             |      125 (T02) + 125 (T01) + 40 (T03)      |
 |     8      |        255 (=)         |         3         |   Perez, Valentino   |  San Justo, Santa Fe  |            Tiro Federal             |      125 (T03) + 65 (T02) + 65 (T01)       |
-|            |       255 (+65)        |         3         |  Retamal, Santiago   |                       |                                     |      125 (T02) + 65 (T04) + 65 (T03)       |
+|            |       255 (+65)        |         3         |  Retamal, Santiago   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |      125 (T02) + 65 (T04) + 65 (T03)       |
 |     10     |       250 (+250)       |         1         | Ramos Muzio, Gonzalo | Oro Verde, Entre Rios |       Club Atletico Oro Verde       |                 250 (T04)                  |
-|     11     |       165 (+125)       |         2         |   Barreto, Julian    |                       |                                     |            125 (T04) + 40 (T03)            |
+|     11     |       165 (+125)       |         2         |   Barreto, Julian    |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |            125 (T04) + 40 (T03)            |
 |     12     |       160 (+40)        |         4         |    Bracco, Victor    |                       |                                     | 40 (T04) + 40 (T03) + 40 (T02) + 40 (T01)  |
 |     13     |       130 (+40)        |         4         |    Diez, Gabriel     |  Parana, Entre Rios   |        Tiro Federal (Paraná)        | 40 (T04) + 40 (T01) + 25 (T03) + 25 (T02)  |
 |     14     |       120 (+40)        |         3         |   Colavini, Daniel   |  Santa Fe, Santa Fe   |           Provincial Club           |       40 (T04) + 40 (T03) + 40 (T01)       |

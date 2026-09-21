@@ -43,7 +43,7 @@
 |   tercera   |     1622 (=)     |          Levin, Raul           |                 Parana                  |               Aspatem               |
 |   tercera   |     1620 (=)     |       Vigouroux, Manuel        |                San Justo                |            Tiro Federal             |
 |   tercera   |     1608 (=)     |        Perez, Valentino        |           San Justo, Santa Fe           |            Tiro Federal             |
-|   tercera   |     1574 (=)     |        Barreto, Julian         |                                         |                                     |
+|   tercera   |     1574 (=)     |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1570 (=)     |      Trevignani, Alfonso       |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1514 (=)     |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |     1512 (=)     |        Ranzani, Esteban        |           San Justo, Santa Fe           |            Tiro Federal             |
@@ -51,7 +51,7 @@
 |   tercera   |     1460 (=)     |      Faggionatto, Walter       |                                         |                                     |
 |   tercera   |     1453 (=)     |       Allegrini, Alonso        |                                         |                                     |
 |   tercera   |     1440 (=)     |       Albrecht, Ignacio        |           San Jeronimo Norte            |            Libertad SJN             |
-|   tercera   |     1430 (=)     |       Retamal, Santiago        |                                         |                                     |
+|   tercera   |     1430 (=)     |       Retamal, Santiago        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1428 (=)     |         Gomez, Gabriel         |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1422 (=)     |          Rosa, Pablo           |                                         |                                     |
 |   tercera   |     1416 (=)     |        Canhoto, Carlos         |                Santa Fe                 |               AteMeLi               |
@@ -78,10 +78,10 @@
 |   cuarta    |     1287 (=)     |          Hepp, Gernan          |                                         |                                     |
 |   cuarta    |     1275 (=)     |        Mehring, Agustin        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1274 (=)     |         Magnien, Lucas         |                                         |                                     |
-|   cuarta    |     1225 (=)     |         Galindo, Abel          |                                         |                                     |
+|   cuarta    |     1225 (=)     |         Galindo, Abel          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1218 (=)     |       Calabrese, Alfredo       |                                         |                                     |
 |   cuarta    |    1208 (-12)    |        Pereyra, Andres         |          Santo Tome, Santa Fe           | Independiente Bochas Club (Paraná)  |
-|   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |                                         |                                     |
+|   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |     1189 (=)     |        Salzman, Bastian        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1188 (=)     |        Rodriguez, Dora         |                                         |                                     |
 |   cuarta    |     1184 (=)     |         Lell, Claudia          |                 Parana                  |            Tiro Federal             |

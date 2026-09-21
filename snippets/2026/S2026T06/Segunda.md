@@ -8,7 +8,7 @@
 |     6      |        575 (=)         |         4         |  Oliveras, Leonardo  |  Santa Fe, Santa Fe   |           Provincial Club           |       250 (T02) + 125 (T05) + 125 (T01) + 75 (T03)       |
 |     7      |        550 (=)         |         2         |    Prettis, Juan     |        Parana         |               Aspatem               |                   500 (T04) + 50 (T02)                   |
 |     8      |        525 (=)         |         4         |    Rubio, Julian     |  Santa Fe, Santa Fe   |           Provincial Club           |       250 (T05) + 125 (T03) + 75 (T02) + 75 (T01)        |
-|     9      |       500 (+500)       |         1         |   Barreto, Julian    |                       |                                     |                        500 (T06)                         |
+|     9      |       500 (+500)       |         1         |   Barreto, Julian    |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                        500 (T06)                         |
 |            |        500 (=)         |         1         |  Olivares, Isabella  |                       |                                     |                        500 (T03)                         |
 |     11     |       500 (+250)       |         2         |  Palamedi, Cristian  |       Santa Fe        |               AteMeLi               |                  250 (T06) + 250 (T05)                   |
 |     12     |        500 (=)         |         4         |    Albano, Javier    |       Santa Fe        |           Provincial Club           |      125 (T05) + 125 (T03) + 125 (T02) + 125 (T01)       |
@@ -22,7 +22,7 @@
 |     20     |        260 (=)         |         4         | Samaniego, Francisco |  San Justo, Santa Fe  |            Tiro Federal             |        75 (T03) + 75 (T01) + 60 (T02) + 50 (T04)         |
 |     21     |        250 (=)         |         1         |  Dalinger, Humberto  |        Parana         |            Tiro Federal             |                        250 (T02)                         |
 |            |        250 (=)         |         1         |     Goy, Gerardo     |      Reconquista      |                ATMAR                |                        250 (T01)                         |
-|            |       250 (+250)       |         1         |  Retamal, Santiago   |                       |                                     |                        250 (T06)                         |
+|            |       250 (+250)       |         1         |  Retamal, Santiago   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                        250 (T06)                         |
 |     24     |        210 (=)         |         3         |   Colavini, Daniel   |  Santa Fe, Santa Fe   |           Provincial Club           |              75 (T04) + 75 (T03) + 60 (T01)              |
 |     25     |        200 (=)         |         2         |   Vigouroux, Jorge   |  San Justo, Santa Fe  |            Tiro Federal             |                   125 (T02) + 75 (T03)                   |
 |     26     |       125 (+125)       |         1         |  Allegrini, Alonso   |                       |                                     |                        125 (T06)                         |

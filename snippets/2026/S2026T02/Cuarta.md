@@ -24,6 +24,6 @@
 |            |        15 (+15)        |         1         |         Lell, Claudia          |        Parana        |            Tiro Federal             |      15 (T02)       |
 |            |         15 (=)         |         1         |         Magnien, Lucas         |                      |                                     |      15 (T01)       |
 |            |         15 (=)         |         1         |      Mandracchia, Alexis       |  Santa Fe, Santa Fe  |           Provincial Club           |      15 (T01)       |
-|            |        15 (+15)        |         1         | Pelleritti Garcia, Juan Andres |                      |                                     |      15 (T02)       |
+|            |        15 (+15)        |         1         | Pelleritti Garcia, Juan Andres | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |      15 (T02)       |
 |            |         15 (=)         |         1         |        Toffolini, Hugo         |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |      15 (T01)       |
 |     27     |         12 (=)         |         1         |        Garcia, Natalia         |                      |                                     |      12 (T01)       |

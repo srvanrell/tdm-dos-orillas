@@ -52,7 +52,7 @@
 |   primera   |     2109 (=)     |         Barba, Rodrigo         |                 Parana                  |               Aspatem               |
 |   segunda   |     2003 (=)     |         Barcelo, Mateo         |                                         |                ATMAR                |
 |   segunda   |   1748 (-149)    |       Barchiesi, Matias        |           Santa Fe, Santa Fe            |           Provincial Club           |
-|   tercera   |     1401 (=)     |        Barreto, Julian         |                                         |                                     |
+|   tercera   |     1401 (=)     |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |     1330 (=)     |      Barreto, Maximiliano      |                                         |                                     |
 |   cuarta    |     1366 (=)     |       Barrientos, Norma        |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1477 (=)     |         Barrios, Julio         |                                         |                                     |
@@ -158,7 +158,7 @@
 |   cuarta    |     1293 (=)     |         Fenes, Martin          |                                         |                                     |
 |   primera   |     2406 (=)     |       Feresin, Ezequiel        |               Reconquista               |                                     |
 |   primera   |     2109 (=)     |        Fernandez, Axel         |                                         |                                     |
-|   cuarta    |     1122 (=)     |        Fernandez, Belen        |                                         |                                     |
+|   cuarta    |     1122 (=)     |        Fernandez, Belen        |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   primera   |     2341 (=)     |       Fernandez, Carlos        |                 Parana                  |            Tiro Federal             |
 |   segunda   |     1998 (=)     |        Fernandez, Dario        |                                         |                                     |
 |   segunda   |     1810 (=)     |        Fernandez, David        |                                         |                                     |
@@ -182,7 +182,7 @@
 |   tercera   |     1412 (=)     |        Gabiout, Alfonso        |                                         |                                     |
 |   cuarta    |     1208 (=)     |          Gaete, Tiago          |                                         |                                     |
 |   segunda   |     1979 (=)     |         Galera, Julio          |                 Parana                  |               Aspatem               |
-|   cuarta    |     1221 (=)     |         Galindo, Abel          |                                         |                                     |
+|   cuarta    |     1221 (=)     |         Galindo, Abel          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   tercera   |     1609 (=)     |        Gambino, Sergio         |                 Parana                  |               Aspatem               |
 |   segunda   |     1803 (=)     |        Gandolfo, Carlos        |                 Parana                  |            Tiro Federal             |
 |   segunda   |     1965 (=)     |        Gansel, Benjamin        |          Libertador San Martin          |                 CRL                 |
@@ -326,7 +326,7 @@
 |   cuarta    |     1391 (=)     |          Paya, Lazaro          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1330 (=)     |          Paz, Joaquin          |                                         |                                     |
 |   segunda   |     1879 (=)     |        Peduzzi, Mariano        |                 Parana                  |            Tiro Federal             |
-|   cuarta    |    1207 (-44)    | Pelleritti Garcia, Juan Andres |                                         |                                     |
+|   cuarta    |    1207 (-44)    | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   tercera   |     1426 (=)     |         Pen, Mauricio          |                                         |                                     |
 |   cuarta    |    1295 (-16)    |        Pereyra, Andres         |          Santo Tome, Santa Fe           | Independiente Bochas Club (Paraná)  |
 |   tercera   |   1586 (+159)    |        Perez, Valentino        |           San Justo, Santa Fe           |            Tiro Federal             |
@@ -363,7 +363,7 @@
 |   tercera   |     1460 (=)     |         Ravassi, Mauro         |                                         |                                     |
 |   primera   |    2498 (+11)    |        Reichel, Hernan         | Villa Libertador San Martin, Entre Rios |    Centro Recreativo Libertador     |
 |   segunda   |     1764 (=)     |         Reniero, Gian          |                                         |                                     |
-|   cuarta    |    1371 (-8)     |       Retamal, Santiago        |                                         |                                     |
+|   cuarta    |    1371 (-8)     |       Retamal, Santiago        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |     1316 (=)     |         Rico, Eduardo          |                                         |                                     |
 |   segunda   |     1713 (=)     |          Rios, Alexis          |                                         |                                     |
 |   segunda   |     1711 (=)     |         Rios, Benjamin         |          Libertador San Martin          |                 CRL                 |

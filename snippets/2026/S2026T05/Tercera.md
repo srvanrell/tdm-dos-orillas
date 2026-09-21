@@ -8,13 +8,13 @@
 |     6      |        320 (=)         |         4         | Samaniego, Francisco |  San Justo, Santa Fe  |            Tiro Federal             |      125 (T04) + 65 (T03) + 65 (T02) + 65 (T01)      |
 |     7      |        290 (=)         |         3         |   Vigouroux, Jorge   |  San Justo, Santa Fe  |            Tiro Federal             |           125 (T02) + 125 (T01) + 40 (T03)           |
 |     8      |        255 (=)         |         3         |   Perez, Valentino   |  San Justo, Santa Fe  |            Tiro Federal             |           125 (T03) + 65 (T02) + 65 (T01)            |
-|            |        255 (=)         |         3         |  Retamal, Santiago   |                       |                                     |           125 (T02) + 65 (T04) + 65 (T03)            |
+|            |        255 (=)         |         3         |  Retamal, Santiago   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |           125 (T02) + 65 (T04) + 65 (T03)            |
 |     10     |       250 (+250)       |         1         |    Cortez, Pablo     |                       |                                     |                      250 (T05)                       |
 |            |        250 (=)         |         1         | Ramos Muzio, Gonzalo | Oro Verde, Entre Rios |       Club Atletico Oro Verde       |                      250 (T04)                       |
 |     12     |       195 (+125)       |         3         |     Paya, Lazaro     |  Santa Fe, Santa Fe   |     Provincial Club (Santa Fe)      |           125 (T05) + 40 (T03) + 30 (T01)            |
 |     13     |       175 (+65)        |         4         |    Perren, Miguel    |  San Jeronimo Norte   |            Libertad SJN             |      65 (T05) + 40 (T04) + 40 (T01) + 30 (T03)       |
 |     14     |       170 (+40)        |         5         |    Diez, Gabriel     |  Parana, Entre Rios   |        Tiro Federal (Paraná)        | 40 (T05) + 40 (T04) + 40 (T01) + 25 (T03) + 25 (T02) |
-|     15     |        165 (=)         |         2         |   Barreto, Julian    |                       |                                     |                 125 (T04) + 40 (T03)                 |
+|     15     |        165 (=)         |         2         |   Barreto, Julian    |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                 125 (T04) + 40 (T03)                 |
 |     16     |        160 (=)         |         4         |    Bracco, Victor    |                       |                                     |      40 (T04) + 40 (T03) + 40 (T02) + 40 (T01)       |
 |     17     |       145 (+65)        |         3         |    Liria, Conrado    | Santo Tome, Santa Fe  | Defensores de Belgrano (Santo Tomé) |            65 (T05) + 40 (T04) + 40 (T03)            |
 |            |       145 (+65)        |         3         |  Taffarel, Claudio   |  Parana, Entre Rios   | Independiente Bochas Club (Paraná)  |            65 (T05) + 40 (T02) + 40 (T01)            |

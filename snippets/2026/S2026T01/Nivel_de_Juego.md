@@ -65,7 +65,7 @@
 |   cuarta    |    1392 (-6)     |    Grippo, Daniel    |                                         |                                     |
 |   cuarta    |    1391 (+14)    |     Paya, Lazaro     |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |   1381 (-129)    |   Zelayeta, Carlos   |                                         |                                     |
-|   cuarta    |     1379 (=)     |  Retamal, Santiago   |                                         |                                     |
+|   cuarta    |     1379 (=)     |  Retamal, Santiago   |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |    1367 (-44)    |  Cevallos, Luciano   |                                         |                                     |
 |   cuarta    |    1360 (-56)    |   Ranzani, Esteban   |           San Justo, Santa Fe           |            Tiro Federal             |
 |   cuarta    |    1339 (+20)    |    Liria, Conrado    |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |

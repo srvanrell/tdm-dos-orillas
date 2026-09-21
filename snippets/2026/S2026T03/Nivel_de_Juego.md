@@ -44,7 +44,7 @@
 |   tercera   |    1505 (+18)    |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |    1453 (-49)    |       Allegrini, Alonso        |                                         |                                     |
 |   tercera   |     1447 (=)     |       Albrecht, Ignacio        |           San Jeronimo Norte            |            Libertad SJN             |
-|   tercera   |    1429 (+58)    |       Retamal, Santiago        |                                         |                                     |
+|   tercera   |    1429 (+58)    |       Retamal, Santiago        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1428 (=)     |         Gomez, Gabriel         |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1416 (=)     |        Canhoto, Carlos         |                Santa Fe                 |               AteMeLi               |
 |   tercera   |    1409 (+18)    |          Paya, Lazaro          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
@@ -54,7 +54,7 @@
 |   cuarta    |     1393 (=)     |         Benicio, Oscar         |                 Parana                  |               Aspatem               |
 |   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |                                     |
 |   cuarta    |    1390 (+51)    |         Liria, Conrado         |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
-|   cuarta    |    1384 (-17)    |        Barreto, Julian         |                                         |                                     |
+|   cuarta    |    1384 (-17)    |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |    1383 (+8)     |         Lopez, Javier          |               Santo Tome                |       Defensores de Belgrano        |
 |   cuarta    |     1367 (=)     |       Cevallos, Luciano        |                                         |                                     |
 |   cuarta    |    1351 (+12)    |        Zelayeta, Carlos        |                                         |                                     |
@@ -66,10 +66,10 @@
 |   cuarta    |     1274 (=)     |         Magnien, Lucas         |                                         |                                     |
 |   cuarta    |     1270 (=)     |         Sussman, Juan          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |    1225 (+9)     |        Boskovic, David         |           San Jeronimo Norte            |            Libertad SJN             |
-|   cuarta    |    1225 (+4)     |         Galindo, Abel          |                                         |                                     |
+|   cuarta    |    1225 (+4)     |         Galindo, Abel          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |    1220 (-75)    |        Pereyra, Andres         |          Santo Tome, Santa Fe           | Independiente Bochas Club (Paraná)  |
 |   cuarta    |     1216 (=)     |         Lell, Claudia          |                 Parana                  |            Tiro Federal             |
-|   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |                                         |                                     |
+|   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |    1201 (+16)    |         Palamedi, Alma         |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |    1187 (-61)    |         Baiz, Ernesto          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |    1165 (+78)    |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |

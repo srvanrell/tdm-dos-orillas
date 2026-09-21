@@ -41,7 +41,7 @@
 |   tercera   |    1622 (-40)    |          Levin, Raul           |                 Parana                  |               Aspatem               |
 |   tercera   |     1620 (=)     |       Vigouroux, Manuel        |                San Justo                |            Tiro Federal             |
 |   tercera   |     1608 (=)     |        Perez, Valentino        |           San Justo, Santa Fe           |            Tiro Federal             |
-|   tercera   |   1574 (+190)    |        Barreto, Julian         |                                         |                                     |
+|   tercera   |   1574 (+190)    |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |    1570 (+50)    |      Trevignani, Alfonso       |                Santa Fe                 |               AteMeLi               |
 |   tercera   |    1514 (+9)     |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |     1512 (=)     |        Ranzani, Esteban        |           San Justo, Santa Fe           |            Tiro Federal             |
@@ -49,7 +49,7 @@
 |   tercera   |    1460 (-15)    |      Faggionatto, Walter       |                                         |                                     |
 |   tercera   |     1453 (=)     |       Allegrini, Alonso        |                                         |                                     |
 |   tercera   |    1440 (-7)     |       Albrecht, Ignacio        |           San Jeronimo Norte            |            Libertad SJN             |
-|   tercera   |    1430 (+1)     |       Retamal, Santiago        |                                         |                                     |
+|   tercera   |    1430 (+1)     |       Retamal, Santiago        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1428 (=)     |         Gomez, Gabriel         |                 Parana                  |            Tiro Federal             |
 |   tercera   |    1422 (-85)    |          Rosa, Pablo           |                                         |                                     |
 |   tercera   |     1416 (=)     |        Canhoto, Carlos         |                Santa Fe                 |               AteMeLi               |
@@ -76,11 +76,11 @@
 |   cuarta    |     1274 (=)     |         Magnien, Lucas         |                                         |                                     |
 |   cuarta    |     1270 (=)     |         Sussman, Juan          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |     1225 (=)     |        Boskovic, David         |           San Jeronimo Norte            |            Libertad SJN             |
-|   cuarta    |     1225 (=)     |         Galindo, Abel          |                                         |                                     |
+|   cuarta    |     1225 (=)     |         Galindo, Abel          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1220 (=)     |        Pereyra, Andres         |          Santo Tome, Santa Fe           | Independiente Bochas Club (Paraná)  |
 |   cuarta    |    1218 (-46)    |       Calabrese, Alfredo       |                                         |                                     |
 |   cuarta    |    1209 (+8)     |         Palamedi, Alma         |           Santa Fe, Santa Fe            |           Provincial Club           |
-|   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |                                         |                                     |
+|   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |    1189 (-12)    |        Salzman, Bastian        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |    1188 (-22)    |        Rodriguez, Dora         |                                         |                                     |
 |   cuarta    |     1187 (=)     |         Baiz, Ernesto          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |

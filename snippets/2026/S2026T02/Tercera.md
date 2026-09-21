@@ -6,7 +6,7 @@
 |     4      |       250 (+125)       |         2         |   Vigouroux, Jorge   | San Justo, Santa Fe |            Tiro Federal            | 125 (T02) + 125 (T01) |
 |     5      |       130 (+65)        |         2         |   Perez, Valentino   | San Justo, Santa Fe |            Tiro Federal            |  65 (T02) + 65 (T01)  |
 |            |       130 (+65)        |         2         | Samaniego, Francisco | San Justo, Santa Fe |            Tiro Federal            |  65 (T02) + 65 (T01)  |
-|     7      |       125 (+125)       |         1         |  Retamal, Santiago   |                     |                                    |       125 (T02)       |
+|     7      |       125 (+125)       |         1         |  Retamal, Santiago   | Parana, Entre Rios  |       Tiro Federal (Paraná)        |       125 (T02)       |
 |            |        125 (=)         |         1         |   Savino, Leandro    |      Santa Fe       |              AteMeLi               |       125 (T01)       |
 |     9      |        80 (+40)        |         2         |    Bracco, Victor    |                     |                                    |  40 (T02) + 40 (T01)  |
 |            |        80 (+40)        |         2         |  Taffarel, Claudio   | Parana, Entre Rios  | Independiente Bochas Club (Paraná) |  40 (T02) + 40 (T01)  |

@@ -66,7 +66,7 @@
 |   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |                                     |
 |   cuarta    |     1391 (=)     |          Paya, Lazaro          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |    1375 (+46)    |         Lopez, Javier          |               Santo Tome                |       Defensores de Belgrano        |
-|   cuarta    |    1371 (-8)     |       Retamal, Santiago        |                                         |                                     |
+|   cuarta    |    1371 (-8)     |       Retamal, Santiago        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |     1367 (=)     |       Cevallos, Luciano        |                                         |                                     |
 |   cuarta    |     1360 (=)     |        Ranzani, Esteban        |           San Justo, Santa Fe           |            Tiro Federal             |
 |   cuarta    |     1339 (=)     |         Liria, Conrado         |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
@@ -85,7 +85,7 @@
 |   cuarta    |     1244 (=)     |          Gatti, Pedro          |                 Parana                  |               Aspatem               |
 |   cuarta    |     1231 (=)     |         Portillo, Ana          |                 Parana                  |               Aspatem               |
 |   cuarta    |    1216 (-64)    |         Lell, Claudia          |                 Parana                  |            Tiro Federal             |
-|   cuarta    |    1207 (-44)    | Pelleritti Garcia, Juan Andres |                                         |                                     |
+|   cuarta    |    1207 (-44)    | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |     1196 (=)     |         Lacuadra, Lena         |                                         |                                     |
 |   cuarta    |    1196 (+14)    |         Torres, Julian         |               Santo Tome                |       Defensores de Belgrano        |
 |   cuarta    |     1192 (=)     |         Salva, Emanuel         |                                         |                                     |

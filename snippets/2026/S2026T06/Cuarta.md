@@ -1,7 +1,7 @@
 |  Posición  |  Puntos de Campeonato  |  Torneos Jugados  |            Jugador             |        Ciudad        |             Afiliación              |                    Puntos sumados                    |
 |:----------:|:----------------------:|:-----------------:|:------------------------------:|:--------------------:|:-----------------------------------:|:----------------------------------------------------:|
 |     1      |       175 (+75)        |         3         |        Boskovic, David         |  San Jeronimo Norte  |            Libertad SJN             |            75 (T06) + 75 (T05) + 25 (T03)            |
-|     2      |        150 (=)         |         2         |        Barreto, Julian         |                      |                                     |                 100 (T04) + 50 (T03)                 |
+|     2      |        150 (=)         |         2         |        Barreto, Julian         |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |                 100 (T04) + 50 (T03)                 |
 |            |        150 (=)         |         2         |         Sussman, Juan          | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |                 100 (T05) + 50 (T02)                 |
 |     4      |        150 (=)         |         3         |         Liria, Conrado         | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |            75 (T03) + 50 (T04) + 25 (T01)            |
 |            |       150 (+50)        |         3         |         Perren, Miguel         |  San Jeronimo Norte  |            Libertad SJN             |            50 (T06) + 50 (T05) + 50 (T01)            |
@@ -39,10 +39,10 @@
 |     37     |         15 (=)         |         1         |         Alsina, Mateo          |                      |                                     |                       15 (T03)                       |
 |            |         15 (=)         |         1         |        Beron, Mauricio         |                      |                                     |                       15 (T04)                       |
 |            |         15 (=)         |         1         |       Calabrese, Gustavo       |      Santo Tome      |       Defensores de Belgrano        |                       15 (T02)                       |
-|            |         15 (=)         |         1         |         Galindo, Abel          |                      |                                     |                       15 (T03)                       |
+|            |         15 (=)         |         1         |         Galindo, Abel          |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |                       15 (T03)                       |
 |            |        15 (+15)        |         1         |     Kotlireusky, Benjamin      |                      |                                     |                       15 (T06)                       |
 |            |         15 (=)         |         1         |         Magnien, Lucas         |                      |                                     |                       15 (T01)                       |
-|            |         15 (=)         |         1         | Pelleritti Garcia, Juan Andres |                      |                                     |                       15 (T02)                       |
+|            |         15 (=)         |         1         | Pelleritti Garcia, Juan Andres | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |                       15 (T02)                       |
 |            |        15 (+15)        |         1         |         Ponce, Marcelo         |                      |                                     |                       15 (T06)                       |
 |            |         15 (=)         |         1         |        Rodriguez, Dora         |                      |                                     |                       15 (T04)                       |
 |     46     |         12 (=)         |         1         |        Garcia, Natalia         |                      |                                     |                       12 (T01)                       |

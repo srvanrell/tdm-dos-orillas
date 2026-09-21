@@ -21,7 +21,7 @@
 |   segunda   |     1977 (=)     |       Olivares, Isabella       |                                         |                                     |
 |   segunda   |     1933 (=)     |          Goy, Gerardo          |               Reconquista               |                ATMAR                |
 |   segunda   |   1908 (-111)    |       Palamedi, Cristian       |                Santa Fe                 |               AteMeLi               |
-|   segunda   |   1890 (+316)    |        Barreto, Julian         |                                         |                                     |
+|   segunda   |   1890 (+316)    |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   segunda   |     1877 (=)     |         Albano, Javier         |                Santa Fe                 |           Provincial Club           |
 |   segunda   |     1868 (=)     |        Velazquez, Irupe        |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     1867 (=)     |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |           Provincial Club           |
@@ -63,7 +63,7 @@
 |   tercera   |     1460 (=)     |      Faggionatto, Walter       |                                         |                                     |
 |   tercera   |    1438 (+52)    |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
 |   tercera   |     1428 (=)     |         Gomez, Gabriel         |                 Parana                  |            Tiro Federal             |
-|   tercera   |    1428 (-2)     |       Retamal, Santiago        |                                         |                                     |
+|   tercera   |    1428 (-2)     |       Retamal, Santiago        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1422 (=)     |          Rosa, Pablo           |                                         |                                     |
 |   tercera   |    1417 (-10)    |          Teles, Levi           |                                         |                                     |
 |   tercera   |     1416 (=)     |        Canhoto, Carlos         |                Santa Fe                 |               AteMeLi               |
@@ -92,11 +92,11 @@
 |   cuarta    |     1288 (=)     |         Elmer, Eliana          |                                         |                                     |
 |   cuarta    |   1288 (+133)    |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1274 (=)     |         Magnien, Lucas         |                                         |                                     |
-|   cuarta    |     1225 (=)     |         Galindo, Abel          |                                         |                                     |
+|   cuarta    |     1225 (=)     |         Galindo, Abel          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |    1221 (-54)    |        Mehring, Agustin        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1218 (=)     |       Calabrese, Alfredo       |                                         |                                     |
 |   cuarta    |     1208 (=)     |        Pereyra, Andres         |          Santo Tome, Santa Fe           | Independiente Bochas Club (Paraná)  |
-|   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |                                         |                                     |
+|   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |    1197 (+62)    |         Diez, Gabriel          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |    1190 (-97)    |          Hepp, Gernan          |                                         |                                     |
 |   cuarta    |     1189 (=)     |        Salzman, Bastian        |           San Jeronimo Norte            |            Libertad SJN             |

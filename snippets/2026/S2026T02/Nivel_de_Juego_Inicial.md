@@ -349,7 +349,7 @@
 |       1405       |      Stivanello, Santiago      |                                         |                                     |
 |       1402       |        Perez, Valentino        |           San Justo, Santa Fe           |            Tiro Federal             |
 |       1402       |       Troncoso, Mauricio       |                                         |                                     |
-|       1401       |        Barreto, Julian         |                                         |                                     |
+|       1401       |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |       1401       |        Lerman, Ricarlo         |                                         |                                     |
 |       1399       |        Aranda, Luciano         |                                         |                                     |
 |       1398       |         Grippo, Daniel         |                                         |                                     |
@@ -357,7 +357,7 @@
 |       1391       |         Gomez, Gabriel         |                 Parana                  |            Tiro Federal             |
 |       1383       |         Pinery, Sergio         |                                         |                                     |
 |       1382       |        Luzardo, Nicolas        |                                         |                                     |
-|       1379       |       Retamal, Santiago        |                                         |                                     |
+|       1379       |       Retamal, Santiago        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |       1379       |      Vigouroux, Patricio       |                San Justo                |            Tiro Federal             |
 |       1377       |          Paya, Lazaro          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1375       |        Visintini, Juan         |                                         |                                     |
@@ -427,7 +427,7 @@
 |       1256       |         Baiz, Ernesto          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |       1254       |        Carniel, Carlos         |                                         |                                     |
 |       1252       |       Brunelli, Osvaldo        |                Santa Fe                 |               AteMeLi               |
-|       1251       | Pelleritti Garcia, Juan Andres |                                         |                                     |
+|       1251       | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |       1248       |         Torres, Julian         |               Santo Tome                |       Defensores de Belgrano        |
 |       1244       |          Gatti, Pedro          |                 Parana                  |               Aspatem               |
 |       1240       |         Corradi, Zulma         |                                         |                                     |
@@ -436,7 +436,7 @@
 |       1231       |         Portillo, Ana          |                 Parana                  |               Aspatem               |
 |       1228       |         Rubio, Julian2         |                Santa Fe                 |               AteMeLi               |
 |       1224       |        Cagnoto, Matias         |                                         |                                     |
-|       1221       |         Galindo, Abel          |                                         |                                     |
+|       1221       |         Galindo, Abel          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1220       |        Paulin, Santiago        |                                         |                                     |
 |       1219       |        Viviani, Monica         |               Santo Tome                |       Defensores de Belgrano        |
 |       1216       |        Boskovic, David         |           San Jeronimo Norte            |            Libertad SJN             |
@@ -468,7 +468,7 @@
 |       1138       |         Alsina, Mateo          |                                         |                                     |
 |       1124       |         Llobet, Felipe         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1124       |       Mangioni, Emiliano       |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
-|       1122       |        Fernandez, Belen        |                                         |                                     |
+|       1122       |        Fernandez, Belen        |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1121       |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |       1112       |        Baldrini, Maximo        |                                         |                                     |
 |       1111       |        Garcia, Natalia         |                                         |                                     |

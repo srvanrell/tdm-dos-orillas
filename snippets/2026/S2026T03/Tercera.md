@@ -7,7 +7,7 @@
 |     5      |       290 (+40)        |         3         |   Vigouroux, Jorge   | San Justo, Santa Fe  |            Tiro Federal             | 125 (T02) + 125 (T01) + 40 (T03) |
 |     6      |       255 (+125)       |         3         |   Perez, Valentino   | San Justo, Santa Fe  |            Tiro Federal             | 125 (T03) + 65 (T02) + 65 (T01)  |
 |     7      |       195 (+65)        |         3         | Samaniego, Francisco | San Justo, Santa Fe  |            Tiro Federal             |  65 (T03) + 65 (T02) + 65 (T01)  |
-|     8      |       190 (+65)        |         2         |  Retamal, Santiago   |                      |                                     |       125 (T02) + 65 (T03)       |
+|     8      |       190 (+65)        |         2         |  Retamal, Santiago   |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |       125 (T02) + 65 (T03)       |
 |     9      |       130 (+65)        |         2         | Trevignani, Alfonso  |       Santa Fe       |               AteMeLi               |       65 (T03) + 65 (T01)        |
 |     10     |       120 (+40)        |         3         |    Bracco, Victor    |                      |                                     |  40 (T03) + 40 (T02) + 40 (T01)  |
 |     11     |       105 (+40)        |         2         |  Allegrini, Alonso   |                      |                                     |       65 (T02) + 40 (T03)        |
@@ -22,7 +22,7 @@
 |     20     |         65 (=)         |         1         |    Gomez, Gabriel    |        Parana        |            Tiro Federal             |             65 (T02)             |
 |     21     |        60 (+30)        |         2         |   Zelayeta, Carlos   |                      |                                     |       30 (T03) + 30 (T01)        |
 |     22     |         40 (=)         |         1         |  Albrecht, Ignacio   |  San Jeronimo Norte  |            Libertad SJN             |             40 (T01)             |
-|            |        40 (+40)        |         1         |   Barreto, Julian    |                      |                                     |             40 (T03)             |
+|            |        40 (+40)        |         1         |   Barreto, Julian    |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |             40 (T03)             |
 |            |         40 (=)         |         1         |    Benicio, Oscar    |        Parana        |               Aspatem               |             40 (T01)             |
 |            |         40 (=)         |         1         |   Bregant, Osvaldo   |                      |                                     |             40 (T02)             |
 |            |         40 (=)         |         1         |     Hepp, Gernan     |                      |                                     |             40 (T02)             |

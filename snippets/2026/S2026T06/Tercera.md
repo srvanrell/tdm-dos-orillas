@@ -7,9 +7,9 @@
 |     5      |       355 (+250)       |         3         |   Allegrini, Alonso   |                       |                                     |                 250 (T06) + 65 (T02) + 40 (T03)                 |
 |     6      |        320 (=)         |         3         |  Trevignani, Alfonso  |       Santa Fe        |               AteMeLi               |                 190 (T04) + 65 (T03) + 65 (T01)                 |
 |     7      |        320 (=)         |         4         | Samaniego, Francisco  |  San Justo, Santa Fe  |            Tiro Federal             |           125 (T04) + 65 (T03) + 65 (T02) + 65 (T01)            |
-|     8      |       290 (+125)       |         3         |    Barreto, Julian    |                       |                                     |                125 (T06) + 125 (T04) + 40 (T03)                 |
+|     8      |       290 (+125)       |         3         |    Barreto, Julian    |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                125 (T06) + 125 (T04) + 40 (T03)                 |
 |            |        290 (=)         |         3         |   Vigouroux, Jorge    |  San Justo, Santa Fe  |            Tiro Federal             |                125 (T02) + 125 (T01) + 40 (T03)                 |
-|     10     |       285 (+30)        |         4         |   Retamal, Santiago   |                       |                                     |           125 (T02) + 65 (T04) + 65 (T03) + 30 (T06)            |
+|     10     |       285 (+30)        |         4         |   Retamal, Santiago   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |           125 (T02) + 65 (T04) + 65 (T03) + 30 (T06)            |
 |     11     |       255 (+190)       |         2         |   Corbalan, Martin    |  Parana, Entre Rios   |      Independiente Bochas Club      |                      190 (T06) + 65 (T04)                       |
 |     12     |        255 (=)         |         3         |   Perez, Valentino    |  San Justo, Santa Fe  |            Tiro Federal             |                 125 (T03) + 65 (T02) + 65 (T01)                 |
 |     13     |        250 (=)         |         1         |     Cortez, Pablo     |                       |                                     |                            250 (T05)                            |
