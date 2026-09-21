@@ -1,8 +1,8 @@
 name: mkdocs-ci-site-publisher-cron
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 5 * * *'  # Runs at night (05:00 UTC) every Day
+  # schedule:
+  #  - cron: '0 5 * * *'  # Runs at night (05:00 UTC) every Day
 permissions:
   contents: write
 jobs:
