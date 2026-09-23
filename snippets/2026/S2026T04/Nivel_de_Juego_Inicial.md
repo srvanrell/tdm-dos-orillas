@@ -299,6 +299,7 @@
 |       1493       |          Tourn, Bruno          |                                         |                                     |
 |       1491       |        Grippo, Agustin         |                                         |                                     |
 |       1490       |         Bracco, Victor         |                                         |                                     |
+|       1488       |       Salinas, Benjamin        |                                         |                                     |
 |       1484       |        Colavini, Daniel        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |       1484       |      Trevignani, Alfonso       |                Santa Fe                 |               AteMeLi               |
 |       1480       |         Antunez, Pablo         |                                         |                                     |
@@ -424,10 +425,13 @@
 |       1260       |         Sussman, Juan          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |       1259       |       Lanzotti, Lautaro        |                                         |                                     |
 |       1259       |         Melero, Martin         |                Santa Fe                 |               AteMeLi               |
+|       1258       |        Bonino, Lisandro        |                                         |                                     |
 |       1256       |         Baiz, Ernesto          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
+|       1256       |        Fiorano, Ignacio        |                                         |                                     |
 |       1254       |        Carniel, Carlos         |                                         |                                     |
 |       1252       |       Brunelli, Osvaldo        |                Santa Fe                 |               AteMeLi               |
 |       1251       | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
+|       1248       |        Torres, Benjamin        |                                         |                                     |
 |       1248       |         Torres, Julian         |               Santo Tome                |       Defensores de Belgrano        |
 |       1244       |          Gatti, Pedro          |                 Parana                  |               Aspatem               |
 |       1240       |         Corradi, Zulma         |                                         |                                     |
@@ -456,7 +460,10 @@
 |       1184       |          Monzon, Mari          |                                         |                                     |
 |       1180       |         Yenerich, Juan         |                                         |                                     |
 |       1177       |       Bordeira, Gabriel        |                                         |                                     |
+|       1177       |      Eberhardt, Ezequiel       |                                         |                                     |
+|       1177       |       Taborda, Geronimo        |                                         |                                     |
 |       1174       |          Vidal, Belen          |                                         |                                     |
+|       1171       |         Franco, Diego          |                                         |                                     |
 |       1170       |         Ponce, Marcelo         |                                         |                                     |
 |       1167       |     Kotlireusky, Benjamin      |                                         |                                     |
 |       1159       |         Bregant, Juan          |                                         |                                     |
@@ -464,6 +471,7 @@
 |       1155       |         Rossi, Augusto         |                                         |                                     |
 |       1152       |        Del Turco, Tadeo        |                                         |                                     |
 |       1151       |         Justet, Walter         |                                         |                                     |
+|       1144       |       Eberhardt, Martin        |                                         |                                     |
 |       1141       |        Toffolini, Hugo         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1138       |         Alsina, Mateo          |                                         |                                     |
 |       1124       |         Llobet, Felipe         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
@@ -472,9 +480,15 @@
 |       1121       |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |       1112       |        Baldrini, Maximo        |                                         |                                     |
 |       1111       |        Garcia, Natalia         |                                         |                                     |
+|       1095       |          Aranda, Luka          |                                         |                                     |
 |       1093       |          Lobino, Hugo          |                                         |                                     |
+|       1092       |        Bonino, Gabriel         |                                         |                                     |
+|       1092       |         Peltier, Yamir         |                                         |                                     |
 |       1090       |         Candia, Matias         |           San Justo, Santa Fe           |            Tiro Federal             |
 |       1070       |       Calabrese, Gustavo       |               Santo Tome                |       Defensores de Belgrano        |
 |       1067       |    Gimenez, Claudio Daniel     |                                         |                                     |
+|       1062       |         Correa, Nereo          |                                         |                                     |
+|       1062       |         Morere, Jorge          |                                         |                                     |
+|       1054       |        Mantica, Querena        |                                         |                                     |
 |       1045       |        Pirotto, Lazaro         |                                         |                                     |
 |       1035       |        Acuna, Patricio         |                                         |                                     |

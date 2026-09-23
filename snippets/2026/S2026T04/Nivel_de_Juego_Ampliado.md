@@ -34,6 +34,7 @@
 |   tercera   |     1480 (=)     |         Antunez, Pablo         |                                         |                                     |
 |   segunda   |     2008 (=)     |         Apaza, Catriel         |          Libertador San Martin          |                 CRL                 |
 |   cuarta    |     1399 (=)     |        Aranda, Luciano         |                                         |                                     |
+|   cuarta    |     1095 (=)     |          Aranda, Luka          |                                         |                                     |
 |   segunda   |     1700 (=)     |        Armingol, Manuel        |                                         |                                     |
 |   segunda   |     2013 (=)     |       Arrieta, Guillermo       |          Libertador San Martin          |                 CRL                 |
 |   tercera   |     1680 (=)     |        Arrieta, Matias         |          Libertador San Martin          |                 CRL                 |
@@ -81,6 +82,8 @@
 |   primera   |     2292 (=)     |         Blanco, German         |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     2006 (=)     |         Boetti, Genaro         |           San Justo, Santa Fe           |            Tiro Federal             |
 |   segunda   |     1924 (=)     |        Bonelli, Marcos         |                 Parana                  |               Aspatem               |
+|   cuarta    |     1092 (=)     |        Bonino, Gabriel         |                                         |                                     |
+|   cuarta    |     1258 (=)     |        Bonino, Lisandro        |                                         |                                     |
 |   segunda   |     1741 (=)     |      Bonino, Maximiliano       |           San Jeronimo Norte            |                                     |
 |   cuarta    |     1177 (=)     |       Bordeira, Gabriel        |                                         |                                     |
 |   tercera   |     1439 (=)     |          Bordi, Mario          |                                         |                                     |
@@ -126,6 +129,7 @@
 |   tercera   |    1680 (-3)     |        Corbalan, Martin        |           Parana, Entre Rios            |      Independiente Bochas Club      |
 |   primera   |     2209 (=)     |         Cordoba, Jose          |                                         |                                     |
 |   cuarta    |     1240 (=)     |         Corradi, Zulma         |                                         |                                     |
+|   cuarta    |     1062 (=)     |         Correa, Nereo          |                                         |                                     |
 |   segunda   |     1720 (=)     |         Cortez, Pablo          |                                         |                                     |
 |   segunda   |     1768 (=)     |        Cossi, Francisco        |                 Parana                  |               Aspatem               |
 |   segunda   |     1731 (=)     |        Costanza, Roque         |                Santa Fe                 |               AteMeLi               |
@@ -148,6 +152,8 @@
 |   cuarta    |     1308 (=)     |          Duarte, Juan          |                                         |                                     |
 |   primera   |     2492 (=)     |       Dupertuis, Gaston        |                 Parana                  |               Aspatem               |
 |   tercera   |     1673 (=)     |        Duraschi, Lemuel        |                                         |                                     |
+|   cuarta    |     1177 (=)     |      Eberhardt, Ezequiel       |                                         |                                     |
+|   cuarta    |     1144 (=)     |       Eberhardt, Martin        |                                         |                                     |
 |   cuarta    |    1288 (+14)    |         Elmer, Eliana          |                                         |                                     |
 |   tercera   |     1586 (=)     |         Erbetta, Pablo         |                 Parana                  |            Tiro Federal             |
 |   tercera   |     1462 (=)     |       Escalante, Samuel        |                                         |                                     |
@@ -170,11 +176,13 @@
 |   tercera   |     1584 (=)     |       Ferreyra, Enrique        |                Santa Fe                 |                                     |
 |   primera   |     2210 (=)     |       Ferreyra, Patricio       |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     1918 (=)     |         Figueroa, Axel         |                 Parana                  |               Aspatem               |
+|   cuarta    |     1256 (=)     |        Fiorano, Ignacio        |                                         |                                     |
 |   tercera   |     1656 (=)     |       Flores, Francisco        |                San Justo                |            Tiro Federal             |
 |   segunda   |     1727 (=)     |        Flores, Ignacio         |                                         |                                     |
 |   segunda   |     1754 (=)     |         Flores, Tomas          |          Libertador San Martin          |                                     |
 |   cuarta    |     1319 (=)     |        Florito, Miguel         |                Santa Fe                 |               AteMeLi               |
 |   primera   |     2181 (=)     |        Fontana, Fausto         |                 Parana                  |               Aspatem               |
+|   cuarta    |     1171 (=)     |         Franco, Diego          |                                         |                                     |
 |   segunda   |     2001 (=)     |        Franco, Emiliano        |                 Parana                  |               Aspatem               |
 |   cuarta    |     1350 (=)     |        Frank, Benjamin         |                                         |                                     |
 |   segunda   |     1779 (=)     |         Fucks, Alyssa          |          Libertador San Martin          |                 CRL                 |
@@ -265,6 +273,7 @@
 |   segunda   |     1715 (=)     |       Makhoul, Alejandro       |                                         |                                     |
 |   cuarta    |     1165 (=)     |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |    1058 (-26)    |       Mangioni, Emiliano       |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
+|   cuarta    |     1054 (=)     |        Mantica, Querena        |                                         |                                     |
 |   cuarta    |     1302 (=)     |     Marchitelli, Ezequiel      |                                         |                                     |
 |   cuarta    |     1335 (=)     |        Mardon, Emiliano        |                                         |                                     |
 |   segunda   |     1726 (=)     |        Martinez, Dylan         |                                         |                                     |
@@ -298,6 +307,7 @@
 |   primera   |     2142 (=)     |         Monzon, Matias         |               Reconquista               |                ATMAR                |
 |   tercera   |     1572 (=)     |        Morello, Manuel         |                                         |                                     |
 |   tercera   |     1530 (=)     |          Moreno, Aixa          |                 Parana                  |               Aspatem               |
+|   cuarta    |     1062 (=)     |         Morere, Jorge          |                                         |                                     |
 |   segunda   |     1706 (=)     |         Muller, Lucas          |                                         |                                     |
 |   tercera   |     1680 (=)     |         Muller, Tomas          |                                         |                                     |
 |   primera   |     2448 (=)     |         Mustillo, Juan         |                                         |                                     |
@@ -327,6 +337,7 @@
 |   cuarta    |     1330 (=)     |          Paz, Joaquin          |                                         |                                     |
 |   segunda   |     1879 (=)     |        Peduzzi, Mariano        |                 Parana                  |            Tiro Federal             |
 |   cuarta    |     1207 (=)     | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
+|   cuarta    |     1092 (=)     |         Peltier, Yamir         |                                         |                                     |
 |   tercera   |     1426 (=)     |         Pen, Mauricio          |                                         |                                     |
 |   cuarta    |     1220 (=)     |        Pereyra, Andres         |          Santo Tome, Santa Fe           | Independiente Bochas Club (Paraná)  |
 |   tercera   |     1608 (=)     |        Perez, Valentino        |           San Justo, Santa Fe           |            Tiro Federal             |
@@ -392,6 +403,7 @@
 |   segunda   |     1942 (=)     |         Sacone, Alonso         |               San Lorenzo               |                                     |
 |   cuarta    |     1313 (=)     |        Salas, Geronimo         |                                         |                                     |
 |   primera   |     2184 (=)     |         Salcedo, David         |          Libertador San Martin          |                 CRL                 |
+|   tercera   |     1488 (=)     |       Salinas, Benjamin        |                                         |                                     |
 |   cuarta    |    1170 (-22)    |         Salva, Emanuel         |                                         |                                     |
 |   cuarta    |     1314 (=)     |         Salva, Manuel          |                                         |                                     |
 |   cuarta    |    1189 (-12)    |        Salzman, Bastian        |           San Jeronimo Norte            |            Libertad SJN             |
@@ -420,6 +432,7 @@
 |   tercera   |     1612 (=)     |         Suarez, Milton         |                Santa Fe                 |               AteMeLi               |
 |   primera   |     2182 (=)     |         Sueldo, Pablo          |                                         |                                     |
 |   cuarta    |     1270 (=)     |         Sussman, Juan          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
+|   cuarta    |     1177 (=)     |       Taborda, Geronimo        |                                         |                                     |
 |   cuarta    |     1321 (=)     |       Taffarel, Claudio        |           Parana, Entre Rios            | Independiente Bochas Club (Paraná)  |
 |   tercera   |     1427 (=)     |          Teles, Levi           |                                         |                                     |
 |   primera   |     2106 (=)     |         Tenca, Gustavo         |                Santa Fe                 |               AteMeLi               |
@@ -427,6 +440,7 @@
 |   cuarta    |    1097 (-50)    |        Toffolini, Hugo         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1370 (=)     |        Toranza, Ricardo        |                                         |                                     |
 |   primera   |     2448 (=)     |        Tornau, Nicolas         |                                         |                                     |
+|   cuarta    |     1248 (=)     |        Torres, Benjamin        |                                         |                                     |
 |   primera   |     2378 (=)     |        Torres, Gerardo         |               San Lorenzo               |                                     |
 |   cuarta    |     1138 (=)     |         Torres, Julian         |               Santo Tome                |       Defensores de Belgrano        |
 |   tercera   |     1435 (=)     |        Torres, Lautaro         |                                         |                                     |
