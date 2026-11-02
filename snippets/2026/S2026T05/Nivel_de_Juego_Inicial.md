@@ -272,6 +272,7 @@
 |       1587       |       Rodriguez, Lautaro       |                                         |                                     |
 |       1586       |         Erbetta, Pablo         |                 Parana                  |            Tiro Federal             |
 |       1584       |       Ferreyra, Enrique        |                Santa Fe                 |                                     |
+|       1578       |      Pedrazzoli, Santino       |                                         |                                     |
 |       1576       |          Verra, Dario          |                                         |                                     |
 |       1572       |        Morello, Manuel         |                                         |                                     |
 |       1558       |         Maita, Martin          |                                         |                                     |
@@ -465,6 +466,7 @@
 |       1174       |          Vidal, Belen          |                                         |                                     |
 |       1171       |         Franco, Diego          |                                         |                                     |
 |       1170       |         Ponce, Marcelo         |                                         |                                     |
+|       1167       |        Dabolio, German         |                                         |                                     |
 |       1167       |     Kotlireusky, Benjamin      |                                         |                                     |
 |       1159       |         Bregant, Juan          |                                         |                                     |
 |       1159       |         Palamedi, Alma         |           Santa Fe, Santa Fe            |           Provincial Club           |
@@ -472,6 +474,7 @@
 |       1152       |        Del Turco, Tadeo        |                                         |                                     |
 |       1151       |         Justet, Walter         |                                         |                                     |
 |       1144       |       Eberhardt, Martin        |                                         |                                     |
+|       1142       |         Leyton, Elias          |                                         |                                     |
 |       1141       |        Toffolini, Hugo         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1138       |         Alsina, Mateo          |                                         |                                     |
 |       1124       |         Llobet, Felipe         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
@@ -481,10 +484,12 @@
 |       1112       |        Baldrini, Maximo        |                                         |                                     |
 |       1111       |        Garcia, Natalia         |                                         |                                     |
 |       1095       |          Aranda, Luka          |                                         |                                     |
+|       1094       |        Enria, Lisandro         |                                         |                                     |
 |       1093       |          Lobino, Hugo          |                                         |                                     |
 |       1092       |        Bonino, Gabriel         |                                         |                                     |
 |       1092       |         Peltier, Yamir         |                                         |                                     |
 |       1090       |         Candia, Matias         |           San Justo, Santa Fe           |            Tiro Federal             |
+|       1086       |        Luduena, Gabriel        |                                         |                                     |
 |       1070       |       Calabrese, Gustavo       |               Santo Tome                |       Defensores de Belgrano        |
 |       1067       |    Gimenez, Claudio Daniel     |                                         |                                     |
 |       1062       |         Correa, Nereo          |                                         |                                     |
@@ -492,3 +497,5 @@
 |       1054       |        Mantica, Querena        |                                         |                                     |
 |       1045       |        Pirotto, Lazaro         |                                         |                                     |
 |       1035       |        Acuna, Patricio         |                                         |                                     |
+|       1001       |        Montenegro, Ciro        |                                         |                                     |
+|       971        |         Ortiz, Facundo         |                                         |                                     |
