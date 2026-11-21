@@ -3,6 +3,7 @@ site_url: https://srvanrell.github.io/tdm-dos-orillas  # https://www.tdmdosorill
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

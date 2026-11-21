@@ -1,0 +1,65 @@
+|        Jugador        |  Categoría  |  Mejor Ronda  |  Puntos de Campeonato  |
+|:---------------------:|:-----------:|:-------------:|:----------------------:|
+| Bernhardt, Sebastian  |   cuarta    |    primero    |          100           |
+|    Boskovic, David    |   cuarta    |    segundo    |           75           |
+|    Perren, Miguel     |   cuarta    |   semifinal   |           50           |
+|   Zelayeta, Carlos    |   cuarta    |   semifinal   |           50           |
+|     Diez, Gabriel     |   cuarta    |    cuartos    |           25           |
+|    Fucks, Marcelo     |   cuarta    |    cuartos    |           25           |
+|    Lacuadra, Lena     |   cuarta    |    cuartos    |           25           |
+|  Mandracchia, Alexis  |   cuarta    |    cuartos    |           25           |
+|     Hepp, Gernan      |   cuarta    |    octavos    |           15           |
+| Kotlireusky, Benjamin |   cuarta    |    octavos    |           15           |
+|     Lell, Claudia     |   cuarta    |    octavos    |           15           |
+|    Ponce, Marcelo     |   cuarta    |    octavos    |           15           |
+|   Mehring, Agustin    |   cuarta    |     zona      |           10           |
+|    Salas, Geronimo    |   cuarta    |     zona      |           10           |
+|                       |             |               |                        |
+|     Palamedi, Uma     |   primera   |    primero    |          1000          |
+|    Reichel, Hernan    |   primera   |    segundo    |          750           |
+|  Allegrini, Tiziano   |   primera   |   semifinal   |          500           |
+|   Blanco, Francisco   |   primera   |   semifinal   |          500           |
+|     Cordoba, Jose     |   primera   |    cuartos    |          250           |
+|   Heredia, Santiago   |   primera   |    cuartos    |          250           |
+|  Palamedi, Cristian   |   primera   |    cuartos    |          250           |
+|     Pissano, Raul     |   primera   |    cuartos    |          250           |
+|    Rossini, Edison    |   primera   |    octavos    |          150           |
+|      Teles, Levi      |   primera   |     zona      |          100           |
+|                       |             |               |                        |
+|    Barreto, Julian    |   segunda   |    primero    |          500           |
+|    Rossini, Edison    |   segunda   |    segundo    |          375           |
+|  Palamedi, Cristian   |   segunda   |   semifinal   |          250           |
+|   Retamal, Santiago   |   segunda   |   semifinal   |          250           |
+|   Allegrini, Alonso   |   segunda   |    cuartos    |          125           |
+|    Apaza, Catriel     |   segunda   |    cuartos    |          125           |
+|   Corbalan, Martin    |   segunda   |    cuartos    |          125           |
+|     Maita, Martin     |   segunda   |    cuartos    |          125           |
+| Bernhardt, Sebastian  |   segunda   |    octavos    |           75           |
+|   Bregant, Osvaldo    |   segunda   |    octavos    |           75           |
+|    Flores, Ignacio    |   segunda   |    octavos    |           75           |
+|   Guerrero, Gerardo   |   segunda   |    octavos    |           75           |
+|    Liria, Conrado     |   segunda   |    octavos    |           75           |
+|     Pissano, Raul     |   segunda   |    octavos    |           75           |
+|      Teles, Levi      |   segunda   |    octavos    |           75           |
+|                       |             |               |                        |
+|   Allegrini, Alonso   |   tercera   |    primero    |          250           |
+|   Corbalan, Martin    |   tercera   |    segundo    |          190           |
+|    Barreto, Julian    |   tercera   |   semifinal   |          125           |
+| Bernhardt, Alejandro  |   tercera   |   semifinal   |          125           |
+|   Albrecht, Ignacio   |   tercera   |    cuartos    |           65           |
+| Bernhardt, Sebastian  |   tercera   |    cuartos    |           65           |
+|    Flores, Ignacio    |   tercera   |    cuartos    |           65           |
+|    Liria, Conrado     |   tercera   |    cuartos    |           65           |
+|   Bregant, Osvaldo    |   tercera   |    octavos    |           40           |
+|     Diez, Gabriel     |   tercera   |    octavos    |           40           |
+|    Fucks, Marcelo     |   tercera   |    octavos    |           40           |
+|    Lacuadra, Lena     |   tercera   |    octavos    |           40           |
+|  Mandracchia, Alexis  |   tercera   |    octavos    |           40           |
+|    Perren, Miguel     |   tercera   |    octavos    |           40           |
+|    Salas, Geronimo    |   tercera   |    octavos    |           40           |
+|   Zelayeta, Carlos    |   tercera   |    octavos    |           40           |
+|    Apaza, Catriel     |   tercera   |    16avos     |           30           |
+|     Hepp, Gernan      |   tercera   |    16avos     |           30           |
+| Kotlireusky, Benjamin |   tercera   |    16avos     |           30           |
+|    Ponce, Marcelo     |   tercera   |    16avos     |           30           |
+|   Retamal, Santiago   |   tercera   |    16avos     |           30           |

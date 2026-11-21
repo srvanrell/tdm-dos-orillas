@@ -1,6 +1,20 @@
 seasons:
 -   name: 2026
     tournaments:
+    -   id: S2026T08
+        name: Torneo 08
+    -   id: S2026T07
+        name: Torneo 07
+    -   id: S2026T06
+        name: Torneo 06
+    -   id: S2026T05
+        name: Torneo 05
+    -   id: S2026T04
+        name: Torneo 04
+    -   id: S2026T03
+        name: Torneo 03
+    -   id: S2026T02
+        name: Torneo 02
     -   id: S2026T01
         name: Torneo 01
     categories:

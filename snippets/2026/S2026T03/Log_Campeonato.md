@@ -1,0 +1,84 @@
+|       Jugador        |  Categoría  |  Mejor Ronda  |  Puntos de Campeonato  |
+|:--------------------:|:-----------:|:-------------:|:----------------------:|
+|   Ranzani, Esteban   |   cuarta    |    primero    |          100           |
+|    Liria, Conrado    |   cuarta    |    segundo    |           75           |
+|   Barreto, Julian    |   cuarta    |   semifinal   |           50           |
+|   Zelayeta, Carlos   |   cuarta    |   semifinal   |           50           |
+|    Acuna, Daiana     |   cuarta    |    cuartos    |           25           |
+|   Boskovic, David    |   cuarta    |    cuartos    |           25           |
+|    Lopez, Javier     |   cuarta    |    cuartos    |           25           |
+| Mandracchia, Alexis  |   cuarta    |    cuartos    |           25           |
+|    Alsina, Mateo     |   cuarta    |    octavos    |           15           |
+|    Candia, Matias    |   cuarta    |    octavos    |           15           |
+|    Diez, Gabriel     |   cuarta    |    octavos    |           15           |
+|    Galindo, Abel     |   cuarta    |    octavos    |           15           |
+|    Justet, Walter    |   cuarta    |    octavos    |           15           |
+|    Palamedi, Alma    |   cuarta    |    octavos    |           15           |
+|   Pereyra, Andres    |   cuarta    |    octavos    |           15           |
+|   Toffolini, Hugo    |   cuarta    |    octavos    |           15           |
+|    Baiz, Ernesto     |   cuarta    |    16avos     |           12           |
+|    Llobet, Felipe    |   cuarta    |    16avos     |           12           |
+|  Mangioni, Emiliano  |   cuarta    |    16avos     |           12           |
+|    Rossi, Augusto    |   cuarta    |    16avos     |           12           |
+|    Torres, Julian    |   cuarta    |    16avos     |           12           |
+|                      |             |               |                        |
+|    Palamedi, Uma     |   primera   |    primero    |          1000          |
+|  Lofeudo, Juan Jose  |   primera   |    segundo    |          750           |
+|   Perot, Alejandro   |   primera   |   semifinal   |          500           |
+|   Reichel, Hernan    |   primera   |   semifinal   |          500           |
+|  Allegrini, Tiziano  |   primera   |    cuartos    |          250           |
+|    Avila, Marcos     |   primera   |    cuartos    |          250           |
+|  Barchiesi, Matias   |   primera   |    cuartos    |          250           |
+|    Rubio, Julian     |   primera   |    cuartos    |          250           |
+|    Boetti, Genaro    |   primera   |    octavos    |          150           |
+|   Corbalan, Martin   |   primera   |    octavos    |          150           |
+|    Diaz, Joaquin     |   primera   |    octavos    |          150           |
+|  Ferretti, Gustavo   |   primera   |    octavos    |          150           |
+|    Mendez, Carlos    |   primera   |    octavos    |          150           |
+|   Micocci, Matias    |   primera   |    octavos    |          150           |
+|  Olivares, Isabella  |   primera   |    octavos    |          150           |
+|                      |             |               |                        |
+|  Olivares, Isabella  |   segunda   |    primero    |          500           |
+|    Avila, Marcos     |   segunda   |    segundo    |          375           |
+|    Diaz, Joaquin     |   segunda   |   semifinal   |          250           |
+|  Ferretti, Gustavo   |   segunda   |   semifinal   |          250           |
+|    Albano, Javier    |   segunda   |    cuartos    |          125           |
+|   Oliveras, Nahuel   |   segunda   |    cuartos    |          125           |
+|     Pilotti, Paz     |   segunda   |    cuartos    |          125           |
+|    Rubio, Julian     |   segunda   |    cuartos    |          125           |
+|  Barchiesi, Matias   |   segunda   |    octavos    |           75           |
+|    Budino, Mijail    |   segunda   |    octavos    |           75           |
+|   Colavini, Daniel   |   segunda   |    octavos    |           75           |
+|  Oliveras, Leonardo  |   segunda   |    octavos    |           75           |
+| Ramos Muzio, Gonzalo |   segunda   |    octavos    |           75           |
+| Samaniego, Francisco |   segunda   |    octavos    |           75           |
+|  Trevignani, Lucas   |   segunda   |    octavos    |           75           |
+|   Vigouroux, Jorge   |   segunda   |    octavos    |           75           |
+|   Corbalan, Martin   |   segunda   |    16avos     |           60           |
+|   Perez, Valentino   |   segunda   |    16avos     |           60           |
+|                      |             |               |                        |
+|   Savino, Leandro    |   tercera   |    primero    |          250           |
+|  Trevignani, Lucas   |   tercera   |    segundo    |          190           |
+|   Oliveras, Nahuel   |   tercera   |   semifinal   |          125           |
+|   Perez, Valentino   |   tercera   |   semifinal   |          125           |
+|   Ranzani, Esteban   |   tercera   |    cuartos    |           65           |
+|  Retamal, Santiago   |   tercera   |    cuartos    |           65           |
+| Samaniego, Francisco |   tercera   |    cuartos    |           65           |
+| Trevignani, Alfonso  |   tercera   |    cuartos    |           65           |
+|  Allegrini, Alonso   |   tercera   |    octavos    |           40           |
+|   Barreto, Julian    |   tercera   |    octavos    |           40           |
+|    Bracco, Victor    |   tercera   |    octavos    |           40           |
+|   Colavini, Daniel   |   tercera   |    octavos    |           40           |
+|    Liria, Conrado    |   tercera   |    octavos    |           40           |
+|    Lopez, Javier     |   tercera   |    octavos    |           40           |
+|     Paya, Lazaro     |   tercera   |    octavos    |           40           |
+|   Vigouroux, Jorge   |   tercera   |    octavos    |           40           |
+|    Baiz, Ernesto     |   tercera   |    16avos     |           30           |
+|    Candia, Matias    |   tercera   |    16avos     |           30           |
+| Mandracchia, Alexis  |   tercera   |    16avos     |           30           |
+|   Padula, Nicolas    |   tercera   |    16avos     |           30           |
+|   Pereyra, Andres    |   tercera   |    16avos     |           30           |
+|    Perren, Miguel    |   tercera   |    16avos     |           30           |
+|   Toffolini, Hugo    |   tercera   |    16avos     |           30           |
+|   Zelayeta, Carlos   |   tercera   |    16avos     |           30           |
+|    Diez, Gabriel     |   tercera   |     zona      |           25           |

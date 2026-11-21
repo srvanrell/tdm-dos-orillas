@@ -81,9 +81,10 @@ A lo largo del año los jugadores acumularán **puntos para el campeonato** de a
 
 Los **jugadores** serán ordenados por su **nivel de juego** y divididos en **categorías** de la siguiente manera:
 
-* **Primera:** los jugadores con un puntaje mayor o igual a 1300 en el nivel de juego,
-* **Segunda:** los jugadores con un puntaje entre 700 y 1299 en el nivel de juego,
-* **Tercera:** los jugadores con un puntaje entre 0 y 699 en el nivel de juego.
+* **Primera:** los jugadores con un puntaje mayor o igual a 2050 en el nivel de juego,
+* **Segunda:** los jugadores con un puntaje entre 1700 y 2049 en el nivel de juego,
+* **Tercera:** los jugadores con un puntaje entre 1400 y 1699 en el nivel de juego.
+* **Cuarta:** los jugadores con un puntaje entre 0 y 1399 en el nivel de juego.
 
 El **ascenso y descenso** de los jugadores será automático y resultará del nivel de juego que obtengan luego de cada torneo.
 
