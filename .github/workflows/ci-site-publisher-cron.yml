@@ -7,8 +7,12 @@ permissions:
   contents: write
 jobs:
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/configure-pages@v6
       - uses: actions/checkout@v7
       - name: Configure Git Credentials
         run: |
@@ -23,7 +27,7 @@ jobs:
         with:
           enable-cache: true
       - name: Install the project
-        run: uv sync --all-extras --dev
+        run: uv sync --all-extras
       # - run: uv pip install git+https://github.com/srvanrell/ranking-table-tennis.git@branch-name
       # Combines preprocess, compute and publish to automatically resolve
       - id: rtt-automatic
@@ -39,4 +43,11 @@ jobs:
           committer_name: GitHub Actions
           committer_email: actions@github.com
       - if: ${{ steps.rtt-automatic.outputs.stop_workflow != 'true' }}
-        run: uv run mkdocs gh-deploy --force
+        run: zensical build --clean  
+      - if: ${{ steps.rtt-automatic.outputs.stop_workflow != 'true' }}
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+      - if: ${{ steps.rtt-automatic.outputs.stop_workflow != 'true' }}
+        uses: actions/deploy-pages@v5
+        id: deployment
