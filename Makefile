@@ -8,4 +8,4 @@ install:
 	uv sync
 
 serve:
-	uv run mkdocs serve -o
+	uv run zensical serve -o

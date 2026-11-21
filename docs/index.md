@@ -12,9 +12,9 @@ Consultanos en las redes sociales por los días, lugares y horarios específicos
 
 ## Encontranos en redes sociales
 
-* [Asociación Paranaense de Tenis de Mesa (Aspatem)](https://www.facebook.com/Aspatem) [Paraná]
-* [Asociación de Tenis de Mesa del Litoral (ATeMeLi)](https://www.facebook.com/tenisdemesa.santafe) [Santa Fe]
-* [Club Atlético Tiro Federal (CATF) Tenis de Mesa](https://www.facebook.com/CATFTDM/) [Paraná]
+* [Asociación Paranaense de Tenis de Mesa (Aspatem)](https://www.facebook.com/Aspatem) - Paraná
+* [Asociación de Tenis de Mesa del Litoral (ATeMeLi)](https://www.facebook.com/tenisdemesa.santafe) - Santa Fe
+* [Club Atlético Tiro Federal (CATF) Tenis de Mesa](https://www.facebook.com/CATFTDM/) - Paraná
 
 ## Contacto
 
