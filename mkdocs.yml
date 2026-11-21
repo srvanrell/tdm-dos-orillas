@@ -37,8 +37,8 @@ markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:zensical.extensions.emoji.twemoji
+      emoji_generator: !!python/name:zensical.extensions.emoji.to_svg
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -52,7 +52,7 @@ edit_uri: ""
 plugins:
   - search
   - awesome-nav
-  - zensical.extensions.macros:
+  - macros:
       include_dir: snippets
       on_error_fail: true
       include_yaml:
@@ -66,4 +66,4 @@ extra:
 extra_css:
   - stylesheets/table.css
 
-copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2025 &copy; Sebastián Vanrell
+copyright: Tenis de Mesa - Liga Dos Orillas 2017 - 2026 &copy; Sebastián Vanrell
