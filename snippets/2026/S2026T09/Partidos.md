@@ -85,7 +85,7 @@
 |     Diez, Gabriel     |   Baldrini, Maximo    |    0     |    3     |    zona     |   tercera   |
 |  Mandracchia, Alexis  | Kotlireusky, Benjamin |    3     |    0     |    zona     |   tercera   |
 |    Perren, Miguel     | Kotlireusky, Benjamin |    3     |    1     |    zona     |   tercera   |
-|    Perren, Miguel     |  Mandracchia, Alexis  |    3     |    2     |    zona     |   tercera   |
+|    Perren, Miguel     |  Mandracchia, Alexis  |    2     |    3     |    zona     |   tercera   |
 | Samaniego, Francisco  |    Toffolini, Hugo    |    3     |    0     |    zona     |   tercera   |
 | Samaniego, Francisco  |   Zelayeta, Carlos    |    3     |    0     |    zona     |   tercera   |
 |    Suarez, Milton     |   Bregant, Osvaldo    |    3     |    2     |    zona     |   tercera   |

@@ -84,8 +84,8 @@
 |   Bregant, Osvaldo (1334)   |     Hepp, Gernan (1190)      |     144      |        12        |        -12        |    zona     |   tercera   |    1     |
 |    Lasso, Julian (1224)     |    Andolfo, Genaro (1284)    |     -60      |        26        |        -26        |    zona     |   tercera   |    1     |
 | Mandracchia, Alexis (1331)  | Kotlireusky, Benjamin (1110) |     221      |        8         |        -8         |    zona     |   tercera   |    1     |
+| Mandracchia, Alexis (1331)  |    Perren, Miguel (1438)     |     -107     |        45        |        -45        |    zona     |   tercera   |   1.5    |
 |    Perren, Miguel (1438)    | Kotlireusky, Benjamin (1110) |     328      |        3         |        -3         |    zona     |   tercera   |   0.5    |
-|    Perren, Miguel (1438)    |  Mandracchia, Alexis (1331)  |     107      |        6         |        -6         |    zona     |   tercera   |   0.5    |
 | Samaniego, Francisco (1522) |    Toffolini, Hugo (1163)    |     359      |        3         |        -3         |    zona     |   tercera   |   0.5    |
 | Samaniego, Francisco (1522) |   Zelayeta, Carlos (1352)    |     170      |        5         |        -5         |    zona     |   tercera   |   0.5    |
 |    Suarez, Milton (1612)    |   Bregant, Osvaldo (1334)    |     278      |        4         |        -4         |    zona     |   tercera   |   0.5    |

@@ -80,20 +80,20 @@
 |   cuarta    |     1394 (=)     |         Bracco, Victor         |                                         |                                     |
 |   cuarta    |     1393 (=)     |         Benicio, Oscar         |                 Parana                  |               Aspatem               |
 |   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |        Tiro Federal (Paraná)        |
+|   cuarta    |    1388 (+57)    |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1386 (=)     |        Colavini, Daniel        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1379 (=)     |        Boskovic, David         |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1370 (=)     |      Vigouroux, Santiago       |                San Justo                |            Tiro Federal             |
 |   cuarta    |     1367 (=)     |       Cevallos, Luciano        |                                         |                                     |
 |   cuarta    |     1362 (=)     |        Albrecht, Ramiro        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |    1361 (+9)     |        Zelayeta, Carlos        |                                         |                                     |
-|   cuarta    |    1359 (-79)    |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1358 (=)     |         Fucks, Marcelo         |                                         |                                     |
 |   cuarta    |   1344 (+154)    |          Hepp, Gernan          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |     1343 (=)     |         Pinery, Sergio         |                                         |                                     |
 |   cuarta    |     1342 (=)     |         Lopez, Javier          |               Santo Tome                |       Defensores de Belgrano        |
-|   cuarta    |    1337 (+6)     |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1323 (=)     |       Taffarel, Claudio        |           Parana, Entre Rios            | Independiente Bochas Club (Paraná)  |
 |   cuarta    |     1311 (=)     |        Salas, Geronimo         |                                         |                                     |
+|   cuarta    |   1308 (-130)    |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1306 (=)     |         Acuna, Daiana          |                Santa Fe                 |               AteMeLi               |
 |   cuarta    |     1304 (=)     |         Lacuadra, Lena         |                                         |                                     |
 |   cuarta    |    1300 (-34)    |        Bregant, Osvaldo        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |

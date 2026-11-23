@@ -276,7 +276,7 @@
 |   primera   |     2239 (=)     |          Maili, Joel           |                 Parana                  |               Aspatem               |
 |   tercera   |     1592 (=)     |         Maita, Martin          |                                         |                                     |
 |   segunda   |     1715 (=)     |       Makhoul, Alejandro       |                                         |                                     |
-|   cuarta    |    1337 (+6)     |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
+|   cuarta    |    1388 (+57)    |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1026 (=)     |       Mangioni, Emiliano       |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1012 (=)     |        Mantica, Querena        |                                         |                                     |
 |   cuarta    |     1302 (=)     |     Marchitelli, Ezequiel      |                                         |                                     |
@@ -353,7 +353,7 @@
 |   primera   |     2409 (=)     |        Perot, Alejandro        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   primera   |     3060 (=)     |          Perot, David          |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     1994 (=)     |         Perot, Martin          |                Santa Fe                 |               AteMeLi               |
-|   cuarta    |    1359 (-79)    |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
+|   cuarta    |   1308 (-130)    |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
 |   tercera   |     1473 (=)     |       Pettinatti, Cesar        |                                         |                                     |
 |   tercera   |     1424 (=)     |          Picech, Gino          |                                         |                                     |
 |   tercera   |     1671 (=)     |       Pillac, Juan Pablo       |          Libertador San Martin          |                 CRL                 |
