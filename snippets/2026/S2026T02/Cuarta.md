@@ -5,7 +5,7 @@
 |     3      |        75 (+75)        |         1         |         Gomez, Gabriel         |        Parana        |            Tiro Federal             |      75 (T02)       |
 |            |         75 (=)         |         1         |          Paya, Lazaro          |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |      75 (T01)       |
 |     5      |        75 (+50)        |         2         |         Lopez, Javier          |      Santo Tome      |       Defensores de Belgrano        | 50 (T02) + 25 (T01) |
-|     6      |         50 (=)         |         1         |         Grippo, Daniel         |                      |                                     |      50 (T01)       |
+|     6      |         50 (=)         |         1         |         Grippo, Daniel         |                      |        Tiro Federal (Paraná)        |      50 (T01)       |
 |            |         50 (=)         |         1         |         Perren, Miguel         |  San Jeronimo Norte  |            Libertad SJN             |      50 (T01)       |
 |            |        50 (+50)        |         1         |         Sussman, Juan          | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |      50 (T02)       |
 |     9      |        40 (+25)        |         2         |         Baiz, Ernesto          | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) | 25 (T02) + 15 (T01) |
@@ -17,9 +17,9 @@
 |            |         25 (=)         |         1         |         Liria, Conrado         | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |      25 (T01)       |
 |            |         25 (=)         |         1         |         Palamedi, Alma         |  Santa Fe, Santa Fe  |           Provincial Club           |      25 (T01)       |
 |            |        25 (+25)        |         1         |        Zelayeta, Carlos        |                      |                                     |      25 (T02)       |
-|     18     |        15 (+15)        |         1         |        Bregant, Osvaldo        |                      |                                     |      15 (T02)       |
+|     18     |        15 (+15)        |         1         |        Bregant, Osvaldo        |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |      15 (T02)       |
 |            |        15 (+15)        |         1         |       Calabrese, Gustavo       |      Santo Tome      |       Defensores de Belgrano        |      15 (T02)       |
-|            |        15 (+15)        |         1         |          Hepp, Gernan          |                      |                                     |      15 (T02)       |
+|            |        15 (+15)        |         1         |          Hepp, Gernan          |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |      15 (T02)       |
 |            |         15 (=)         |         1         |         Justet, Walter         |                      |                                     |      15 (T01)       |
 |            |        15 (+15)        |         1         |         Lell, Claudia          |        Parana        |            Tiro Federal             |      15 (T02)       |
 |            |         15 (=)         |         1         |         Magnien, Lucas         |                      |                                     |      15 (T01)       |

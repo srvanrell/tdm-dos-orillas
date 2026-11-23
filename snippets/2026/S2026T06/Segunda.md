@@ -3,7 +3,7 @@
 |     1      |        1450 (=)        |         4         |    Avila, Marcos     |  Santa Fe, Santa Fe   |           Provincial Club           |       500 (T05) + 500 (T01) + 375 (T03) + 75 (T02)       |
 |     2      |        1450 (=)        |         5         |  Ferretti, Gustavo   |  Santa Fe, Santa Fe   |           Provincial Club           | 500 (T02) + 375 (T05) + 250 (T04) + 250 (T03) + 75 (T01) |
 |     3      |        950 (=)         |         4         |  Barchiesi, Matias   |  Santa Fe, Santa Fe   |           Provincial Club           |       375 (T02) + 375 (T01) + 125 (T05) + 75 (T03)       |
-|     4      |        775 (=)         |         4         |    Diaz, Joaquin     |  Parana, Entre Rios   |            Tiro Federal             |       375 (T04) + 250 (T03) + 75 (T02) + 75 (T01)        |
+|     4      |        775 (=)         |         4         |    Diaz, Joaquin     |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |       375 (T04) + 250 (T03) + 75 (T02) + 75 (T01)        |
 |     5      |       635 (+125)       |         5         |   Corbalan, Martin   |  Parana, Entre Rios   |      Independiente Bochas Club      | 250 (T04) + 125 (T06) + 125 (T01) + 75 (T02) + 60 (T03)  |
 |     6      |        575 (=)         |         4         |  Oliveras, Leonardo  |  Santa Fe, Santa Fe   |           Provincial Club           |       250 (T02) + 125 (T05) + 125 (T01) + 75 (T03)       |
 |     7      |        550 (=)         |         2         |    Prettis, Juan     |        Parana         |               Aspatem               |                   500 (T04) + 50 (T02)                   |
@@ -19,7 +19,7 @@
 |     17     |        325 (=)         |         3         |  Trevignani, Lucas   |  Santa Fe, Santa Fe   |           Provincial Club           |             125 (T05) + 125 (T04) + 75 (T03)             |
 |     18     |        275 (=)         |         3         | Ramos Muzio, Gonzalo | Oro Verde, Entre Rios |       Club Atletico Oro Verde       |             125 (T04) + 75 (T03) + 75 (T02)              |
 |     19     |        260 (=)         |         3         |   Perez, Valentino   |  San Justo, Santa Fe  |            Tiro Federal             |             125 (T02) + 75 (T01) + 60 (T03)              |
-|     20     |        260 (=)         |         4         | Samaniego, Francisco |  San Justo, Santa Fe  |            Tiro Federal             |        75 (T03) + 75 (T01) + 60 (T02) + 50 (T04)         |
+|     20     |        260 (=)         |         4         | Samaniego, Francisco |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |        75 (T03) + 75 (T01) + 60 (T02) + 50 (T04)         |
 |     21     |        250 (=)         |         1         |  Dalinger, Humberto  |        Parana         |            Tiro Federal             |                        250 (T02)                         |
 |            |        250 (=)         |         1         |     Goy, Gerardo     |      Reconquista      |                ATMAR                |                        250 (T01)                         |
 |            |       250 (+250)       |         1         |  Retamal, Santiago   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                        250 (T06)                         |
@@ -35,7 +35,7 @@
 |     33     |         75 (=)         |         1         |    Banfi, Franco     |        Parana         |               Aspatem               |                         75 (T02)                         |
 |            |        75 (+75)        |         1         | Bernhardt, Sebastian |                       |                                     |                         75 (T06)                         |
 |            |         75 (=)         |         1         |    Bracco, Victor    |                       |                                     |                         75 (T02)                         |
-|            |        75 (+75)        |         1         |   Bregant, Osvaldo   |                       |                                     |                         75 (T06)                         |
+|            |        75 (+75)        |         1         |   Bregant, Osvaldo   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                         75 (T06)                         |
 |            |         75 (=)         |         1         |    Budino, Mijail    |  Santa Fe, Santa Fe   |           Provincial Club           |                         75 (T03)                         |
 |            |         75 (=)         |         1         |      Dip, Jorge      |  San Jeronimo Norte   |            Libertad SJN             |                         75 (T05)                         |
 |            |         75 (=)         |         1         | Faggionatto, Walter  |                       |                                     |                         75 (T04)                         |

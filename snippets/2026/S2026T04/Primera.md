@@ -19,7 +19,7 @@
 |            |       250 (+250)       |         1         | Palamedi, Cristian |                Santa Fe                 |           AteMeLi            |                   250 (T04)                   |
 |     18     |        150 (=)         |         1         |  Aguirre, German   |                 Parana                  |           Aspatem            |                   150 (T01)                   |
 |            |        150 (=)         |         1         | Bernhardt, Leandro |                                         |                              |                   150 (T01)                   |
-|            |        150 (=)         |         1         |   Diaz, Joaquin    |           Parana, Entre Rios            |         Tiro Federal         |                   150 (T03)                   |
+|            |        150 (=)         |         1         |   Diaz, Joaquin    |           Parana, Entre Rios            |    Tiro Federal (Paraná)     |                   150 (T03)                   |
 |            |        150 (=)         |         1         | Olivares, Isabella |                                         |                              |                   150 (T03)                   |
 |            |        150 (=)         |         1         | Oliveras, Leonardo |           Santa Fe, Santa Fe            |       Provincial Club        |                   150 (T01)                   |
 |            |        150 (=)         |         1         |  Velazquez, Irupe  |                Santa Fe                 |           AteMeLi            |                   150 (T01)                   |

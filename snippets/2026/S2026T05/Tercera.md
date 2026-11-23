@@ -2,10 +2,10 @@
 |:----------:|:----------------------:|:-----------------:|:--------------------:|:---------------------:|:-----------------------------------:|:----------------------------------------------------:|
 |     1      |       695 (+190)       |         4         |  Trevignani, Lucas   |  Santa Fe, Santa Fe   |           Provincial Club           |     250 (T01) + 190 (T05) + 190 (T03) + 65 (T04)     |
 |     2      |       505 (+125)       |         4         |   Oliveras, Nahuel   |  Santa Fe, Santa Fe   |           Provincial Club           |     190 (T02) + 125 (T05) + 125 (T03) + 65 (T01)     |
-|     3      |        440 (=)         |         2         |    Diaz, Joaquin     |  Parana, Entre Rios   |            Tiro Federal             |                250 (T02) + 190 (T01)                 |
+|     3      |        440 (=)         |         2         |    Diaz, Joaquin     |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                250 (T02) + 190 (T01)                 |
 |     4      |        375 (=)         |         2         |   Savino, Leandro    |       Santa Fe        |               AteMeLi               |                250 (T03) + 125 (T01)                 |
 |     5      |        320 (=)         |         3         | Trevignani, Alfonso  |       Santa Fe        |               AteMeLi               |           190 (T04) + 65 (T03) + 65 (T01)            |
-|     6      |        320 (=)         |         4         | Samaniego, Francisco |  San Justo, Santa Fe  |            Tiro Federal             |      125 (T04) + 65 (T03) + 65 (T02) + 65 (T01)      |
+|     6      |        320 (=)         |         4         | Samaniego, Francisco |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |      125 (T04) + 65 (T03) + 65 (T02) + 65 (T01)      |
 |     7      |        290 (=)         |         3         |   Vigouroux, Jorge   |  San Justo, Santa Fe  |            Tiro Federal             |           125 (T02) + 125 (T01) + 40 (T03)           |
 |     8      |        255 (=)         |         3         |   Perez, Valentino   |  San Justo, Santa Fe  |            Tiro Federal             |           125 (T03) + 65 (T02) + 65 (T01)            |
 |            |        255 (=)         |         3         |  Retamal, Santiago   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |           125 (T02) + 65 (T04) + 65 (T03)            |
@@ -32,15 +32,15 @@
 |            |         65 (=)         |         1         |    Gomez, Gabriel    |        Parana         |            Tiro Federal             |                       65 (T02)                       |
 |            |        65 (+65)        |         1         |    Sussman, Juan     | Santo Tome, Santa Fe  | Defensores de Belgrano (Santo Tomé) |                       65 (T05)                       |
 |     32     |         40 (=)         |         1         |    Benicio, Oscar    |        Parana         |               Aspatem               |                       40 (T01)                       |
-|            |         40 (=)         |         1         |   Bregant, Osvaldo   |                       |                                     |                       40 (T02)                       |
+|            |         40 (=)         |         1         |   Bregant, Osvaldo   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                       40 (T02)                       |
 |            |         40 (=)         |         1         | Faggionatto, Walter  |                       |                                     |                       40 (T04)                       |
-|            |         40 (=)         |         1         |     Hepp, Gernan     |                       |                                     |                       40 (T02)                       |
+|            |         40 (=)         |         1         |     Hepp, Gernan     |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                       40 (T02)                       |
 |            |         40 (=)         |         1         |     Levin, Raul      |        Parana         |               Aspatem               |                       40 (T04)                       |
 |     37     |         30 (=)         |         1         |    Baiz, Ernesto     | Santo Tome, Santa Fe  | Defensores de Belgrano (Santo Tomé) |                       30 (T03)                       |
 |            |         30 (=)         |         1         |  Calabrese, Alfredo  |                       |                                     |                       30 (T04)                       |
 |            |         30 (=)         |         1         |   Canhoto, Carlos    |       Santa Fe        |               AteMeLi               |                       30 (T01)                       |
 |            |         30 (=)         |         1         |  Cevallos, Luciano   |                       |                                     |                       30 (T01)                       |
-|            |         30 (=)         |         1         |    Grippo, Daniel    |                       |                                     |                       30 (T01)                       |
+|            |         30 (=)         |         1         |    Grippo, Daniel    |                       |        Tiro Federal (Paraná)        |                       30 (T01)                       |
 |            |         30 (=)         |         1         |    Magnien, Lucas    |                       |                                     |                       30 (T01)                       |
 |            |         30 (=)         |         1         |   Padula, Nicolas    |                       |                                     |                       30 (T03)                       |
 |            |         30 (=)         |         1         |    Pinery, Sergio    |                       |                                     |                       30 (T04)                       |

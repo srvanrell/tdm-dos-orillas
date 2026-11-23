@@ -8,13 +8,13 @@
 |            |       125 (+125)       |         1         |   Corbalan, Martin   | Parana, Entre Rios  | Independiente Bochas Club |    125 (T01)     |
 |            |       125 (+125)       |         1         |  Oliveras, Leonardo  | Santa Fe, Santa Fe  |      Provincial Club      |    125 (T01)     |
 |            |       125 (+125)       |         1         |   Velazquez, Irupe   |      Santa Fe       |          AteMeLi          |    125 (T01)     |
-|     9      |        75 (+75)        |         1         |    Diaz, Joaquin     | Parana, Entre Rios  |       Tiro Federal        |     75 (T01)     |
+|     9      |        75 (+75)        |         1         |    Diaz, Joaquin     | Parana, Entre Rios  |   Tiro Federal (Paraná)   |     75 (T01)     |
 |            |        75 (+75)        |         1         |  Ferretti, Gustavo   | Santa Fe, Santa Fe  |      Provincial Club      |     75 (T01)     |
 |            |        75 (+75)        |         1         |   Oliveras, Nahuel   | Santa Fe, Santa Fe  |      Provincial Club      |     75 (T01)     |
 |            |        75 (+75)        |         1         |   Perez, Valentino   | San Justo, Santa Fe |       Tiro Federal        |     75 (T01)     |
 |            |        75 (+75)        |         1         |     Pilotti, Paz     |      Santa Fe       |      Provincial Club      |     75 (T01)     |
 |            |        75 (+75)        |         1         |   Ranzani, Esteban   | San Justo, Santa Fe |       Tiro Federal        |     75 (T01)     |
 |            |        75 (+75)        |         1         |    Rubio, Julian     | Santa Fe, Santa Fe  |      Provincial Club      |     75 (T01)     |
-|            |        75 (+75)        |         1         | Samaniego, Francisco | San Justo, Santa Fe |       Tiro Federal        |     75 (T01)     |
+|            |        75 (+75)        |         1         | Samaniego, Francisco | Parana, Entre Rios  |   Tiro Federal (Paraná)   |     75 (T01)     |
 |     17     |        60 (+60)        |         1         |   Colavini, Daniel   | Santa Fe, Santa Fe  |      Provincial Club      |     60 (T01)     |
 |            |        60 (+60)        |         1         |   Zelayeta, Carlos   |                     |                           |     60 (T01)     |

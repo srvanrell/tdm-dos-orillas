@@ -11,10 +11,10 @@
 |     9      |       200 (+75)        |         2         |   Corbalan, Martin   |  Parana, Entre Rios   |     Independiente Bochas Club      | 125 (T01) + 75 (T02)  |
 |            |       200 (+125)       |         2         |   Oliveras, Nahuel   |  Santa Fe, Santa Fe   |          Provincial Club           | 125 (T02) + 75 (T01)  |
 |            |       200 (+125)       |         2         |   Perez, Valentino   |  San Justo, Santa Fe  |            Tiro Federal            | 125 (T02) + 75 (T01)  |
-|     12     |       150 (+75)        |         2         |    Diaz, Joaquin     |  Parana, Entre Rios   |            Tiro Federal            |  75 (T02) + 75 (T01)  |
+|     12     |       150 (+75)        |         2         |    Diaz, Joaquin     |  Parana, Entre Rios   |       Tiro Federal (Paraná)        |  75 (T02) + 75 (T01)  |
 |            |       150 (+75)        |         2         |    Rubio, Julian     |  Santa Fe, Santa Fe   |          Provincial Club           |  75 (T02) + 75 (T01)  |
 |     14     |       135 (+60)        |         2         |     Pilotti, Paz     |       Santa Fe        |          Provincial Club           |  75 (T01) + 60 (T02)  |
-|            |       135 (+60)        |         2         | Samaniego, Francisco |  San Justo, Santa Fe  |            Tiro Federal            |  75 (T01) + 60 (T02)  |
+|            |       135 (+60)        |         2         | Samaniego, Francisco |  Parana, Entre Rios   |       Tiro Federal (Paraná)        |  75 (T01) + 60 (T02)  |
 |     16     |        125 (=)         |         1         |   Velazquez, Irupe   |       Santa Fe        |              AteMeLi               |       125 (T01)       |
 |            |       125 (+125)       |         1         |   Vigouroux, Jorge   |  San Justo, Santa Fe  |            Tiro Federal            |       125 (T02)       |
 |     18     |        75 (+75)        |         1         |    Banfi, Franco     |        Parana         |              Aspatem               |       75 (T02)        |

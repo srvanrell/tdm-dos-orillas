@@ -31,7 +31,7 @@
 |   segunda   |     1809 (=)     |         Rubio, Julian          |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   segunda   |     1796 (=)     |         Albano, Javier         |                Santa Fe                 |           Provincial Club           |
 |   segunda   |     1796 (=)     |        Rossini, Edison         |                                         |                                     |
-|   segunda   |     1794 (=)     |         Diaz, Joaquin          |           Parana, Entre Rios            |            Tiro Federal             |
+|   segunda   |     1794 (=)     |         Diaz, Joaquin          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   segunda   |     1793 (=)     |       Barchiesi, Matias        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   segunda   |     1792 (=)     |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   segunda   |     1771 (=)     |          Claria, Ivan          |                 Parana                  |               Aspatem               |
@@ -61,7 +61,7 @@
 |   tercera   |     1528 (=)     |       Albrecht, Ignacio        |           San Jeronimo Norte            |            Libertad SJN             |
 |   tercera   |     1528 (=)     |      Bernhardt, Alejandro      |                                         |                                     |
 |   tercera   |     1524 (=)     |       Guerrero, Gerardo        |                                         |                                     |
-|   tercera   |     1522 (=)     |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
+|   tercera   |     1522 (=)     |      Samaniego, Francisco      |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |    1468 (-13)    |        Ranzani, Esteban        |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |     1462 (=)     |         Liria, Conrado         |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   tercera   |     1460 (=)     |      Faggionatto, Walter       |                                         |                                     |
@@ -78,7 +78,7 @@
 |   cuarta    |    1397 (+17)    |          Paya, Lazaro          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1394 (=)     |         Bracco, Victor         |                                         |                                     |
 |   cuarta    |     1393 (=)     |         Benicio, Oscar         |                 Parana                  |               Aspatem               |
-|   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |                                     |
+|   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |        Tiro Federal (Paraná)        |
 |   cuarta    |    1386 (-66)    |        Colavini, Daniel        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1379 (=)     |        Boskovic, David         |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |    1370 (-87)    |      Vigouroux, Santiago       |                San Justo                |            Tiro Federal             |
@@ -88,7 +88,7 @@
 |   cuarta    |     1352 (=)     |        Zelayeta, Carlos        |                                         |                                     |
 |   cuarta    |     1343 (=)     |         Pinery, Sergio         |                                         |                                     |
 |   cuarta    |     1342 (=)     |         Lopez, Javier          |               Santo Tome                |       Defensores de Belgrano        |
-|   cuarta    |     1334 (=)     |        Bregant, Osvaldo        |                                         |                                     |
+|   cuarta    |     1334 (=)     |        Bregant, Osvaldo        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |    1331 (+14)    |      Mandracchia, Alexis       |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   cuarta    |     1323 (=)     |       Taffarel, Claudio        |           Parana, Entre Rios            | Independiente Bochas Club (Paraná)  |
 |   cuarta    |     1311 (=)     |        Salas, Geronimo         |                                         |                                     |
@@ -109,7 +109,7 @@
 |   cuarta    |     1213 (=)     | Pelleritti Garcia, Juan Andres |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |     1212 (=)     |        Bonino, Lisandro        |                                         |                                     |
 |   cuarta    |    1203 (-17)    |         Palamedi, Alma         |           Santa Fe, Santa Fe            |           Provincial Club           |
-|   cuarta    |     1190 (=)     |          Hepp, Gernan          |                                         |                                     |
+|   cuarta    |     1190 (=)     |          Hepp, Gernan          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |     1189 (=)     |        Salzman, Bastian        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1188 (=)     |        Rodriguez, Dora         |                                         |                                     |
 |   cuarta    |    1172 (+21)    |         Candia, Matias         |           San Justo, Santa Fe           |            Tiro Federal             |
@@ -132,7 +132,7 @@
 |   cuarta    |     1115 (=)     |         Rossi, Augusto         |                                         |                                     |
 |   cuarta    |    1114 (-28)    |         Leyton, Elias          |                                         |                                     |
 |   cuarta    |    1113 (-44)    |         Franco, Diego          |                                         |                                     |
-|   cuarta    |     1110 (=)     |     Kotlireusky, Benjamin      |                                         |                                     |
+|   cuarta    |     1110 (=)     |     Kotlireusky, Benjamin      |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |     1090 (=)     |        Baldrini, Maximo        |                                         |                                     |
 |   cuarta    |     1090 (=)     |         Llobet, Felipe         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |   cuarta    |     1087 (=)     |          Aranda, Luka          |                                         |                                     |

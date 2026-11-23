@@ -2,7 +2,7 @@
 |:----------:|:----------------------:|:-----------------:|:-------------------:|:--------------------:|:-----------------------------------:|:----------------:|
 |     1      |       100 (+100)       |         1         |  Albrecht, Ignacio  |  San Jeronimo Norte  |            Libertad SJN             |    100 (T01)     |
 |     2      |        75 (+75)        |         1         |    Paya, Lazaro     |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |     75 (T01)     |
-|     3      |        50 (+50)        |         1         |   Grippo, Daniel    |                      |                                     |     50 (T01)     |
+|     3      |        50 (+50)        |         1         |   Grippo, Daniel    |                      |        Tiro Federal (Paraná)        |     50 (T01)     |
 |            |        50 (+50)        |         1         |   Perren, Miguel    |  San Jeronimo Norte  |            Libertad SJN             |     50 (T01)     |
 |     5      |        25 (+25)        |         1         |    Acuna, Daiana    |       Santa Fe       |               AteMeLi               |     25 (T01)     |
 |            |        25 (+25)        |         1         |   Liria, Conrado    | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |     25 (T01)     |

@@ -11,7 +11,7 @@
 |            |        100 (=)         |         1         |       Allegrini, Alonso        |                      |                                     |                      100 (T02)                       |
 |            |       100 (+100)       |         1         |      Bernhardt, Sebastian      |                      |                                     |                      100 (T06)                       |
 |            |        100 (=)         |         1         |        Ranzani, Esteban        | San Justo, Santa Fe  |            Tiro Federal             |                      100 (T03)                       |
-|     12     |         90 (=)         |         2         |        Bregant, Osvaldo        |                      |                                     |                 75 (T04) + 15 (T02)                  |
+|     12     |         90 (=)         |         2         |        Bregant, Osvaldo        |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |                 75 (T04) + 15 (T02)                  |
 |     13     |        90 (+25)        |         4         |      Mandracchia, Alexis       |  Santa Fe, Santa Fe  |           Provincial Club           |      25 (T06) + 25 (T05) + 25 (T03) + 15 (T01)       |
 |     14     |        85 (+25)        |         5         |         Diez, Gabriel          |  Parana, Entre Rios  |        Tiro Federal (Paraná)        | 25 (T06) + 15 (T04) + 15 (T03) + 15 (T02) + 15 (T01) |
 |     15     |         80 (=)         |         4         |         Palamedi, Alma         |  Santa Fe, Santa Fe  |           Provincial Club           |      25 (T04) + 25 (T01) + 15 (T05) + 15 (T03)       |
@@ -21,13 +21,13 @@
 |     19     |         70 (=)         |         4         |        Toffolini, Hugo         |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |      25 (T05) + 15 (T04) + 15 (T03) + 15 (T01)       |
 |     20     |         67 (=)         |         4         |         Baiz, Ernesto          | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |      25 (T02) + 15 (T05) + 15 (T01) + 12 (T03)       |
 |     21     |         55 (=)         |         3         |         Candia, Matias         | San Justo, Santa Fe  |            Tiro Federal             |            25 (T02) + 15 (T03) + 15 (T01)            |
-|     22     |         50 (=)         |         1         |         Grippo, Daniel         |                      |                                     |                       50 (T01)                       |
+|     22     |         50 (=)         |         1         |         Grippo, Daniel         |                      |        Tiro Federal (Paraná)        |                       50 (T01)                       |
 |            |         50 (=)         |         1         |        Yenerich, Fabio         |                      |                                     |                       50 (T04)                       |
 |     24     |         50 (=)         |         2         |         Acuna, Daiana          |       Santa Fe       |               AteMeLi               |                 25 (T03) + 25 (T01)                  |
 |     25     |        45 (+15)        |         3         |         Lell, Claudia          |        Parana        |            Tiro Federal             |            15 (T06) + 15 (T04) + 15 (T02)            |
 |     26     |         42 (=)         |         3         |       Mangioni, Emiliano       |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |            15 (T05) + 15 (T04) + 12 (T03)            |
 |     27     |         39 (=)         |         3         |         Torres, Julian         |      Santo Tome      |       Defensores de Belgrano        |            15 (T02) + 12 (T03) + 12 (T01)            |
-|     28     |        30 (+15)        |         2         |          Hepp, Gernan          |                      |                                     |                 15 (T06) + 15 (T02)                  |
+|     28     |        30 (+15)        |         2         |          Hepp, Gernan          |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |                 15 (T06) + 15 (T02)                  |
 |            |         30 (=)         |         2         |         Justet, Walter         |                      |                                     |                 15 (T03) + 15 (T01)                  |
 |     30     |         27 (=)         |         2         |         Llobet, Felipe         |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |                 15 (T05) + 12 (T03)                  |
 |     31     |         25 (=)         |         1         |        Albrecht, Ramiro        |  San Jeronimo Norte  |            Libertad SJN             |                       25 (T04)                       |
@@ -40,7 +40,7 @@
 |            |         15 (=)         |         1         |        Beron, Mauricio         |                      |                                     |                       15 (T04)                       |
 |            |         15 (=)         |         1         |       Calabrese, Gustavo       |      Santo Tome      |       Defensores de Belgrano        |                       15 (T02)                       |
 |            |         15 (=)         |         1         |         Galindo, Abel          |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |                       15 (T03)                       |
-|            |        15 (+15)        |         1         |     Kotlireusky, Benjamin      |                      |                                     |                       15 (T06)                       |
+|            |        15 (+15)        |         1         |     Kotlireusky, Benjamin      |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |                       15 (T06)                       |
 |            |         15 (=)         |         1         |         Magnien, Lucas         |                      |                                     |                       15 (T01)                       |
 |            |         15 (=)         |         1         | Pelleritti Garcia, Juan Andres | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |                       15 (T02)                       |
 |            |        15 (+15)        |         1         |         Ponce, Marcelo         |                      |                                     |                       15 (T06)                       |

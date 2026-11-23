@@ -13,7 +13,7 @@
 |            |        100 (=)         |         1         |       Allegrini, Alonso        |                      |                                     |                      100 (T02)                       |
 |            |        100 (=)         |         1         |      Bernhardt, Sebastian      |                      |                                     |                      100 (T06)                       |
 |            |        100 (=)         |         1         |        Ranzani, Esteban        | San Justo, Santa Fe  |            Tiro Federal             |                      100 (T03)                       |
-|     14     |         90 (=)         |         2         |        Bregant, Osvaldo        |                      |                                     |                 75 (T04) + 15 (T02)                  |
+|     14     |         90 (=)         |         2         |        Bregant, Osvaldo        |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |                 75 (T04) + 15 (T02)                  |
 |     15     |         85 (=)         |         5         |         Diez, Gabriel          |  Parana, Entre Rios  |        Tiro Federal (Paraná)        | 25 (T06) + 15 (T04) + 15 (T03) + 15 (T02) + 15 (T01) |
 |            |        85 (+15)        |         5         |        Toffolini, Hugo         |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      | 25 (T05) + 15 (T07) + 15 (T04) + 15 (T03) + 15 (T01) |
 |     17     |         80 (=)         |         4         |        Pereyra, Andres         | Santo Tome, Santa Fe | Independiente Bochas Club (Paraná)  |      25 (T05) + 25 (T02) + 15 (T03) + 15 (T01)       |
@@ -22,7 +22,7 @@
 |     20     |         67 (=)         |         4         |         Baiz, Ernesto          | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |      25 (T02) + 15 (T05) + 15 (T01) + 12 (T03)       |
 |     21     |         55 (=)         |         3         |         Candia, Matias         | San Justo, Santa Fe  |            Tiro Federal             |            25 (T02) + 15 (T03) + 15 (T01)            |
 |     22     |        54 (+12)        |         4         |       Mangioni, Emiliano       |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |      15 (T05) + 15 (T04) + 12 (T07) + 12 (T03)       |
-|     23     |         50 (=)         |         1         |         Grippo, Daniel         |                      |                                     |                       50 (T01)                       |
+|     23     |         50 (=)         |         1         |         Grippo, Daniel         |                      |        Tiro Federal (Paraná)        |                       50 (T01)                       |
 |            |        50 (+50)        |         1         |       Salinas, Benjamin        |                      |                                     |                       50 (T07)                       |
 |            |         50 (=)         |         1         |        Yenerich, Fabio         |                      |                                     |                       50 (T04)                       |
 |     26     |         50 (=)         |         2         |         Acuna, Daiana          |       Santa Fe       |               AteMeLi               |                 25 (T03) + 25 (T01)                  |
@@ -30,7 +30,7 @@
 |     28     |        40 (+25)        |         2         | Pelleritti Garcia, Juan Andres | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |                 25 (T07) + 15 (T02)                  |
 |     29     |         39 (=)         |         3         |         Torres, Julian         |      Santo Tome      |       Defensores de Belgrano        |            15 (T02) + 12 (T03) + 12 (T01)            |
 |     30     |        30 (+15)        |         2         |         Galindo, Abel          |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |                 15 (T07) + 15 (T03)                  |
-|            |         30 (=)         |         2         |          Hepp, Gernan          |                      |                                     |                 15 (T06) + 15 (T02)                  |
+|            |         30 (=)         |         2         |          Hepp, Gernan          |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |                 15 (T06) + 15 (T02)                  |
 |            |         30 (=)         |         2         |         Justet, Walter         |                      |                                     |                 15 (T03) + 15 (T01)                  |
 |     33     |         27 (=)         |         2         |         Llobet, Felipe         |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |                 15 (T05) + 12 (T03)                  |
 |     34     |         25 (=)         |         1         |        Albrecht, Ramiro        |  San Jeronimo Norte  |            Libertad SJN             |                       25 (T04)                       |
@@ -49,7 +49,7 @@
 |            |        15 (+15)        |         1         |      Eberhardt, Ezequiel       |                      |                                     |                       15 (T07)                       |
 |            |        15 (+15)        |         1         |       Eberhardt, Martin        |                      |                                     |                       15 (T07)                       |
 |            |        15 (+15)        |         1         |         Franco, Diego          |                      |                                     |                       15 (T07)                       |
-|            |         15 (=)         |         1         |     Kotlireusky, Benjamin      |                      |                                     |                       15 (T06)                       |
+|            |         15 (=)         |         1         |     Kotlireusky, Benjamin      |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |                       15 (T06)                       |
 |            |         15 (=)         |         1         |         Magnien, Lucas         |                      |                                     |                       15 (T01)                       |
 |            |         15 (=)         |         1         |         Ponce, Marcelo         |                      |                                     |                       15 (T06)                       |
 |            |         15 (=)         |         1         |        Rodriguez, Dora         |                      |                                     |                       15 (T04)                       |

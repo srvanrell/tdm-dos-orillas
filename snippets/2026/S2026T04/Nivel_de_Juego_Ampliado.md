@@ -30,7 +30,7 @@
 |   tercera   |     1684 (=)     |       Alvarez, Sebastian       |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1672 (=)     |        Amaral, Gustavo         |                                         |                                     |
 |   primera   |     2521 (=)     |         Amore, Enrique         |                 Parana                  |               Aspatem               |
-|   cuarta    |     1284 (=)     |        Andolfo, Genaro         |                                         |                                     |
+|   cuarta    |     1284 (=)     |        Andolfo, Genaro         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1480 (=)     |         Antunez, Pablo         |                                         |                                     |
 |   segunda   |     2008 (=)     |         Apaza, Catriel         |          Libertador San Martin          |                 CRL                 |
 |   cuarta    |     1399 (=)     |        Aranda, Luciano         |                                         |                                     |
@@ -95,7 +95,7 @@
 |   tercera   |     1588 (=)     |        Bracco, Fernando        |                                         |                                     |
 |   cuarta    |    1394 (-2)     |         Bracco, Victor         |                                         |                                     |
 |   cuarta    |     1159 (=)     |         Bregant, Juan          |                                         |                                     |
-|   tercera   |    1405 (+68)    |        Bregant, Osvaldo        |                                         |                                     |
+|   tercera   |    1405 (+68)    |        Bregant, Osvaldo        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   segunda   |     1768 (=)     |         Brian, Martin          |          Libertador San Martin          |                 CRL                 |
 |   cuarta    |     1252 (=)     |       Brunelli, Osvaldo        |                Santa Fe                 |               AteMeLi               |
 |   segunda   |     1717 (=)     |         Budino, Mijail         |           Santa Fe, Santa Fe            |           Provincial Club           |
@@ -145,7 +145,7 @@
 |   cuarta    |     1374 (=)     |         Diaz, Benjamin         |                                         |                                     |
 |   cuarta    |     1215 (=)     |         Diaz, Claudino         |                                         |                                     |
 |   segunda   |     1745 (=)     |           Diaz, Gino           |          Libertador San Martin          |                 CRL                 |
-|   segunda   |    1848 (-26)    |         Diaz, Joaquin          |           Parana, Entre Rios            |            Tiro Federal             |
+|   segunda   |    1848 (-26)    |         Diaz, Joaquin          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   primera   |     2231 (=)     |          Diel, Pablo           |                                         |                                     |
 |   cuarta    |    1157 (+21)    |         Diez, Gabriel          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   segunda   |     1766 (=)     |           Dip, Jorge           |           San Jeronimo Norte            |            Libertad SJN             |
@@ -220,7 +220,7 @@
 |   primera   |     2054 (=)     |        Gonzalez, Oscar         |                                         |                                     |
 |   segunda   |     1933 (=)     |          Goy, Gerardo          |               Reconquista               |                ATMAR                |
 |   tercera   |     1491 (=)     |        Grippo, Agustin         |                                         |                                     |
-|   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |                                     |
+|   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |        Tiro Federal (Paraná)        |
 |   primera   |     2237 (=)     |       Grippo, Francisco        |                 Parana                  |               Aspatem               |
 |   segunda   |     1867 (=)     |       Guckert, Emiliano        |                Santa Fe                 |                                     |
 |   segunda   |     1732 (=)     |      Guckert, Juan Pablo       |                                         |                                     |
@@ -228,7 +228,7 @@
 |   segunda   |     2000 (=)     |          Hagge, Pilar          |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1408 (=)     |        Hanrri, Facundo         |                 Parana                  |               Aspatem               |
 |   segunda   |     1791 (=)     |        Heinzen, Gonzalo        |                                         |                                     |
-|   cuarta    |     1287 (=)     |          Hepp, Gernan          |                                         |                                     |
+|   cuarta    |     1287 (=)     |          Hepp, Gernan          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   primera   |     2388 (=)     |       Heredia, Santiago        |                Santa Fe                 |               AteMeLi               |
 |   tercera   |     1522 (=)     |         Ibarra, Sergio         |                Santa Fe                 |                                     |
 |   segunda   |     1981 (=)     |         Jaime, Gerardo         |                 Parana                  |               Aspatem               |
@@ -237,7 +237,7 @@
 |   tercera   |     1693 (=)     |              Jose              |          Libertador San Martin          |                 CRL                 |
 |   cuarta    |     1356 (=)     |         Jove, Alberto          |                                         |                                     |
 |   cuarta    |     1155 (=)     |         Justet, Walter         |                                         |                                     |
-|   cuarta    |     1167 (=)     |     Kotlireusky, Benjamin      |                                         |                                     |
+|   cuarta    |     1167 (=)     |     Kotlireusky, Benjamin      |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1676 (=)     |        Kranczuk, German        |                                         |                                     |
 |   primera   |     2420 (=)     |        La Barba, Pablo         |                 Parana                  |               Aspatem               |
 |   cuarta    |     1196 (=)     |         Lacuadra, Lena         |                                         |                                     |
@@ -246,6 +246,7 @@
 |   segunda   |     1762 (=)     |        Landra, Augusto         |                                         |                                     |
 |   cuarta    |     1259 (=)     |       Lanzotti, Lautaro        |                                         |                                     |
 |   tercera   |     1543 (=)     |         Larrosa, Jorge         |                 Parana                  |            Tiro Federal             |
+|   cuarta    |     1224 (=)     |         Lasso, Julian          |                                         |                                     |
 |   tercera   |     1416 (=)     |         Ledesma, Jonas         |                                         |                                     |
 |   cuarta    |    1184 (-32)    |         Lell, Claudia          |                 Parana                  |            Tiro Federal             |
 |   primera   |     2068 (=)     |       Lerch, Juan Carlos       |                 Parana                  |            Tiro Federal             |
@@ -414,7 +415,7 @@
 |   cuarta    |    1170 (-22)    |         Salva, Emanuel         |                                         |                                     |
 |   cuarta    |     1314 (=)     |         Salva, Manuel          |                                         |                                     |
 |   cuarta    |    1189 (-12)    |        Salzman, Bastian        |           San Jeronimo Norte            |            Libertad SJN             |
-|   tercera   |    1514 (+9)     |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
+|   tercera   |    1514 (+9)     |      Samaniego, Francisco      |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1496 (=)     |        Sancada, Maximo         |                                         |                                     |
 |   segunda   |     1963 (=)     |        Sanchez, Emanuel        |                 Parana                  |               Aspatem               |
 |   tercera   |     1628 (=)     |         Sanchez, Lucas         |                                         |                                     |
@@ -427,6 +428,8 @@
 |   cuarta    |     1301 (=)     |         Schiavi, Bruno         |                                         |                                     |
 |   cuarta    |     1359 (=)     |        Schiavi, Marcelo        |                                         |                                     |
 |   primera   |     2091 (=)     |         Schiker, Omar          |                 Rosario                 |               Asateme               |
+|   cuarta    |     1160 (=)     |       Schneider, Tahiel        |                                         |                                     |
+|   cuarta    |     1133 (=)     |       Schoenfeld, Tomas        |                                         |                                     |
 |   cuarta    |     1361 (=)     |       Scotta, Francisco        |                                         |                                     |
 |   cuarta    |     1303 (=)     |          Seib, Silvia          |                 Parana                  |               Aspatem               |
 |   primera   |     2505 (=)     |       Sharretta, Gaston        |               San Lorenzo               |                                     |

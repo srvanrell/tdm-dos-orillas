@@ -19,7 +19,7 @@
 |     17     |        250 (=)         |         1         | Grippo, Francisco  |                 Parana                  |           Aspatem            |                         250 (T01)                         |
 |     18     |        150 (=)         |         1         |  Aguirre, German   |                 Parana                  |           Aspatem            |                         150 (T01)                         |
 |            |        150 (=)         |         1         | Bernhardt, Leandro |                                         |                              |                         150 (T01)                         |
-|            |        150 (=)         |         1         |   Diaz, Joaquin    |           Parana, Entre Rios            |         Tiro Federal         |                         150 (T03)                         |
+|            |        150 (=)         |         1         |   Diaz, Joaquin    |           Parana, Entre Rios            |    Tiro Federal (Paraná)     |                         150 (T03)                         |
 |            |       150 (+150)       |         1         |     Dip, Jorge     |           San Jeronimo Norte            |         Libertad SJN         |                         150 (T05)                         |
 |            |        150 (=)         |         1         | Olivares, Isabella |                                         |                              |                         150 (T03)                         |
 |            |        150 (=)         |         1         | Oliveras, Leonardo |           Santa Fe, Santa Fe            |       Provincial Club        |                         150 (T01)                         |

@@ -256,7 +256,7 @@
 |       1652       |         Acosta, Gaston         |                                         |                                     |
 |       1651       |        Zapata, Joaquin         |                                         |                                     |
 |       1650       |       Alvarenque, Luano        |                                         |                                     |
-|       1647       |         Diaz, Joaquin          |           Parana, Entre Rios            |            Tiro Federal             |
+|       1647       |         Diaz, Joaquin          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |       1646       |          Rosales, Ian          |                                         |                                     |
 |       1640       |        Almada, Claudio         |                                         |                                     |
 |       1638       |         Almada, Pablo          |                 Parana                  |               Aspatem               |
@@ -320,7 +320,7 @@
 |       1446       |      Bernhardt, Alejandro      |                                         |                                     |
 |       1445       |         Uranga, Fermin         |                                         |                                     |
 |       1443       |        Orzan, Valentin         |                                         |                                     |
-|       1441       |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
+|       1441       |      Samaniego, Francisco      |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |       1439       |          Bordi, Mario          |                                         |                                     |
 |       1435       |        Torres, Lautaro         |                                         |                                     |
 |       1434       |        Vergara, Gustavo        |                 Parana                  |            Tiro Federal             |
@@ -354,7 +354,7 @@
 |       1401       |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |       1401       |        Lerman, Ricarlo         |                                         |                                     |
 |       1399       |        Aranda, Luciano         |                                         |                                     |
-|       1398       |         Grippo, Daniel         |                                         |                                     |
+|       1398       |         Grippo, Daniel         |                                         |        Tiro Federal (Paraná)        |
 |       1394       |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
 |       1391       |         Gomez, Gabriel         |                 Parana                  |            Tiro Federal             |
 |       1383       |         Pinery, Sergio         |                                         |                                     |
@@ -395,7 +395,7 @@
 |       1319       |        Florito, Miguel         |                Santa Fe                 |               AteMeLi               |
 |       1319       |         Liria, Conrado         |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |       1318       |         Locateli, Juan         |                                         |                                     |
-|       1316       |        Bregant, Osvaldo        |                                         |                                     |
+|       1316       |        Bregant, Osvaldo        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |       1316       |        Lucatti, Matias         |                                         |                                     |
 |       1316       |         Rico, Eduardo          |                                         |                                     |
 |       1314       |          Garau, Jano           |                                         |                                     |
@@ -414,8 +414,8 @@
 |       1296       |       Alignani, Tiziano        |                                         |                                     |
 |       1293       |         Fenes, Martin          |                                         |                                     |
 |       1286       |         Acuna, Daiana          |                Santa Fe                 |               AteMeLi               |
-|       1284       |        Andolfo, Genaro         |                                         |                                     |
-|       1283       |          Hepp, Gernan          |                                         |                                     |
+|       1284       |        Andolfo, Genaro         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
+|       1283       |          Hepp, Gernan          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |       1281       |       Allegrini, Alonso        |                                         |                                     |
 |       1280       |         Lell, Claudia          |                 Parana                  |            Tiro Federal             |
 |       1274       |         Elmer, Eliana          |                                         |                                     |
@@ -441,6 +441,7 @@
 |       1231       |         Portillo, Ana          |                 Parana                  |               Aspatem               |
 |       1228       |         Rubio, Julian2         |                Santa Fe                 |               AteMeLi               |
 |       1224       |        Cagnoto, Matias         |                                         |                                     |
+|       1224       |         Lasso, Julian          |                                         |                                     |
 |       1221       |         Galindo, Abel          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1220       |        Paulin, Santiago        |                                         |                                     |
 |       1219       |        Viviani, Monica         |               Santo Tome                |       Defensores de Belgrano        |
@@ -467,7 +468,8 @@
 |       1171       |         Franco, Diego          |                                         |                                     |
 |       1170       |         Ponce, Marcelo         |                                         |                                     |
 |       1167       |        Dabolio, German         |                                         |                                     |
-|       1167       |     Kotlireusky, Benjamin      |                                         |                                     |
+|       1167       |     Kotlireusky, Benjamin      |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
+|       1160       |       Schneider, Tahiel        |                                         |                                     |
 |       1159       |         Bregant, Juan          |                                         |                                     |
 |       1159       |         Palamedi, Alma         |           Santa Fe, Santa Fe            |           Provincial Club           |
 |       1155       |         Rossi, Augusto         |                                         |                                     |
@@ -477,6 +479,7 @@
 |       1142       |         Leyton, Elias          |                                         |                                     |
 |       1141       |        Toffolini, Hugo         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1138       |         Alsina, Mateo          |                                         |                                     |
+|       1133       |       Schoenfeld, Tomas        |                                         |                                     |
 |       1124       |         Llobet, Felipe         |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1124       |       Mangioni, Emiliano       |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
 |       1122       |        Fernandez, Belen        |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |

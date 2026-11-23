@@ -10,7 +10,7 @@
 |     8      |       100 (+75)        |         2         |        Boskovic, David         |  San Jeronimo Norte  |            Libertad SJN             |            75 (T05) + 25 (T03)            |
 |            |       100 (+50)        |         2         |         Perren, Miguel         |  San Jeronimo Norte  |            Libertad SJN             |            50 (T05) + 50 (T01)            |
 |     10     |        100 (=)         |         3         |        Zelayeta, Carlos        |                      |                                     |      50 (T03) + 25 (T04) + 25 (T02)       |
-|     11     |         90 (=)         |         2         |        Bregant, Osvaldo        |                      |                                     |            75 (T04) + 15 (T02)            |
+|     11     |         90 (=)         |         2         |        Bregant, Osvaldo        |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |            75 (T04) + 15 (T02)            |
 |     12     |        80 (+15)        |         4         |         Palamedi, Alma         |  Santa Fe, Santa Fe  |           Provincial Club           | 25 (T04) + 25 (T01) + 15 (T05) + 15 (T03) |
 |            |        80 (+25)        |         4         |        Pereyra, Andres         | Santo Tome, Santa Fe | Independiente Bochas Club (Paraná)  | 25 (T05) + 25 (T02) + 15 (T03) + 15 (T01) |
 |     14     |         75 (=)         |         1         |         Gomez, Gabriel         |        Parana        |            Tiro Federal             |                 75 (T02)                  |
@@ -20,7 +20,7 @@
 |     18     |        65 (+25)        |         3         |      Mandracchia, Alexis       |  Santa Fe, Santa Fe  |           Provincial Club           |      25 (T05) + 25 (T03) + 15 (T01)       |
 |     19     |         60 (=)         |         4         |         Diez, Gabriel          |  Parana, Entre Rios  |        Tiro Federal (Paraná)        | 15 (T04) + 15 (T03) + 15 (T02) + 15 (T01) |
 |     20     |         55 (=)         |         3         |         Candia, Matias         | San Justo, Santa Fe  |            Tiro Federal             |      25 (T02) + 15 (T03) + 15 (T01)       |
-|     21     |         50 (=)         |         1         |         Grippo, Daniel         |                      |                                     |                 50 (T01)                  |
+|     21     |         50 (=)         |         1         |         Grippo, Daniel         |                      |        Tiro Federal (Paraná)        |                 50 (T01)                  |
 |            |         50 (=)         |         1         |        Yenerich, Fabio         |                      |                                     |                 50 (T04)                  |
 |     23     |         50 (=)         |         2         |         Acuna, Daiana          |       Santa Fe       |               AteMeLi               |            25 (T03) + 25 (T01)            |
 |     24     |        42 (+15)        |         3         |       Mangioni, Emiliano       |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |      15 (T05) + 15 (T04) + 12 (T03)       |
@@ -35,7 +35,7 @@
 |            |         15 (=)         |         1         |        Beron, Mauricio         |                      |                                     |                 15 (T04)                  |
 |            |         15 (=)         |         1         |       Calabrese, Gustavo       |      Santo Tome      |       Defensores de Belgrano        |                 15 (T02)                  |
 |            |         15 (=)         |         1         |         Galindo, Abel          |  Santa Fe, Santa Fe  |     Provincial Club (Santa Fe)      |                 15 (T03)                  |
-|            |         15 (=)         |         1         |          Hepp, Gernan          |                      |                                     |                 15 (T02)                  |
+|            |         15 (=)         |         1         |          Hepp, Gernan          |  Parana, Entre Rios  |        Tiro Federal (Paraná)        |                 15 (T02)                  |
 |            |         15 (=)         |         1         |         Magnien, Lucas         |                      |                                     |                 15 (T01)                  |
 |            |         15 (=)         |         1         |        Mehring, Agustin        |  San Jeronimo Norte  |            Libertad SJN             |                 15 (T04)                  |
 |            |         15 (=)         |         1         | Pelleritti Garcia, Juan Andres | Santo Tome, Santa Fe | Defensores de Belgrano (Santo Tomé) |                 15 (T02)                  |

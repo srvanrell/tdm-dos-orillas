@@ -2,7 +2,7 @@
 |:----------:|:----------------------:|:-----------------:|:--------------------:|:---------------------:|:-----------------------------------:|:-------------------------------------------------------------------:|
 |     1      |       1525 (+75)       |         6         |  Ferretti, Gustavo   |  Santa Fe, Santa Fe   |           Provincial Club           | 500 (T02) + 375 (T05) + 250 (T04) + 250 (T03) + 75 (T07) + 75 (T01) |
 |     2      |        1450 (=)        |         4         |    Avila, Marcos     |  Santa Fe, Santa Fe   |           Provincial Club           |            500 (T05) + 500 (T01) + 375 (T03) + 75 (T02)             |
-|     3      |      1150 (+375)       |         5         |    Diaz, Joaquin     |  Parana, Entre Rios   |            Tiro Federal             |       375 (T07) + 375 (T04) + 250 (T03) + 75 (T02) + 75 (T01)       |
+|     3      |      1150 (+375)       |         5         |    Diaz, Joaquin     |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |       375 (T07) + 375 (T04) + 250 (T03) + 75 (T02) + 75 (T01)       |
 |     4      |        950 (=)         |         4         |  Barchiesi, Matias   |  Santa Fe, Santa Fe   |           Provincial Club           |            375 (T02) + 375 (T01) + 125 (T05) + 75 (T03)             |
 |     5      |       900 (+500)       |         5         |   Oliveras, Nahuel   |  Santa Fe, Santa Fe   |           Provincial Club           |       500 (T07) + 125 (T03) + 125 (T02) + 75 (T05) + 75 (T01)       |
 |     6      |       825 (+250)       |         5         |  Oliveras, Leonardo  |  Santa Fe, Santa Fe   |           Provincial Club           |      250 (T07) + 250 (T02) + 125 (T05) + 125 (T01) + 75 (T03)       |
@@ -18,7 +18,7 @@
 |     16     |       450 (+125)       |         4         |  Trevignani, Lucas   |  Santa Fe, Santa Fe   |           Provincial Club           |            125 (T07) + 125 (T05) + 125 (T04) + 75 (T03)             |
 |     17     |       410 (+75)        |         5         |     Pilotti, Paz     |       Santa Fe        |           Provincial Club           |        125 (T03) + 75 (T07) + 75 (T05) + 75 (T01) + 60 (T02)        |
 |     18     |        375 (=)         |         1         |   Rossini, Edison    |                       |                                     |                              375 (T06)                              |
-|     19     |       335 (+75)        |         5         | Samaniego, Francisco |  San Justo, Santa Fe  |            Tiro Federal             |        75 (T07) + 75 (T03) + 75 (T01) + 60 (T02) + 50 (T04)         |
+|     19     |       335 (+75)        |         5         | Samaniego, Francisco |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |        75 (T07) + 75 (T03) + 75 (T01) + 60 (T02) + 50 (T04)         |
 |     20     |        275 (=)         |         3         | Ramos Muzio, Gonzalo | Oro Verde, Entre Rios |       Club Atletico Oro Verde       |                   125 (T04) + 75 (T03) + 75 (T02)                   |
 |            |       275 (+75)        |         3         |   Vigouroux, Jorge   |  San Justo, Santa Fe  |            Tiro Federal             |                   125 (T02) + 75 (T07) + 75 (T03)                   |
 |     22     |       270 (+60)        |         4         |   Colavini, Daniel   |  Santa Fe, Santa Fe   |           Provincial Club           |              75 (T04) + 75 (T03) + 60 (T07) + 60 (T01)              |
@@ -38,7 +38,7 @@
 |     36     |         75 (=)         |         1         |    Banfi, Franco     |        Parana         |               Aspatem               |                              75 (T02)                               |
 |            |         75 (=)         |         1         | Bernhardt, Sebastian |                       |                                     |                              75 (T06)                               |
 |            |         75 (=)         |         1         |    Bracco, Victor    |                       |                                     |                              75 (T02)                               |
-|            |         75 (=)         |         1         |   Bregant, Osvaldo   |                       |                                     |                              75 (T06)                               |
+|            |         75 (=)         |         1         |   Bregant, Osvaldo   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                              75 (T06)                               |
 |            |         75 (=)         |         1         |    Budino, Mijail    |  Santa Fe, Santa Fe   |           Provincial Club           |                              75 (T03)                               |
 |            |         75 (=)         |         1         |      Dip, Jorge      |  San Jeronimo Norte   |            Libertad SJN             |                              75 (T05)                               |
 |            |         75 (=)         |         1         | Faggionatto, Walter  |                       |                                     |                              75 (T04)                               |

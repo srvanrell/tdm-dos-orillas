@@ -22,7 +22,7 @@
 |   segunda   |     1868 (=)     |        Velazquez, Irupe        |                Santa Fe                 |               AteMeLi               |
 |   segunda   |    1867 (+17)    |       Ferretti, Gustavo        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   segunda   |    1864 (-43)    |         Rubio, Julian          |           Santa Fe, Santa Fe            |           Provincial Club           |
-|   segunda   |     1848 (=)     |         Diaz, Joaquin          |           Parana, Entre Rios            |            Tiro Federal             |
+|   segunda   |     1848 (=)     |         Diaz, Joaquin          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   segunda   |     1836 (=)     |         Banfi, Franco          |                 Parana                  |               Aspatem               |
 |   segunda   |     1830 (=)     |         Prettis, Juan          |                 Parana                  |               Aspatem               |
 |   segunda   |    1793 (+34)    |       Barchiesi, Matias        |           Santa Fe, Santa Fe            |           Provincial Club           |
@@ -45,7 +45,7 @@
 |   tercera   |     1608 (=)     |        Perez, Valentino        |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |     1574 (=)     |        Barreto, Julian         |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1570 (=)     |      Trevignani, Alfonso       |                Santa Fe                 |               AteMeLi               |
-|   tercera   |     1514 (=)     |      Samaniego, Francisco      |           San Justo, Santa Fe           |            Tiro Federal             |
+|   tercera   |     1514 (=)     |      Samaniego, Francisco      |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1512 (=)     |        Ranzani, Esteban        |           San Justo, Santa Fe           |            Tiro Federal             |
 |   tercera   |     1482 (=)     |        Colavini, Daniel        |           Santa Fe, Santa Fe            |           Provincial Club           |
 |   tercera   |     1460 (=)     |      Faggionatto, Walter       |                                         |                                     |
@@ -56,13 +56,13 @@
 |   tercera   |     1422 (=)     |          Rosa, Pablo           |                                         |                                     |
 |   tercera   |     1416 (=)     |        Canhoto, Carlos         |                Santa Fe                 |               AteMeLi               |
 |   tercera   |    1412 (+3)     |          Paya, Lazaro          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |
-|   tercera   |     1405 (=)     |        Bregant, Osvaldo        |                                         |                                     |
+|   tercera   |     1405 (=)     |        Bregant, Osvaldo        |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   tercera   |     1403 (=)     |        Yenerich, Fabio         |                                         |                                     |
 |   tercera   |    1401 (-2)     |         Liria, Conrado         |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |             |                  |                                |                                         |                                     |
 |   cuarta    |     1394 (=)     |         Bracco, Victor         |                                         |                                     |
 |   cuarta    |     1393 (=)     |         Benicio, Oscar         |                 Parana                  |               Aspatem               |
-|   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |                                     |
+|   cuarta    |     1392 (=)     |         Grippo, Daniel         |                                         |        Tiro Federal (Paraná)        |
 |   cuarta    |    1386 (-4)     |         Perren, Miguel         |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |   1382 (+112)    |         Sussman, Juan          |          Santo Tome, Santa Fe           | Defensores de Belgrano (Santo Tomé) |
 |   cuarta    |     1367 (=)     |       Cevallos, Luciano        |                                         |                                     |
@@ -75,7 +75,7 @@
 |   cuarta    |    1297 (+72)    |        Boskovic, David         |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1290 (=)     |        Padula, Nicolas         |                                         |                                     |
 |   cuarta    |     1288 (=)     |         Elmer, Eliana          |                                         |                                     |
-|   cuarta    |     1287 (=)     |          Hepp, Gernan          |                                         |                                     |
+|   cuarta    |     1287 (=)     |          Hepp, Gernan          |           Parana, Entre Rios            |        Tiro Federal (Paraná)        |
 |   cuarta    |     1275 (=)     |        Mehring, Agustin        |           San Jeronimo Norte            |            Libertad SJN             |
 |   cuarta    |     1274 (=)     |         Magnien, Lucas         |                                         |                                     |
 |   cuarta    |     1225 (=)     |         Galindo, Abel          |           Santa Fe, Santa Fe            |     Provincial Club (Santa Fe)      |

@@ -2,12 +2,12 @@
 |:----------:|:----------------------:|:-----------------:|:---------------------:|:---------------------:|:-----------------------------------:|:---------------------------------------------------------------:|
 |     1      |       755 (+250)       |         5         |   Oliveras, Nahuel    |  Santa Fe, Santa Fe   |           Provincial Club           |    250 (T07) + 190 (T02) + 125 (T05) + 125 (T03) + 65 (T01)     |
 |     2      |        695 (=)         |         4         |   Trevignani, Lucas   |  Santa Fe, Santa Fe   |           Provincial Club           |          250 (T01) + 190 (T05) + 190 (T03) + 65 (T04)           |
-|     3      |        440 (=)         |         2         |     Diaz, Joaquin     |  Parana, Entre Rios   |            Tiro Federal             |                      250 (T02) + 190 (T01)                      |
+|     3      |        440 (=)         |         2         |     Diaz, Joaquin     |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                      250 (T02) + 190 (T01)                      |
 |     4      |       415 (+125)       |         4         |   Vigouroux, Jorge    |  San Justo, Santa Fe  |            Tiro Federal             |          125 (T07) + 125 (T02) + 125 (T01) + 40 (T03)           |
 |     5      |       385 (+65)        |         4         |  Trevignani, Alfonso  |       Santa Fe        |               AteMeLi               |           190 (T04) + 65 (T07) + 65 (T03) + 65 (T01)            |
 |     6      |       380 (+125)       |         3         |   Corbalan, Martin    |  Parana, Entre Rios   |      Independiente Bochas Club      |                190 (T06) + 125 (T07) + 65 (T04)                 |
 |     7      |        375 (=)         |         2         |    Savino, Leandro    |       Santa Fe        |               AteMeLi               |                      250 (T03) + 125 (T01)                      |
-|     8      |       360 (+40)        |         5         | Samaniego, Francisco  |  San Justo, Santa Fe  |            Tiro Federal             |      125 (T04) + 65 (T03) + 65 (T02) + 65 (T01) + 40 (T07)      |
+|     8      |       360 (+40)        |         5         | Samaniego, Francisco  |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |      125 (T04) + 65 (T03) + 65 (T02) + 65 (T01) + 40 (T07)      |
 |     9      |        355 (=)         |         3         |   Allegrini, Alonso   |                       |                                     |                 250 (T06) + 65 (T02) + 40 (T03)                 |
 |     10     |        290 (=)         |         3         |    Barreto, Julian    |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                125 (T06) + 125 (T04) + 40 (T03)                 |
 |     11     |        285 (=)         |         4         |   Retamal, Santiago   |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |           125 (T02) + 65 (T04) + 65 (T03) + 30 (T06)            |
@@ -30,9 +30,9 @@
 |     28     |        125 (=)         |         1         | Bernhardt, Alejandro  |                       |                                     |                            125 (T06)                            |
 |     29     |       105 (+40)        |         2         |     Sussman, Juan     | Santo Tome, Santa Fe  | Defensores de Belgrano (Santo Tomé) |                       65 (T05) + 40 (T07)                       |
 |     30     |         85 (=)         |         3         |    Candia, Matias     |  San Justo, Santa Fe  |            Tiro Federal             |                 30 (T03) + 30 (T01) + 25 (T02)                  |
-|     31     |         80 (=)         |         2         |   Bregant, Osvaldo    |                       |                                     |                       40 (T06) + 40 (T02)                       |
+|     31     |         80 (=)         |         2         |   Bregant, Osvaldo    |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                       40 (T06) + 40 (T02)                       |
 |            |         80 (=)         |         2         |     Lopez, Javier     |      Santo Tome       |       Defensores de Belgrano        |                       40 (T05) + 40 (T03)                       |
-|     33     |         70 (=)         |         2         |     Hepp, Gernan      |                       |                                     |                       40 (T02) + 30 (T06)                       |
+|     33     |         70 (=)         |         2         |     Hepp, Gernan      |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                       40 (T02) + 30 (T06)                       |
 |            |         70 (=)         |         2         |    Pereyra, Andres    | Santo Tome, Santa Fe  | Independiente Bochas Club (Paraná)  |                       40 (T05) + 30 (T03)                       |
 |     35     |         65 (=)         |         1         | Bernhardt, Sebastian  |                       |                                     |                            65 (T06)                             |
 |            |         65 (=)         |         1         |    Flores, Ignacio    |                       |                                     |                            65 (T06)                             |
@@ -53,8 +53,8 @@
 |            |         30 (=)         |         1         |    Canhoto, Carlos    |       Santa Fe        |               AteMeLi               |                            30 (T01)                             |
 |            |         30 (=)         |         1         |   Cevallos, Luciano   |                       |                                     |                            30 (T01)                             |
 |            |        30 (+30)        |         1         |   Fernandez, Belen    |  Santa Fe, Santa Fe   |     Provincial Club (Santa Fe)      |                            30 (T07)                             |
-|            |         30 (=)         |         1         |    Grippo, Daniel     |                       |                                     |                            30 (T01)                             |
-|            |         30 (=)         |         1         | Kotlireusky, Benjamin |                       |                                     |                            30 (T06)                             |
+|            |         30 (=)         |         1         |    Grippo, Daniel     |                       |        Tiro Federal (Paraná)        |                            30 (T01)                             |
+|            |         30 (=)         |         1         | Kotlireusky, Benjamin |  Parana, Entre Rios   |        Tiro Federal (Paraná)        |                            30 (T06)                             |
 |            |         30 (=)         |         1         |    Magnien, Lucas     |                       |                                     |                            30 (T01)                             |
 |            |         30 (=)         |         1         |    Padula, Nicolas    |                       |                                     |                            30 (T03)                             |
 |            |         30 (=)         |         1         |    Pinery, Sergio     |                       |                                     |                            30 (T04)                             |

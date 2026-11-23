@@ -3,7 +3,7 @@
 |     1      |      1075 (+250)       |         4         |  Ferretti, Gustavo   |  Santa Fe, Santa Fe   |          Provincial Club           | 500 (T02) + 250 (T04) + 250 (T03) + 75 (T01) |
 |     2      |        950 (=)         |         3         |    Avila, Marcos     |  Santa Fe, Santa Fe   |          Provincial Club           |       500 (T01) + 375 (T03) + 75 (T02)       |
 |     3      |        825 (=)         |         3         |  Barchiesi, Matias   |  Santa Fe, Santa Fe   |          Provincial Club           |       375 (T02) + 375 (T01) + 75 (T03)       |
-|     4      |       775 (+375)       |         4         |    Diaz, Joaquin     |  Parana, Entre Rios   |            Tiro Federal            | 375 (T04) + 250 (T03) + 75 (T02) + 75 (T01)  |
+|     4      |       775 (+375)       |         4         |    Diaz, Joaquin     |  Parana, Entre Rios   |       Tiro Federal (Paraná)        | 375 (T04) + 250 (T03) + 75 (T02) + 75 (T01)  |
 |     5      |       550 (+500)       |         2         |    Prettis, Juan     |        Parana         |              Aspatem               |             500 (T04) + 50 (T02)             |
 |     6      |       510 (+250)       |         4         |   Corbalan, Martin   |  Parana, Entre Rios   |     Independiente Bochas Club      | 250 (T04) + 125 (T01) + 75 (T02) + 60 (T03)  |
 |     7      |        500 (=)         |         1         |  Olivares, Isabella  |                       |                                    |                  500 (T03)                   |
@@ -15,7 +15,7 @@
 |            |        275 (=)         |         3         |    Rubio, Julian     |  Santa Fe, Santa Fe   |          Provincial Club           |       125 (T03) + 75 (T02) + 75 (T01)        |
 |     14     |        260 (=)         |         3         |   Perez, Valentino   |  San Justo, Santa Fe  |            Tiro Federal            |       125 (T02) + 75 (T01) + 60 (T03)        |
 |            |        260 (=)         |         3         |     Pilotti, Paz     |       Santa Fe        |          Provincial Club           |       125 (T03) + 75 (T01) + 60 (T02)        |
-|     16     |       260 (+50)        |         4         | Samaniego, Francisco |  San Justo, Santa Fe  |            Tiro Federal            |  75 (T03) + 75 (T01) + 60 (T02) + 50 (T04)   |
+|     16     |       260 (+50)        |         4         | Samaniego, Francisco |  Parana, Entre Rios   |       Tiro Federal (Paraná)        |  75 (T03) + 75 (T01) + 60 (T02) + 50 (T04)   |
 |     17     |        250 (=)         |         1         |  Dalinger, Humberto  |        Parana         |            Tiro Federal            |                  250 (T02)                   |
 |            |        250 (=)         |         1         |     Goy, Gerardo     |      Reconquista      |               ATMAR                |                  250 (T01)                   |
 |     19     |       210 (+75)        |         3         |   Colavini, Daniel   |  Santa Fe, Santa Fe   |          Provincial Club           |        75 (T04) + 75 (T03) + 60 (T01)        |
